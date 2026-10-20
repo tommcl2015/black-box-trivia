@@ -1,0 +1,133 @@
+# Geography pack 2 — landmarks, US states, Canada, flags, cities
+geo|1|In which city is the CN Tower?|Toronto|Vancouver;Montreal;Calgary
+geo|1|Big Ben is in which city?|London|Edinburgh;Dublin;Paris
+geo|1|The Statue of Liberty stands in which city's harbour?|New York City|Boston;Philadelphia;Washington, D.C.|New York;NYC
+geo|1|The Colosseum is in which city?|Rome|Athens;Naples;Milan
+geo|1|In which country is the Taj Mahal?|India|Pakistan;Bangladesh;Iran
+geo|1|In which country is Machu Picchu?|Peru|Bolivia;Chile;Ecuador
+geo|1|The Great Wall is in which country?|China|Mongolia;Japan;Korea
+geo|1|What colour is the maple leaf on Canada's flag?|Red|White;Orange;Green
+geo|1|What is the capital of Ontario?|Toronto|Ottawa;Hamilton;London
+geo|1|What is the capital of British Columbia?|Victoria|Vancouver;Kelowna;Surrey
+geo|2|What is the capital of Alberta?|Edmonton|Calgary;Red Deer;Lethbridge
+geo|2|What is the capital of Quebec?|Quebec City|Montreal;Laval;Gatineau|Quebec
+geo|2|What is the capital of Nova Scotia?|Halifax|Sydney;Truro;Dartmouth
+geo|2|What is the capital of Manitoba?|Winnipeg|Brandon;Thompson;Steinbach
+geo|2|What is the capital of Saskatchewan?|Regina|Saskatoon;Prince Albert;Moose Jaw
+geo|2|What is the capital of New Brunswick?|Fredericton|Saint John;Moncton;Bathurst
+geo|2|What is the capital of Prince Edward Island?|Charlottetown|Summerside;Cavendish;Montague
+geo|2|What is the capital of Newfoundland and Labrador?|St. John's|Corner Brook;Gander;Happy Valley-Goose Bay|St Johns
+geo|3|What is the capital of the Yukon?|Whitehorse|Dawson City;Watson Lake;Haines Junction
+geo|3|What is the capital of the Northwest Territories?|Yellowknife|Inuvik;Hay River;Iqaluit
+geo|2|How many provinces does Canada have?|10|9;12;13|ten
+geo|2|How many territories does Canada have?|3|2;4;5|three
+geo|2|Which is Canada's smallest province by area?|Prince Edward Island|Nova Scotia;New Brunswick;Newfoundland|PEI
+geo|2|Which Canadian province is the most populous?|Ontario|Quebec;British Columbia;Alberta
+geo|3|Which body of water lies between Vancouver Island and the BC mainland?|Strait of Georgia|Juan de Fuca Strait;Hecate Strait;Queen Charlotte Sound|Salish Sea;Georgia Strait
+geo|3|What is the largest bay in Canada?|Hudson Bay|James Bay;Baffin Bay;Bay of Fundy|Hudson
+geo|3|What is the largest island in Canada?|Baffin Island|Vancouver Island;Ellesmere Island;Victoria Island|Baffin
+geo|3|Which river flows past Quebec City and Montreal?|St. Lawrence River|Ottawa River;Saguenay River;Richelieu River|St Lawrence;Saint Lawrence
+geo|3|Which Canadian city is known as "Cowtown" and hosts the Stampede?|Calgary|Edmonton;Red Deer;Regina
+geo|3|In which province is the Cabot Trail?|Nova Scotia|New Brunswick;Newfoundland and Labrador;Prince Edward Island
+geo|3|Which mountain range runs through Alberta and British Columbia?|Rocky Mountains|Coast Mountains;Laurentians;Appalachians|Rockies
+geo|3|What is the name of the large Arctic sea route through northern Canada?|Northwest Passage|Northern Sea Route;Bering Passage;Franklin Strait
+geo|3|Which Ontario city is home to the Grand River and a large Mennonite community nearby?|Kitchener|Guelph;London;Windsor|Kitchener-Waterloo;Waterloo
+geo|3|The Thousand Islands lie in which river?|St. Lawrence River|Niagara River;Ottawa River;Detroit River|St Lawrence;Saint Lawrence
+geo|1|What is the capital of the United States?|Washington, D.C.|New York City;Philadelphia;Boston|Washington;DC
+geo|2|What is the largest US state by area?|Alaska|Texas;California;Montana
+geo|2|What is the smallest US state by area?|Rhode Island|Delaware;Connecticut;Vermont
+geo|2|What is the capital of California?|Sacramento|Los Angeles;San Francisco;San Diego
+geo|2|What is the capital of Texas?|Austin|Houston;Dallas;San Antonio
+geo|2|What is the capital of New York State?|Albany|New York City;Buffalo;Rochester
+geo|2|What is the capital of Florida?|Tallahassee|Miami;Orlando;Tampa
+geo|2|What is the capital of Illinois?|Springfield|Chicago;Peoria;Rockford
+geo|3|What is the capital of Washington State?|Olympia|Seattle;Spokane;Tacoma
+geo|3|What is the capital of Pennsylvania?|Harrisburg|Philadelphia;Pittsburgh;Scranton
+geo|3|What is the capital of Michigan?|Lansing|Detroit;Grand Rapids;Ann Arbor
+geo|3|What is the capital of Nevada?|Carson City|Las Vegas;Reno;Henderson
+geo|3|What is the capital of Arizona?|Phoenix|Tucson;Flagstaff;Mesa
+geo|3|What is the capital of Georgia (US state)?|Atlanta|Savannah;Augusta;Macon
+geo|3|What is the capital of Massachusetts?|Boston|Cambridge;Springfield;Worcester
+geo|3|What is the capital of Ohio?|Columbus|Cleveland;Cincinnati;Toledo
+geo|4|What is the capital of Vermont?|Montpelier|Burlington;Rutland;Barre
+geo|4|What is the capital of South Dakota?|Pierre|Sioux Falls;Rapid City;Aberdeen
+geo|4|What is the capital of Kentucky?|Frankfort|Louisville;Lexington;Bowling Green
+geo|4|What is the capital of Oregon?|Salem|Portland;Eugene;Bend
+geo|2|Which US state is known as the "Sunshine State"?|Florida|California;Arizona;Hawaii
+geo|2|Which US state is known as the "Lone Star State"?|Texas|Nevada;Alabama;Oklahoma
+geo|3|Mount Rushmore is in which US state?|South Dakota|North Dakota;Wyoming;Montana
+geo|3|The Grand Canyon is in which US state?|Arizona|Utah;Nevada;Colorado
+geo|3|Which US city is nicknamed "The Windy City"?|Chicago|Boston;Denver;Cleveland
+geo|3|Which US city is known as "The Big Easy"?|New Orleans|Memphis;Atlanta;Miami
+geo|3|What is the longest river in the United States by total length?|Missouri River|Mississippi River;Yukon River;Colorado River|Missouri
+geo|2|In which city is the Brandenburg Gate?|Berlin|Munich;Vienna;Hamburg
+geo|2|In which city is the Sagrada Família?|Barcelona|Madrid;Seville;Valencia
+geo|2|In which city is the Acropolis?|Athens|Rome;Istanbul;Thessaloniki
+geo|2|In which city is the Kremlin?|Moscow|St. Petersburg;Kyiv;Minsk
+geo|2|In which city is the Sydney Opera House?|Sydney|Melbourne;Brisbane;Perth
+geo|2|In which city is the Leaning Tower?|Pisa|Florence;Rome;Venice
+geo|2|In which country are the ancient ruins of Angkor Wat?|Cambodia|Thailand;Vietnam;Laos
+geo|2|Which city is famous for its canals and gondolas?|Venice|Amsterdam;Bruges;Florence
+geo|2|Christ the Redeemer overlooks which city?|Rio de Janeiro|São Paulo;Buenos Aires;Lima|Rio
+geo|3|In which city is the Burj Khalifa?|Dubai|Abu Dhabi;Doha;Riyadh
+geo|3|In which city is the Hagia Sophia?|Istanbul|Athens;Rome;Cairo
+geo|3|In which city is the Alhambra palace?|Granada|Seville;Córdoba;Toledo
+geo|3|In which city is the Little Mermaid statue?|Copenhagen|Oslo;Stockholm;Amsterdam
+geo|3|In which country is Petra?|Jordan|Israel;Egypt;Saudi Arabia
+geo|3|In which country is Chichén Itzá?|Mexico|Guatemala;Belize;Honduras
+geo|3|In which country is Uluru (Ayers Rock)?|Australia|New Zealand;South Africa;Namibia
+geo|3|In which country is Stonehenge?|England|Scotland;Ireland;Wales|United Kingdom;UK
+geo|3|In which country is the city of Kyoto?|Japan|China;South Korea;Taiwan
+geo|3|In which US city is the Golden Gate Bridge?|San Francisco|Los Angeles;Seattle;San Diego
+geo|3|In which city is the Space Needle?|Seattle|Portland;Vancouver;San Francisco
+geo|4|In which city is the Atomium?|Brussels|Antwerp;Amsterdam;Luxembourg
+geo|4|In which city is the Charles Bridge?|Prague|Budapest;Vienna;Kraków
+geo|4|In which city is the Blue Mosque (Sultan Ahmed Mosque)?|Istanbul|Ankara;Tehran;Cairo
+geo|4|In which country is the ancient city of Persepolis?|Iran|Iraq;Turkey;Syria
+geo|4|In which country are the Moai statues of Easter Island?|Chile|Peru;Ecuador;New Zealand
+geo|4|In which city is the Forbidden City?|Beijing|Shanghai;Xi'an;Nanjing
+geo|4|In which city is the Petronas Towers?|Kuala Lumpur|Singapore;Jakarta;Bangkok
+geo|4|In which country is the ancient site of Great Zimbabwe?|Zimbabwe|Zambia;Mozambique;South Africa
+geo|1|What colours are on the flag of Japan?|Red and white|Red and yellow;Blue and white;Black and red|White and red
+geo|2|Which country's flag has a green cedar tree in its centre?|Lebanon|Cyprus;Canada;Lesotho
+geo|2|Which country's flag is a red circle on a green field?|Bangladesh|Japan;Palau;Laos
+geo|2|Which European country's flag is a white cross on a red background?|Switzerland|Denmark;Austria;Malta
+geo|2|Which country's flag is a red flag with a white cross extending to the edges?|Denmark|Switzerland;Norway;England
+geo|3|Which country's flag features a dragon?|Bhutan|China;Mongolia;Vietnam
+geo|3|Which country's flag features an AK-47 rifle?|Mozambique|Angola;Zimbabwe;Eritrea
+geo|3|Which country's flag shows a giant maple leaf?|Canada|Lebanon;Japan;Peru
+geo|3|How many stars are on the flag of the United States?|50|48;13;52|fifty
+geo|3|How many stripes are on the flag of the United States?|13|12;50;15|thirteen
+geo|3|Which country's flag has the Southern Cross and the Union Jack with seven-pointed stars?|Australia|New Zealand;Fiji;Tuvalu
+geo|4|Which country's flag features the Star of David?|Israel|Ethiopia;Jordan;Myanmar
+geo|4|Which South American country has a flag with a starry globe and the motto "Ordem e Progresso"?|Brazil|Argentina;Uruguay;Paraguay
+geo|4|The flag of which country has a sun with a face called the "Sun of May"?|Argentina|Uruguay;Peru;Bolivia
+geo|2|Which language has the most native speakers in the world?|Mandarin Chinese|English;Spanish;Hindi|Mandarin;Chinese
+geo|2|What is the official language of Brazil?|Portuguese|Spanish;Brazilian;English
+geo|2|What currency is used in Japan?|Yen|Won;Yuan;Ringgit
+geo|2|What currency is used in the United Kingdom?|Pound sterling|Euro;Shilling;Crown|Pound;GBP;Pounds
+geo|3|What currency is used in Switzerland?|Swiss franc|Euro;Krone;Mark|Franc
+geo|3|What currency is used in India?|Rupee|Rupiah;Taka;Dinar|Indian rupee
+geo|3|What currency is used in Mexico?|Peso|Real;Dollar;Quetzal|Mexican peso
+geo|3|What currency is used in South Africa?|Rand|Shilling;Naira;Kwacha
+geo|3|What currency is used in Russia?|Ruble|Hryvnia;Zloty;Lev|Rouble
+geo|4|What currency is used in Poland?|Złoty|Koruna;Forint;Euro|Zloty
+geo|4|What currency is used in Brazil?|Real|Peso;Cruzeiro;Boliviano|Brazilian real
+geo|4|What currency is used in South Korea?|Won|Yen;Yuan;Baht
+geo|4|What currency is used in Thailand?|Baht|Kip;Riel;Dong
+geo|4|What currency is used in Vietnam?|Dong|Baht;Kip;Rupiah|Đồng
+geo|3|Which city is called "The City of Light"?|Paris|Rome;Las Vegas;Vienna
+geo|3|Which city is called "The Eternal City"?|Rome|Athens;Jerusalem;Istanbul
+geo|3|Which city is called "The Big Apple"?|New York City|Chicago;Los Angeles;Boston|New York;NYC
+geo|4|Which city is nicknamed "Hogtown"?|Toronto|Winnipeg;Calgary;Hamilton
+geo|4|Which Ontario city is nicknamed "The Royal City"?|Guelph|Kingston;London;Windsor
+geo|4|Which Canadian city is nicknamed "The Steel City"?|Hamilton|Sudbury;Sault Ste. Marie;Oshawa
+geo|4|Which city is known as "The Forest City" in Ontario?|London|Guelph;Kitchener;Barrie
+geo|5|What is the name of the world's largest river by discharge volume?|Amazon|Congo;Ganges;Yangtze|Amazon River
+geo|5|What is the world's largest coral reef system?|Great Barrier Reef|Belize Barrier Reef;Red Sea Coral Reef;New Caledonia Barrier Reef
+geo|5|What is the name of the largest desert in Asia?|Gobi Desert|Taklamakan Desert;Thar Desert;Karakum Desert|Gobi
+geo|5|What is the world's largest freshwater island?|Manitoulin Island|Marajó;Isle Royale;Bananal|Manitoulin
+geo|5|What is the world's longest fjord?|Scoresby Sund|Sognefjord;Hardangerfjord;Milford Sound|Scoresby Sound
+geo|5|What is the longest river in the world entirely within one country?|Yangtze|Mississippi;Volga;Lena|Yangtze River
+geo|5|In which country is the Mekong Delta?|Vietnam|Cambodia;Thailand;Laos
+geo|5|Which Canadian national park is the largest?|Wood Buffalo National Park|Banff National Park;Jasper National Park;Nahanni National Park|Wood Buffalo

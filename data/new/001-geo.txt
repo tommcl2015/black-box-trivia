@@ -1,0 +1,150 @@
+# Geography pack 1 — capitals, countries, physical geography
+geo|1|What is the capital of Canada?|Ottawa|Toronto;Montreal;Vancouver
+geo|1|What is the capital of Italy?|Rome|Milan;Naples;Florence
+geo|1|What is the capital of Japan?|Tokyo|Kyoto;Osaka;Hiroshima
+geo|1|What is the capital of Germany?|Berlin|Munich;Frankfurt;Hamburg
+geo|1|What is the capital of Spain?|Madrid|Barcelona;Seville;Valencia
+geo|1|What is the capital of Egypt?|Cairo|Alexandria;Luxor;Giza
+geo|1|What is the capital of Russia?|Moscow|St. Petersburg;Kazan;Novosibirsk
+geo|1|What is the capital of the United Kingdom?|London|Manchester;Edinburgh;Birmingham
+geo|1|What is the capital of Mexico?|Mexico City|Guadalajara;Monterrey;Cancún
+geo|1|What is the capital of Greece?|Athens|Sparta;Thessaloniki;Corinth
+geo|2|What is the capital of Turkey?|Ankara|Istanbul;Izmir;Antalya
+geo|2|What is the capital of Switzerland?|Bern|Zurich;Geneva;Basel|Berne
+geo|2|What is the capital of New Zealand?|Wellington|Auckland;Christchurch;Queenstown
+geo|2|What is the capital of Argentina?|Buenos Aires|Córdoba;Rosario;Mendoza
+geo|2|What is the capital of South Africa's executive branch?|Pretoria|Johannesburg;Durban;Port Elizabeth
+geo|2|What is the capital of India?|New Delhi|Mumbai;Kolkata;Bangalore|Delhi
+geo|2|What is the capital of Portugal?|Lisbon|Porto;Faro;Coimbra
+geo|2|What is the capital of Ireland?|Dublin|Cork;Galway;Limerick
+geo|2|What is the capital of Norway?|Oslo|Bergen;Stavanger;Trondheim
+geo|2|What is the capital of Sweden?|Stockholm|Gothenburg;Malmö;Uppsala
+geo|2|What is the capital of Denmark?|Copenhagen|Aarhus;Odense;Aalborg
+geo|2|What is the capital of Finland?|Helsinki|Tampere;Turku;Espoo
+geo|2|What is the capital of Poland?|Warsaw|Kraków;Gdańsk;Wrocław
+geo|2|What is the capital of Austria?|Vienna|Salzburg;Innsbruck;Graz
+geo|2|What is the capital of Hungary?|Budapest|Debrecen;Szeged;Pécs
+geo|2|What is the capital of the Netherlands?|Amsterdam|The Hague;Rotterdam;Utrecht
+geo|2|What is the capital of Belgium?|Brussels|Antwerp;Ghent;Bruges
+geo|2|What is the capital of China?|Beijing|Shanghai;Hong Kong;Guangzhou|Peking
+geo|2|What is the capital of Thailand?|Bangkok|Chiang Mai;Phuket;Pattaya
+geo|2|What is the capital of Vietnam?|Hanoi|Ho Chi Minh City;Da Nang;Hue
+geo|2|What is the capital of Kenya?|Nairobi|Mombasa;Kisumu;Nakuru
+geo|2|What is the capital of Chile?|Santiago|Valparaíso;Concepción;Antofagasta
+geo|2|What is the capital of Colombia?|Bogotá|Medellín;Cali;Cartagena
+geo|3|What is the capital of Venezuela?|Caracas|Maracaibo;Valencia;Barquisimeto
+geo|3|What is the capital of Saudi Arabia?|Riyadh|Jeddah;Mecca;Medina
+geo|3|What is the capital of Pakistan?|Islamabad|Karachi;Lahore;Rawalpindi
+geo|3|What is the capital of Nigeria?|Abuja|Lagos;Kano;Ibadan
+geo|3|What is the capital of Cambodia?|Phnom Penh|Siem Reap;Battambang;Sihanoukville
+geo|3|What is the capital of Indonesia?|Jakarta|Surabaya;Bali;Bandung
+geo|3|What is the capital of the Philippines?|Manila|Cebu;Davao;Quezon
+geo|3|What is the capital of Ukraine?|Kyiv|Kharkiv;Odesa;Lviv|Kiev
+geo|3|What is the capital of Romania?|Bucharest|Cluj-Napoca;Timișoara;Constanța
+geo|3|What is the capital of the Czech Republic?|Prague|Brno;Ostrava;Plzeň|Praha
+geo|3|What is the capital of Croatia?|Zagreb|Split;Dubrovnik;Rijeka
+geo|3|What is the capital of Iran?|Tehran|Isfahan;Shiraz;Mashhad
+geo|3|What is the capital of Ethiopia?|Addis Ababa|Dire Dawa;Gondar;Mekelle
+geo|3|What is the capital of Ghana?|Accra|Kumasi;Tamale;Cape Coast
+geo|3|What is the capital of Cuba?|Havana|Santiago de Cuba;Varadero;Camagüey
+geo|3|What is the capital of Jamaica?|Kingston|Montego Bay;Ocho Rios;Negril
+geo|3|What is the capital of Israel's neighbour Lebanon?|Beirut|Tripoli;Sidon;Byblos
+geo|3|What is the capital of Syria?|Damascus|Aleppo;Homs;Latakia
+geo|3|What is the capital of Afghanistan?|Kabul|Kandahar;Herat;Mazar-i-Sharif
+geo|4|What is the capital of Kazakhstan?|Astana|Almaty;Shymkent;Karaganda|Nur-Sultan
+geo|4|What is the capital of Myanmar?|Naypyidaw|Yangon;Mandalay;Bagan|Nay Pyi Taw
+geo|4|What is the capital of Sri Lanka's parliament, often listed as its official capital?|Sri Jayawardenepura Kotte|Colombo;Kandy;Galle|Kotte
+geo|4|What is the capital of Bolivia's government?|La Paz|Sucre;Santa Cruz;Cochabamba
+geo|4|What is the capital of Tanzania?|Dodoma|Dar es Salaam;Arusha;Zanzibar City
+geo|4|What is the capital of Ivory Coast?|Yamoussoukro|Abidjan;Bouaké;San-Pédro
+geo|4|What is the capital of Bhutan?|Thimphu|Paro;Punakha;Phuntsholing
+geo|4|What is the capital of Kyrgyzstan?|Bishkek|Osh;Almaty;Tashkent
+geo|4|What is the capital of Uzbekistan?|Tashkent|Samarkand;Bukhara;Khiva
+geo|4|What is the capital of Slovenia?|Ljubljana|Maribor;Bled;Koper
+geo|4|What is the capital of Slovakia?|Bratislava|Košice;Žilina;Nitra
+geo|4|What is the capital of Latvia?|Riga|Daugavpils;Jūrmala;Liepāja
+geo|4|What is the capital of Lithuania?|Vilnius|Kaunas;Klaipėda;Šiauliai
+geo|4|What is the capital of Paraguay?|Asunción|Ciudad del Este;Encarnación;Luque
+geo|4|What is the capital of Uruguay?|Montevideo|Punta del Este;Salto;Colonia
+geo|4|What is the capital of Ecuador?|Quito|Guayaquil;Cuenca;Manta
+geo|4|What is the capital of Madagascar?|Antananarivo|Toamasina;Antsirabe;Mahajanga
+geo|5|What is the capital of Burundi?|Gitega|Bujumbura;Ngozi;Muyinga
+geo|5|What is the capital of Eritrea?|Asmara|Massawa;Keren;Assab
+geo|5|What is the capital of Turkmenistan?|Ashgabat|Mary;Türkmenabat;Dashoguz
+geo|5|What is the capital of Liechtenstein?|Vaduz|Schaan;Balzers;Triesen
+geo|5|What is the capital of Palau?|Ngerulmud|Koror;Melekeok;Airai
+geo|1|Which is the largest ocean on Earth?|Pacific Ocean|Atlantic Ocean;Indian Ocean;Arctic Ocean
+geo|1|On which continent is Egypt?|Africa|Asia;Europe;Middle East
+geo|1|Which country is shaped like a boot?|Italy|Greece;Portugal;Croatia
+geo|1|How many continents are there (by the most common count)?|7|5;6;8|seven
+geo|1|Which is the largest country in the world by area?|Russia|Canada;China;United States
+geo|1|Which country is home to the kangaroo?|Australia|New Zealand;South Africa;Brazil
+geo|1|The Eiffel Tower is in which city?|Paris|Lyon;Brussels;Marseille
+geo|1|Which river flows through London?|Thames|Severn;Avon;Mersey|River Thames
+geo|2|Which is the smallest continent by area?|Australia|Europe;Antarctica;South America|Oceania
+geo|2|Which country has the most people?|India|China;United States;Indonesia
+geo|2|Which desert is the largest hot desert in the world?|Sahara|Arabian;Gobi;Kalahari
+geo|2|What is the longest river in Africa?|Nile|Congo;Niger;Zambezi
+geo|2|The Great Barrier Reef lies off the coast of which Australian state?|Queensland|New South Wales;Western Australia;Northern Territory
+geo|2|Which two countries share the longest international border?|Canada and the United States|Russia and China;Argentina and Chile;Russia and Kazakhstan|Canada and USA;USA and Canada;United States and Canada
+geo|2|Mount Fuji is the highest peak in which country?|Japan|China;South Korea;Nepal
+geo|2|Which US state is made up entirely of islands?|Hawaii|Alaska;Florida;Rhode Island
+geo|2|Which canal links the Atlantic and Pacific Oceans?|Panama Canal|Suez Canal;Kiel Canal;Erie Canal|Panama
+geo|2|Which country has the city of Marrakesh?|Morocco|Algeria;Tunisia;Egypt
+geo|2|What is the largest island in the world (not counting continents)?|Greenland|New Guinea;Borneo;Madagascar
+geo|2|Which mountain range separates Europe from Asia in Russia?|Ural Mountains|Caucasus Mountains;Altai Mountains;Carpathian Mountains|Urals;Ural
+geo|2|The Danube River empties into which sea?|Black Sea|Mediterranean Sea;Caspian Sea;Adriatic Sea
+geo|2|Which country is both in Europe and Asia and has Istanbul?|Turkey|Greece;Russia;Georgia|Türkiye
+geo|2|What is the name of the strait between Spain and Morocco?|Strait of Gibraltar|Strait of Hormuz;Bosporus;Strait of Messina|Gibraltar
+geo|2|Which Canadian province is the largest by area?|Quebec|Ontario;British Columbia;Alberta
+geo|2|Which Canadian province is home to Banff National Park?|Alberta|British Columbia;Saskatchewan;Manitoba
+geo|2|Which of the Great Lakes is the smallest by surface area?|Lake Ontario|Lake Erie;Lake Huron;Lake Michigan|Ontario
+geo|2|Which Great Lake lies entirely within the United States?|Lake Michigan|Lake Superior;Lake Huron;Lake Erie|Michigan
+geo|2|Niagara Falls lies on the border of Ontario and which US state?|New York|Michigan;Pennsylvania;Ohio
+geo|3|Which country has the most natural lakes?|Canada|Finland;Russia;United States
+geo|3|What is the deepest point in the world's oceans?|Challenger Deep|Puerto Rico Trench;Tonga Trench;Java Trench|Mariana Trench
+geo|3|Which African country was formerly known as Abyssinia?|Ethiopia|Eritrea;Somalia;Sudan
+geo|3|Which country was formerly known as Ceylon?|Sri Lanka|Myanmar;Bangladesh;Maldives
+geo|3|Which country was formerly called Siam?|Thailand|Cambodia;Laos;Myanmar
+geo|3|Which country was formerly called Persia?|Iran|Iraq;Turkey;Afghanistan
+geo|3|Which country was formerly known as Burma?|Myanmar|Thailand;Laos;Bangladesh
+geo|3|Which city was formerly called Constantinople?|Istanbul|Athens;Ankara;Thessaloniki
+geo|3|Which city was formerly known as Bombay?|Mumbai|Chennai;Kolkata;Delhi
+geo|3|The Atacama, one of the driest deserts on Earth, is mainly in which country?|Chile|Peru;Argentina;Bolivia
+geo|3|Which is the highest waterfall in the world?|Angel Falls|Victoria Falls;Niagara Falls;Iguazu Falls
+geo|3|Victoria Falls lies on the border of Zambia and which country?|Zimbabwe|Botswana;Mozambique;Malawi
+geo|3|Which river is the longest in Europe outside Russia?|Danube|Rhine;Elbe;Loire
+geo|3|What is the largest country in South America by area?|Brazil|Argentina;Peru;Colombia
+geo|3|Which country has the largest population in Africa?|Nigeria|Ethiopia;Egypt;DR Congo
+geo|3|Lake Titicaca lies on the border of Peru and which country?|Bolivia|Chile;Ecuador;Brazil
+geo|3|Which is the largest country in Africa by area?|Algeria|Sudan;DR Congo;Libya
+geo|3|The Rock of Gibraltar is a territory of which country?|United Kingdom|Spain;Portugal;Morocco|UK;Britain;Great Britain
+geo|3|Which sea is the saltiest large body of water bordered by Israel and Jordan?|Dead Sea|Red Sea;Sea of Galilee;Caspian Sea
+geo|3|What is the world's largest inland body of water?|Caspian Sea|Lake Superior;Lake Baikal;Aral Sea
+geo|3|The city of Timbuktu is in which country?|Mali|Niger;Mauritania;Chad
+geo|3|Which country contains the most of the Amazon rainforest?|Brazil|Peru;Colombia;Venezuela
+geo|3|Which ocean lies between Africa and Australia?|Indian Ocean|Pacific Ocean;Atlantic Ocean;Southern Ocean|Indian
+geo|3|Tasmania is an island state of which country?|Australia|New Zealand;Indonesia;Papua New Guinea
+geo|3|What is the tallest mountain in North America?|Denali|Mount Logan;Mount Whitney;Mount Rainier|Mount McKinley;McKinley
+geo|3|What is the tallest mountain in Canada?|Mount Logan|Mount Robson;Mount Waddington;Denali|Logan
+geo|3|Which US state has the city of Las Vegas?|Nevada|Arizona;California;Utah
+geo|3|Which river forms much of the border between the United States and Mexico?|Rio Grande|Colorado River;Pecos River;Gila River
+geo|3|Which country has the most islands?|Sweden|Indonesia;Philippines;Norway
+geo|4|Which country is completely surrounded by South Africa?|Lesotho|Eswatini;Botswana;Namibia
+geo|4|Which two countries are doubly landlocked (surrounded only by landlocked countries)?|Liechtenstein and Uzbekistan|Switzerland and Mongolia;Andorra and Laos;Bolivia and Paraguay|Uzbekistan and Liechtenstein
+geo|4|What is the only sea without any coastline?|Sargasso Sea|Coral Sea;Tasman Sea;Weddell Sea|Sargasso
+geo|4|What is the southernmost capital city in the world?|Wellington|Canberra;Buenos Aires;Montevideo
+geo|4|What is the highest capital city in the world?|La Paz|Quito;Bogotá;Thimphu
+geo|4|Which river flows through Baghdad?|Tigris|Euphrates;Jordan;Karun
+geo|4|The Okavango Delta is in which country?|Botswana|Zambia;Namibia;Angola
+geo|4|Which Canadian territory has Iqaluit as its capital?|Nunavut|Northwest Territories;Yukon;Labrador
+geo|4|Which Canadian city sits on the Bay of Fundy, known for the world's highest tides?|Saint John|Halifax;Moncton;Charlottetown
+geo|4|The Mackenzie River empties into which sea?|Beaufort Sea|Hudson Bay;Labrador Sea;Bering Sea|Beaufort
+geo|4|What is the name of the narrow strait separating Asia and North America?|Bering Strait|Davis Strait;Hudson Strait;Strait of Magellan|Bering
+geo|4|Which country owns the Faroe Islands?|Denmark|Norway;Iceland;United Kingdom
+geo|4|Which country owns the Azores?|Portugal|Spain;France;United Kingdom
+geo|4|Which country owns the Galápagos Islands?|Ecuador|Peru;Chile;Colombia
+geo|5|What is the longest mountain range on land in the world?|Andes|Rocky Mountains;Himalayas;Great Dividing Range
+geo|2|Which is the most populous city in the province of Quebec?|Montreal|Quebec City;Laval;Gatineau
+geo|5|What is the driest inhabited continent?|Australia|Africa;Asia;South America
+geo|5|Which country is the world's largest archipelagic state by number of islands?|Indonesia|Philippines;Japan;Maldives

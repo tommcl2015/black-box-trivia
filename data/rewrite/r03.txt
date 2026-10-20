@@ -1,0 +1,149 @@
+# Rewritten from Open Trivia DB batch 3
+ent|4|In "Bubba Ho-Tep", Bruce Campbell plays an elderly version of which singer?|Elvis Presley|Johnny Cash;Buddy Holly;Roy Orbison|Elvis
+ent|4|The score of "Birdman" (2014) is built almost entirely on which instrument?|Drums|Piano;Cello;Trumpet|Drum kit;Percussion
+ent|4|In the "Jurassic Park" films, what is the name of InGen's "Site B" island?|Isla Sorna|Isla Nublar;Isla Muerta;Isla Matanceros|Sorna
+ent|4|In "WarGames" (1983), what is the military supercomputer called?|WOPR|HAL 9000;Skynet;Colossus|War Operation Plan Response;Joshua
+ent|4|In "Austin Powers", what is the name of Austin's 1960s band?|Ming Tea|The Shaguars;Groovy Baby;The Mojos
+ent|3|In which Studio Ghibli film does a giant furry forest spirit make trees grow overnight?|My Neighbor Totoro|Spirited Away;Princess Mononoke;Ponyo|Totoro
+ent|5|Before Spinosaurus was chosen, which dinosaur was planned as the new star of "Jurassic Park III"?|Baryonyx|Allosaurus;Carnotaurus;Giganotosaurus
+ent|4|Baymax's waddling walk in "Big Hero 6" was modelled on what?|Baby penguins|Toddlers;Ducks;Sumo wrestlers|Penguins
+ent|4|Who voiced the pirate Metalbeard in "The Lego Movie"?|Nick Offerman|Liam Neeson;Will Arnett;Charlie Day|Offerman
+ent|4|Who played Leatherface in the original "The Texas Chain Saw Massacre" (1974)?|Gunnar Hansen|Edwin Neal;Kane Hodder;Tobin Bell|Hansen
+ent|5|Which sound designer created Chewbacca's roar and R2-D2's beeps?|Ben Burtt|John Williams;Walter Murch;Gary Rydstrom|Burtt
+ent|2|What speed must the DeLorean hit to travel through time in "Back to the Future"?|88 mph|66 mph;100 mph;121 mph|88
+ent|4|In "Requiem for a Dream", Jared Leto's character becomes addicted to which drug?|Heroin|Cocaine;Amphetamines;Morphine
+ent|4|In which 1993 comedy does Kevin Kline play a lookalike who stands in for the US President?|Dave|Mr. President;Dick;The American President
+ent|3|What is Marilyn Monroe's character called in "Some Like It Hot"?|Sugar Kane|Honey Bunch;Lorelei Lee;Cherie|Sugar
+ent|2|In which film does Humphrey Bogart say "Here's looking at you, kid"?|Casablanca|The Maltese Falcon;The Big Sleep;Key Largo
+ent|5|Michael Keaton changed his name because his real name was already taken by another actor. What is his birth name?|Michael Douglas|Michael Kane;Michael Kelly;Michael Douglass Keating
+ent|4|Who voices Blu the macaw in "Rio" (2011)?|Jesse Eisenberg|Michael Cera;Andy Samberg;Seth Green|Eisenberg
+ent|5|In later "Predator" lore, what is the name of the Predator's species?|Yautja|Xenomorph;Engineer;Kree
+ent|2|"Houston, we have a problem" is a famous line from which 1995 film?|Apollo 13|The Right Stuff;Armageddon;Contact
+ent|3|"28 Days Later" is set mainly in which country?|United Kingdom|Ireland;France;United States|UK;England;Britain
+ent|3|Which Disney film was released in 1970?|The Aristocats|The Jungle Book;Robin Hood;The Rescuers|Aristocats
+ent|4|"The Room" (2003), the famously bad cult film, cost about how much to make?|$6 million|$50,000;$500,000;$20 million
+ent|3|Which comedian voiced the parrot Iago in Disney's "Aladdin"?|Gilbert Gottfried|Robin Williams;Gilbert Godfrey;Jim Cummings|Gottfried
+ent|4|In "My Bloody Valentine" (1981), what does the killer wear?|Miner's gear|A hockey mask;A clown suit;A Santa suit|Mining gear;Miners gear
+ent|3|In "The Two Towers", where are the orcs carrying Merry and Pippin?|Isengard|Mordor;Moria;Helm's Deep
+ent|1|Who plays Bruce Wayne in "The Dark Knight" (2008)?|Christian Bale|Ben Affleck;Robert Pattinson;Michael Keaton|Bale
+ent|4|Which of these sci-fi films is set in Detroit, not Los Angeles?|RoboCop|Blade Runner;The Terminator;Predator 2
+ent|2|Which film did "Avatar" overtake to become the highest-grossing film ever?|Titanic|Star Wars;Jurassic Park;The Dark Knight
+ent|2|What is the round orange-and-white droid in "The Force Awakens" called?|BB-8|R2-D2;C-3PO;K-2SO
+ent|5|Susan Sarandon caught pneumonia while filming which cult musical?|The Rocky Horror Picture Show|Hair;Grease;Little Shop of Horrors|Rocky Horror
+ent|4|"Blood Diamond" (2006) is set during the civil war in which African country?|Sierra Leone|Liberia;Angola;Congo
+ent|5|Who played Baron Frankenstein in Hammer's "The Curse of Frankenstein" (1957)?|Peter Cushing|Christopher Lee;Boris Karloff;Vincent Price|Cushing
+ent|5|In "Zulu" (1964), which Welsh song do the soldiers sing before the final attack?|Men of Harlech|Land of My Fathers;Cwm Rhondda;Calon Lân
+ent|2|Who starred in the martial-arts classic "Enter the Dragon"?|Bruce Lee|Jackie Chan;Jet Li;Chuck Norris|Lee
+ent|1|Who directed "E.T. the Extra-Terrestrial"?|Steven Spielberg|George Lucas;Robert Zemeckis;Ron Howard|Spielberg
+ent|5|What is Lilo's surname in "Lilo & Stitch"?|Pelekai|Kealoha;Kahana;Makoa
+ent|5|Pac-Man can be spotted on a screen in which 1982 Disney film?|Tron|The Black Cauldron;The Fox and the Hound;Flight of the Navigator
+ent|4|Who played Pinhead in the original "Hellraiser" films?|Doug Bradley|Doug Jones;Robert Englund;Kane Hodder|Bradley
+ent|4|Who is the greedy villain of "The Lorax" (2012)?|Aloysius O'Hare|The Once-ler;Ted Wiggins;Grammy Norma|O'Hare
+ent|2|"The first rule is: you do not talk about it" comes from which 1999 film?|Fight Club|The Matrix;Office Space;American Beauty
+ent|4|In "Interstellar", how much time passes on Earth while the crew is on Miller's planet?|23 years|7 years;51 years;2 years|23
+ent|4|In "Doctor Strange" (2016), what is the Wi-Fi password at Kamar-Taj?|Shamballa|Namaste;Karma;Agamotto|Shambala
+ent|3|The Coen brothers' "Fargo" takes place mostly in which state?|Minnesota|North Dakota;Montana;Wisconsin
+ent|3|"Rogue One" is set between which two Star Wars episodes?|Episodes III and IV|Episodes IV and V;Episodes VI and VII;Episodes I and II|III and IV;3 and 4
+ent|4|Who played Sergeant Elias in "Platoon"?|Willem Dafoe|Tom Berenger;Charlie Sheen;Forest Whitaker|Dafoe
+ent|3|Before Captain America, Chris Evans played which Marvel hero?|The Human Torch|Iceman;Daredevil;Ghost Rider|Human Torch;Johnny Storm
+ent|4|In which 1955 musical does Frank Sinatra play gambler Nathan Detroit?|Guys and Dolls|High Society;Pal Joey;On the Town
+ent|4|Which New York mayor played himself in "The Muppets Take Manhattan"?|Ed Koch|Rudy Giuliani;David Dinkins;John Lindsay|Koch
+ent|3|On which island is the park in "Jurassic Park" built?|Isla Nublar|Isla Sorna;Isla Muerta;Isla Bonita|Nublar
+ent|3|Who directed "American Graffiti" (1973)?|George Lucas|Ron Howard;Steven Spielberg;John Milius|Lucas
+ent|5|Which young actor played Tommy Jarvis in "Friday the 13th: The Final Chapter"?|Corey Feldman|Corey Haim;River Phoenix;Sean Astin|Feldman
+ent|4|In "Star Wars", what does "TIE" stand for in TIE fighter?|Twin Ion Engines|Tactical Imperial Escort;Twin Interceptor Engines;Turbo Ion Exhaust|Twin Ion Engine
+ent|4|Which singer plays himself as a hostage in "Kingsman: The Golden Circle"?|Elton John|Rod Stewart;Paul McCartney;Mick Jagger
+ent|3|Which vampire film did Robert Rodriguez direct from a Quentin Tarantino script?|From Dusk till Dawn|Near Dark;The Lost Boys;Fright Night
+ent|3|"I feel the need... the need for speed!" comes from which film?|Top Gun|Days of Thunder;Speed;Days of Heaven
+ent|3|Which Miami Dolphins quarterback plays himself in "Ace Ventura: Pet Detective"?|Dan Marino|Joe Montana;John Elway;Bob Griese|Marino
+ent|3|"Frankly, my dear, I don't give a damn" is the famous line from which film?|Gone with the Wind|Casablanca;Citizen Kane;The Philadelphia Story
+ent|3|John Carpenter's "The Thing" was based on a story by which author, not Stephen King?|John W. Campbell|H. P. Lovecraft;Philip K. Dick;Ray Bradbury|Campbell
+ent|4|Kevin Spacey played which singer in the 2004 biopic "Beyond the Sea"?|Bobby Darin|Frank Sinatra;Dean Martin;Tony Bennett|Darin
+ent|4|What vehicles carry visitors on the electric tour in the "Jurassic Park" film?|Ford Explorers|Jeep Wranglers;Land Rovers;Toyota Land Cruisers|Ford Explorer
+ent|3|Who played scientist Grace Augustine in "Avatar"?|Sigourney Weaver|Michelle Rodriguez;Zoe Saldana;Jodie Foster|Weaver
+ent|4|Which Greek composer scored "Blade Runner" (1982)?|Vangelis|Yanni;Mikis Theodorakis;Hans Zimmer
+ent|5|In "The Year Without a Santa Claus", which two elves help Mrs. Claus?|Jingle and Jangle|Hermey and Rudy;Holly and Jolly;Twinkle and Tinsel
+ent|3|For which film did Leonardo DiCaprio win his first Best Actor Oscar?|The Revenant|The Wolf of Wall Street;Killers of the Flower Moon;Inception
+ent|4|In "Friday the 13th", what is the first name of Jason's mother?|Pamela|Mary;Diane;Margaret
+ent|3|Who play the title trio in "The Good, the Bad and the Ugly"?|Clint Eastwood, Lee Van Cleef and Eli Wallach|Clint Eastwood, Charles Bronson and Henry Fonda;Lee Marvin, Clint Eastwood and Eli Wallach;Franco Nero, Lee Van Cleef and Eli Wallach
+ent|2|In "Gremlins", after what time must you never feed a mogwai?|Midnight|Sunset;Noon;10 p.m.
+ent|3|What breed is the dog in "Marley & Me"?|Labrador Retriever|Golden Retriever;Beagle;Boxer|Labrador;Lab
+ent|4|What did Hitchcock use for blood in the shower scene of "Psycho"?|Chocolate syrup|Ketchup;Corn syrup;Tomato juice|Chocolate
+ent|3|What is the genetically engineered hybrid dinosaur in "Jurassic World" called?|Indominus rex|Indoraptor;Spinoraptor;Tyranno-Rex
+ent|4|What is the robot called in "The Day the Earth Stood Still" (1951)?|Gort|Robby;Klaatu;Huey
+ent|2|Who played the young Obi-Wan Kenobi in the Star Wars prequels?|Ewan McGregor|Alec Guinness;Liam Neeson;Hayden Christensen|McGregor
+ent|5|In which city is Disney's "The Love Bug" (1968) set?|San Francisco|Los Angeles;San Diego;Monterey
+ent|4|What is Arnold Schwarzenegger's character called in "Commando"?|John Matrix|John Kimble;Dutch Schaefer;Ben Richards|Matrix
+ent|4|Who plays the crooked billionaire in "Tower Heist" (2011)?|Alan Alda|Alec Baldwin;Michael Douglas;Kelsey Grammer|Alda
+ent|2|What are the human-like androids called in "Blade Runner"?|Replicants|Synths;Cylons;Hosts
+ent|5|Which 1951 Western was the first film to use the famous "Wilhelm scream" sound effect?|Distant Drums|The Charge at Feather River;Rio Grande;High Noon
+ent|4|Which country is second only to India in the number of films produced each year (Nollywood)?|Nigeria|United States;China;Japan
+ent|3|Who directed "Pan's Labyrinth"?|Guillermo del Toro|Alfonso Cuarón;Pedro Almodóvar;Alejandro G. Iñárritu|del Toro
+ent|5|Which monster was the first to battle Godzilla on screen, in 1955?|Anguirus|Mothra;King Ghidorah;Rodan
+ent|3|"What we've got here is failure to communicate" is from which Paul Newman film?|Cool Hand Luke|The Hustler;Butch Cassidy and the Sundance Kid;The Sting
+ent|5|Which 2015 German heist film was shot in one continuous 138-minute take?|Victoria|Run Lola Run;Good Bye Lenin!;The Lives of Others
+ent|5|Which actor auditioned for Luke Skywalker before Mark Hamill got the part?|Kurt Russell|Tom Hanks;Al Pacino;Sylvester Stallone|Russell
+ent|1|Who directed "Alien" (1979)?|Ridley Scott|James Cameron;John Carpenter;David Fincher|Scott
+ent|4|Who directed "Scott Pilgrim vs. the World"?|Edgar Wright|Judd Apatow;Greg Mottola;Taika Waititi|Wright
+ent|3|In "Finding Nemo", what is Nemo's mother called?|Coral|Pearl;Dory;Marina
+ent|3|Velma Kelly and Roxie Hart are the leads in which Best Picture winner?|Chicago|Cabaret;Moulin Rouge!;Dreamgirls
+ent|1|In which film does Robin Williams dress as a Scottish nanny?|Mrs. Doubtfire|Jumanji;Hook;Patch Adams
+ent|2|"Moana" draws on the myths of which culture?|Polynesian|Japanese;Inuit;Maori only|Polynesia;Pacific Islander
+ent|5|In "Taxi Driver", how many handguns does Travis buy from the dealer?|4|2;3;6|four
+ent|3|Who dances the twist with John Travolta in "Pulp Fiction"?|Uma Thurman|Bridget Fonda;Rosanna Arquette;Pam Grier|Thurman
+ent|4|In "Life of Brian", what is the grammatically correct Latin for "Romans go home"?|Romani ite domum|Romanes eunt domus;Romani eunt domum;Romanus ite domus
+ent|4|Which Canadian singer wrote and sang most of the songs in "Spirit: Stallion of the Cimarron"?|Bryan Adams|Shania Twain;Michael Bublé;Celine Dion|Adams
+ent|3|Which film is the first in Sergio Leone's "Dollars Trilogy"?|A Fistful of Dollars|For a Few Dollars More;The Good, the Bad and the Ugly;Once Upon a Time in the West
+ent|2|"Say hello to my little friend!" is shouted in which film?|Scarface|Goodfellas;Heat;Carlito's Way
+ent|5|How old was Laurence Fishburne when he was cast in "Apocalypse Now"?|14|17;19;21
+ent|3|In which year was "Dirty Harry" released?|1971|1966;1976;1980
+ent|5|What is the name of the clockwork Nazi assassin in "Hellboy" (2004)?|Kroenen|Rasputin;Ilsa;Sammael|Karl Ruprecht Kroenen
+ent|4|Who founded the parody religion of the Flying Spaghetti Monster?|Bobby Henderson|Richard Dawkins;Penn Jillette;Bill Nye|Henderson
+ent|3|Who co-founded Spotify with Martin Lorentzon?|Daniel Ek|Sean Parker;Niklas Zennström;Jack Dorsey|Ek
+ent|2|Which British entrepreneur founded the Virgin Group?|Richard Branson|Alan Sugar;James Dyson;Stelios Haji-Ioannou|Branson
+ent|4|In DC Comics, which city is home to Green Arrow?|Star City|Central City;Coast City;Gotham City
+ent|5|Which French producer made the 2016 song "Shelter" with Porter Robinson?|Madeon|DJ Snake;Kavinsky;Martin Solveig
+ent|5|Disneyland's Haunted Mansion features three Hitchhiking Ghosts: Ezra, Phineas and who?|Gus|Harry;Hugo;Mortimer
+ent|5|Which company created the singing software character Hatsune Miku?|Crypton Future Media|Sega;Yamaha;Sony Music
+ent|3|American animator Terry Gilliam was part of which British comedy troupe?|Monty Python|The Goodies;Beyond the Fringe;The Young Ones|Monty Python's Flying Circus
+ent|1|What is Madame Tussauds in London famous for displaying?|Wax figures|Crown jewels;Dinosaur bones;Vintage cars|Waxworks;Wax sculptures
+ent|5|Kygo first became famous for remixing which Ed Sheeran song?|I See Fire|Thinking Out Loud;The A Team;Shape of You
+ent|4|Whose statue stands in London's Leicester Square?|Charlie Chaplin|Laurel and Hardy;Alfred Hitchcock;Cary Grant|Chaplin
+ent|5|Ax and Smash formed which WWF tag team?|Demolition|The Road Warriors;The Bushwhackers;The Hart Foundation
+ent|3|What is the name of the wall-mounted singing fish novelty that sings "Don't Worry, Be Happy"?|Big Mouth Billy Bass|Singing Sammy Salmon;Bubba Bass;Gill the Grouper|Billy Bass
+ent|4|Which Disney California Adventure ride became "Guardians of the Galaxy – Mission: Breakout!" in 2017?|The Twilight Zone Tower of Terror|Space Mountain;Soarin';California Screamin'|Tower of Terror
+ent|4|What was Elon Musk's mother Maye Musk's main career?|Model and dietitian|Engineer;Actress;Pilot|Model;Dietitian
+ent|5|In a 1994 interview, what did Bill Gates famously jump over from a standing start?|An office chair|A desk;A filing cabinet;A sofa|Chair
+ent|3|Which band released the album "Sonic Highways" in 2014?|Foo Fighters|Pearl Jam;Green Day;Kings of Leon
+ent|3|Which British rapper had a hit with "Paper Planes"?|M.I.A.|Dizzee Rascal;Lady Sovereign;Ms. Dynamite|MIA
+ent|4|Which Dutch band had a 1973 hit with the yodelling rock song "Hocus Pocus"?|Focus|Golden Earring;Shocking Blue;Kayak
+ent|4|What is the name of the homemade guitar Brian May of Queen built with his father?|Red Special|Old Lady;Fireplace;Red Lady
+ent|3|On the cover of "Abbey Road", which Beatle leads the walk across the zebra crossing?|John Lennon|Paul McCartney;George Harrison;Ringo Starr|John;Lennon
+ent|3|In Rossini's opera, what is the name of "The Barber of Seville"?|Figaro|Almaviva;Bartolo;Basilio
+ent|2|Which band sang "Californication" and "Under the Bridge"?|Red Hot Chili Peppers|Pearl Jam;Foo Fighters;Stone Temple Pilots|Chili Peppers;RHCP
+ent|3|Who is the lead singer of Arctic Monkeys?|Alex Turner|Liam Gallagher;Matt Bellamy;Brandon Flowers|Turner
+ent|4|Adele covered "Make You Feel My Love", originally by which songwriter?|Bob Dylan|Billy Joel;Garth Brooks;Leonard Cohen|Dylan
+ent|4|What was Frank Ocean's 2016 album called?|Blonde|Channel Orange;Endless;Nostalgia
+ent|2|What is the name of Darude's 1999 trance hit?|Sandstorm|Heatwave;Mirage;Dune
+ent|3|What is the most common time signature in rock and pop?|4/4|3/4;6/8;5/4|four four;common time
+ent|4|Which Beatles song is on "Sgt. Pepper's", not the White Album?|Being for the Benefit of Mr. Kite!|Back in the U.S.S.R.;Blackbird;Helter Skelter|Mr. Kite
+ent|4|What was Ellie Goulding's debut album?|Lights|Halcyon;Delirium;Brightest Blue
+ent|2|Adele's albums are named after what?|Her age when writing them|Her addresses;Track counts;Her birthdays in order|Her age;Age
+ent|3|Vanilla Ice's "Ice Ice Baby" borrows its bassline from which Queen and David Bowie song?|Under Pressure|Another One Bites the Dust;Radio Ga Ga;Fat Bottomed Girls
+ent|4|How many studio albums did Daft Punk release?|4|2;6;8|four
+ent|4|The "Numa Numa" viral video used which song by O-Zone?|Dragostea din tei|Despre tine;Asereje;Ievan polkka
+ent|4|Who is said to have introduced the Beatles to cannabis in 1964?|Bob Dylan|Brian Epstein;Mick Jagger;Ravi Shankar|Dylan
+ent|4|Power metal band Sabaton comes from which country?|Sweden|Finland;Germany;Norway
+ent|1|Who is the lead singer of Coldplay?|Chris Martin|Thom Yorke;Bono;Brandon Flowers|Martin
+ent|2|Which band released "Back in Black"?|AC/DC|Def Leppard;Aerosmith;Iron Maiden|ACDC
+ent|4|Which Kanye West album includes "Love Lockdown" and "Heartless"?|808s & Heartbreak|Graduation;Late Registration;Yeezus|808s and Heartbreak
+ent|2|Which group released "Straight Outta Compton"?|N.W.A|Wu-Tang Clan;Public Enemy;Run-DMC|NWA
+ent|5|Which band had a 1962 hit on both sides of the Atlantic with the instrumental "Telstar"?|The Tornados|The Shadows;The Ventures;The Spotnicks|Tornados
+ent|4|Which French duo released "Sexy Boy" in 1998?|Air|Daft Punk;Justice;Cassius
+ent|4|Which electronic duo is British rather than French?|The Chemical Brothers|Daft Punk;Justice;Air|Chemical Brothers
+ent|2|What was Britney Spears' first single?|...Baby One More Time|Oops!... I Did It Again;Toxic;Sometimes|Baby One More Time
+ent|2|Complete Hozier's 2013 hit: "Take Me to..."|Church|Heaven;The River;Paradise
+ent|4|The classic Nokia ringtone comes from which guitar piece by Francisco Tárrega?|Gran Vals|Recuerdos de la Alhambra;Lágrima;Capricho Árabe
+ent|5|Which Swiss harpist released the album "Down to the Moon" in 1986?|Andreas Vollenweider|Jean-Michel Jarre;Kitaro;Vangelis|Vollenweider
+ent|3|Which Kanye West album came out in 2013?|Yeezus|The Life of Pablo;Graduation;Donda
+ent|3|Which instrument does Sting play in The Police?|Bass guitar|Lead guitar;Drums;Keyboards|Bass

@@ -1,0 +1,146 @@
+# Science & Nature pack 1
+sci|1|What planet is known as the Red Planet?|Mars|Venus;Jupiter;Mercury
+sci|1|What gas do plants absorb from the air for photosynthesis?|Carbon dioxide|Oxygen;Nitrogen;Hydrogen|CO2
+sci|1|What is the chemical formula for water?|H2O|CO2;O2;H2O2
+sci|1|How many legs does a spider have?|8|6;10;12|eight
+sci|1|What is the closest star to Earth?|The Sun|Proxima Centauri;Sirius;Polaris|Sun
+sci|1|What is the hardest natural substance?|Diamond|Quartz;Granite;Titanium
+sci|1|Which organ pumps blood around the body?|Heart|Lungs;Liver;Kidneys
+sci|1|What is the largest mammal on Earth?|Blue whale|African elephant;Sperm whale;Giraffe
+sci|1|What do bees collect from flowers to make honey?|Nectar|Pollen;Sap;Dew
+sci|1|What is the freezing point of water in degrees Celsius?|0|-10;4;32|zero
+sci|1|How many planets are in our solar system?|8|7;9;10|eight
+sci|1|What is the fastest land animal?|Cheetah|Lion;Pronghorn;Greyhound
+sci|1|What force keeps us on the ground?|Gravity|Magnetism;Friction;Inertia
+sci|1|Which planet has the most famous rings?|Saturn|Jupiter;Uranus;Neptune
+sci|2|What is the largest planet in the solar system?|Jupiter|Saturn;Neptune;Uranus
+sci|2|What is the chemical symbol for iron?|Fe|Ir;In;Fi
+sci|2|What is the chemical symbol for sodium?|Na|So;Sd;S
+sci|2|What is the chemical symbol for potassium?|K|P;Po;Pt
+sci|2|What is the chemical symbol for silver?|Ag|Si;Au;Sv
+sci|2|What is the most abundant gas in Earth's atmosphere?|Nitrogen|Oxygen;Carbon dioxide;Argon
+sci|2|How many bones are in the adult human body?|206|186;212;256
+sci|2|What is the powerhouse of the cell?|Mitochondria|Nucleus;Ribosome;Golgi apparatus|mitochondrion
+sci|2|What is the largest organ inside the human body?|Liver|Brain;Lungs;Heart
+sci|2|What part of the plant conducts photosynthesis?|Leaf|Root;Stem;Flower|Leaves
+sci|2|What type of animal is a Komodo dragon?|Lizard|Snake;Crocodile;Salamander
+sci|2|What is the only mammal capable of true flight?|Bat|Flying squirrel;Sugar glider;Colugo
+sci|2|What do you call an animal that eats only plants?|Herbivore|Carnivore;Omnivore;Insectivore
+sci|2|What is the study of earthquakes called?|Seismology|Volcanology;Meteorology;Geology
+sci|2|What is the boiling point of water at sea level in Fahrenheit?|212|200;180;100
+sci|2|What is the name of the galaxy that contains our solar system?|Milky Way|Andromeda;Triangulum;Sombrero|The Milky Way
+sci|2|Which blood type is the universal donor?|O negative|AB positive;A negative;O positive|O-;O neg
+sci|2|What is the centre of an atom called?|Nucleus|Proton;Electron;Core
+sci|2|Which planet is closest to the Sun?|Mercury|Venus;Mars;Earth
+sci|2|What is the hottest planet in the solar system?|Venus|Mercury;Mars;Jupiter
+sci|2|What vitamin does the body make when skin is exposed to sunlight?|Vitamin D|Vitamin C;Vitamin A;Vitamin B12|D
+sci|2|What is the name for animals that are active at night?|Nocturnal|Diurnal;Crepuscular;Hibernal
+sci|2|What is a baby kangaroo called?|Joey|Kit;Cub;Pup
+sci|2|Which bird is the largest in the world?|Ostrich|Emu;Albatross;Cassowary
+sci|2|Which animal is known as the "King of the Jungle"?|Lion|Tiger;Gorilla;Elephant
+sci|2|How many hearts does an octopus have?|3|1;2;4|three
+sci|2|What is the main gas in the Sun?|Hydrogen|Helium;Oxygen;Carbon
+sci|2|Which scientist proposed the theory of relativity?|Albert Einstein|Isaac Newton;Niels Bohr;Max Planck|Einstein
+sci|2|Who formulated the laws of motion and universal gravitation?|Isaac Newton|Galileo Galilei;Johannes Kepler;Albert Einstein|Newton
+sci|2|What is the term for molten rock below Earth's surface?|Magma|Lava;Basalt;Obsidian
+sci|2|What is the unit of electrical power?|Watt|Volt;Ampere;Ohm
+sci|3|What is the atomic number of oxygen?|8|6;7;16|eight
+sci|3|What is the chemical symbol for lead?|Pb|Ld;Le;Pl
+sci|3|What is the chemical symbol for tin?|Sn|Ti;Tn;St
+sci|3|What is the lightest chemical element?|Hydrogen|Helium;Lithium;Carbon
+sci|3|What is the most abundant element in Earth's crust?|Oxygen|Silicon;Iron;Aluminum
+sci|3|Which noble gas is used in bright advertising signs?|Neon|Argon;Xenon;Krypton
+sci|3|What is the pH of pure water?|7|0;5;14|seven
+sci|3|What is the speed of sound in air roughly, in metres per second?|343|120;767;1,235|340
+sci|3|What does DNA stand for?|Deoxyribonucleic acid|Dinitrogen acid;Deoxyribose nitrate;Diribonucleic acid
+sci|3|How many chromosomes do humans normally have?|46|23;44;48
+sci|3|Which scientist is known for the theory of evolution by natural selection?|Charles Darwin|Gregor Mendel;Jean-Baptiste Lamarck;Alfred Russel Wallace|Darwin
+sci|3|Which monk is known as the father of genetics?|Gregor Mendel|Charles Darwin;Louis Pasteur;Francis Crick|Mendel
+sci|3|Who developed the first successful polio vaccine?|Jonas Salk|Albert Sabin;Louis Pasteur;Edward Jenner|Salk
+sci|3|Who developed the first vaccine, against smallpox?|Edward Jenner|Louis Pasteur;Jonas Salk;Robert Koch|Jenner
+sci|3|Which scientist is known for pasteurization?|Louis Pasteur|Robert Koch;Joseph Lister;Alexander Fleming|Pasteur
+sci|3|What is the smallest unit of life?|Cell|Atom;Molecule;Organ
+sci|3|What is the name of the longest bone in the human body?|Femur|Tibia;Humerus;Spine|thigh bone
+sci|3|What is the smallest bone in the human body?|Stapes|Incus;Malleus;Coccyx|Stirrup
+sci|3|Which part of the eye controls how much light enters?|Iris|Cornea;Retina;Lens
+sci|3|What is the medical name for the windpipe?|Trachea|Esophagus;Larynx;Bronchus
+sci|3|Which planet has a day longer than its year?|Venus|Mercury;Mars;Neptune
+sci|3|Which planet rotates on its side?|Uranus|Neptune;Saturn;Pluto
+sci|3|What is the largest moon of Saturn?|Titan|Enceladus;Rhea;Ganymede
+sci|3|What is the largest moon in the solar system?|Ganymede|Titan;Callisto;Io
+sci|3|Which moon of Jupiter is the most volcanically active body in the solar system?|Io|Europa;Ganymede;Callisto
+sci|3|What was the name of the first dog to orbit Earth?|Laika|Belka;Strelka;Sputnik
+sci|3|What is a group of crows called?|Murder|Flock;Parliament;Gaggle|A murder
+sci|3|What is a group of lions called?|Pride|Pack;Herd;Troop|A pride
+sci|3|What is the largest species of shark?|Whale shark|Great white shark;Basking shark;Tiger shark
+sci|3|Which animal has the longest pregnancy of any mammal?|African elephant|Blue whale;Giraffe;Rhinoceros|Elephant
+sci|3|What do caterpillars turn into?|Butterflies or moths|Beetles;Dragonflies;Bees|Butterfly;Butterflies;Moth
+sci|3|What is the name of the process by which a caterpillar becomes a butterfly?|Metamorphosis|Mitosis;Photosynthesis;Pupation
+sci|3|Which tree produces acorns?|Oak|Maple;Elm;Beech
+sci|3|What is Canada's national tree?|Maple|Birch;Pine;Spruce|Maple tree
+sci|3|Which is the largest living land animal native to North America by weight?|American bison|Moose;Grizzly bear;Elk|Bison;Buffalo
+sci|3|Which bird is on the Canadian one-dollar coin?|Common loon|Canada goose;Snowy owl;Gray jay|Loon
+sci|3|What is the name of the scale used to measure wind speed?|Beaufort scale|Richter scale;Mohs scale;Fujita scale|Beaufort
+sci|3|What scale measures the hardness of minerals?|Mohs scale|Richter scale;Kelvin scale;Beaufort scale|Mohs
+sci|3|What is absolute zero in degrees Celsius (rounded)?|-273|-100;-459;0|-273.15;minus 273
+sci|3|What type of rock is formed from cooled lava or magma?|Igneous|Sedimentary;Metamorphic;Limestone
+sci|3|Marble is which type of rock?|Metamorphic|Igneous;Sedimentary;Volcanic
+sci|3|What layer of the atmosphere contains the ozone layer?|Stratosphere|Troposphere;Mesosphere;Thermosphere
+sci|3|What is the name of the supercontinent that existed about 300 million years ago?|Pangaea|Gondwana;Laurasia;Rodinia|Pangea
+sci|3|In computing, what does "CPU" stand for?|Central Processing Unit|Computer Personal Unit;Central Program Utility;Core Processing Unit
+sci|3|Who co-founded Microsoft with Paul Allen?|Bill Gates|Steve Jobs;Steve Ballmer;Larry Ellison|Gates
+sci|3|Which company makes the Android operating system?|Google|Apple;Samsung;Microsoft|Alphabet
+sci|3|Who invented the light bulb that became the first commercially practical one?|Thomas Edison|Nikola Tesla;Joseph Swan;Alexander Graham Bell|Edison
+sci|3|Which Scottish-born inventor patented the telephone in 1876?|Alexander Graham Bell|Thomas Edison;Elisha Gray;Guglielmo Marconi|Bell;Graham Bell
+sci|3|Who sent the first transatlantic radio signal, received in Newfoundland in 1901?|Guglielmo Marconi|Nikola Tesla;Reginald Fessenden;Alexander Graham Bell|Marconi
+sci|4|What is the atomic number of gold?|79|47;29;82
+sci|4|What is the chemical symbol for mercury?|Hg|Me;Mr;Hm
+sci|4|What is the chemical symbol for tungsten?|W|Tu;Tg;Wo
+sci|4|Which element has the highest melting point?|Tungsten|Iron;Titanium;Platinum
+sci|4|What is the most abundant metal in Earth's crust?|Aluminum|Iron;Copper;Magnesium|Aluminium
+sci|4|Which element is named after the Moon?|Selenium|Tellurium;Lunarium;Helium
+sci|4|Which element is named after the Sun?|Helium|Hydrogen;Solarium;Selenium
+sci|4|What is the name of the force that opposes motion between surfaces?|Friction|Inertia;Tension;Drag
+sci|4|What is the SI unit of force?|Newton|Joule;Pascal;Watt
+sci|4|What is the SI unit of electrical resistance?|Ohm|Volt;Ampere;Farad
+sci|4|What is the SI unit of frequency?|Hertz|Decibel;Watt;Tesla|Hz
+sci|4|What is the term for a substance that speeds up a chemical reaction without being used up?|Catalyst|Reactant;Inhibitor;Solvent
+sci|4|What is the name of the bond formed when atoms share electrons?|Covalent bond|Ionic bond;Hydrogen bond;Metallic bond|Covalent
+sci|4|Which part of the brain is mainly responsible for balance and coordination?|Cerebellum|Cerebrum;Medulla;Hypothalamus
+sci|4|Which organ produces insulin?|Pancreas|Liver;Kidney;Gallbladder
+sci|4|Which gland is known as the "master gland"?|Pituitary gland|Thyroid gland;Adrenal gland;Pineal gland|Pituitary
+sci|4|What is the name of the pigment that makes plants green?|Chlorophyll|Carotene;Melanin;Hemoglobin
+sci|4|Red blood cells carry oxygen using which protein?|Hemoglobin|Insulin;Keratin;Collagen|Haemoglobin
+sci|4|Which Canadian discovered insulin in 1921 with Charles Best?|Frederick Banting|Norman Bethune;William Osler;Wilder Penfield|Banting
+sci|4|What is the name of the boundary around a black hole beyond which nothing escapes?|Event horizon|Singularity;Accretion disk;Photon sphere
+sci|4|What is the name of the closest large galaxy to the Milky Way?|Andromeda|Triangulum;Large Magellanic Cloud;Whirlpool|Andromeda Galaxy
+sci|4|Which dwarf planet was reclassified from planet in 2006?|Pluto|Ceres;Eris;Haumea
+sci|4|What is the name of the NASA rover that landed on Mars in 2021?|Perseverance|Curiosity;Opportunity;Spirit
+sci|4|Which space telescope launched in 2021 succeeded Hubble for infrared astronomy?|James Webb Space Telescope|Spitzer Space Telescope;Kepler;Chandra|James Webb;JWST;Webb
+sci|4|Which Canadian-built robotic arm was used on the Space Shuttle?|Canadarm|Dextre;Robonaut;Mobile Servicing System
+sci|4|Which animal is the largest living reptile?|Saltwater crocodile|Komodo dragon;Leatherback turtle;Anaconda|Saltwater croc
+sci|4|Which mammal lays eggs and has a duck-like bill?|Platypus|Echidna;Otter;Beaver|Duck-billed platypus
+sci|4|How many teeth does a typical adult human have?|32|28;30;36
+sci|4|What is the hardest substance in the human body?|Tooth enamel|Bone;Dentin;Cartilage|Enamel
+sci|4|Which type of cloud is tall and brings thunderstorms?|Cumulonimbus|Cirrus;Stratus;Altostratus
+sci|4|What is the name for an animal that can live both on land and in water, like a frog?|Amphibian|Reptile;Crustacean;Mollusk
+sci|4|What does a seismograph measure?|Earthquakes|Wind speed;Air pressure;Rainfall|Earthquake;ground motion
+sci|4|What is the term for the shape of Earth's orbit around the Sun?|Ellipse|Circle;Parabola;Hyperbola|Elliptical
+sci|4|What is the programming language named after a British comedy group?|Python|Ruby;Perl;Java
+sci|4|What does "HTML" stand for?|HyperText Markup Language|High Tech Modern Language;Hyperlink Text Management Language;Home Tool Markup Language|Hypertext Markup Language
+sci|4|What was the name of the first general-purpose electronic computer, unveiled in 1946?|ENIAC|UNIVAC;Colossus;Mark I
+sci|4|What year was the first iPhone released?|2007|2005;2008;2010
+sci|5|What is the atomic number of uranium?|92|88;94;238
+sci|5|What is the name of the particle that carries the strong nuclear force?|Gluon|Photon;Boson;Muon
+sci|5|Which physicist proposed the uncertainty principle?|Werner Heisenberg|Erwin Schrödinger;Paul Dirac;Max Born|Heisenberg
+sci|5|What is the name of Schrödinger's famous thought-experiment animal?|Cat|Dog;Mouse;Rabbit|Schrödinger's cat
+sci|5|Which bone is also known as the collarbone?|Clavicle|Scapula;Sternum;Patella
+sci|5|What is the largest artery in the human body?|Aorta|Carotid artery;Femoral artery;Pulmonary artery
+sci|5|What is the scientific name for humans?|Homo sapiens|Homo erectus;Homo habilis;Homo neanderthalensis
+sci|5|Which planet has the Great Red Spot?|Jupiter|Mars;Saturn;Neptune
+sci|5|What is the Kármán line the boundary of?|Space|The ozone layer;The troposphere;The magnetosphere|Outer space;edge of space
+sci|5|Which element has the chemical symbol Sb?|Antimony|Tin;Strontium;Antimonium
+sci|5|What is the name for a scientist who studies fungi?|Mycologist|Botanist;Entomologist;Virologist
+sci|5|What is the name for a scientist who studies insects?|Entomologist|Herpetologist;Ornithologist;Ichthyologist
+sci|5|Which Canadian-born physician wrote the hugely influential "Principles and Practice of Medicine"?|William Osler|Frederick Banting;Norman Bethune;Wilder Penfield|Osler
+sci|5|What is the name of the deepest hole ever drilled, in Russia?|Kola Superdeep Borehole|Siberian Deep Well;Baikal Shaft;Ural Borehole|Kola

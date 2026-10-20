@@ -1,0 +1,116 @@
+# Rewritten from Open Trivia DB batch 5 (music, TV)
+ent|5|Entertainer Sammy Davis Jr. lost which eye in a 1954 car crash?|Left|Right|Left eye
+ent|3|Who had a 1969 hit with "A Boy Named Sue", written by Shel Silverstein?|Johnny Cash|Kris Kristofferson;Willie Nelson;Waylon Jennings|Cash
+ent|5|Which Soviet rock singer, memorialized by a famous wall in Moscow, has a song in "Grand Theft Auto IV"?|Viktor Tsoi|Vladimir Vysotsky;Boris Grebenshchikov;Yuri Shevchuk|Tsoi
+ent|2|What is Michael Jackson's best-selling album?|Thriller|Bad;Off the Wall;Dangerous
+ent|4|"On Melancholy Hill" is from which Gorillaz album?|Plastic Beach|Demon Days;Humanz;The Now Now
+ent|3|Kendrick Lamar's "good kid, m.A.A.d city" tells a story set in which city?|Compton|Oakland;Long Beach;Inglewood
+ent|1|The tuba belongs to which family of instruments?|Brass|Woodwind;Percussion;Strings
+ent|4|Which song on Kanye West's "The Life of Pablo" features Rihanna?|Famous|Ultralight Beam;Waves;Fade
+ent|1|Which country did "Gangnam Style" come from?|South Korea|Japan;China;Thailand|Korea
+ent|4|In what year did Megadeth release "Peace Sells... but Who's Buying?"|1986|1983;1990;1994
+ent|2|Which brass instrument plays the lowest notes in an orchestra?|Tuba|Trombone;French horn;Euphonium
+ent|3|John Cage's piece "4'33"" consists mostly of what?|Silence|A single held note;Birdsong;Random noise
+ent|3|Which Canadian reggae singer had a 1993 hit with "Informer"?|Snow|Shaggy;Maestro Fresh-Wes;Kardinal Offishall
+ent|3|In what year was Taylor Swift born?|1989|1986;1991;1993
+ent|5|What was The Velvet Underground's debut album, with an Andy Warhol banana on the cover?|The Velvet Underground & Nico|Loaded;White Light/White Heat;Transformer
+ent|2|At the 2009 MTV VMAs, Kanye West interrupted whose acceptance speech?|Taylor Swift|Beyoncé;Lady Gaga;Pink|Swift
+ent|4|"Walk This Way" first appeared on which Aerosmith album?|Toys in the Attic|Rocks;Permanent Vacation;Pump
+ent|4|"New Slang" by The Shins appears on which album?|Oh, Inverted World|Chutes Too Narrow;Wincing the Night Away;Port of Morrow
+ent|2|Who is the lead singer of Pearl Jam?|Eddie Vedder|Chris Cornell;Layne Staley;Scott Weiland|Vedder
+ent|3|The Weeknd's 2016 hit "Starboy" features which electronic duo?|Daft Punk|The Chemical Brothers;Justice;Disclosure
+ent|4|Which Smashing Pumpkins song is named after a year?|1979|1984;1999;1969
+ent|5|In Brownsville Station's 1973 hit, what are they doing "in the boys' room"?|Smokin'|Hidin';Singin';Waitin'|Smoking
+ent|3|Which album was the world's best-selling of 2015?|25 by Adele|1989 by Taylor Swift;Purpose by Justin Bieber;x by Ed Sheeran|25;Adele 25
+ent|2|Who is the lead singer of Green Day?|Billie Joe Armstrong|Mike Dirnt;Tré Cool;Tom DeLonge|Armstrong
+ent|4|Which Beatle wrote and sang "Why Don't We Do It in the Road?"|Paul McCartney|John Lennon;George Harrison;Ringo Starr|Paul;McCartney
+ent|4|Who had a 1976 hit with "You Make Me Feel Like Dancing"?|Leo Sayer|Andy Gibb;Elton John;Rod Stewart|Sayer
+ent|2|Which Don McLean song calls the 1959 plane crash "the day the music died"?|American Pie|Vincent;Bye Bye Love;Peggy Sue
+ent|3|Who founded and leads Nine Inch Nails?|Trent Reznor|Marilyn Manson;Al Jourgensen;Rob Zombie|Reznor
+ent|4|What animal is on the cover of The Prodigy's "The Fat of the Land"?|Crab|Scorpion;Lizard;Spider
+ent|5|In British terminology, what is a 64th note called?|Hemidemisemiquaver|Demisemiquaver;Semiquaver;Quaver
+ent|5|Which Jane's Addiction guitarist recorded "One Hot Minute" with the Red Hot Chili Peppers?|Dave Navarro|Tom Morello;Josh Klinghoffer;Hillel Slovak|Navarro
+ent|2|How many members did Nirvana have in its classic line-up?|3|2;4;5|three
+ent|3|Mickey Mouse first appeared on screen in which year?|1928|1922;1934;1940
+ent|4|In Desiigner's "Panda", where has he "got broads"?|Atlanta|Miami;Houston;Memphis
+ent|4|Which American composer is a founding figure of minimalist music, known for "Music for 18 Musicians"?|Steve Reich|Philip Glass;John Adams;Terry Riley|Reich
+ent|3|What is Drake's real name?|Aubrey Graham|Dwayne Carter;Shawn Carter;Abel Tesfaye|Aubrey Drake Graham
+ent|3|In songwriting, what is the contrasting section that links verses and chorus called?|Bridge|Coda;Intro;Refrain
+ent|4|Which Eminem song includes the line "Hi, my name is... I forgot my name!"?|Rain Man|My Name Is;Without Me;The Real Slim Shady
+ent|3|What was Daft Punk's debut album, released in 1997?|Homework|Discovery;Human After All;Alive
+ent|3|In what year did the Beatles release their first LP, "Please Please Me"?|1963|1960;1965;1967
+ent|3|Which Beatle narrated "Thomas the Tank Engine & Friends"?|Ringo Starr|Paul McCartney;George Harrison;John Lennon|Ringo
+ent|2|In what year was "Gangnam Style" uploaded to YouTube?|2012|2010;2014;2016
+ent|4|Who is the lead singer of the Australian band Silverchair?|Daniel Johns|Ben Gillies;Bernard Fanning;Michael Hutchence|Johns
+ent|4|Which capital city is the title of Ultravox's 1981 hit?|Vienna|Berlin;Prague;Paris
+ent|4|Which Beatles album has a plain white cover with no band photo?|The Beatles (The White Album)|Abbey Road;Let It Be;Rubber Soul|White Album
+ent|4|Who is the lead singer of Bastille?|Dan Smith|Will Farquarson;Tom Smith;Dan Reynolds
+ent|4|Which New Zealand singer curated the soundtrack for "The Hunger Games: Mockingjay – Part 1"?|Lorde|Kimbra;Benee;Ladyhawke
+ent|4|Liam Howlett founded which electronic group in 1990?|The Prodigy|The Chemical Brothers;Underworld;Leftfield|Prodigy
+ent|4|What was Post Malone's second studio album (2018)?|Beerbongs & Bentleys|Stoney;Hollywood's Bleeding;Twelve Carat Toothache
+ent|4|Which Bon Iver album came out in 2016?|22, A Million|For Emma, Forever Ago;Bon Iver, Bon Iver;i,i
+ent|4|Which Bee Gees song did Steps cover in 1998?|Tragedy|Stayin' Alive;Night Fever;Jive Talkin'
+ent|4|Which 2015 single did David Hasselhoff record for the film "Kung Fury"?|True Survivor|Looking for Freedom;Hooked on a Feeling;Jump in My Car
+ent|3|Who sings on Avicii's "Wake Me Up"?|Aloe Blacc|John Legend;CeeLo Green;Mike Posner
+ent|4|Which film star is not name-checked in Madonna's "Vogue"?|Mae West|Marilyn Monroe;Grace Kelly;Marlene Dietrich
+ent|3|Which Tears for Fears song has a chorus of "Let it all out"?|Shout|Mad World;Head over Heels;Change
+ent|3|Black Sabbath formed in which English city?|Birmingham|Manchester;Liverpool;Sheffield
+ent|1|In "K-pop", what does the K stand for?|Korean|Kawaii;Kinetic;Kids
+ent|4|What was Rage Against the Machine's debut album called?|Rage Against the Machine|Evil Empire;The Battle of Los Angeles;Renegades
+ent|4|"White Christmas" was first made famous by Bing Crosby. Which singing cowboy first recorded "Rudolph" and "Frosty"?|Gene Autry|Roy Rogers;Tex Ritter;Hank Williams|Autry
+ent|4|The "Mac" in Fleetwood Mac comes from which band member?|John McVie|Christine McVie;Mick Fleetwood;Peter Green|McVie
+ent|3|Who played the guitar solo on Michael Jackson's "Beat It"?|Eddie Van Halen|Slash;Steve Lukather;Jimmy Page|Van Halen
+ent|4|Rush's instrumental "YYZ" is named for the airport code of which city?|Toronto|Montreal;Vancouver;Winnipeg
+ent|4|Chino Moreno is the lead singer of which band?|Deftones|Korn;Tool;Incubus
+ent|3|Which guitarist is nicknamed "Slowhand"?|Eric Clapton|Mark Knopfler;Jeff Beck;Keith Richards|Clapton
+ent|3|"Basket Case" is a song by which band, not Men at Work?|Green Day|The Offspring;Blink-182;Weezer
+ent|4|Which Joy Division album cover shows radio waves from the pulsar CP 1919?|Unknown Pleasures|Closer;Power, Corruption & Lies;Substance
+ent|4|Which Elton John song begins "When are you gonna come down"?|Goodbye Yellow Brick Road|Rocket Man;Tiny Dancer;Daniel
+ent|2|Who composed the "Moonlight Sonata"?|Ludwig van Beethoven|Wolfgang Amadeus Mozart;Frédéric Chopin;Franz Schubert|Beethoven
+ent|4|"Give It Away" comes from which Red Hot Chili Peppers album?|Blood Sugar Sex Magik|Californication;Mother's Milk;By the Way
+ent|3|On the "Abbey Road" cover, which Beatle is barefoot?|Paul McCartney|John Lennon;George Harrison;Ringo Starr|Paul;McCartney
+ent|4|What Gorillaz album came out in 2017?|Humanz|Plastic Beach;Demon Days;Song Machine
+ent|4|Which soft-rock band had 1970s hits with "Everything I Own" and "The Guitar Man"?|Bread|America;Air Supply;Chicago
+ent|4|Which Avicii track samples Etta James's "Something's Got a Hold on Me"?|Levels|Wake Me Up;Hey Brother;The Nights
+ent|3|Which band's debut album was "A Fever You Can't Sweat Out"?|Panic! at the Disco|Fall Out Boy;My Chemical Romance;Paramore|Panic at the Disco
+ent|5|Pink Floyd's 1977 "In the Flesh" tour supported which album?|Animals|The Wall;Wish You Were Here;The Final Cut
+ent|3|Which band released "Lyin' Eyes" and "One of These Nights" in 1975?|Eagles|Fleetwood Mac;Doobie Brothers;America|The Eagles
+ent|3|Elton John reworked which song as a tribute to Princess Diana in 1997?|Candle in the Wind|Your Song;Tiny Dancer;Don't Let the Sun Go Down on Me
+ent|4|In what year did Muse release their debut album, "Showbiz"?|1999|1996;2001;2003
+ent|4|Which hip-hop group features on Gorillaz' "Feel Good Inc."?|De La Soul|Run-DMC;Public Enemy;A Tribe Called Quest
+ent|3|Which actor fronts the band Thirty Seconds to Mars?|Jared Leto|Johnny Depp;Keanu Reeves;Jack Black|Leto
+ent|3|Which band released "OK Computer" in 1997?|Radiohead|Blur;Muse;Travis
+ent|4|Tina Turner sang which theme for "Mad Max Beyond Thunderdome"?|We Don't Need Another Hero|The Best;Private Dancer;What's Love Got to Do with It
+ent|2|"Stairway to Heaven" is on which Led Zeppelin album?|Led Zeppelin IV|Led Zeppelin II;Houses of the Holy;Physical Graffiti
+ent|3|In what year was "Californication" released?|1999|1995;2002;2006
+ent|3|Who wrote Sinéad O'Connor's hit "Nothing Compares 2 U"?|Prince|Bob Dylan;Kate Bush;Paul Simon
+ent|4|The electronic music label Monstercat is based in which country?|Canada|United States;Netherlands;Sweden
+ent|4|In the US, Kyu Sakamoto's "Ue o Muite Arukō" was retitled as which Japanese dish?|Sukiyaki|Tempura;Teriyaki;Ramen
+ent|4|Which rap album by Nas is often called the greatest hip-hop album of the 1990s?|Illmatic|It Was Written;Ready to Die;The Chronic
+ent|3|Which guitarist of The Who is known for the "windmill" strum?|Pete Townshend|Roger Daltrey;John Entwistle;Keith Moon|Townshend
+ent|4|In "Breaking Bad", which character was meant to die in season one before Vince Gilligan changed his mind?|Jesse Pinkman|Hank Schrader;Skyler White;Saul Goodman|Jesse
+ent|3|In what year did "SpongeBob SquarePants" first air?|1999|1996;2001;2003
+ent|4|Which writer was showrunner of both "Doctor Who" and "Sherlock"?|Steven Moffat|Russell T Davies;Mark Gatiss;Chris Chibnall|Moffat
+ent|4|Who plays the pilot "Wash" in "Firefly"?|Alan Tudyk|Nathan Fillion;Adam Baldwin;Sean Maher|Tudyk
+ent|5|Who sang the theme song for the TV Western "Rawhide"?|Frankie Laine|Tennessee Ernie Ford;Gene Autry;Johnny Cash|Laine
+ent|2|What is the name of Melissa Joan Hart's teenage witch?|Sabrina Spellman|Samantha Stephens;Willow Rosenberg;Piper Halliwell|Sabrina
+ent|4|Which streaming service carries "The Grand Tour"?|Amazon Prime Video|Netflix;BBC iPlayer;Disney+|Amazon;Prime Video
+ent|4|What was the very first "Doctor Who" story, from 1963?|An Unearthly Child|The Daleks;The Edge of Destruction;Marco Polo
+ent|2|In "Supernatural", what is Sam Winchester's brother called?|Dean|John;Castiel;Bobby
+ent|3|In which English seaside town is "Fawlty Towers" set?|Torquay|Brighton;Blackpool;Scarborough
+ent|3|In what year did "The Big Bang Theory" premiere?|2007|2004;2009;2011
+ent|2|What are the zombies usually called in "The Walking Dead"?|Walkers|Biters;Shamblers;Crawlers
+ent|2|Which actor starred as Jack Bauer in "24"?|Kiefer Sutherland|Kevin Bacon;Dennis Haysbert;Rob Lowe|Sutherland
+ent|5|Who composed the original "Doctor Who" theme, realized by Delia Derbyshire?|Ron Grainer|Murray Gold;Dudley Simpson;Peter Howell|Grainer
+ent|3|What is Daryl's surname in "The Walking Dead"?|Dixon|Grimes;Walsh;Greene
+ent|5|Which Vancouver-made show was the first half-hour fully computer-animated TV series, in 1994?|ReBoot|Beast Wars;Roughnecks;Shadow Raiders
+ent|1|What breed of dog is Scooby-Doo?|Great Dane|Bloodhound;Boxer;Mastiff
+ent|4|Sergeant James Doakes is a character in which series?|Dexter|The Wire;The Shield;Breaking Bad
+ent|3|In what year did "The A-Team" first air?|1983|1979;1987;1991
+ent|4|The fictional film "Rochelle, Rochelle" is a running joke in which sitcom?|Seinfeld|Friends;Frasier;Cheers
+ent|4|Which "Young Ones" star played Lord Flashheart in "Blackadder"?|Rik Mayall|Adrian Edmondson;Nigel Planer;Ben Elton|Mayall
+ent|5|In "It's Always Sunny in Philadelphia", what is Frank's wrestling name?|The Trash Man|The Maniac;Day Man;Rum Ham
+ent|4|In "Star Trek: The Next Generation", Klingons mourn a fallen warrior by doing what?|Roaring at the sky|Burning a candle;Fasting for a week;Singing a lullaby|Howling;Yelling
+ent|3|Who are the robotic enemies in "Battlestar Galactica"?|The Cylons|The Borg;The Daleks;The Replicators|Cylons
+ent|4|Who is the pirate that sings the "SpongeBob SquarePants" theme?|Painty the Pirate|Patchy the Pirate;Captain Barnacle;Long John Squid|Painty
+ent|2|Which Star Trek race says "Resistance is futile" and assimilates others?|The Borg|Klingons;Romulans;Ferengi|Borg

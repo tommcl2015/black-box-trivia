@@ -1,0 +1,151 @@
+# Arts & Literature pack 1
+art|1|Who wrote "Romeo and Juliet"?|William Shakespeare|Christopher Marlowe;Charles Dickens;John Milton|Shakespeare
+art|1|Who painted the Mona Lisa?|Leonardo da Vinci|Michelangelo;Raphael;Rembrandt|da Vinci;Leonardo
+art|1|Who wrote "Charlie and the Chocolate Factory"?|Roald Dahl|Dr. Seuss;Lewis Carroll;C. S. Lewis|Dahl
+art|1|Who wrote "The Cat in the Hat"?|Dr. Seuss|Roald Dahl;Maurice Sendak;Eric Carle|Seuss;Theodor Geisel
+art|1|In which country did the Renaissance begin?|Italy|France;Greece;Spain
+art|1|What is the name of the wizarding school in Harry Potter?|Hogwarts|Durmstrang;Beauxbatons;Ilvermorny
+art|1|Who wrote "Anne of Green Gables"?|Lucy Maud Montgomery|Margaret Atwood;Alice Munro;Louisa May Alcott|L. M. Montgomery;Montgomery
+art|1|In Greek mythology, who is the king of the gods?|Zeus|Poseidon;Hades;Apollo
+art|1|Who wrote "A Christmas Carol"?|Charles Dickens|Mark Twain;Jane Austen;Charlotte Brontë|Dickens
+art|2|Who wrote "The Handmaid's Tale"?|Margaret Atwood|Alice Munro;Margaret Laurence;Carol Shields|Atwood
+art|2|Who wrote "Nineteen Eighty-Four"?|George Orwell|Aldous Huxley;Ray Bradbury;H. G. Wells|Orwell
+art|2|Who wrote "The Lord of the Rings"?|J. R. R. Tolkien|C. S. Lewis;George R. R. Martin;Terry Pratchett|Tolkien
+art|2|Who wrote "The Chronicles of Narnia"?|C. S. Lewis|J. R. R. Tolkien;Philip Pullman;Roald Dahl|Lewis
+art|2|Who wrote "Adventures of Huckleberry Finn"?|Mark Twain|Herman Melville;Jack London;Nathaniel Hawthorne|Twain;Samuel Clemens
+art|2|Who wrote "Frankenstein"?|Mary Shelley|Bram Stoker;Percy Shelley;Emily Brontë|Shelley
+art|2|Who wrote "Dracula"?|Bram Stoker|Mary Shelley;Edgar Allan Poe;Robert Louis Stevenson|Stoker
+art|2|Who created the detective Sherlock Holmes?|Arthur Conan Doyle|Agatha Christie;Edgar Allan Poe;Wilkie Collins|Conan Doyle;Doyle
+art|2|Who created detective Hercule Poirot?|Agatha Christie|Dorothy L. Sayers;Arthur Conan Doyle;P. D. James|Christie
+art|2|Who painted "The Starry Night"?|Vincent van Gogh|Claude Monet;Paul Cézanne;Paul Gauguin|van Gogh
+art|2|Who painted the ceiling of the Sistine Chapel?|Michelangelo|Raphael;Leonardo da Vinci;Botticelli
+art|2|Who painted "The Scream"?|Edvard Munch|Gustav Klimt;Egon Schiele;Wassily Kandinsky|Munch
+art|2|Which French painter is famous for his water lily paintings?|Claude Monet|Édouard Manet;Pierre-Auguste Renoir;Edgar Degas|Monet
+art|2|Which Spanish artist co-founded Cubism?|Pablo Picasso|Salvador Dalí;Joan Miró;Francisco Goya|Picasso
+art|2|Which surrealist painted melting clocks in "The Persistence of Memory"?|Salvador Dalí|René Magritte;Max Ernst;Joan Miró|Dali
+art|2|In which museum does the Mona Lisa hang?|The Louvre|Musée d'Orsay;The Prado;The Uffizi|Louvre
+art|2|What is the name of Sherlock Holmes's friend and narrator?|Dr. John Watson|Inspector Lestrade;Mycroft Holmes;Professor Moriarty|Watson;John Watson
+art|2|In Greek mythology, who flew too close to the sun?|Icarus|Daedalus;Perseus;Phaethon
+art|2|Who is the Roman god of war?|Mars|Jupiter;Mercury;Neptune
+art|2|Who is the Greek goddess of wisdom?|Athena|Aphrodite;Hera;Artemis
+art|2|Who is the Norse god of mischief?|Loki|Odin;Thor;Freyr
+art|2|Who is the father of the gods in Norse mythology?|Odin|Thor;Loki;Baldur
+art|2|In which Shakespeare play does Lady Macbeth appear?|Macbeth|Hamlet;King Lear;Othello
+art|2|Who wrote "Pride and Prejudice"?|Jane Austen|Charlotte Brontë;Emily Brontë;George Eliot|Austen
+art|2|Who wrote "Jane Eyre"?|Charlotte Brontë|Emily Brontë;Anne Brontë;Jane Austen|Charlotte Bronte;Bronte;Brontë
+art|2|Who wrote "Wuthering Heights"?|Emily Brontë|Charlotte Brontë;Anne Brontë;Mary Shelley|Emily Bronte
+art|2|Who wrote "The Old Man and the Sea"?|Ernest Hemingway|John Steinbeck;William Faulkner;F. Scott Fitzgerald|Hemingway
+art|2|Who wrote "Of Mice and Men"?|John Steinbeck|Ernest Hemingway;Harper Lee;Mark Twain|Steinbeck
+art|2|Who wrote "Little Women"?|Louisa May Alcott|Harriet Beecher Stowe;Edith Wharton;Emily Dickinson|Alcott
+art|2|What is the first book of the Harry Potter series called in the US?|Harry Potter and the Sorcerer's Stone|Harry Potter and the Chamber of Secrets;Harry Potter and the Goblet of Fire;Harry Potter and the Half-Blood Prince|Sorcerer's Stone;Philosopher's Stone
+art|2|Which poet wrote "The Raven"?|Edgar Allan Poe|Walt Whitman;Robert Frost;Emily Dickinson|Poe
+art|2|Which Canadian wrote the WWI poem "In Flanders Fields"?|John McCrae|Rupert Brooke;Wilfred Owen;Siegfried Sassoon|McCrae
+art|2|Who wrote "The Hobbit"?|J. R. R. Tolkien|C. S. Lewis;Roald Dahl;Lewis Carroll|Tolkien
+art|2|In "Alice's Adventures in Wonderland", who hosts the tea party with the March Hare?|The Mad Hatter|The Cheshire Cat;The White Rabbit;The Queen of Hearts|Mad Hatter;Hatter
+art|3|Who wrote "Moby-Dick"?|Herman Melville|Nathaniel Hawthorne;Jack London;Mark Twain|Melville
+art|3|Who wrote "War and Peace"?|Leo Tolstoy|Fyodor Dostoevsky;Anton Chekhov;Ivan Turgenev|Tolstoy
+art|3|Who wrote "Don Quixote"?|Miguel de Cervantes|Lope de Vega;Federico García Lorca;Gabriel García Márquez|Cervantes
+art|3|Who wrote "The Divine Comedy"?|Dante Alighieri|Petrarch;Boccaccio;Virgil|Dante
+art|3|Who wrote the ancient epic poems "The Iliad" and "The Odyssey"?|Homer|Virgil;Sophocles;Ovid
+art|3|Who wrote the Roman epic "The Aeneid"?|Virgil|Homer;Ovid;Horace|Vergil
+art|3|Who wrote "Les Misérables"?|Victor Hugo|Alexandre Dumas;Gustave Flaubert;Émile Zola|Hugo
+art|3|Who wrote "The Three Musketeers"?|Alexandre Dumas|Victor Hugo;Jules Verne;Honoré de Balzac|Dumas
+art|3|Who wrote "Around the World in Eighty Days"?|Jules Verne|H. G. Wells;Alexandre Dumas;Robert Louis Stevenson|Verne
+art|3|Who wrote "The War of the Worlds"?|H. G. Wells|Jules Verne;Arthur C. Clarke;Isaac Asimov|Wells
+art|3|Who wrote "Brave New World"?|Aldous Huxley|George Orwell;Ray Bradbury;Kurt Vonnegut|Huxley
+art|3|Who wrote "Fahrenheit 451"?|Ray Bradbury|Isaac Asimov;George Orwell;Philip K. Dick|Bradbury
+art|3|Who wrote "Treasure Island"?|Robert Louis Stevenson|Daniel Defoe;Jonathan Swift;Walter Scott|Stevenson
+art|3|Who wrote "Robinson Crusoe"?|Daniel Defoe|Jonathan Swift;Robert Louis Stevenson;Henry Fielding|Defoe
+art|3|Who wrote "Gulliver's Travels"?|Jonathan Swift|Daniel Defoe;Laurence Sterne;Samuel Johnson|Swift
+art|3|Who wrote "Life of Pi"?|Yann Martel|Michael Ondaatje;Rohinton Mistry;Lawrence Hill|Martel
+art|3|Who wrote "The English Patient"?|Michael Ondaatje|Yann Martel;Mordecai Richler;Robertson Davies|Ondaatje
+art|3|Which Canadian short-story writer won the 2013 Nobel Prize in Literature?|Alice Munro|Margaret Atwood;Mavis Gallant;Carol Shields|Munro
+art|3|Who wrote "The Apprenticeship of Duddy Kravitz"?|Mordecai Richler|Leonard Cohen;Robertson Davies;Timothy Findley|Richler
+art|3|Who wrote "Fifth Business", the first novel of the Deptford Trilogy?|Robertson Davies|Hugh MacLennan;W. O. Mitchell;Margaret Laurence|Davies
+art|3|Which group of Canadian landscape painters formed in 1920?|Group of Seven|Painters Eleven;Beaver Hall Group;Canadian Group of Painters
+art|3|Which painter, associated with the Group of Seven, drowned at Canoe Lake in 1917?|Tom Thomson|Lawren Harris;A. Y. Jackson;J. E. H. MacDonald|Thomson
+art|3|Which British Columbia artist is famous for painting forests and Indigenous totem poles?|Emily Carr|Tom Thomson;Lawren Harris;Bill Reid|Carr
+art|3|Which Dutch painter created "Girl with a Pearl Earring"?|Johannes Vermeer|Rembrandt;Frans Hals;Jan Steen|Vermeer
+art|3|Who painted "The Last Supper"?|Leonardo da Vinci|Michelangelo;Raphael;Titian|da Vinci;Leonardo
+art|3|Who painted "The Birth of Venus"?|Sandro Botticelli|Titian;Raphael;Caravaggio|Botticelli
+art|3|Who sculpted "The Thinker"?|Auguste Rodin|Michelangelo;Donatello;Bernini|Rodin
+art|3|Which American artist is known for drip paintings?|Jackson Pollock|Mark Rothko;Andy Warhol;Willem de Kooning|Pollock
+art|3|Which pop artist made comic-strip-style paintings like "Whaam!"?|Roy Lichtenstein|Andy Warhol;Keith Haring;Jasper Johns|Lichtenstein
+art|3|Who painted "American Gothic"?|Grant Wood|Edward Hopper;Norman Rockwell;Andrew Wyeth|Wood
+art|3|Who painted "Nighthawks", showing a late-night diner?|Edward Hopper|Grant Wood;Norman Rockwell;Georgia O'Keeffe|Hopper
+art|3|Which Austrian painter created "The Kiss" with gold leaf?|Gustav Klimt|Egon Schiele;Oskar Kokoschka;Edvard Munch|Klimt
+art|3|What is the art of beautiful handwriting called?|Calligraphy|Typography;Lithography;Iconography
+art|3|What is the Japanese art of paper folding?|Origami|Ikebana;Kirigami;Bonsai
+art|3|What is the name of a 14-line poem with a set rhyme scheme?|Sonnet|Haiku;Limerick;Ode
+art|3|A Japanese poem with three lines of 5, 7 and 5 syllables is a what?|Haiku|Tanka;Sonnet;Limerick
+art|3|In Greek mythology, who opened a jar releasing evils into the world?|Pandora|Persephone;Medusa;Psyche
+art|3|In Greek mythology, who slew the Minotaur?|Theseus|Perseus;Heracles;Jason
+art|3|In Greek mythology, who beheaded Medusa?|Perseus|Theseus;Achilles;Odysseus
+art|3|What was the name of Jason's ship in Greek mythology?|Argo|Trireme;Odyssey;Pegasus
+art|3|Which hero's only weak spot was his heel?|Achilles|Hector;Ajax;Odysseus
+art|3|Who is the Egyptian god of the dead, often shown with a jackal head?|Anubis|Osiris;Ra;Horus
+art|3|Who is the Roman equivalent of the Greek god Zeus?|Jupiter|Mars;Neptune;Saturn
+art|3|What is the name of the hall where Norse warriors go after death?|Valhalla|Asgard;Midgard;Helheim
+art|3|In "The Great Gatsby", who narrates the story?|Nick Carraway|Jay Gatsby;Tom Buchanan;Daisy Buchanan|Nick
+art|3|What is the name of the whale in "Moby-Dick"?|Moby Dick|Ahab;Ishmael;Queequeg
+art|3|What is the name of the captain obsessed with the white whale?|Captain Ahab|Captain Nemo;Captain Hook;Captain Queeg|Ahab
+art|3|In "Frankenstein", what is Frankenstein's first name?|Victor|Henry;Robert;William
+art|3|What is the name of the hobbit who carries the Ring to Mordor?|Frodo Baggins|Bilbo Baggins;Samwise Gamgee;Peregrin Took|Frodo
+art|3|What is the name of the dragon in "The Hobbit"?|Smaug|Glaurung;Ancalagon;Scatha
+art|3|In which city is Shakespeare's "Romeo and Juliet" set?|Verona|Venice;Padua;Florence
+art|4|Who wrote "One Hundred Years of Solitude"?|Gabriel García Márquez|Mario Vargas Llosa;Jorge Luis Borges;Isabel Allende|Garcia Marquez;Marquez
+art|4|Who wrote "Crime and Punishment"?|Fyodor Dostoevsky|Leo Tolstoy;Nikolai Gogol;Ivan Turgenev|Dostoevsky
+art|4|Who wrote "Anna Karenina"?|Leo Tolstoy|Fyodor Dostoevsky;Anton Chekhov;Boris Pasternak|Tolstoy
+art|4|Who wrote "Doctor Zhivago"?|Boris Pasternak|Aleksandr Solzhenitsyn;Mikhail Bulgakov;Leo Tolstoy|Pasternak
+art|4|Who wrote "The Metamorphosis", in which a man wakes as an insect?|Franz Kafka|Albert Camus;Thomas Mann;Hermann Hesse|Kafka
+art|4|Who wrote "The Stranger" ("L'Étranger")?|Albert Camus|Jean-Paul Sartre;André Gide;Samuel Beckett|Camus
+art|4|Who wrote the play "Waiting for Godot"?|Samuel Beckett|Eugène Ionesco;Harold Pinter;Tom Stoppard|Beckett
+art|4|Who wrote the play "Death of a Salesman"?|Arthur Miller|Tennessee Williams;Eugene O'Neill;Edward Albee|Miller
+art|4|Who wrote "A Streetcar Named Desire"?|Tennessee Williams|Arthur Miller;Eugene O'Neill;Sam Shepard|Williams
+art|4|Who wrote "The Importance of Being Earnest"?|Oscar Wilde|George Bernard Shaw;Noël Coward;Henrik Ibsen|Wilde
+art|4|Who wrote the play "A Doll's House"?|Henrik Ibsen|August Strindberg;Anton Chekhov;George Bernard Shaw|Ibsen
+art|4|Who wrote "Paradise Lost"?|John Milton|John Donne;William Blake;Geoffrey Chaucer|Milton
+art|4|Who wrote "The Canterbury Tales"?|Geoffrey Chaucer|William Langland;John Gower;Thomas Malory|Chaucer
+art|4|Which poet wrote "The Road Not Taken"?|Robert Frost|Walt Whitman;Carl Sandburg;Emily Dickinson|Frost
+art|4|Which poet wrote "Leaves of Grass"?|Walt Whitman|Robert Frost;Ralph Waldo Emerson;Henry Wadsworth Longfellow|Whitman
+art|4|Who wrote "The Cremation of Sam McGee", set in the Yukon?|Robert W. Service|John McCrae;E. Pauline Johnson;Al Purdy|Robert Service;Service
+art|4|Which Canadian singer-poet wrote the novel "Beautiful Losers"?|Leonard Cohen|Gordon Lightfoot;Joni Mitchell;Irving Layton|Cohen
+art|4|Which Italian Baroque painter is known for dramatic light and shadow (chiaroscuro)?|Caravaggio|Titian;Tintoretto;Raphael
+art|4|Which Spanish painter created "Las Meninas"?|Diego Velázquez|Francisco Goya;El Greco;Bartolomé Murillo|Velazquez
+art|4|Which artist painted "The Garden of Earthly Delights"?|Hieronymus Bosch|Pieter Bruegel the Elder;Jan van Eyck;Albrecht Dürer|Bosch
+art|4|Which French painter is known for his paintings of ballet dancers?|Edgar Degas|Claude Monet;Henri Matisse;Georges Seurat|Degas
+art|4|Which painter used tiny dots in "A Sunday Afternoon on the Island of La Grande Jatte"?|Georges Seurat|Paul Signac;Camille Pissarro;Henri Rousseau|Seurat
+art|4|What is the technique of painting with tiny dots of colour called?|Pointillism|Impasto;Sfumato;Fresco
+art|4|What is a painting done on wet plaster called?|Fresco|Tempera;Mural;Gouache
+art|4|Which architect designed the Guggenheim Museum in Bilbao?|Frank Gehry|Frank Lloyd Wright;Zaha Hadid;Renzo Piano|Gehry
+art|4|Which Toronto-born architect designed the Walt Disney Concert Hall in Los Angeles?|Frank Gehry|Moshe Safdie;Arthur Erickson;Daniel Libeskind|Gehry
+art|4|Which Catalan architect designed the Sagrada Família?|Antoni Gaudí|Joan Miró;Lluís Domènech i Montaner;Santiago Calatrava|Gaudi
+art|4|Which Mexican muralist was married to Frida Kahlo?|Diego Rivera|José Clemente Orozco;David Alfaro Siqueiros;Rufino Tamayo|Rivera
+art|4|In Norse mythology, what is the name of Thor's hammer?|Mjölnir|Gungnir;Gram;Skofnung|Mjolnir
+art|4|In Greek mythology, who is the ferryman of the dead across the river Styx?|Charon|Cerberus;Hermes;Thanatos
+art|4|Which Greek hero performed twelve labours?|Heracles|Perseus;Theseus;Jason|Hercules
+art|4|Who is the Greek goddess of the harvest and mother of Persephone?|Demeter|Hera;Hestia;Gaia
+art|4|What is the name of the winged horse in Greek mythology?|Pegasus|Bucephalus;Sleipnir;Arion
+art|4|What is the name of Odin's eight-legged horse?|Sleipnir|Pegasus;Grani;Hrimfaxi
+art|4|What is the name of the tree that connects the nine worlds in Norse mythology?|Yggdrasil|Asgard;Bifrost;Mimir
+art|4|In Arthurian legend, what is the name of King Arthur's sword?|Excalibur|Caliburn;Durendal;Clarent
+art|4|What is the name of Don Quixote's loyal squire?|Sancho Panza|Dulcinea;Rocinante;Lazarillo|Sancho
+art|4|In "Nineteen Eighty-Four", what is the name of the all-seeing leader?|Big Brother|Emmanuel Goldstein;O'Brien;The Party
+art|4|What is the name of the pig who leads the farm in "Animal Farm"?|Napoleon|Snowball;Boxer;Squealer
+art|5|Who wrote "Ulysses", set over one day in Dublin?|James Joyce|Samuel Beckett;W. B. Yeats;Oscar Wilde|Joyce
+art|5|Who wrote "Mrs Dalloway"?|Virginia Woolf|Katherine Mansfield;E. M. Forster;Edith Wharton|Woolf
+art|5|Who wrote "In Search of Lost Time"?|Marcel Proust|Gustave Flaubert;André Gide;Émile Zola|Proust
+art|5|Who wrote "Madame Bovary"?|Gustave Flaubert|Honoré de Balzac;Stendhal;Guy de Maupassant|Flaubert
+art|5|Who wrote "The Brothers Karamazov"?|Fyodor Dostoevsky|Leo Tolstoy;Ivan Turgenev;Nikolai Gogol|Dostoevsky
+art|5|Who wrote "The Stone Angel", featuring Hagar Shipley?|Margaret Laurence|Margaret Atwood;Gabrielle Roy;Sinclair Ross|Laurence
+art|5|Who wrote "Who Has Seen the Wind"?|W. O. Mitchell|Sinclair Ross;Farley Mowat;Robertson Davies|Mitchell;WO Mitchell
+art|5|Who wrote the epic poem "Evangeline", about the Acadian expulsion?|Henry Wadsworth Longfellow|Walt Whitman;Robert Frost;Edgar Allan Poe|Longfellow
+art|5|Who painted "The Raft of the Medusa"?|Théodore Géricault|Eugène Delacroix;Jacques-Louis David;J. M. W. Turner|Gericault
+art|5|Who painted "Liberty Leading the People"?|Eugène Delacroix|Théodore Géricault;Jacques-Louis David;Gustave Courbet|Delacroix
+art|5|Which Russian painter is considered a pioneer of abstract art and wrote "Concerning the Spiritual in Art"?|Wassily Kandinsky|Kazimir Malevich;Marc Chagall;El Lissitzky|Kandinsky
+art|5|Which German art school was founded by Walter Gropius in 1919?|Bauhaus|Deutscher Werkbund;Die Brücke;Der Blaue Reiter
+art|5|Which Haida artist created "The Spirit of Haida Gwaii" sculpture?|Bill Reid|Robert Davidson;Norval Morrisseau;Kenojuak Ashevak|Reid
+art|5|Which Anishinaabe artist founded the Woodland School of art?|Norval Morrisseau|Daphne Odjig;Carl Ray;Benjamin Chee Chee|Morrisseau
+art|5|Who is the Hindu god with an elephant's head?|Ganesha|Vishnu;Shiva;Hanuman|Ganesh
+art|5|In Egyptian mythology, who is the sun god?|Ra|Osiris;Anubis;Thoth|Re
+art|5|Which goddess of the hunt is the twin sister of Apollo?|Artemis|Athena;Hera;Selene

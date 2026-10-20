@@ -1,0 +1,124 @@
+# Entertainment pack 1 — classic film, TV, music (incl. Canadian)
+ent|1|Which band sang "Hey Jude"?|The Beatles|The Rolling Stones;The Who;The Kinks|Beatles
+ent|1|Who is known as the "King of Pop"?|Michael Jackson|Prince;Elvis Presley;Justin Timberlake|Jackson
+ent|1|What is the name of the toy cowboy in "Toy Story"?|Woody|Buzz;Jessie;Rex
+ent|1|In "The Wizard of Oz", what colour are Dorothy's slippers in the film?|Ruby red|Silver;Gold;Emerald green|Red;Ruby
+ent|1|What is the name of the snowman in Disney's "Frozen"?|Olaf|Sven;Kristoff;Hans
+ent|1|What kind of animal is Simba in "The Lion King"?|Lion|Tiger;Cheetah;Leopard
+ent|1|Which superhero is also known as the Dark Knight?|Batman|Superman;Spider-Man;Daredevil
+ent|1|What is Superman's home planet?|Krypton|Mars;Vulcan;Asgard
+ent|1|Which Canadian singer released "Baby" in 2010 and became a global star?|Justin Bieber|Shawn Mendes;Drake;The Weeknd|Bieber
+ent|1|Which Canadian singer recorded "My Heart Will Go On" for "Titanic"?|Céline Dion|Shania Twain;Alanis Morissette;Sarah McLachlan|Celine Dion;Dion
+ent|2|Who directed "Jaws" and "E.T. the Extra-Terrestrial"?|Steven Spielberg|George Lucas;James Cameron;Ridley Scott|Spielberg
+ent|2|Who created "Star Wars"?|George Lucas|Steven Spielberg;J. J. Abrams;Gene Roddenberry|Lucas
+ent|2|Which Canadian-born director made "Titanic" and "Avatar"?|James Cameron|Denis Villeneuve;David Cronenberg;Norman Jewison|Cameron
+ent|2|What is the name of Darth Vader's son?|Luke Skywalker|Han Solo;Anakin Skywalker;Ben Kenobi|Luke
+ent|2|Which film features the line "Here's looking at you, kid"?|Casablanca|Gone with the Wind;Citizen Kane;The Maltese Falcon
+ent|2|Which film features the line "I'll be back"?|The Terminator|RoboCop;Die Hard;Predator|Terminator
+ent|2|In "Back to the Future", what car is the time machine?|DeLorean|Corvette;Mustang;Ferrari|DeLorean DMC-12
+ent|2|Which actor played Jack in "Titanic"?|Leonardo DiCaprio|Brad Pitt;Matt Damon;Johnny Depp|DiCaprio
+ent|2|Which actress played Rose in "Titanic"?|Kate Winslet|Gwyneth Paltrow;Claire Danes;Nicole Kidman|Winslet
+ent|2|Who played the title role in "Indiana Jones"?|Harrison Ford|Tom Selleck;Kevin Costner;Mel Gibson|Ford
+ent|2|In "Ghostbusters", which Canadian actor played Ray Stantz?|Dan Aykroyd|Bill Murray;Harold Ramis;Rick Moranis|Aykroyd
+ent|2|Which Canadian comedian starred in "Ace Ventura" and "The Mask"?|Jim Carrey|Mike Myers;Martin Short;John Candy|Carrey
+ent|2|Which Canadian comedian played Austin Powers and voiced Shrek?|Mike Myers|Jim Carrey;Eugene Levy;Dan Aykroyd|Myers
+ent|2|Which TV comedy is set in the fictional Rose family's town of Schitt's Creek?|Schitt's Creek|Corner Gas;Letterkenny;Kim's Convenience
+ent|2|Which Saskatchewan-set Canadian sitcom features Brent Leroy's gas station?|Corner Gas|Letterkenny;Trailer Park Boys;Schitt's Creek
+ent|2|What is the name of the coffee shop in "Friends"?|Central Perk|Monk's Café;The Peach Pit;Luke's Diner|Central Perk Café
+ent|2|What is the name of the paper company in "The Office" (US)?|Dunder Mifflin|Sabre;Wernham Hogg;Vance Refrigeration
+ent|2|What is the name of the family's son in "The Simpsons"?|Bart|Homer;Lisa;Milhouse|Bart Simpson
+ent|2|What town do the Simpsons live in?|Springfield|Shelbyville;Quahog;South Park
+ent|2|In "Breaking Bad", what is Walter White's alias?|Heisenberg|Gus;Pinkman;Saul
+ent|2|Which fantasy series features the Iron Throne?|Game of Thrones|The Witcher;The Wheel of Time;The Lord of the Rings|A Song of Ice and Fire
+ent|2|Which band was fronted by Freddie Mercury?|Queen|Genesis;Led Zeppelin;The Police
+ent|2|Which singer is known as the "Material Girl"?|Madonna|Cyndi Lauper;Whitney Houston;Kylie Minogue
+ent|2|Which Canadian rapper released "Hotline Bling"?|Drake|The Weeknd;Tory Lanez;Kardinal Offishall
+ent|2|Which Canadian singer had a hit with "Blinding Lights"?|The Weeknd|Drake;Shawn Mendes;Daniel Caesar|Weeknd;Abel Tesfaye
+ent|2|Which Canadian singer released "Jagged Little Pill" in 1995?|Alanis Morissette|Avril Lavigne;Sarah McLachlan;Jann Arden|Morissette
+ent|2|Which Canadian country singer released "Man! I Feel Like a Woman!"?|Shania Twain|Terri Clark;Carolyn Dawn Johnson;Anne Murray|Twain
+ent|2|Which Canadian band recorded "Tom Sawyer" and "Limelight"?|Rush|April Wine;Triumph;Saga
+ent|2|Which Canadian singer recorded "Summer of '69"?|Bryan Adams|Corey Hart;Tom Cochrane;Burton Cummings|Adams
+ent|2|Which Kingston, Ontario band was fronted by Gord Downie?|The Tragically Hip|Blue Rodeo;Our Lady Peace;The Guess Who|Tragically Hip;The Hip
+ent|2|Which Winnipeg band had hits with "American Woman"?|The Guess Who|Bachman-Turner Overdrive;Streetheart;Harlequin|Guess Who
+ent|2|Which Canadian singer-songwriter wrote "Big Yellow Taxi" and "Both Sides Now"?|Joni Mitchell|Joan Baez;Carole King;Buffy Sainte-Marie|Mitchell
+ent|2|Which Canadian wrote "Hallelujah", covered by countless artists?|Leonard Cohen|Neil Young;Gordon Lightfoot;Ron Sexsmith|Cohen
+ent|2|Which Canadian rocker sang "Heart of Gold" and "Rockin' in the Free World"?|Neil Young|Bryan Adams;Gordon Lightfoot;Randy Bachman|Young
+ent|2|Which Canadian folk singer wrote "The Wreck of the Edmund Fitzgerald"?|Gordon Lightfoot|Stompin' Tom Connors;Murray McLauchlan;Bruce Cockburn|Lightfoot
+ent|2|Which Canadian singer sang "The Hockey Song"?|Stompin' Tom Connors|Gordon Lightfoot;Rita MacNeil;Anne Murray|Stompin Tom;Tom Connors
+ent|3|Which film won the first Academy Award for Best Picture?|Wings|Sunrise;The Jazz Singer;All Quiet on the Western Front
+ent|3|What was the first feature-length "talkie" film, released in 1927?|The Jazz Singer|Wings;Metropolis;The General
+ent|3|Which film won the Academy Award for Best Picture for 1994?|Forrest Gump|Pulp Fiction;The Shawshank Redemption;Four Weddings and a Funeral
+ent|3|Which film won the Academy Award for Best Picture for 1997?|Titanic|Good Will Hunting;L.A. Confidential;As Good as It Gets
+ent|3|Which film trilogy's final entry, "The Return of the King", won 11 Oscars?|The Lord of the Rings|The Matrix;The Godfather;Star Wars|Lord of the Rings
+ent|3|Who directed "Psycho" and "Vertigo"?|Alfred Hitchcock|Orson Welles;Billy Wilder;Stanley Kubrick|Hitchcock
+ent|3|Who directed "2001: A Space Odyssey"?|Stanley Kubrick|Ridley Scott;Steven Spielberg;George Lucas|Kubrick
+ent|3|Who directed and starred in "Citizen Kane"?|Orson Welles|Charlie Chaplin;John Huston;Humphrey Bogart|Welles
+ent|3|Which Quebec director made "Arrival", "Blade Runner 2049" and "Dune"?|Denis Villeneuve|Xavier Dolan;Jean-Marc Vallée;Denys Arcand|Villeneuve
+ent|3|Which Toronto director made "Videodrome" and "The Fly"?|David Cronenberg|Atom Egoyan;Ivan Reitman;Norman Jewison|Cronenberg
+ent|3|In "The Godfather", what is the family name of the mafia family?|Corleone|Soprano;Gambino;Tattaglia
+ent|3|What is the name of the fictional theme park in "Jurassic Park"?|Jurassic Park|Dino World;Isla Nublar Park;Raptor Land
+ent|3|In "Star Wars", what is the name of Han Solo's ship?|Millennium Falcon|X-Wing;Slave I;Star Destroyer|The Millennium Falcon
+ent|3|What is James Bond's code number?|007|001;009;700|Double-O Seven
+ent|3|Who played the Joker in "The Dark Knight" (2008)?|Heath Ledger|Jack Nicholson;Joaquin Phoenix;Jared Leto|Ledger
+ent|3|Which Canadian actor starred in "The Notebook" and "La La Land"?|Ryan Gosling|Ryan Reynolds;Hayden Christensen;Keanu Reeves|Gosling
+ent|3|Which Vancouver-born actor plays Deadpool?|Ryan Reynolds|Ryan Gosling;Seth Rogen;Michael Cera|Reynolds
+ent|3|Which Canadian actor played Neo in "The Matrix"?|Keanu Reeves|Brendan Fraser;Kiefer Sutherland;Christopher Plummer|Reeves
+ent|3|Which Canadian actor played Captain von Trapp in "The Sound of Music"?|Christopher Plummer|Donald Sutherland;Raymond Burr;William Shatner|Plummer
+ent|3|Which Montreal-born actor played Captain Kirk in "Star Trek"?|William Shatner|Leonard Nimoy;James Doohan;DeForest Kelley|Shatner
+ent|3|Which Canadian actor played Scotty, the engineer, in "Star Trek"?|James Doohan|William Shatner;Leonard Nimoy;George Takei|Doohan
+ent|3|In which TV show would you find Sheldon Cooper?|The Big Bang Theory|Two and a Half Men;Friends;How I Met Your Mother|Big Bang Theory
+ent|3|What is the name of the bar in "Cheers"?|Cheers|Paddy's Pub;MacLaren's;Moe's Tavern
+ent|3|In which city is "Frasier" set?|Seattle|Boston;Chicago;San Francisco
+ent|3|Which TV series follows Don Draper at an advertising agency?|Mad Men|Suits;The West Wing;Boardwalk Empire
+ent|3|Which Canadian teen drama franchise is set at a high school with that name?|Degrassi|Edgemont;Instant Star;Being Erica
+ent|3|Which CBC satire show did Rick Mercer co-found in 1993?|This Hour Has 22 Minutes|The Kids in the Hall;Royal Canadian Air Farce;SCTV
+ent|3|Which hockey-themed CBC broadcast has run since the 1950s on Saturday nights?|Hockey Night in Canada|Sportsnet Saturday;The Hockey Show;NHL Tonight
+ent|3|Which actor played Mr. Dressup on the long-running CBC children's show?|Ernie Coombs|Fred Rogers;Bob Homme;Fred Penner|Mr. Dressup;Coombs
+ent|3|Which famous puppet show creator produced "Fraggle Rock" with CBC?|Jim Henson|Frank Oz;Bob Homme;Sid Krofft|Henson
+ent|3|Which band released the album "The Dark Side of the Moon"?|Pink Floyd|Led Zeppelin;Yes;Genesis
+ent|3|Which band released the album "Rumours" in 1977?|Fleetwood Mac|Eagles;The Doobie Brothers;Heart
+ent|3|Which band recorded "Hotel California"?|Eagles|Fleetwood Mac;Steely Dan;America|The Eagles
+ent|3|Which band recorded "Stairway to Heaven"?|Led Zeppelin|Deep Purple;Black Sabbath;The Who
+ent|3|Which singer was known as the "Queen of Soul"?|Aretha Franklin|Diana Ross;Whitney Houston;Etta James|Franklin
+ent|3|Which artist released the album "Thriller"?|Michael Jackson|Prince;Lionel Richie;Stevie Wonder|Jackson
+ent|3|Which singer's record-breaking 2023–24 tour was called "The Eras Tour"?|Taylor Swift|Beyoncé;Adele;Lady Gaga|Swift
+ent|3|Which British singer released the albums "21" and "25"?|Adele|Amy Winehouse;Duffy;Ellie Goulding
+ent|3|What was Elvis Presley's home in Memphis called?|Graceland|Neverland;Paisley Park;Sun Studio
+ent|3|Which Liverpool club did the Beatles famously play early in their career?|The Cavern Club|The Star Club;The Marquee;The Roundhouse|Cavern Club;Cavern
+ent|3|Which British band had hits with "Wonderwall"?|Oasis|Blur;Pulp;The Verve
+ent|3|Which Seattle band released "Smells Like Teen Spirit"?|Nirvana|Pearl Jam;Soundgarden;Alice in Chains
+ent|3|Which instrument did Jimi Hendrix famously play?|Guitar|Drums;Bass;Keyboards|Electric guitar
+ent|4|Which Canadian band won a Grammy for Album of the Year in 2011 for "The Suburbs"?|Arcade Fire|Broken Social Scene;Metric;The New Pornographers
+ent|4|The Juno Awards are named after which CRTC chairman?|Pierre Juneau|John Juno;Marshall McLuhan;Peter Gzowski|Juneau
+ent|4|Who wrote the play "Kim's Convenience", later adapted as a CBC sitcom?|Ins Choi|Paul Sun-Hyung Lee;Simu Liu;Jean Yoon|Choi
+ent|4|Which Canadian actor plays Shang-Chi in the Marvel film?|Simu Liu|Paul Sun-Hyung Lee;Manny Jacinto;Andrew Phung|Liu
+ent|4|Which Canadian comedy troupe made "Brain Candy"?|The Kids in the Hall|SCTV;Royal Canadian Air Farce;The Frantics|Kids in the Hall
+ent|4|Which Toronto comedy show launched John Candy, Martin Short and Catherine O'Hara?|SCTV|The Kids in the Hall;Saturday Night Live;Second City Live|Second City Television
+ent|4|Which Canadian creator founded "Saturday Night Live"?|Lorne Michaels|Lorne Greene;Ivan Reitman;Dan Aykroyd|Michaels
+ent|4|Which Canadian actor starred as Ben Cartwright in "Bonanza"?|Lorne Greene|Raymond Burr;William Shatner;Leslie Nielsen|Greene
+ent|4|Which Canadian actor starred in "The Naked Gun" and "Airplane!"?|Leslie Nielsen|John Candy;Eugene Levy;Rick Moranis|Nielsen
+ent|4|Which film won the Academy Award for Best Picture for 2003?|The Lord of the Rings: The Return of the King|Master and Commander;Mystic River;Lost in Translation|The Return of the King;Return of the King
+ent|4|Which director made "Pulp Fiction" and "Kill Bill"?|Quentin Tarantino|Robert Rodriguez;Guy Ritchie;Martin Scorsese|Tarantino
+ent|4|Which director made "Goodfellas" and "Taxi Driver"?|Martin Scorsese|Francis Ford Coppola;Brian De Palma;Sidney Lumet|Scorsese
+ent|4|Which Japanese studio made "Spirited Away"?|Studio Ghibli|Toei Animation;Madhouse;Sunrise|Ghibli
+ent|4|Who directed "Spirited Away"?|Hayao Miyazaki|Isao Takahata;Satoshi Kon;Makoto Shinkai|Miyazaki
+ent|4|What was the first Pixar feature film?|Toy Story|A Bug's Life;Finding Nemo;Monsters, Inc.
+ent|4|What was Disney's first full-length animated feature?|Snow White and the Seven Dwarfs|Pinocchio;Fantasia;Cinderella|Snow White
+ent|4|Which actress starred in "Breakfast at Tiffany's"?|Audrey Hepburn|Grace Kelly;Marilyn Monroe;Elizabeth Taylor|Hepburn
+ent|4|Which actor holds the record for most Best Actor Oscars, with three?|Daniel Day-Lewis|Jack Nicholson;Tom Hanks;Marlon Brando|Day-Lewis
+ent|4|Which actress has won the most acting Oscars, with four?|Katharine Hepburn|Meryl Streep;Bette Davis;Ingrid Bergman|Hepburn
+ent|4|Which David Lynch TV series is set in a small Washington State logging town?|Twin Peaks|Lost Highway;Blue Velvet;Mulholland Drive
+ent|4|Which sci-fi series features the TARDIS?|Doctor Who|Star Trek;Red Dwarf;Babylon 5
+ent|4|What does the TARDIS look like from the outside?|A police box|A phone booth;A red bus;A lighthouse|Police box;blue police box
+ent|4|Which series follows the Dutton family ranch in Montana?|Yellowstone|Longmire;Justified;Ozark
+ent|4|Which classical composer is portrayed in the film "Amadeus"?|Wolfgang Amadeus Mozart|Ludwig van Beethoven;Antonio Salieri;Joseph Haydn|Mozart
+ent|4|What was the Beatles' final studio album recorded (released 1969)?|Abbey Road|Let It Be;The White Album;Revolver
+ent|4|Which Canadian jazz pianist was known for "Night Train" and virtuoso technique?|Oscar Peterson|Oliver Jones;Diana Krall;Paul Bley|Peterson
+ent|4|Which Canadian pianist was famous for his recordings of Bach's Goldberg Variations?|Glenn Gould|Oscar Peterson;Angela Hewitt;Marc-André Hamelin|Gould
+ent|4|Which Nanaimo-born jazz singer-pianist married Elvis Costello?|Diana Krall|Holly Cole;Molly Johnson;Emilie-Claire Barlow|Krall
+ent|5|Which Canadian film by Denys Arcand won the 2004 Oscar for Best Foreign Language Film?|The Barbarian Invasions|Incendies;Monsieur Lazhar;Jesus of Montreal|Les Invasions barbares
+ent|5|Which Canadian-born silent film star was called "America's Sweetheart"?|Mary Pickford|Fay Wray;Norma Shearer;Marie Dressler|Pickford
+ent|5|Which Canadian actress played Ann Darrow in the original "King Kong" (1933)?|Fay Wray|Mary Pickford;Norma Shearer;Ruby Keeler|Wray
+ent|5|Who composed the music for "O Canada"?|Calixa Lavallée|Healey Willan;Ernest MacMillan;Robert Stanley Weir|Lavallee
+ent|5|Who wrote the English lyrics of "O Canada" (1908)?|Robert Stanley Weir|Calixa Lavallée;Adolphe-Basile Routhier;Stephen Leacock|Weir
+ent|5|In which year did "O Canada" officially become the national anthem?|1980|1867;1931;1967

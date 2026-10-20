@@ -1,0 +1,112 @@
+# Rewritten from Open Trivia DB batch 4 (music)
+ent|4|Which Mexican singer duetted with Beyoncé on the 2007 Spanish-language song "Amor Gitano"?|Alejandro Fernández|Luis Miguel;Enrique Iglesias;Marc Anthony|Fernandez
+ent|4|Which Elton John album from 1975 is autobiographical, casting him as "Captain Fantastic"?|Captain Fantastic and the Brown Dirt Cowboy|Goodbye Yellow Brick Road;Madman Across the Water;Honky Château
+ent|3|Slash of Guns N' Roses is best known for playing which guitar model?|Gibson Les Paul|Fender Stratocaster;Gibson SG;Fender Telecaster|Les Paul
+ent|3|Which song won Eurovision for ABBA and became their first UK hit?|Waterloo|Mamma Mia;Dancing Queen;Fernando
+ent|3|Which Disney heroine sings "A Dream Is a Wish Your Heart Makes"?|Cinderella|Snow White;Aurora;Belle
+ent|5|Which West Country novelty band had a 1976 UK number one with "Combine Harvester"?|The Wurzels|The Barron Knights;Bonzo Dog Doo-Dah Band;Chas & Dave|Wurzels
+ent|4|What was Pink Floyd's debut album, released in 1967?|The Piper at the Gates of Dawn|A Saucerful of Secrets;Meddle;Atom Heart Mother
+ent|4|"Strawberry Fields Forever" was recorded for "Sgt. Pepper" but released instead as a single with which song?|Penny Lane|Hey Jude;Lady Madonna;All You Need Is Love
+ent|4|Which M83 song plays on the radio in "Grand Theft Auto V" and became the band's biggest hit?|Midnight City|Wait;Reunion;Outro
+ent|3|Pink Floyd's "Shine On You Crazy Diamond" is a tribute to which former member?|Syd Barrett|Roger Waters;Rick Wright;Nick Mason|Barrett
+ent|4|Madonna's "Hung Up" samples which ABBA song?|Gimme! Gimme! Gimme! (A Man After Midnight)|Dancing Queen;Lay All Your Love on Me;Take a Chance on Me|Gimme Gimme Gimme
+ent|2|Which band sang "Walk Like an Egyptian"?|The Bangles|The Go-Go's;Bananarama;Heart|Bangles
+ent|3|UB40 had a reggae hit with which song first made famous by Elvis Presley?|Can't Help Falling in Love|Suspicious Minds;Love Me Tender;Always on My Mind
+ent|4|"Celebration Day" appears on which Led Zeppelin album?|Led Zeppelin III|Led Zeppelin IV;Physical Graffiti;Houses of the Holy
+ent|3|Which singer is featured on Jack Ü's 2015 hit "Where Are Ü Now"?|Justin Bieber|The Weeknd;Shawn Mendes;Ed Sheeran|Bieber
+ent|1|Brian May is the guitarist for which band?|Queen|Deep Purple;Def Leppard;The Who
+ent|4|Which producer released "Harlem Shake", the 2013 viral dance meme song?|Baauer|Diplo;Skrillex;Flosstradamus
+ent|5|John Lennon called which band, led by Jeff Lynne, "sons of the Beatles"?|Electric Light Orchestra|The Moody Blues;Badfinger;Wings|ELO
+ent|3|The music paper NME stands for what?|New Musical Express|National Music Entertainment;New Music Edition;North Midlands Express
+ent|4|Which 1999 Moby album, built on old blues and gospel samples, became a worldwide hit?|Play|18;Everything Is Wrong;Wait for Me
+ent|4|DJ Khaled is from which US city?|Miami|New Orleans;Atlanta;Houston
+ent|4|Which Rush drummer wrote most of the band's lyrics?|Neil Peart|Geddy Lee;Alex Lifeson;John Rutsey|Peart
+ent|3|Which band released the album "Parallel Lines", featuring "Heart of Glass"?|Blondie|The Pretenders;Talking Heads;The Cars
+ent|4|"Moving Pictures" is an album by which Canadian band, not Pink Floyd?|Rush|The Tragically Hip;Triumph;April Wine
+ent|4|"You'll Be in My Heart" from Disney's "Tarzan" was written and sung by whom?|Phil Collins|Elton John;Sting;Peter Gabriel|Collins
+ent|1|What instrument did Ringo Starr play in the Beatles?|Drums|Bass;Rhythm guitar;Piano
+ent|3|In 2007, which band released "In Rainbows" online with a pay-what-you-want price?|Radiohead|Coldplay;Nine Inch Nails;Arcade Fire
+ent|4|The Cranberries' "Zombie" was written in response to which 1993 tragedy?|The Warrington bombing|The Omagh bombing;Bloody Sunday;The Brighton hotel bombing|Warrington bombings
+ent|4|What was Prince's best-known backing band called?|The Revolution|The New Power Generation;The Time;The Family
+ent|2|"Some people call me the space cowboy" opens which Steve Miller Band song?|The Joker|Fly Like an Eagle;Take the Money and Run;Abracadabra
+ent|3|Who sang "I Took a Pill in Ibiza"?|Mike Posner|Avicii;Kygo;Calvin Harris|Posner
+ent|4|Which band, formed by Andrew VanWyngarden and Ben Goldwasser, released "Time to Pretend" and "Kids"?|MGMT|Passion Pit;Empire of the Sun;Foster the People
+ent|2|In Bob Dylan's 1973 song, he's "knock-knock-knockin'" on whose door?|Heaven's|Death's;Mama's;The Devil's
+ent|4|"I'm Gonna Be (500 Miles)" by The Proclaimers peaked at what US chart position in 1993?|3|1;5;12|third;No. 3
+ent|4|Which band released the 1991 album "Out of Time", with "Losing My Religion"?|R.E.M.|U2;The Smiths;Counting Crows|REM
+ent|4|Artis Leon Ivey Jr. is better known as which rapper?|Coolio|Ice-T;Warren G;Too Short
+ent|5|The electronic duo The Knife comes from which country?|Sweden|Norway;Iceland;Denmark
+ent|3|In what year was Dire Straits' "Money for Nothing" released?|1985|1979;1982;1989
+ent|3|What was David Bowie's real surname?|Jones|Smith;Jagger;Hunter
+ent|4|In which country was Nicki Minaj born?|Trinidad and Tobago|Jamaica;Barbados;Haiti|Trinidad
+ent|5|In "Happy Feet", Brittany Murphy sings which Queen song?|Somebody to Love|Bohemian Rhapsody;Don't Stop Me Now;We Are the Champions
+ent|3|By certified US album sales, which act has sold the most?|The Beatles|Elvis Presley;Michael Jackson;Garth Brooks|Beatles
+ent|3|Which of these bands formed first, in 1965?|Pink Floyd|AC/DC;Queen;Metallica
+ent|3|Papageno and Pamina are characters in which Mozart opera?|The Magic Flute|Don Giovanni;The Marriage of Figaro;Così fan tutte
+ent|4|"The Wall" is an album by which band?|Pink Floyd|The Who;Genesis;Yes
+ent|3|Tchaikovsky's "1812 Overture" was composed in which year?|1880|1812;1850;1899
+ent|4|What is the real name of Toronto electronic producer deadmau5?|Joel Zimmerman|Sonny Moore;Adam Wiles;Thomas Pentz|Zimmerman
+ent|4|What was Radiohead's debut album, featuring "Creep"?|Pablo Honey|The Bends;OK Computer;Kid A
+ent|4|Who was the guitarist in The Doors?|Robby Krieger|Ray Manzarek;John Densmore;Jim Morrison|Krieger
+ent|3|Gorillaz co-creator Damon Albarn also fronts which Britpop band?|Blur|Oasis;Pulp;Suede
+ent|2|In Nelly's "Hot in Herre", what does he suggest doing when it's hot?|Take off all your clothes|Turn on the fan;Jump in the pool;Open a window
+ent|4|Which Irish band features on Kendrick Lamar's 2017 song "XXX."?|U2|The Cranberries;Thin Lizzy;The Script
+ent|2|Johnny Cash famously covered "Hurt", written by which band's Trent Reznor?|Nine Inch Nails|Marilyn Manson;Depeche Mode;Ministry
+ent|4|Which singer released the album "Lift Your Spirit" with "The Man"?|Aloe Blacc|John Legend;Bruno Mars;CeeLo Green
+ent|4|"Once Upon a Time in Shaolin", sold as a single copy for $2 million, is by which hip-hop group?|Wu-Tang Clan|Public Enemy;A Tribe Called Quest;De La Soul
+ent|2|Which Foo Fighters frontman was previously Nirvana's drummer?|Dave Grohl|Taylor Hawkins;Krist Novoselic;Pat Smear|Grohl
+ent|3|Ed Sheeran's albums are named after which symbols?|Mathematical symbols|Planets;Greek letters;Musical notes|Maths symbols;Math symbols
+ent|2|Which Spice Girl was "Ginger Spice"?|Geri Halliwell|Mel B;Emma Bunton;Victoria Beckham|Geri
+ent|2|Drake sits atop which Toronto landmark on the cover of "Views"?|CN Tower|Rogers Centre;Casa Loma;Royal York Hotel
+ent|3|Which Pink Floyd album became a 1982 film starring Bob Geldof?|The Wall|The Dark Side of the Moon;Animals;Wish You Were Here
+ent|4|Which Megadeth founder was fired from Metallica in 1983?|Dave Mustaine|Kirk Hammett;Cliff Burton;Jason Newsted|Mustaine
+ent|4|Who is the lead singer of The Lumineers?|Wesley Schultz|Jeremiah Fraites;Marcus Mumford;Win Butler|Schultz
+ent|4|Dutch DJ Armin van Buuren is best known for which genre?|Trance|House;Dubstep;Drum and bass
+ent|4|How are the members of Kings of Leon related?|Brothers and a cousin|Father and sons;Childhood neighbours;College roommates|Family;Brothers
+ent|2|Which band sang "Rio", "Hungry Like the Wolf" and "The Reflex"?|Duran Duran|Spandau Ballet;A-ha;Tears for Fears
+ent|2|Which Danish-Norwegian group sang "Barbie Girl"?|Aqua|Vengaboys;Eiffel 65;Ace of Base
+ent|4|Which singer released "F**kin' Perfect" in 2010?|P!nk|Kelly Clarkson;Avril Lavigne;Katy Perry|Pink
+ent|4|"Midnight City" comes from which M83 album?|Hurry Up, We're Dreaming|Saturdays = Youth;Junk;Dead Cities
+ent|3|Who sang the 1974 disco hit "Kung Fu Fighting"?|Carl Douglas|Kool & the Gang;Bee Gees;Barry White|Douglas
+ent|3|Which Nirvana album shows a baby swimming toward a dollar bill?|Nevermind|In Utero;Bleach;Unplugged in New York
+ent|3|Who is the lead singer of The Smashing Pumpkins?|Billy Corgan|Eddie Vedder;Chris Cornell;Scott Weiland|Corgan
+ent|4|The viral hit "Caramelldansen" is sung in which language?|Swedish|Japanese;Finnish;Danish
+ent|2|In which decade did the "British Invasion" of the US pop charts happen?|1960s|1950s;1970s;1980s|60s;sixties
+ent|4|Which hard-rock band's drummer, Rick Allen, plays with one arm?|Def Leppard|Whitesnake;Iron Maiden;Foreigner
+ent|3|Which band is fronted by Robert Smith?|The Cure|The Smiths;Joy Division;Siouxsie and the Banshees|Cure
+ent|4|Which of these bands is from Sweden, not Finland?|Sabaton|Nightwish;Lordi;HIM
+ent|4|Bon Iver's debut album was written in a remote cabin. What is it called?|For Emma, Forever Ago|Bon Iver, Bon Iver;22, A Million;Blood Bank
+ent|2|In what year was Rick Astley's "Never Gonna Give You Up" released?|1987|1984;1990;1993
+ent|4|Michael Jackson's "Will You Be There" was the theme for which 1993 film?|Free Willy|Jurassic Park;Mrs. Doubtfire;Home Alone 2
+ent|3|Who composed "Rhapsody in Blue"?|George Gershwin|Irving Berlin;Cole Porter;Aaron Copland|Gershwin
+ent|4|Composer Nobuo Uematsu formed a rock band to play music from which video game series?|Final Fantasy|Dragon Quest;Zelda;Kingdom Hearts
+ent|5|How many sharps are in the key of G-sharp minor?|5|3;6;7|five
+ent|3|"Eleanor Rigby" appears on which Beatles album?|Revolver|Rubber Soul;Help!;Let It Be
+ent|3|Which date is sung about in Earth, Wind & Fire's "September"?|The 21st of September|The 1st of September;The 15th of September;The 30th of September|21st;September 21
+ent|3|Shirley Bassey was born in which country?|Wales|England;Scotland;Ireland
+ent|2|Who is the lead singer of Guns N' Roses?|Axl Rose|Slash;Duff McKagan;Sebastian Bach|Axl
+ent|3|Who was R.E.M.'s lead singer?|Michael Stipe|Peter Buck;Mike Mills;Bill Berry|Stipe
+ent|4|Which band is from New Zealand rather than Australia?|The Naked and Famous|Tame Impala;Empire of the Sun;Cut Copy
+ent|4|In which country was the piano invented, around 1700?|Italy|Germany;Austria;France
+ent|3|In which Beatles song does a woman keep her face "in a jar by the door"?|Eleanor Rigby|Lovely Rita;Lady Madonna;Michelle
+ent|2|Who had a 1983 hit with "Africa"?|Toto|Journey;Foreigner;Chicago
+ent|3|What colour is DJ Marshmello's famous helmet?|White|Pink;Black;Blue
+ent|5|In what year did Weezer release their self-titled "White Album"?|2016|2001;2008;2019
+ent|3|Which song by The Who includes the phrase "teenage wasteland"?|Baba O'Riley|Won't Get Fooled Again;My Generation;Pinball Wizard
+ent|5|Which singer had 1970s hits with "Lonely Boy" and "Thank You for Being a Friend"?|Andrew Gold|Leo Sayer;Gilbert O'Sullivan;Rupert Holmes|Gold
+ent|3|Which ex-Take That singer released the solo hit "Angels" in 1997?|Robbie Williams|Gary Barlow;Mark Owen;Ronan Keating|Williams
+ent|4|Which studio created the stop-motion video for Peter Gabriel's "Sledgehammer"?|Aardman Animations|Pixar;Laika;Industrial Light & Magic|Aardman
+ent|3|What was the 2011 collaborative album by Kanye West and Jay-Z?|Watch the Throne|The Blueprint;Collision Course;Magna Carta Holy Grail
+ent|2|Which of these is a string instrument rather than a wind instrument?|Viola|Oboe;Trombone;Clarinet
+ent|3|Which band released "The Bends" in 1995?|Radiohead|Blur;Oasis;Pulp
+ent|3|Who fronts the band Muse?|Matt Bellamy|Thom Yorke;Chris Martin;Brandon Flowers|Bellamy
+ent|3|A violin has G, D and A strings. What is the fourth?|E|C;B;F|E string
+ent|3|Which group sang "Crash into Me"?|Dave Matthews Band|Counting Crows;Hootie & the Blowfish;Matchbox Twenty|DMB
+ent|2|How many strings does a cello have?|4|5;6;8|four
+ent|2|Belinda Carlisle sang that "Heaven Is a Place on..." what?|Earth|Mars;Venus;Fire
+ent|3|Which Oscar-winning actor sings on Kanye West's "Gold Digger"?|Jamie Foxx|Will Smith;Denzel Washington;Cuba Gooding Jr.|Foxx
+ent|3|Which Australian band sang "Down Under" and "Who Can It Be Now?"?|Men at Work|INXS;Midnight Oil;Crowded House
+ent|4|Which trio formed Swedish House Mafia?|Axwell, Steve Angello and Sebastian Ingrosso|Avicii, Alesso and Axwell;Alesso, Steve Angello and Kygo;Eric Prydz, Axwell and Avicii
+ent|3|Which Daft Punk hit features Pharrell Williams and Nile Rodgers?|Get Lucky|One More Time;Around the World;Instant Crush
+ent|1|How many keys does a standard piano have?|88|76;92;100
+ent|3|The industrial metal band Rammstein comes from which country?|Germany|Austria;Switzerland;Netherlands

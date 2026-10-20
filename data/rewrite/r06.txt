@@ -1,0 +1,122 @@
+# Rewritten from Open Trivia DB batch 6 (TV, general leisure)
+ent|3|In "Two and a Half Men", what is the name of Alan's son?|Jake|Charlie;Judith;Herb
+ent|4|Who played the Ninth Doctor in "Doctor Who"?|Christopher Eccleston|David Tennant;Matt Smith;Paul McGann|Eccleston
+ent|3|In "The Simpsons", what is Comic Book Guy's real name?|Jeff Albertson|Seymour Skinner;Lenny Leonard;Kirk Van Houten|Albertson
+ent|3|In "Cheers", Sam Malone was once a relief pitcher for which team?|Boston Red Sox|New York Yankees;Chicago Cubs;Baltimore Orioles|Red Sox
+ent|2|What is the real name of the hero in TV's "The Flash"?|Barry Allen|Wally West;Oliver Queen;Hal Jordan
+ent|3|In "Game of Thrones", what is Littlefinger's real name?|Petyr Baelish|Varys;Davos Seaworth;Roose Bolton|Baelish
+ent|4|Which major award have "South Park" creators Matt Stone and Trey Parker never won?|Oscar|Emmy;Tony;Grammy|Academy Award
+ent|4|In "Everybody Hates Chris", what is Chris's younger brother called?|Drew|Kevin;Greg;Malvo
+ent|4|In "Star Trek", the Klingon dish gagh is made from what?|Serpent worms|Raw fish;Fermented eggs;Beetles|Worms
+ent|3|In "Breaking Bad", what kind of cancer is Walter White diagnosed with?|Lung cancer|Brain cancer;Prostate cancer;Liver cancer|Lung
+ent|5|What is Mr. Krabs' full name in "SpongeBob SquarePants"?|Eugene H. Krabs|Eugene P. Krabs;Edward H. Krabs;Eugene K. Krabs
+ent|4|In "Star Trek: The Next Generation", what is Data's cat called?|Spot|Mittens;Tribble;Sprocket
+ent|4|Who is the burned spy at the centre of "Burn Notice"?|Michael Westen|Sam Axe;Jack Bauer;Sydney Bristow|Westen
+ent|2|Grant Gustin plays which superhero on The CW?|The Flash|Green Arrow;Superman;Booster Gold|Flash
+ent|3|In "Game of Thrones", which continent lies across the Narrow Sea from Westeros?|Essos|Sothoryos;Ulthos;Valyria
+ent|2|Who won the first season of "American Idol" in 2002?|Kelly Clarkson|Justin Guarini;Ruben Studdard;Carrie Underwood|Clarkson
+ent|4|In "Doctor Who", how many times can a Time Lord normally regenerate?|12|7;9;13|twelve
+ent|3|What does TARDIS stand for?|Time And Relative Dimension In Space|Travel And Return Device In Space;Time Altering Relative Dimensional Interstellar Ship;Temporal And Rapid Dimensional Interface System|Time and Relative Dimensions in Space
+ent|1|"Game of Thrones" is based on which book series?|A Song of Ice and Fire|The Wheel of Time;The Witcher;The Kingkiller Chronicle
+ent|4|In "The Simpsons" episode "Bart Sells His Soul", how much does Bart sell it for?|$5|$1;$20;A comic book
+ent|2|What was the name of Ross's pet monkey in "Friends"?|Marcel|George;Bubbles;Abu
+ent|5|Which racehorse does Tony Soprano bond with?|Pie-O-My|Seabiscuit;Mr. Ed;Bada Bing
+ent|3|What is the Doctor's home planet in "Doctor Who"?|Gallifrey|Skaro;Mondas;Trenzalore
+ent|4|In "Stranger Things", which Clash song does Will sing to himself while trapped?|Should I Stay or Should I Go|London Calling;Rock the Casbah;Train in Vain
+ent|5|In "SpongeBob SquarePants", what does Plankton's E.V.I.L. stand for?|Every Villain Is Lemons|Every Villain Is Late;Evil Villains In League;Every Villain Is Lazy
+ent|4|What is the Klingon afterlife called?|Sto-vo-kor|Gre'thor;Qo'noS;Valhalla
+ent|4|Which Python played the waitress in the "Spam" sketch?|Terry Jones|Eric Idle;Michael Palin;John Cleese|Jones
+ent|2|Which cartoon follows a mad-scientist grandfather dragging his grandson on adventures?|Rick and Morty|Futurama;Gravity Falls;Family Guy
+ent|4|In season one of "House of Cards", what is Frank Underwood's job?|House Majority Whip|Vice President;Secretary of State;Senate Majority Leader|Majority Whip
+ent|3|In which fictional town is "Parks and Recreation" set?|Pawnee, Indiana|Eagleton, Indiana;Scranton, Pennsylvania;Stars Hollow, Connecticut|Pawnee
+ent|4|Who was the first actor to play the Doctor, in 1963?|William Hartnell|Patrick Troughton;Jon Pertwee;Tom Baker|Hartnell
+ent|4|In "Family Guy", Meg's birth certificate gives her full name as what?|Megatron Griffin|Megan Griffin;Margaret Griffin;Meghan Griffin|Megatron
+ent|2|Who played Fox Mulder in "The X-Files"?|David Duchovny|Mitch Pileggi;Robert Patrick;Kyle MacLachlan|Duchovny
+ent|5|Who composed the music for the 2004 "Battlestar Galactica"?|Bear McCreary|Ramin Djawadi;Murray Gold;Michael Giacchino|McCreary
+ent|5|In what year did the long-running British police drama "The Bill" end?|2010|2004;2007;2013
+ent|4|What is the Ferengi's First Rule of Acquisition?|Once you have their money, you never give it back|Greed is eternal;Never place friendship above profit;A deal is a deal
+ent|4|Which Allman Brothers instrumental is the theme of "Top Gear"?|Jessica|Melissa;Whipping Post;Ramblin' Man
+ent|4|What is William Adama's old pilot call sign in "Battlestar Galactica"?|Husker|Starbuck;Apollo;Helo
+ent|4|Who is President of the Colonies in the 2004 "Battlestar Galactica"?|Laura Roslin|Gaius Baltar;Tom Zarek;Lee Adama|Roslin
+ent|4|How many seasons did "Stargate SG-1" run?|10|5;7;12|ten
+ent|3|What colour is Vulcan blood in "Star Trek"?|Green|Blue;Purple;Silver
+ent|3|What is the hidden-world power of Eleven in "Stranger Things"?|Telekinesis|Invisibility;Time travel;Shape-shifting
+ent|3|In which city do Scrooge McDuck and his nephews live?|Duckburg|Quackville;St. Canard;Mouseton
+ent|4|Which Massive Attack track is the theme of "House"?|Teardrop|Angel;Unfinished Sympathy;Protection
+ent|5|Who appeared as the Sun Baby in the original "Teletubbies"?|Jessica Smith|Pui Fan Lee;Emily Blunt;Millie Bobby Brown
+ent|4|Cesar Romero played which villain in the 1960s "Batman" series?|The Joker|The Penguin;The Riddler;Mr. Freeze|Joker
+ent|2|Who played the Tenth Doctor in "Doctor Who"?|David Tennant|Matt Smith;Peter Capaldi;Christopher Eccleston|Tennant
+ent|4|Which future star was NOT a lead on "Freaks and Geeks"?|Jonah Hill|Seth Rogen;James Franco;Jason Segel
+ent|3|In "Futurama", what is Fry's full name?|Philip J. Fry|Phillip R. Fry;Peter J. Fry;Philip K. Fry
+ent|5|How many seasons did "Stargate Universe" run?|2|1;3;5|two
+ent|3|How many games did Ken Jennings win in a row on "Jeopardy!" in 2004?|74|52;68;88
+ent|5|In "Star Trek", who founded the Klingon Empire?|Kahless the Unforgettable|Worf;Gowron;Martok|Kahless
+ent|3|Which Icelandic kids' show gave us the meme song "We Are Number One"?|LazyTown|Pingu;Teletubbies;Bob the Builder
+ent|4|Which Arrowverse spinoff gathers characters from "Arrow" and "The Flash"?|Legends of Tomorrow|Supergirl;Black Lightning;Titans|DC's Legends of Tomorrow
+ent|4|Who plays reclusive billionaire Harold Finch in "Person of Interest"?|Michael Emerson|Jim Caviezel;Terry O'Quinn;Michael Kelly|Emerson
+ent|5|In "LazyTown", which actor played the villain Robbie Rotten?|Stefán Karl Stefánsson|Magnús Scheving;Julianna Rose Mauriello;Björn Thorarensen|Stefan Karl Stefansson
+ent|3|In which year was Netflix founded, as a DVD-by-mail service?|1997|1993;2001;2007
+ent|5|In "The Big Bang Theory", what is Howard's World of Warcraft name?|Wolowizard|Sheldor;Koothrapally;Leonardo
+ent|3|In which state did the Fresh Prince grow up before moving to Bel-Air?|Pennsylvania|New Jersey;New York;Maryland|Philadelphia;West Philadelphia
+ent|4|Which YouTuber co-founded "Game Grumps" with Arin Hanson in 2012?|JonTron|Markiplier;PewDiePie;Jacksepticeye|Jon Jafari
+ent|4|In "Mad Men", what was Don Draper's birth name?|Dick Whitman|Roger Sterling;Pete Campbell;Bert Cooper|Richard Whitman;Whitman
+ent|2|What is Eleven's favourite food in "Stranger Things"?|Eggo waffles|Pancakes;Pop-Tarts;Cheerios|Eggos;Eggo;Waffles
+ent|3|What is the name of Jon Snow's Valyrian steel sword?|Longclaw|Ice;Needle;Oathkeeper
+ent|3|Which spiky-haired chef hosts "Guy's Grocery Games"?|Guy Fieri|Bobby Flay;Gordon Ramsay;Alton Brown|Fieri
+ent|3|Who is Spock's father?|Sarek|Surak;Tuvok;Soval
+ent|4|Which British actor played the Governor in "The Walking Dead"?|David Morrissey|Andrew Lincoln;Jeffrey Dean Morgan;Michael Rooker|Morrissey
+ent|3|What is Walter and Jesse's meth nicknamed in "Breaking Bad", for its colour?|Blue Sky|Blue Ice;Crystal Blue;Sky High
+ent|5|Alan Reed was the original voice of which cartoon character?|Fred Flintstone|Yogi Bear;Barney Rubble;Top Cat
+ent|4|Which Nickelodeon game show, with slime and obstacle courses, began in 1986?|Double Dare|Guts;Legends of the Hidden Temple;Figure It Out
+ent|3|What does the T stand for in Captain James T. Kirk?|Tiberius|Thomas;Theodore;Tyler
+ent|4|What was Nickelodeon called when it launched in 1977?|Pinwheel|Kidvid;KTV;Splat
+ent|4|What is Dr. Doofenshmirtz's first name in "Phineas and Ferb"?|Heinz|Hans;Helmut;Herbert
+ent|3|What is Corporal O'Reilly's nickname in "M*A*S*H"?|Radar|Hawkeye;Trapper;Klinger
+ent|4|Baron Silas Greenback is the enemy of which British cartoon hero?|Danger Mouse|SuperTed;Bananaman;Count Duckula
+ent|4|In what year did "Rick and Morty" premiere?|2013|2010;2015;2017
+ent|3|At which university do the scientists of "The Big Bang Theory" work?|Caltech|MIT;UCLA;Stanford|California Institute of Technology
+ent|3|Which character did Dustin Diamond play in "Saved by the Bell"?|Screech|Zack;Slater;Mr. Belding
+ent|3|In "The Office", whom does Michael Scott eventually marry?|Holly Flax|Jan Levinson;Carol Stills;Helene Beesly|Holly
+ent|4|In "Top Cat", what is the name of the beat cop?|Officer Dibble|Officer Krupke;Sergeant Snorkel;Officer O'Malley|Dibble
+ent|5|In "On the Buses", what is Inspector Blake's nickname?|Blakey|Butler;Stan;Jack
+spo|4|What McDonald's slogan came just before "I'm Lovin' It"?|We Love to See You Smile|You Deserve a Break Today;Have It Your Way;Billions and Billions Served
+spo|2|What is the most expensive spice by weight?|Saffron|Vanilla;Cardamom;Black pepper
+spo|4|Which of these soft drinks is the oldest, created in 1885?|Dr Pepper|Coca-Cola;Pepsi;7 Up|Dr. Pepper
+spo|4|Which wedding anniversary is traditionally the crystal anniversary?|15th|10th;20th;25th|15
+spo|5|On a standard dartboard, which number sits directly opposite 1?|19|20;3;17
+spo|3|In "G-Man", slang for an FBI agent, what does the G stand for?|Government|Gun;Gangster;General
+spo|1|Which star sign is symbolized by a pair of scales?|Libra|Gemini;Virgo;Aquarius
+spo|4|What is a Japanese "dakimakura"?|A large hugging pillow|A rice cake;A folding fan;A tea bowl|Body pillow;Pillow
+spo|3|Which Swedish company was founded by Ingvar Kamprad in 1943?|IKEA|H&M;Volvo;Ericsson
+spo|4|Traditional haggis is made with which sheep's organs?|Heart, liver and lungs|Kidneys and brain;Stomach and tongue;Liver and kidneys
+spo|3|How many stars are on the flag of the European Union?|12|15;27;10|twelve
+spo|5|In the International Code of Signals, which flag means "I require assistance"?|Victor|Kilo;Oscar;Mike|V
+spo|3|Which colour does NOT appear in Google's logo?|Purple|Blue;Red;Yellow
+spo|3|Corona is what style of beer?|Pale lager|Stout;IPA;Wheat beer|Lager
+spo|1|What does GMT stand for?|Greenwich Mean Time|Global Meridian Time;Great Meridian Time;General Mean Time
+spo|1|How many colours are traditionally named in a rainbow?|7|5;6;9|seven
+spo|5|Chile's El Teniente is the world's largest underground mine for which metal?|Copper|Silver;Lithium;Gold
+spo|3|What is a "dead mall"?|A shopping mall with few shoppers or stores left|A mall closed for renovations;An underground mall;A mall open only at night|Empty mall
+spo|1|What does KFC stand for?|Kentucky Fried Chicken|Kansas Fried Chicken;Kentucky Fresh Chicken;King's Fried Chicken
+spo|1|What do Scottish men traditionally wear to formal weddings?|Kilt|Sporran only;Tartan trousers;Robe
+spo|4|Which of these swords originated in the Middle East and Asia rather than Europe?|Scimitar|Claymore;Rapier;Longsword
+spo|4|Which British company made the first solid chocolate bar, in 1847?|J. S. Fry & Sons|Cadbury;Rowntree's;Terry's|Fry's;Fry
+spo|3|Someone born on Valentine's Day has which star sign?|Aquarius|Pisces;Capricorn;Aries
+spo|3|Indian food cooked in a clay oven over charcoal is described as what?|Tandoori|Korma;Vindaloo;Biryani
+spo|4|In which generation of Pokémon games did the Fairy type appear?|6th|4th;5th;7th|Sixth;Generation VI
+spo|3|In what year was Atari's "Pong" released?|1972|1968;1976;1980
+spo|1|What is Canada's one-dollar coin nicknamed?|Loonie|Toonie;Beaver;Loony
+spo|2|In the NATO phonetic alphabet, what word stands for T?|Tango|Tom;Tiger;Texas
+spo|3|Panama hats are woven from what?|Straw|Cotton;Hemp;Leather|Toquilla straw
+spo|5|Which phone maker teamed up with Valve to build the Vive VR headset?|HTC|Samsung;LG;Motorola
+spo|4|What is the most common pub name in the UK?|The Red Lion|The Crown;The Royal Oak;The Plough|Red Lion
+spo|1|What shape is a stop sign?|Octagon|Hexagon;Triangle;Diamond
+spo|3|In what year was the PlayStation 3 released?|2006|2004;2008;2010
+spo|1|Rolex is famous for making what?|Watches|Pens;Cars;Jewelry
+spo|4|Scotch whisky and Drambuie make which cocktail?|Rusty Nail|Rob Roy;Godfather;Old Fashioned
+spo|5|Which Ivy League school has a motto in both Hebrew and Latin?|Yale|Harvard;Princeton;Columbia|Yale University
+spo|4|In a deck of cards, which king is the only one without a moustache?|King of hearts|King of spades;King of clubs;King of diamonds|Hearts
+spo|4|Linus Pauling won Nobel Prizes for chemistry and what else?|Peace|Physics;Medicine;Literature
+spo|3|Bob and Mike Bryan, the identical twins, starred in which sport?|Tennis|Golf;Badminton;Squash
+spo|3|In "Half-Life", which alien latches onto people's heads?|Headcrab|Facehugger;Vortigaunt;Bullsquid
+spo|3|Who is the hero of the space horror game "Dead Space"?|Isaac Clarke|Master Chief;Gordon Freeman;Commander Shepard|Isaac

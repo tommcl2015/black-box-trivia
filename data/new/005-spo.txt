@@ -1,0 +1,157 @@
+# Sports & Leisure pack 1 — sports, food & drink, games
+spo|1|How many players are on the ice for one hockey team, including the goalie?|6|5;7;11|six
+spo|1|How many players does a soccer team have on the field?|11|10;9;12|eleven
+spo|1|What sport is played at Wimbledon?|Tennis|Golf;Cricket;Croquet
+spo|1|In which sport would you perform a slam dunk?|Basketball|Volleyball;Handball;Netball
+spo|1|What is the trophy awarded to the NHL champion?|Stanley Cup|Grey Cup;Calder Cup;Memorial Cup
+spo|1|What is the championship trophy of the Canadian Football League?|Grey Cup|Stanley Cup;Vanier Cup;Lombardi Trophy
+spo|1|How many points is a touchdown worth in American football?|6|3;7;5|six
+spo|1|What colour is the centre of an archery target?|Gold|Red;Blue;Black|Yellow
+spo|1|In bowling, what is it called when you knock down all ten pins with the first ball?|Strike|Spare;Split;Turkey
+spo|1|In which sport do players use a shuttlecock?|Badminton|Squash;Table tennis;Lacrosse
+spo|1|What is Canada's official national summer sport?|Lacrosse|Hockey;Baseball;Soccer
+spo|1|What is the main ingredient of guacamole?|Avocado|Tomato;Lime;Green pepper
+spo|1|What kind of food is a baguette?|Bread|Cheese;Pastry;Sausage
+spo|1|Poutine is made of fries, gravy and what?|Cheese curds|Bacon;Mushrooms;Shredded cheddar|Curds;Cheese
+spo|1|What fruit is used to make wine?|Grapes|Apples;Plums;Cherries|Grape
+spo|1|What is sushi traditionally wrapped in?|Seaweed|Rice paper;Lettuce;Soy paper|Nori
+spo|1|How many squares are on a chessboard?|64|48;72;100
+spo|1|In chess, which piece can only move diagonally?|Bishop|Rook;Knight;Queen
+spo|1|What do you shout in bingo when you win?|Bingo|Yahtzee;Checkmate;Jackpot
+spo|2|In golf, what is one stroke under par called?|Birdie|Eagle;Bogey;Albatross
+spo|2|In golf, what is one stroke over par called?|Bogey|Birdie;Par;Eagle
+spo|2|How many holes are played in a standard round of golf?|18|9;12;24|eighteen
+spo|2|In which city were the 2010 Winter Olympics held?|Vancouver|Calgary;Whistler;Turin
+spo|2|In which city were the 1988 Winter Olympics held?|Calgary|Vancouver;Lake Placid;Sarajevo
+spo|2|Which city hosted the 1976 Summer Olympics?|Montreal|Toronto;Los Angeles;Munich
+spo|2|How many rings are on the Olympic flag?|5|4;6;7|five
+spo|2|In tennis, what is a score of zero called?|Love|Nil;Zip;Duck
+spo|2|Who invented basketball in 1891?|James Naismith|Walter Camp;Abner Doubleday;William Morgan|Naismith
+spo|2|How long is a marathon, in kilometres (approximately)?|42.2|26.2;40;50|42;42.195
+spo|2|In baseball, how many strikes make an out?|3|2;4;5|three
+spo|2|How many innings are in a standard baseball game?|9|7;8;10|nine
+spo|2|Which Canadian MLB team won the World Series in 1992 and 1993?|Toronto Blue Jays|Montreal Expos;Vancouver Canadians;Ottawa Lynx|Blue Jays;Jays
+spo|2|Which NHL player was nicknamed "The Great One"?|Wayne Gretzky|Mario Lemieux;Bobby Orr;Gordie Howe|Gretzky
+spo|2|Which hockey player was known as "Mr. Hockey"?|Gordie Howe|Maurice Richard;Bobby Hull;Jean Béliveau|Howe
+spo|2|Which NHL team has won the most Stanley Cups?|Montreal Canadiens|Toronto Maple Leafs;Detroit Red Wings;Boston Bruins|Canadiens;Habs
+spo|2|Which Canadian scored the "Golden Goal" in overtime at the 2010 Olympic men's hockey final?|Sidney Crosby|Jarome Iginla;Jonathan Toews;Ryan Getzlaf|Crosby
+spo|2|Which Canadian scored the winning goal in the 1972 Summit Series?|Paul Henderson|Phil Esposito;Bobby Clarke;Yvan Cournoyer|Henderson
+spo|2|Which sport uses stones, brooms and a "house"?|Curling|Bocce;Shuffleboard;Lawn bowling
+spo|2|In soccer, what is it called when a player scores three goals in one game?|Hat trick|Triple;Treble;Brace|Hat-trick
+spo|2|How often are the Summer Olympics normally held?|Every 4 years|Every 2 years;Every 3 years;Every 5 years|4 years;four years
+spo|2|What is the national dish of Hungary?|Goulash|Schnitzel;Pierogi;Borscht
+spo|2|What country does the dish paella come from?|Spain|Portugal;Mexico;Italy
+spo|2|What is tofu made from?|Soybeans|Rice;Chickpeas;Wheat|Soy;Soya
+spo|2|What type of pasta is shaped like little rice grains?|Orzo|Penne;Farfalle;Gnocchi
+spo|2|What is the Italian word for the dessert "pick me up"?|Tiramisu|Panna cotta;Cannoli;Gelato
+spo|2|Which nut is used to make marzipan?|Almond|Cashew;Hazelnut;Walnut|Almonds
+spo|2|What sweet syrup is Canada famous for producing?|Maple syrup|Corn syrup;Golden syrup;Agave syrup|Maple
+spo|2|Which Canadian province produces the most maple syrup?|Quebec|Ontario;New Brunswick;Nova Scotia
+spo|2|What drink is made from fermented honey?|Mead|Cider;Kombucha;Kvass
+spo|2|What Japanese drink is made from fermented rice?|Sake|Soju;Mirin;Shochu
+spo|2|Which country is the origin of the croissant's ancestor, the kipferl?|Austria|France;Germany;Switzerland
+spo|2|What spice gives curry its yellow colour?|Turmeric|Saffron;Cumin;Paprika
+spo|2|Which board game features Park Place and Boardwalk (US edition)?|Monopoly|Clue;Life;Scrabble
+spo|2|In Scrabble, how many points is the letter Q worth?|10|8;5;12|ten
+spo|2|In Clue (Cluedo), which colour is Colonel Mustard?|Yellow|Red;Green;Purple
+spo|2|What is the highest-scoring hand in poker?|Royal flush|Straight flush;Four of a kind;Full house
+spo|2|How many cards are in a standard deck, not counting jokers?|52|48;54;56
+spo|2|Which game uses the word "Checkmate"?|Chess|Checkers;Backgammon;Go
+spo|3|How many points is a field goal worth in American football?|3|2;4;6|three
+spo|3|How many yards long is a Canadian football field between goal lines?|110|100;120;105
+spo|3|How many downs does a team get in Canadian football?|3|4;2;5|three
+spo|3|In the CFL, what is a single point scored on a missed field goal or punt called?|Rouge|Safety;Single;Conversion
+spo|3|Which country has won the most FIFA World Cups?|Brazil|Germany;Italy;Argentina
+spo|3|Which country won the 2022 FIFA World Cup?|Argentina|France;Croatia;Brazil
+spo|3|In which country did the sport of judo originate?|Japan|China;Korea;Thailand
+spo|3|Which martial art's name means "the way of the empty hand"?|Karate|Judo;Taekwondo;Kung fu
+spo|3|In which sport is the Ryder Cup contested?|Golf|Tennis;Sailing;Cricket
+spo|3|In which sport is the Davis Cup contested?|Tennis|Golf;Rowing;Badminton
+spo|3|What is the name of the famous annual cycling race through France?|Tour de France|Giro d'Italia;Vuelta a España;Paris–Roubaix
+spo|3|Which horse race is called "the most exciting two minutes in sports"?|Kentucky Derby|Belmont Stakes;Preakness Stakes;Queen's Plate
+spo|3|How many players are on a volleyball team on the court?|6|5;7;9|six
+spo|3|In which sport might you see a "googly" or a "yorker"?|Cricket|Baseball;Rugby;Lacrosse
+spo|3|What is the term for a score of 40–40 in tennis?|Deuce|Advantage;Love-all;Tie
+spo|3|How many Grand Slam tournaments are there in tennis each year?|4|3;5;6|four
+spo|3|Which Grand Slam tennis tournament is played on clay?|French Open|Wimbledon;US Open;Australian Open|Roland Garros
+spo|3|Which Canadian sprinter won 100 m gold at the 1996 Atlanta Olympics?|Donovan Bailey|Ben Johnson;Bruny Surin;Andre De Grasse|Bailey
+spo|3|Which Canadian NBA team won the championship in 2019?|Toronto Raptors|Vancouver Grizzlies;Montreal Royals;Toronto Huskies|Raptors
+spo|3|Which hockey defenceman is famous for "The Goal" while flying through the air in 1970?|Bobby Orr|Ray Bourque;Paul Coffey;Denis Potvin|Orr
+spo|3|Which Montreal Canadiens legend was nicknamed "The Rocket"?|Maurice Richard|Henri Richard;Guy Lafleur;Jean Béliveau|Rocket Richard;Richard
+spo|3|What NHL trophy is awarded to the league's most valuable player?|Hart Trophy|Art Ross Trophy;Vezina Trophy;Conn Smythe Trophy|Hart Memorial Trophy;Hart
+spo|3|What NHL trophy goes to the playoff MVP?|Conn Smythe Trophy|Hart Trophy;Lady Byng Trophy;Norris Trophy|Conn Smythe
+spo|3|What NHL trophy goes to the top goaltender?|Vezina Trophy|Calder Trophy;Norris Trophy;Selke Trophy|Vezina
+spo|3|What NHL trophy goes to the best defenceman?|Norris Trophy|Vezina Trophy;Selke Trophy;Hart Trophy|James Norris Memorial Trophy;Norris
+spo|3|What NHL trophy goes to the rookie of the year?|Calder Trophy|Lady Byng Trophy;Masterton Trophy;Art Ross Trophy|Calder Memorial Trophy;Calder
+spo|3|In which city was the first organized indoor hockey game played in 1875?|Montreal|Kingston;Halifax;Toronto
+spo|3|Which sport's governing body is FIFA?|Soccer|Basketball;Rugby;Volleyball|Football;Association football
+spo|3|What is the maximum possible break in snooker?|147|155;100;180
+spo|3|What is the highest score with three darts?|180|150;160;200
+spo|3|What is the national sport of Japan?|Sumo|Judo;Baseball;Karate|Sumo wrestling
+spo|3|What is a "Caesar" cocktail, invented in Calgary, made with?|Clamato juice|Tomato soup;Cranberry juice;Pickle brine|Clamato;Clam and tomato juice
+spo|3|What is the main ingredient in a traditional Swiss fondue?|Cheese|Chocolate;Oil;Butter
+spo|3|What is the main ingredient in hummus?|Chickpeas|Lentils;Fava beans;White beans|Garbanzo beans;Chickpea
+spo|3|Which country is famous for the dish "pad thai"?|Thailand|Vietnam;Laos;Malaysia
+spo|3|What is the main ingredient of the soup gazpacho?|Tomato|Cucumber;Pepper;Onion|Tomatoes
+spo|3|Which Canadian treat is a layered bar of wafer base, custard and chocolate?|Nanaimo bar|Butter tart;Beavertail;Date square
+spo|3|Which flat fried-dough pastry shaped like an animal's tail is a Canadian favourite?|BeaverTails|Timbits;Butter tarts;Bannock|Beavertail;Beaver tail
+spo|3|What kind of pastry is used to make éclairs?|Choux pastry|Puff pastry;Shortcrust pastry;Filo pastry|Choux
+spo|3|What is the name for a coffee with a shot of espresso and steamed milk foam in equal parts?|Cappuccino|Latte;Macchiato;Americano
+spo|3|Which grain is used to make traditional Scotch whisky?|Barley|Corn;Rye;Wheat|Malted barley
+spo|3|What is the main grain in bourbon whiskey?|Corn|Barley;Rye;Wheat|Maize
+spo|3|What does the "IPA" in beer stand for?|India Pale Ale|International Pale Ale;Imperial Porter Ale;Irish Pale Ale
+spo|3|Which hobby involves collecting stamps?|Philately|Numismatics;Bibliophily;Deltiology
+spo|3|Which hobby involves collecting coins?|Numismatics|Philately;Lepidopterology;Vexillology
+spo|3|What is the study of flags called?|Vexillology|Heraldry;Philately;Semiotics
+spo|3|In which card game do you try to get as close to 21 as possible?|Blackjack|Poker;Rummy;Baccarat|Twenty-one
+spo|3|Which toy company makes interlocking plastic bricks and is from Denmark?|Lego|Mega Bloks;K'Nex;Playmobil
+spo|3|Which video game character is an Italian plumber?|Mario|Luigi;Wario;Sonic|Super Mario
+spo|3|What falling-block puzzle game was created by Alexey Pajitnov?|Tetris|Columns;Dr. Mario;Puyo Puyo
+spo|4|Which Canadian swimmer won four medals at the 2016 Olympics at age 16?|Penny Oleksiak|Summer McIntosh;Kylie Masse;Maggie Mac Neil|Oleksiak
+spo|4|Which Canadian decathlete won Olympic gold in Tokyo 2020 (held 2021)?|Damian Warner|Pierce LePage;Andre De Grasse;Mike Smith|Warner
+spo|4|Which Canadian sprinter won 200 m gold at the Tokyo 2020 Olympics?|Andre De Grasse|Aaron Brown;Donovan Bailey;Jerome Blake|De Grasse
+spo|4|Which Canadian tennis player won the 2019 US Open women's singles?|Bianca Andreescu|Eugenie Bouchard;Leylah Fernandez;Carling Bassett|Andreescu
+spo|4|Which Canadian golfer won the 2003 Masters?|Mike Weir|Graham DeLaet;Stephen Ames;Adam Hadwin|Weir
+spo|4|Which Canadian driver won the 1997 Formula One World Championship?|Jacques Villeneuve|Gilles Villeneuve;Paul Tracy;Lance Stroll|Villeneuve
+spo|4|What is the name of the Formula One circuit in Montreal?|Circuit Gilles Villeneuve|Circuit Jacques Villeneuve;Mosport Park;Circuit Mont-Tremblant|Gilles Villeneuve
+spo|4|Which runner, with one leg amputated, ran his "Marathon of Hope" across Canada in 1980?|Terry Fox|Rick Hansen;Steve Fonyo;Jean Béliveau|Fox
+spo|4|Which Canadian wheelchair athlete completed the "Man in Motion" world tour?|Rick Hansen|Terry Fox;Chantal Petitclerc;Steve Fonyo|Hansen
+spo|4|How many players are on a rugby union team on the field?|15|13;11;12|fifteen
+spo|4|How many players are on a rugby league team on the field?|13|15;11;12|thirteen
+spo|4|How many players are on a water polo team in the pool, including the goalie?|7|6;8;5|seven
+spo|4|The PWHL's championship trophy, the Walter Cup, is awarded in which sport?|Hockey|Basketball;Soccer;Lacrosse|Ice hockey
+spo|4|Which country hosted the first FIFA World Cup in 1930?|Uruguay|Brazil;Argentina;Italy
+spo|4|In which city were the first modern Olympic Games held in 1896?|Athens|Paris;London;Olympia
+spo|4|In golf, what is a score of two under par on a hole called?|Eagle|Birdie;Albatross;Condor
+spo|4|In golf, what is a score of three under par on a hole called?|Albatross|Eagle;Condor;Double eagle|Double eagle
+spo|4|What is the diameter of a basketball hoop in inches?|18|16;20;24
+spo|4|What is the term in baseball for a game where the pitcher allows no hits?|No-hitter|Perfect game;Shutout;Complete game|No hitter
+spo|4|Which baseball player broke MLB's colour barrier in 1947, after playing for Montreal?|Jackie Robinson|Larry Doby;Satchel Paige;Willie Mays|Robinson
+spo|4|Which French cheese is traditionally made in Normandy and sold in a round wooden box?|Camembert|Brie;Roquefort;Comté
+spo|4|Which blue cheese is aged in caves in Roquefort-sur-Soulzon?|Roquefort|Gorgonzola;Stilton;Danish Blue
+spo|4|What is "mise en place" in cooking?|Having ingredients prepared and arranged before cooking|A sauce base;A French pastry;A plating style|Prep;Preparation
+spo|4|Which wine region in Ontario is famous for icewine?|Niagara Peninsula|Okanagan Valley;Prince Edward County;Annapolis Valley|Niagara
+spo|4|Which British Columbia valley is famous for wine and fruit?|Okanagan Valley|Fraser Valley;Comox Valley;Cowichan Valley|Okanagan
+spo|4|Which Italian city is the origin of the Margherita pizza?|Naples|Rome;Milan;Florence|Napoli
+spo|4|What is the main ingredient in the Middle Eastern dish falafel?|Chickpeas|Lentils;Eggplant;Potatoes|Chickpea;Fava beans
+spo|4|Which Mexican drink is made from the blue agave plant?|Tequila|Mezcal;Pulque;Rum
+spo|4|What is the name of the Indian spiced milk tea?|Chai|Lassi;Matcha;Masala dosa|Masala chai
+spo|4|What is the Japanese powdered green tea called?|Matcha|Sencha;Genmaicha;Hojicha
+spo|4|What type of food is "Stilton"?|Cheese|Sausage;Bread;Ale
+spo|4|In Monopoly, how much do you collect for passing GO (classic rules)?|$200|$100;$150;$500|200
+spo|4|What is the name of the pieces in the game Go?|Stones|Tiles;Men;Pawns
+spo|4|Which game features the characters Pinky, Inky, Blinky and Clyde?|Pac-Man|Donkey Kong;Space Invaders;Galaga|Pacman
+spo|4|In which card game might you "peg" points on a board?|Cribbage|Euchre;Bridge;Gin rummy
+spo|4|Which trick-taking card game is very popular in Ontario and uses a "bower"?|Euchre|Bridge;Hearts;Spades
+spo|5|Which Canadian won the 1904 Olympic gold in golf, the sport's last Olympic appearance until 2016?|George Lyon|Mike Weir;Sandy Somerville;Stan Leonard|Lyon
+spo|5|What was the name of the CFL team that won the Grey Cup in the US in 1995?|Baltimore Stallions|Sacramento Gold Miners;Las Vegas Posse;Shreveport Pirates|Stallions
+spo|5|Which NHL team did Wayne Gretzky join in the famous 1988 trade?|Los Angeles Kings|St. Louis Blues;New York Rangers;Edmonton Oilers|LA Kings;Kings
+spo|5|In which year did the Toronto Maple Leafs last win the Stanley Cup?|1967|1962;1972;1993
+spo|5|Which Canadian goaltender won four Stanley Cups and set many records with Montreal and Colorado?|Patrick Roy|Martin Brodeur;Ken Dryden;Jacques Plante|Roy
+spo|5|Which goalie was the first to regularly wear a mask, starting in 1959?|Jacques Plante|Terry Sawchuk;Glenn Hall;Gump Worsley|Plante
+spo|5|In sumo wrestling, what is the highest rank?|Yokozuna|Ozeki;Sekiwake;Komusubi
+spo|5|What is the French term for a cooking technique of food sealed in a bag and cooked in a water bath?|Sous vide|Confit;Flambé;En papillote
+spo|5|Which French sauce is made of egg yolk, butter and lemon?|Hollandaise|Béchamel;Velouté;Espagnole
+spo|5|What are the five French "mother sauces" — béchamel, velouté, espagnole, hollandaise and what?|Tomato|Mayonnaise;Béarnaise;Aioli|Tomate;Sauce tomate
+spo|5|What is the most expensive spice by weight?|Saffron|Vanilla;Cardamom;Truffle
+spo|5|Which Italian region is Parmigiano-Reggiano associated with?|Emilia-Romagna|Tuscany;Lombardy;Piedmont

@@ -1,0 +1,74 @@
+# Rewritten from Open Trivia DB batch 8 (video games — mainstream picks only)
+spo|4|In "Halo", Master Chief belongs to which generation of Spartan super-soldiers?|SPARTAN-II|SPARTAN-I;SPARTAN-III;SPARTAN-IV
+spo|3|The arcade shooter "Galaga" was the sequel to which game?|Galaxian|Space Invaders;Asteroids;Defender
+spo|4|How many main endings does "Undertale" have?|3|2;5;10|three
+spo|4|Which "Call of Duty" game first included the Zombies mode?|World at War|Black Ops;Modern Warfare 2;Call of Duty 3|Call of Duty: World at War
+spo|4|"Dead Rising" takes place in which shopping mall?|Willamette Parkview Mall|Twin Pines Mall;Liberty Mall;Hill Valley Mall|Willamette
+spo|3|In what year was the original "Half-Life" released?|1998|1996;2000;2004
+spo|4|Which publisher released Valve's original "Half-Life"?|Sierra On-Line|Electronic Arts;Activision;Microsoft|Sierra
+spo|2|Who is the silent physicist hero of "Half-Life 2"?|Gordon Freeman|Alyx Vance;Isaac Kleiner;Barney Calhoun|Freeman
+spo|4|In "Stardew Valley", who runs the Adventurer's Guild by the mines?|Marlon|Willy;Clint;Gus
+spo|4|Which pop superstar is widely reported to have worked on music for "Sonic the Hedgehog 3"?|Michael Jackson|Prince;George Michael;Madonna
+spo|4|In "Left 4 Dead", which survivor sacrifices himself in "The Passing"?|Bill|Louis;Francis;Zoey
+spo|4|In "Half-Life", which US military unit is sent to clean up Black Mesa?|HECU|Navy SEALs;Delta Force;The Combine|Hazardous Environment Combat Unit
+spo|4|What was the first Mario platformer for the Nintendo 3DS?|Super Mario 3D Land|New Super Mario Bros. 2;Super Mario Galaxy;Super Mario Odyssey
+spo|4|"GTA V" and which other Grand Theft Auto game share the state of San Andreas?|GTA: San Andreas|GTA: Vice City;GTA IV;GTA III|San Andreas
+spo|2|How many different Tetris piece shapes are there?|7|5;6;8|seven
+spo|4|In what year was "Dishonored" released?|2012|2009;2014;2016
+spo|4|What was Kirby's working name during development?|Popopo|Puffball;Bubbles;Pinky
+spo|4|Which "Animal Crossing" game came out on the Nintendo Wii?|City Folk|New Leaf;Wild World;New Horizons|Animal Crossing: City Folk;Let's Go to the City
+spo|1|What is the name of the hero of "The Legend of Zelda" series?|Link|Zelda;Ganon;Epona
+spo|3|What does DOTA stand for?|Defense of the Ancients|Domination of the Arena;Defenders of the Arcane;Duel of the Ages
+spo|3|Which game engine is made by Epic Games?|Unreal Engine|Unity;CryEngine;Frostbite|Unreal
+spo|5|In "Red Dead Redemption", what is the name of John Marston's dog?|Rufus|Boone;Cain;Duke
+spo|4|Bethesda bought the "Fallout" series from which company?|Interplay|Black Isle;Obsidian;Activision|Interplay Entertainment
+spo|4|"Mirror's Edge Catalyst" takes place in the City of what?|Glass|Light;Steel;Mirrors
+spo|4|What is the hero's first Persona in "Persona 5"?|Arsène|Izanagi;Orpheus;Thanatos|Arsene
+spo|4|What is the fictional El Niño in "Need for Speed III: Hot Pursuit"?|A supercar|A police chopper;A race track;A hurricane level|Car
+spo|4|In the "Halo" series, the city of New Mombasa is in which country?|Kenya|Tanzania;Somalia;South Africa
+spo|3|In what year was Minecraft first released to the public?|2009|2006;2011;2013
+spo|3|Slowpoke comes from which franchise?|Pokémon|Digimon;Sonic the Hedgehog;Yu-Gi-Oh!|Pokemon
+spo|4|In "Call of Duty: Zombies", which machine upgrades your weapons?|Pack-a-Punch|Mystery Box;Der Wunderfizz;Juggernog
+spo|2|In "Animal Crossing", who is the tanuki who runs the shop?|Tom Nook|K.K. Slider;Isabelle;Mr. Resetti|Nook
+spo|4|Who is the time-rewinding heroine of "Life Is Strange"?|Max Caulfield|Chloe Price;Rachel Amber;Kate Marsh|Max;Maxine Caulfield
+spo|4|Which studio created "Ratchet & Clank"?|Insomniac Games|Naughty Dog;Sucker Punch;Rare|Insomniac
+spo|4|In "Resident Evil 2", which virus transforms William Birkin?|G-virus|T-virus;C-virus;Las Plagas|G virus
+spo|4|Which game was NOT part of Valve's "The Orange Box"?|Counter-Strike|Portal;Team Fortress 2;Half-Life 2: Episode Two
+spo|4|What is the prison in "Half-Life 2" called?|Nova Prospekt|Black Mesa;Ravenholm;City 17
+spo|3|Which company owns "Rayman"?|Ubisoft|Nintendo;Sega;Capcom
+spo|4|In which fantasy world is "RuneScape" set?|Gielinor|Azeroth;Tamriel;Hyrule
+spo|4|In "Pokémon Go", who leads Team Mystic?|Blanche|Candela;Spark;Willow
+spo|4|In "Pokémon Go", who leads Team Valor?|Candela|Blanche;Spark;Willow
+spo|4|In "Pokémon Go", who leads Team Instinct?|Spark|Blanche;Candela;Willow
+spo|4|What is the name of Cave Johnson's assistant in "Portal 2"?|Caroline|Chell;Wheatley;Doris
+spo|4|In which US state does "Far Cry 5" take place?|Montana|Wyoming;Idaho;Colorado
+spo|5|What disaster sets off the events of "Half-Life"?|The Resonance Cascade|A nuclear meltdown;An alien invasion fleet;A portal storm
+spo|4|Valve was founded by Gabe Newell and which other ex-Microsoft employee?|Mike Harrington|Marc Laidlaw;Doug Lombardi;Erik Johnson|Harrington
+spo|4|Sam Fisher works for which secret agency in "Splinter Cell"?|Third Echelon|Fourth Echelon;Black Arrow;Shadow Company
+spo|2|Who is Mega Man's archenemy?|Dr. Wily|Dr. Light;Dr. Eggman;Dr. Cortex
+spo|5|Which "Star Wars" actor voices Master Eraqus in "Kingdom Hearts"?|Mark Hamill|Harrison Ford;Ewan McGregor;Liam Neeson|Hamill
+spo|4|"Dark Souls" takes place mostly in which land?|Lordran|Drangleic;Lothric;Yharnam
+spo|4|Which game is often credited with popularizing the MMORPG genre in 1997?|Ultima Online|EverQuest;World of Warcraft;RuneScape
+spo|3|What is the alien alliance fought by humanity in "Halo"?|The Covenant|The Flood;The Combine;The Locust|Covenant
+spo|4|Valve is headquartered in which city?|Bellevue, Washington|Seattle, Washington;Austin, Texas;Redmond, Washington|Bellevue
+spo|4|In which game does Bowser Jr. make his debut?|Super Mario Sunshine|Super Mario Galaxy;Super Mario 64;New Super Mario Bros.
+spo|4|Who is the hero of Telltale's "The Walking Dead: Season One"?|Lee Everett|Clementine;Kenny;Rick Grimes|Lee
+spo|5|In what year was the original "System Shock" released?|1994|1990;1998;2001
+spo|4|Which Irish actor voices the hero's father in "Fallout 3"?|Liam Neeson|Brendan Gleeson;Colin Farrell;Pierce Brosnan|Neeson
+spo|3|Which actor stars as roadie Eddie Riggs in "Brütal Legend"?|Jack Black|Kyle Gass;Tenacious D;Dave Grohl|Black
+spo|4|Which John Carpenter horror film got a video game sequel in 2002?|The Thing|Halloween;The Fog;They Live
+spo|4|Who created the "Super Smash Bros." series?|Masahiro Sakurai|Shigeru Miyamoto;Satoru Iwata;Hideo Kojima|Sakurai
+spo|3|In which year was "Pokémon Go" released?|2016|2014;2018;2019
+spo|4|In "Disgaea", what word do Prinnies add to every sentence?|Dood|Kupo;Meow;Prin
+spo|2|Blinky, Pinky, Inky and Clyde are the ghosts in which game?|Pac-Man|Ms. Pac-Man only;Galaga;Dig Dug
+spo|4|Which Kanto Elite Four member becomes champion in Pokémon Gold and Silver?|Lance|Agatha;Bruno;Lorelei
+spo|4|What is the hardest difficulty in "Deus Ex: Mankind Divided" called?|I Never Asked for This|Give Me Deus Ex;Legend;Augmented
+spo|4|What was Mario called in "Donkey Kong" (1981)?|Jumpman|Mr. Video;Plumber Pete;Ossan
+spo|4|What is the hero called in the puzzle game "Braid"?|Tim|Tom;Ben;Max
+spo|3|In what year was the first "Sonic the Hedgehog" game released?|1991|1989;1993;1995
+spo|2|What is Gordon Freeman's signature weapon?|A crowbar|A wrench;A shotgun;A sledgehammer|Crowbar
+spo|4|Where is "The Legend of Zelda: Majora's Mask" set?|Termina|Hyrule;Holodrum;Koholint Island
+spo|3|"The Curious Village" and "The Diabolical Box" are games in which series?|Professor Layton|Phoenix Wright;Sam & Max;Myst
+spo|3|What was the first game in Rocksteady's Batman "Arkham" series?|Arkham Asylum|Arkham City;Arkham Origins;Arkham Knight|Batman: Arkham Asylum
+spo|4|Toby Fox's "Megalovania" first appeared in a hack of which game, before "Undertale"?|EarthBound|Mother 3;Pokémon Red;Super Mario World
+spo|4|Which "League of Legends" champion is a human girl, not a Yordle?|Annie|Teemo;Tristana;Lulu

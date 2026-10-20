@@ -1,0 +1,98 @@
+# Rewritten from Open Trivia DB batch 7 (leisure, video games)
+spo|3|Which of these famous universities is NOT in the Ivy League?|Stanford|Harvard;Princeton;University of Pennsylvania
+spo|3|In Morse code, which letter is three dots?|S|O;E;H
+spo|4|Nintendo was founded in 1889 to make what?|Playing cards|Toys;Radios;Bicycles|Hanafuda cards;Cards
+spo|1|How many nickels make five dollars?|100|50;25;500
+spo|4|The English words "bungalow" and "shampoo" come from languages of which country?|India|China;Egypt;Persia
+spo|4|In "Monty Python and the Holy Grail", what question about swallows stumps the bridgekeeper?|The airspeed velocity of an unladen swallow|How far a swallow can fly;What a swallow eats;Whether swallows migrate
+spo|2|Which spirit is made from sugarcane molasses?|Rum|Gin;Vodka;Tequila
+spo|4|Which chocolate bar is made by Hershey in the US, not Mars?|Almond Joy|Snickers;Twix;Milky Way
+spo|3|Goth subculture emerged in which decade?|1980s|1960s;1970s;1990s|80s
+spo|1|Which zodiac sign is represented by a crab?|Cancer|Scorpio;Pisces;Capricorn
+spo|2|What does a milliner make?|Hats|Gloves;Shoes;Jewelry
+spo|4|In which game did Waluigi make his debut?|Mario Tennis|Mario Party;Mario Kart 64;Super Smash Bros.|Mario Tennis 64
+spo|2|Red Vines is a brand of which candy?|Licorice|Gummy bears;Lollipops;Jelly beans|Liquorice
+spo|2|In the NATO phonetic alphabet, which word stands for M?|Mike|Mary;Max;Moon
+spo|2|Foie gras is made from which organ of a duck or goose?|Liver|Heart;Kidney;Gizzard
+spo|2|What is the Jewish New Year called?|Rosh Hashanah|Yom Kippur;Hanukkah;Purim
+spo|4|Which studio created the "Rock Band" games?|Harmonix|Activision;Konami;Neversoft
+spo|3|What is the airport code for Manchester, England?|MAN|MCR;MNC;MHT
+spo|1|Which zodiac sign falls between Virgo and Scorpio?|Libra|Leo;Sagittarius;Cancer
+spo|2|What is the highest number of Michelin stars a restaurant can earn?|3|4;5;7|three
+spo|4|At which fast-food chain can you order a Jamocha Shake?|Arby's|Wendy's;Dairy Queen;Sonic
+spo|4|Who founded the Lego Group?|Ole Kirk Christiansen|Godtfred Kirk Christiansen;Ingvar Kamprad;Hans Beck|Christiansen
+spo|5|What was Mountain Dew's original slogan?|"Yahoo! Mountain Dew... It'll tickle yore innards!"|"Do the Dew";"Get Vertical";"Taste the Rainbow"|It'll tickle your innards
+spo|1|Which fast-food chain has a clown mascot?|McDonald's|Burger King;Wendy's;Jack in the Box|McDonalds
+spo|4|If you are "goldbricking", what are you doing?|Slacking off|Stealing;Lying;Showing off|Slacking;Loafing
+spo|1|What shape is the puzzle invented by Ernő Rubik?|Cube|Pyramid;Sphere;Star
+spo|3|What was traditionally kept in a fob pocket?|A pocket watch|Coins;Keys;A comb|Watch
+spo|1|What symbol represents Gemini?|Twins|Ram;Fish;Archer
+spo|2|Which US President is NOT carved on Mount Rushmore?|John F. Kennedy|Thomas Jefferson;Theodore Roosevelt;Abraham Lincoln|JFK;Kennedy
+spo|3|Which Japanese massage therapy's name means "finger pressure"?|Shiatsu|Reiki;Ikebana;Kaizen
+spo|4|How often is the Fields Medal in mathematics awarded?|Every 4 years|Every year;Every 2 years;Every 10 years|4 years;four years
+spo|5|Which General Mills monster cereal was the last of the 1970s originals, launched in 1974?|Fruit Brute|Count Chocula;Franken Berry;Boo Berry
+spo|2|Which must-have doll caused shopping riots in 1983?|Cabbage Patch Kids|Barbie;My Little Pony;Care Bears
+spo|3|Earl Grey tea is flavoured with oil from which fruit?|Bergamot|Lemon;Lime;Grapefruit|Bergamot orange
+spo|1|Which card game has players match colours and numbers and shout its name with one card left?|Uno|Crazy Eights;Go Fish;Skip-Bo
+spo|4|What was Pepsi originally called when it was created in 1893?|Brad's Drink|Caleb's Cola;Carolina Cola;Pep Tonic
+spo|3|In "The Sims", which family lives in the spooky house with Bella and Mortimer?|The Goth family|The Pleasant family;The Newbie family;The Landgraab family|Goth
+spo|4|Which tradition did the Spanish region of Catalonia ban in 2010?|Bullfighting|Flamenco;Running of the bulls;Siesta
+spo|4|What did Pokémon Black and White offer as starters?|Snivy, Tepig and Oshawott|Chespin, Fennekin and Froakie;Turtwig, Chimchar and Piplup;Treecko, Torchic and Mudkip
+spo|5|Eggplant contains small amounts of which substance also found in tobacco?|Nicotine|Caffeine;Menthol;Tannin
+spo|2|Which spirit gets its flavour mainly from juniper berries?|Gin|Vodka;Rum;Brandy
+spo|4|How many furlongs are in a mile?|8|4;6;10|eight
+spo|2|Which green paste is often called Japanese horseradish?|Wasabi|Miso;Ponzu;Karashi
+spo|3|Apple's Mac OS X 10.5, from 2007, was named after which big cat?|Leopard|Tiger;Panther;Lion
+spo|3|Sora's signature weapon in "Kingdom Hearts" is shaped like what?|A key|A sword;A staff;A star|Key;Keyblade
+spo|4|In ancient Greece, a "hippeus" was a soldier who rode what?|A horse|A chariot;An elephant;A camel|Horse
+spo|4|What is the surname of Papa John's founder John?|Schnatter|Papadopoulos;Johnson;Martinez
+spo|4|Roughly how tall is the Burj Khalifa?|828 metres|541 metres;632 metres;1,000 metres|828 m;2,717 feet;828
+spo|4|Nokia began in 1865 as a mill producing what?|Paper|Rubber boots;Cables;Timber
+spo|4|Which London museum has a famous statue of Charles Darwin on its main staircase?|Natural History Museum|British Museum;Science Museum;Victoria and Albert Museum
+spo|2|Which nuts are ground to make marzipan?|Almonds|Hazelnuts;Cashews;Peanuts
+spo|2|How many keys are on a standard grand piano?|88|72;96;108
+spo|4|What breed of dog is Yale's mascot, Handsome Dan?|Bulldog|Boxer;Beagle;Pug|English bulldog
+spo|4|Which of these companies makes motorcycles rather than cars?|Ducati|Fiat;Nissan;GMC
+spo|3|Which style of beer is known for being especially hoppy?|India Pale Ale|Stout;Pilsner;Hefeweizen|IPA
+spo|3|Who founded the free online school Khan Academy?|Sal Khan|Salman Rushdie;Imran Khan;Aamir Khan|Salman Khan;Khan
+spo|4|Which Italian carmaker took control of Chrysler in 2011?|Fiat|Ferrari;Lamborghini;Alfa Romeo
+spo|5|In sailing, what is a burgee?|A small identifying flag|A type of knot;A rope ladder;A ship's bell|Flag;Pennant
+spo|4|How many controllers could plug into a Nintendo GameCube?|4|2;6;8|four
+spo|4|In what year was the first "Fallout" game released?|1997|1993;2001;2008
+spo|5|Valve's GoldSrc engine for "Half-Life" was built from which engine?|Quake engine|Doom engine;Unreal Engine;Build engine|Quake
+spo|5|What was Lara Croft's name in early "Tomb Raider" concepts?|Laura Cruz|Lara Craft;Laura Stone;Lana Cross
+spo|4|In Pokémon, which Pokémon is the only one with the ability Wonder Guard?|Shedinja|Ninjask;Sableye;Spiritomb
+spo|1|Which of these monsters appears in Minecraft?|Skeleton|Werewolf;Vampire;Goblin
+spo|4|Which Kanto Pokémon did NOT get a new evolution in Generation IV?|Jynx|Electabuzz;Magmar;Rhydon
+spo|3|Which water-type starter debuted in Pokémon Diamond and Pearl?|Piplup|Mudkip;Totodile;Oshawott
+spo|4|In what year was Ubisoft founded?|1986|1979;1993;2000
+spo|3|Which of these Pokémon types existed in the original Red and Blue games?|Ice|Steel;Dark;Fairy
+spo|4|At the end of "Portal 2", Wheatley is left floating in space near what?|The Moon|Mars;Earth's orbit;The Sun
+spo|2|Lanky, Funky and Chunky are Kongs from which Nintendo series?|Donkey Kong|Mario;Kirby;Star Fox
+spo|3|What was the first 3D "Legend of Zelda" game?|Ocarina of Time|Majora's Mask;The Wind Waker;Twilight Princess
+spo|2|Which company created the Steam store?|Valve|Epic Games;Electronic Arts;Blizzard
+spo|3|Who created Tetris?|Alexey Pajitnov|Shigeru Miyamoto;Toru Iwatani;Hideo Kojima|Pajitnov
+spo|5|Which Monty Python member voiced Rincewind in the 1995 "Discworld" game?|Eric Idle|Michael Palin;John Cleese;Terry Jones|Idle
+spo|4|"Saints Row: The Third" takes place in which city?|Steelport|Stilwater;Liberty City;San Fierro
+spo|4|In "Super Mario World", what are the miniature Thwomps called?|Thwimps|Thwumps;Mini-Thwomps;Thwomplings
+spo|4|What is the main theme song of "Sonic Adventure 2"?|Live and Learn|Open Your Heart;His World;Escape from the City
+spo|4|"Need for Speed: Most Wanted" (2005) takes place in which fictional city?|Rockport|Palmont;Fairhaven;Paradise City
+spo|4|Which two Valve series share the same universe?|Half-Life and Portal|Portal and Left 4 Dead;Half-Life and Team Fortress;Left 4 Dead and Counter-Strike
+spo|4|Which studio developed "Borderlands"?|Gearbox Software|2K Games;Bethesda;Bungie|Gearbox
+spo|4|Which studio created the space strategy game "Stellaris"?|Paradox Development Studio|Firaxis;Creative Assembly;Ensemble Studios|Paradox
+spo|4|Who is the main villain of "Call of Duty: Black Ops II"?|Raul Menendez|Vladimir Makarov;Imran Zakhaev;Viktor Reznov|Menendez
+spo|3|Which "Team Fortress 2" class can double jump?|Scout|Soldier;Spy;Demoman
+spo|3|What is the currency in the "Animal Crossing" games?|Bells|Rupees;Coins;Shells
+spo|1|What is the name of Sonic the Hedgehog's two-tailed fox sidekick?|Tails|Knuckles;Shadow;Amy
+spo|4|What is the gravity gun's official name in "Half-Life 2"?|Zero Point Energy Field Manipulator|Gravity Manipulation Device;Kinetic Field Projector;Newtonian Accelerator
+spo|5|What is the subtitle of "Gran Turismo 3"?|A-Spec|B-Spec;Prologue;Racing Evolution
+spo|4|Which of these is NOT an ingredient for a cake in Minecraft?|Bread|Milk;Eggs;Sugar
+spo|4|In Pokémon Red and Blue, which move is HM05?|Flash|Surf;Strength;Fly
+spo|4|What does the Heavy call his minigun in "Team Fortress 2"?|Sasha|Natasha;Olga;Katya
+spo|3|In "Metal Gear Solid", what is Solid Snake's twin brother called?|Liquid Snake|Solidus Snake;Naked Snake;Venom Snake|Liquid
+spo|4|Which "Sixth Sense" actor voices Sora in the English "Kingdom Hearts" games?|Haley Joel Osment|Jesse McCartney;Elijah Wood;Frankie Muniz|Osment
+spo|5|In "Final Fantasy IX", what alias does Princess Garnet use?|Dagger|Rose;Sable;Lady
+spo|4|In what year was "Final Fantasy XV" released?|2016|2012;2014;2019
+spo|4|Which character won Nintendo's 2015 Smash Bros. fan ballot?|Bayonetta|Cloud Strife;Ryu;Ridley
+spo|3|Which of these is not a city in the Grand Theft Auto series, but a state?|San Andreas|Vice City;Liberty City;Las Venturas
+spo|4|"Garry's Mod" first appeared as a Half-Life 2 mod in which year?|2004|2002;2006;2008

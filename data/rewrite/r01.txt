@@ -1,0 +1,120 @@
+# Rewritten from Open Trivia DB batch 1 (original wording, new/improved distractors)
+geo|3|The pineapple is native to which continent?|South America|Africa;Asia;Oceania
+geo|4|Outside Japan, which country is home to the largest population of people with Japanese ancestry?|Brazil|United States;Peru;Canada
+geo|4|Opened in 1863, which was the very first line of the London Underground?|Metropolitan line|Circle line;District line;Northern line|Metropolitan
+geo|2|Which waterway lets ships pass between the Mediterranean and the Red Sea?|Suez Canal|Panama Canal;Corinth Canal;Kiel Canal|Suez
+geo|2|In which of these countries do cars drive on the left?|Japan|South Korea;Germany;Brazil
+geo|4|Which language has the most speakers south of the equator?|Portuguese|Spanish;English;Swahili
+geo|2|Which of these countries shows the Union Jack on its national flag?|New Zealand|Canada;South Africa;Ireland
+geo|3|What do Poles call their own country?|Polska|Polonia;Polen;Polsko
+geo|3|Scotland's largest city, Glasgow, stands on which river?|River Clyde|River Tay;River Forth;River Tweed|Clyde
+geo|3|The kip is the currency of which Asian country?|Laos|Cambodia;Myanmar;Mongolia
+geo|5|After Spanish, which language native to Spain has the most speakers?|Catalan|Basque;Galician;Aragonese
+geo|4|A Welsh village has the longest railway-station name in Europe, beginning "Llanfair...". In which country is it?|Wales|Scotland;Ireland;Iceland
+geo|2|Which language do most people in Cuba speak?|Spanish|Portuguese;English;French
+geo|3|What is the most widely spoken first language in Switzerland?|German|French;Italian;Romansh|Swiss German
+geo|2|Which US state is nicknamed the Golden State?|California|Nevada;Colorado;Florida
+geo|4|Which compass direction does the Statue of Liberty face?|Southeast|Northeast;Southwest;Due east
+geo|2|The secretive US Air Force site known as Area 51 is in which state?|Nevada|New Mexico;Arizona;Utah
+geo|5|Which country has the most officially recognized Trappist breweries?|Belgium|Netherlands;Germany;France
+geo|3|In which California city is Apple's headquarters?|Cupertino|Palo Alto;Mountain View;San Jose
+his|3|Who became the youngest ever Nobel laureate, winning the Peace Prize at 17?|Malala Yousafzai|Greta Thunberg;Nadia Murad;Lawrence Bragg|Malala
+his|4|Which job title, besides Prime Minister, does the UK's head of government formally hold?|First Lord of the Treasury|Lord Privy Seal;Chancellor of the Exchequer;Lord President of the Council
+his|3|Whose portrait appears on the US two-dollar bill?|Thomas Jefferson|Alexander Hamilton;John Adams;Andrew Jackson|Jefferson
+his|3|What title was held by the military rulers of Japan from the 12th to the 19th century?|Shogun|Daimyo;Samurai;Mikado
+his|4|Bank of America began life in 1904 under what name?|Bank of Italy|Bank of San Francisco;Pacific Bank;Bank of California
+his|3|In what year was Queen Elizabeth II born?|1926|1922;1930;1933
+his|4|Which British monarch reigned but never had coins issued for circulation bearing his face?|Edward VIII|George V;George VI;William IV
+his|2|Julius Caesar's boast "Veni, vidi, vici" means what in English?|I came, I saw, I conquered|I fought, I won, I ruled;I lived, I loved, I died;I spoke, I listened, I acted
+his|4|Which war is honoured by the memorial standing between the Washington Monument and the Reflecting Pool?|World War II|Korean War;Vietnam War;World War I|Second World War;WWII
+his|2|Which Founding Father's face is on the US $100 bill?|Benjamin Franklin|Alexander Hamilton;Thomas Jefferson;George Washington|Franklin
+his|4|Howard Hughes's giant wooden flying boat, the H-4 Hercules, earned what nickname?|Spruce Goose|Flying Boxcar;Wooden Wonder;Birch Bird
+his|4|On what date was the US Declaration of Independence adopted by Congress?|July 4, 1776|July 2, 1776;June 14, 1777;September 17, 1787
+his|5|The remains of which British navigator, who first circumnavigated Australia, were found under a London railway site in 2019?|Matthew Flinders|James Cook;George Bass;William Bligh|Flinders
+sci|1|In tech, what does "VR" stand for?|Virtual reality|Visual rendering;Video recording;Variable resolution
+sci|4|In which year was the messaging app WhatsApp founded?|2009|2006;2011;2013
+sci|3|Quercus robur, the English oak, is what kind of plant?|Tree|Grass;Shrub;Fern|Oak tree;Oak
+sci|2|What is the largest species of penguin alive today?|Emperor penguin|King penguin;Gentoo penguin;Macaroni penguin|Emperor
+sci|2|Which famous NASA telescope was launched aboard the Space Shuttle in 1990?|Hubble Space Telescope|James Webb Space Telescope;Spitzer Space Telescope;Kepler Space Telescope|Hubble
+sci|4|What was the search engine Google originally called?|BackRub|Googol;PageFinder;WebCrawler
+sci|3|What sits at the centre of a fidget spinner to let it spin freely?|Ball bearing|Magnet;Spring;Gear|Bearing;Bearings
+sci|3|Igor Sikorsky's VS-300 and R-4 made him the father of which kind of aircraft?|Helicopter|Jet airliner;Seaplane;Glider
+sci|3|In what year did YouTube launch?|2005|2003;2007;2009
+sci|2|In what year did Facebook launch at Harvard?|2004|2002;2006;2008
+sci|3|Which blood component clumps together to plug a wound?|Platelets|Red blood cells;White blood cells;Plasma
+sci|3|Which noble gas has the symbol Kr?|Krypton|Xenon;Radon;Argon
+sci|3|In aerodynamics, which force acts upward on a wing?|Lift|Thrust;Drag;Weight
+sci|4|Which company bought PC maker Compaq in 2002?|Hewlett-Packard|Dell;IBM;Gateway|HP
+sci|4|What was the title of the very first YouTube video, uploaded in 2005?|Me at the zoo|Hello World;First Upload;Charlie Bit My Finger
+sci|2|In what year was Apple founded?|1976|1972;1979;1984
+sci|3|Cynophobia is an intense fear of what?|Dogs|Spiders;Heights;Water
+sci|5|The word "scientist" was coined in 1833 by which English polymath?|William Whewell|Charles Darwin;Michael Faraday;John Herschel|Whewell
+sci|5|In aviation, what does the acronym TCAS stand for?|Traffic Collision Avoidance System|Terminal Control Approach System;Tactical Course Alignment System;Transponder Communication and Alert System
+sci|4|Sciophobia is a fear of what?|Shadows|The sea;Science;Snakes
+sci|2|Which organ produces bile?|Liver|Gallbladder;Pancreas;Spleen
+sci|3|In "SIM card", what does the S stand for?|Subscriber|Secure;Signal;System
+sci|4|In what year was the website Reddit founded?|2005|2003;2008;2010
+art|4|In the novel "Jurassic Park", which small dinosaurs kill John Hammond?|Procompsognathus|Velociraptors;Dilophosaurus;Troodon|Compys;Compsognathus
+art|2|Who wrote the 1954 novel "Lord of the Flies"?|William Golding|George Orwell;Aldous Huxley;Evelyn Waugh|Golding
+art|3|What is the name of Hagrid's three-headed dog in the first Harry Potter book?|Fluffy|Fang;Norbert;Buckbeak
+art|3|In "Oliver Twist", what nickname is pickpocket Jack Dawkins known by?|The Artful Dodger|The Slippery Fox;Light Fingers;The Little Prig|Artful Dodger
+art|2|Eric Arthur Blair is better known by what pen name?|George Orwell|Lewis Carroll;Mark Twain;Saki|Orwell
+art|3|Stephen King published several early novels under which pseudonym?|Richard Bachman|Robert Galbraith;Lemony Snicket;Paul Sheldon|Bachman
+art|2|How many books make up C. S. Lewis's "The Chronicles of Narnia"?|7|5;6;9|seven
+art|2|Who wrote "A Tale of Two Cities"?|Charles Dickens|Victor Hugo;Thomas Hardy;Alexandre Dumas|Dickens
+art|3|In "The Hitchhiker's Guide to the Galaxy", what is the dolphins' farewell message to humanity?|So long, and thanks for all the fish|Don't panic;Goodbye and good luck;See you on the other side
+art|3|In which village did Harry Potter's parents live and die?|Godric's Hollow|Hogsmeade;Little Whinging;Ottery St Catchpole
+art|3|In which Mark Twain novel do a beggar boy and the Prince of Wales swap places?|The Prince and the Pauper|A Connecticut Yankee in King Arthur's Court;The Gilded Age;Pudd'nhead Wilson
+art|4|What is the name of Alice's cat in Lewis Carroll's books?|Dinah|Cheshire;Kitty;Snowdrop
+art|3|Which Scottish-born writer created Sherlock Holmes, despite most of the stories being set in London?|Arthur Conan Doyle|Robert Louis Stevenson;J. M. Barrie;Walter Scott|Conan Doyle
+art|3|Which novel has the subtitle "The Modern Prometheus"?|Frankenstein|Dracula;The Invisible Man;Dr Jekyll and Mr Hyde
+art|3|Mary Ann Evans wrote "Middlemarch" under what male pen name?|George Eliot|George Sand;Currer Bell;Acton Bell|Eliot
+art|3|Who wrote the young-adult novel "The Fault in Our Stars"?|John Green|Rainbow Rowell;Jay Asher;Stephen Chbosky|Green
+art|5|In "The Lord of the Rings", which elf owns the horse Asfaloth?|Glorfindel|Legolas;Elrond;Haldir
+art|4|In Andy Weir's "The Martian", Mark Watney is stranded on Mars for how many sols?|549|365;412;687
+art|4|In "The Handmaid's Tale", what is Offred's real name hinted to be?|June|Mary;Rose;Janine
+art|2|What is the name of Sherlock Holmes's older brother?|Mycroft|Sherrinford;Moriarty;Lestrade|Mycroft Holmes
+art|4|In "Dracula", at which English seaside town does the Count come ashore?|Whitby|Scarborough;Dover;Brighton
+art|3|"Anna Karenina" was written by which Russian author?|Leo Tolstoy|Fyodor Dostoevsky;Ivan Turgenev;Anton Chekhov|Tolstoy
+art|4|Whom does Draco Malfoy eventually marry in the Harry Potter story?|Astoria Greengrass|Pansy Parkinson;Daphne Greengrass;Luna Lovegood
+art|4|What brand of vehicle carries visitors on the park tour in Michael Crichton's novel "Jurassic Park"?|Toyota Land Cruiser|Jeep Wrangler;Land Rover Defender;Ford Explorer|Toyota;Land Cruiser
+art|4|In "Nineteen Eighty-Four", what is the ruling party's ideology called?|Ingsoc|Doublethink;Newspeak;Minitrue|English Socialism
+art|3|In "The Hobbit", who shoots the dragon Smaug?|Bard the Bowman|Bilbo Baggins;Thorin Oakenshield;Gandalf|Bard
+art|3|Which teen sci-fi series featuring Max and a flock of winged kids did James Patterson write?|Maximum Ride|Alex Rider;Artemis Fowl;The Maze Runner
+art|4|In Jules Verne's "The Mysterious Island", what do the castaways name the island?|Lincoln Island|Washington Island;Liberty Island;Nemo Island
+art|4|Jim Butcher's series about a wizard-for-hire in Chicago is called what?|The Dresden Files|The Hollows;Rivers of London;The Iron Druid Chronicles|Dresden Files
+art|2|Who narrates "The Catcher in the Rye"?|Holden Caulfield|Nick Carraway;Scout Finch;Huck Finn|Holden
+art|4|In which Harry Potter book does Harry first destroy a Horcrux (Tom Riddle's diary)?|Harry Potter and the Chamber of Secrets|Harry Potter and the Goblet of Fire;Harry Potter and the Half-Blood Prince;Harry Potter and the Order of the Phoenix|Chamber of Secrets
+art|1|Who wrote the "A Song of Ice and Fire" books, adapted as "Game of Thrones"?|George R. R. Martin|Robert Jordan;Brandon Sanderson;Terry Brooks|George RR Martin;Martin
+art|4|In Beatrix Potter's stories, what animal is Tommy Brock?|Badger|Fox;Hedgehog;Mole
+art|4|Who wrote "Fear and Loathing in Las Vegas"?|Hunter S. Thompson|Jack Kerouac;Tom Wolfe;Ken Kesey|Hunter Thompson;Thompson
+art|4|What fictional English county did Thomas Hardy use as the setting of his novels?|Wessex|Barsetshire;Loamshire;Middlemarch
+art|4|What was the first Sherlock Holmes story, published in 1887?|A Study in Scarlet|The Sign of Four;The Hound of the Baskervilles;A Scandal in Bohemia
+art|4|Which author drove across America with his poodle and wrote "Travels with Charley"?|John Steinbeck|Jack Kerouac;Mark Twain;Ernest Hemingway|Steinbeck
+art|3|What is the name of Captain Nemo's submarine?|Nautilus|Neptune;Leviathan;Argonaut|The Nautilus
+art|3|In Christopher Paolini's "Eragon", what is the name of Eragon's dragon?|Saphira|Glaedr;Thorn;Shruikan
+art|2|According to "The Hitchhiker's Guide to the Galaxy", what is the answer to life, the universe and everything?|42|7;100;Love|forty-two
+art|3|In "Little Women", which March sister marries Laurie?|Amy|Jo;Meg;Beth
+art|4|Magwitch, the convict who becomes Pip's secret benefactor, appears in which Dickens novel?|Great Expectations|Bleak House;David Copperfield;Little Dorrit
+art|4|Which James Bond author also wrote the children's book "Chitty-Chitty-Bang-Bang"?|Ian Fleming|Roald Dahl;Kingsley Amis;John le Carré|Fleming
+art|4|In "The Lord of the Rings", who is Gimli's father?|Glóin|Thorin;Balin;Dáin|Gloin
+art|3|What is Hermione Granger's middle name?|Jean|Jane;Rose;Ann
+art|3|In S. E. Hinton's "The Outsiders", Ponyboy belongs to which gang?|The Greasers|The Socs;The Jets;The Sharks|Greasers
+art|2|Which Quidditch position does Harry Potter play?|Seeker|Chaser;Keeper;Beater
+art|4|What is the second novel in "A Song of Ice and Fire"?|A Clash of Kings|A Storm of Swords;A Feast for Crows;A Dance with Dragons
+art|4|In Tolkien's lore, how many rings of power were given to the kings of Men?|9|3;7;12|nine
+art|4|What is the fourth book of the Bible's Old Testament?|Numbers|Leviticus;Deuteronomy;Exodus
+art|3|What is the first name of Harry Potter's father?|James|Sirius;Albus;Arthur
+art|1|Which author wrote "Green Eggs and Ham"?|Dr. Seuss|Eric Carle;Shel Silverstein;Maurice Sendak|Seuss
+art|4|Who wrote the 1967 horror novel "Rosemary's Baby"?|Ira Levin|William Peter Blatty;Shirley Jackson;Peter Straub|Levin
+art|4|Which poet wrote "The female of the species is more deadly than the male"?|Rudyard Kipling|Lord Byron;Alfred Tennyson;Oscar Wilde|Kipling
+art|3|Who wrote the fairy tale "The Little Match Girl"?|Hans Christian Andersen|The Brothers Grimm;Charles Perrault;Oscar Wilde|Andersen
+art|5|A character named Homer Simpson appears in which 1939 novel by Nathanael West?|The Day of the Locust|Miss Lonelyhearts;The Grapes of Wrath;Babbitt
+art|3|Which French aviator wrote "The Little Prince"?|Antoine de Saint-Exupéry|Jules Verne;Albert Camus;Victor Hugo|Saint-Exupery
+art|2|How many main books are in the Harry Potter series?|7|6;8;9|seven
+art|5|Who wrote the epic fantasy series "Malazan Book of the Fallen"?|Steven Erikson|Robert Jordan;Glen Cook;R. Scott Bakker|Erikson
+art|2|Which author wrote "Jurassic Park"?|Michael Crichton|Stephen King;Dean Koontz;Tom Clancy|Crichton
+art|4|A person described as "hirsute" is what?|Hairy|Tall;Bald;Pale
+art|4|The colour chartreuse sits between yellow and which other colour?|Green|Orange;Blue;Red
+art|3|To enter Ravenclaw's common room, what must a student do?|Answer a riddle|Say a password;Tap a barrel;Show a badge
+art|3|In "Romance of the Three Kingdoms", Liu Bei, Guan Yu and which third hero swore the Peach Garden Oath?|Zhang Fei|Zhao Yun;Cao Cao;Zhuge Liang

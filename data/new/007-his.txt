@@ -1,0 +1,118 @@
+# History pack 2 — US presidents, world leaders, inventions, 20th century
+his|1|Which US President is on the $1 bill?|George Washington|Abraham Lincoln;Thomas Jefferson;Alexander Hamilton|Washington
+his|1|Which US President is on the $5 bill?|Abraham Lincoln|George Washington;Andrew Jackson;Ulysses S. Grant|Lincoln
+his|1|Whose portrait has appeared on most Canadian coins since 1953?|Queen Elizabeth II|Queen Victoria;King George VI;John A. Macdonald|Elizabeth II;The Queen
+his|2|Who was the 16th President of the United States?|Abraham Lincoln|Andrew Johnson;Ulysses S. Grant;James Buchanan|Lincoln
+his|2|Who was the first US President to live in the White House?|John Adams|George Washington;Thomas Jefferson;James Madison|Adams
+his|2|Which US President was a former Hollywood actor?|Ronald Reagan|Richard Nixon;Gerald Ford;Dwight Eisenhower|Reagan
+his|2|Which WWII general became the 34th US President?|Dwight D. Eisenhower|Douglas MacArthur;George Patton;Omar Bradley|Eisenhower;Ike
+his|2|Which US President bought the Louisiana Territory from France?|Thomas Jefferson|James Madison;John Adams;James Monroe|Jefferson
+his|2|Who was the youngest person elected US President?|John F. Kennedy|Theodore Roosevelt;Bill Clinton;Barack Obama|JFK;Kennedy
+his|3|Who became the youngest US President after McKinley's assassination?|Theodore Roosevelt|John F. Kennedy;Ulysses S. Grant;Bill Clinton|Teddy Roosevelt
+his|3|Which US President served the shortest time in office?|William Henry Harrison|James Garfield;Zachary Taylor;Warren Harding|Harrison
+his|3|Which US President was the only one elected four times?|Franklin D. Roosevelt|Theodore Roosevelt;Woodrow Wilson;Dwight Eisenhower|FDR;Franklin Roosevelt
+his|3|Which US President issued the Monroe Doctrine?|James Monroe|John Quincy Adams;James Madison;Andrew Jackson|Monroe
+his|3|Which US President was in office when the atomic bombs were dropped on Japan?|Harry S. Truman|Franklin D. Roosevelt;Dwight Eisenhower;Herbert Hoover|Truman
+his|3|Which US President ended the Vietnam War's American involvement and opened relations with China?|Richard Nixon|Lyndon B. Johnson;Gerald Ford;Jimmy Carter|Nixon
+his|3|Which US President succeeded Kennedy after his assassination?|Lyndon B. Johnson|Richard Nixon;Hubert Humphrey;Gerald Ford|LBJ;Lyndon Johnson
+his|4|Who was the only US President never elected as President or Vice President?|Gerald Ford|Chester Arthur;Andrew Johnson;John Tyler|Ford
+his|4|Which US President later became Chief Justice of the Supreme Court?|William Howard Taft|Woodrow Wilson;John Quincy Adams;Grover Cleveland|Taft
+his|2|Who was Canada's Prime Minister during the 1970 October Crisis?|Pierre Trudeau|Brian Mulroney;Lester Pearson;Joe Clark|Pierre Elliott Trudeau
+his|3|Which Canadian Prime Minister negotiated the Canada–US Free Trade Agreement in 1988?|Brian Mulroney|Jean Chrétien;Pierre Trudeau;John Turner|Mulroney
+his|3|Who was Canada's first French-Canadian Prime Minister?|Wilfrid Laurier|Louis St. Laurent;Pierre Trudeau;Jean Chrétien|Laurier
+his|3|Which Canadian PM said "The 20th century belongs to Canada"?|Wilfrid Laurier|John A. Macdonald;Robert Borden;Mackenzie King|Laurier
+his|3|Who was Canada's Prime Minister during World War I?|Robert Borden|Wilfrid Laurier;Arthur Meighen;Mackenzie King|Borden
+his|3|Which Canadian PM brought in the national flag and Medicare-era social programs in the 1960s?|Lester B. Pearson|John Diefenbaker;Pierre Trudeau;Louis St. Laurent|Lester Pearson;Pearson
+his|3|Which Prime Minister introduced the Canadian Bill of Rights in 1960?|John Diefenbaker|Lester Pearson;Louis St. Laurent;Pierre Trudeau|Diefenbaker
+his|4|Who is known as the father of Medicare in Canada?|Tommy Douglas|Lester Pearson;Ed Broadbent;J. S. Woodsworth|Douglas
+his|4|Which Canadian PM held office for the shortest time?|Charles Tupper|John Turner;Kim Campbell;Joe Clark|Tupper
+his|4|Which Canadian PM was the longest-serving?|William Lyon Mackenzie King|John A. Macdonald;Pierre Trudeau;Wilfrid Laurier|Mackenzie King
+his|4|In what year did Canada patriate its constitution with the Constitution Act?|1982|1867;1931;1967
+his|4|Which 1931 British law gave Canada full legislative independence?|Statute of Westminster|British North America Act;Constitution Act;Balfour Declaration|Westminster
+his|4|Which province held referendums on independence in 1980 and 1995?|Quebec|Alberta;Newfoundland;British Columbia
+his|4|What territory was created in 1999 from part of the Northwest Territories?|Nunavut|Yukon;Nunavik;Labrador
+his|4|What was the name of the 1858 gold rush in British Columbia?|Fraser Canyon Gold Rush|Klondike Gold Rush;Cariboo Gold Rush;Yukon Gold Rush|Fraser River Gold Rush
+his|3|Which gold rush began in the Yukon in 1896?|Klondike Gold Rush|Cariboo Gold Rush;California Gold Rush;Fraser Gold Rush|Klondike
+his|2|Who was the first woman to serve as UK Prime Minister?|Margaret Thatcher|Theresa May;Queen Victoria;Barbara Castle|Thatcher
+his|2|Who was the Soviet leader during World War II?|Joseph Stalin|Vladimir Lenin;Nikita Khrushchev;Leon Trotsky|Stalin
+his|2|Who led the Cuban Revolution in 1959?|Fidel Castro|Che Guevara;Fulgencio Batista;Raúl Castro|Castro
+his|2|Who was the Italian fascist dictator during WWII?|Benito Mussolini|Francisco Franco;Victor Emmanuel III;Galeazzo Ciano|Mussolini
+his|3|Who was the Spanish dictator who ruled from 1939 to 1975?|Francisco Franco|Miguel Primo de Rivera;Juan Carlos;António Salazar|Franco
+his|3|Who was Prime Minister of India when it gained independence?|Jawaharlal Nehru|Mahatma Gandhi;Indira Gandhi;Sardar Patel|Nehru
+his|3|Who was the first President of South Africa elected in a fully democratic election?|Nelson Mandela|F. W. de Klerk;Thabo Mbeki;Jacob Zuma|Mandela
+his|3|Which Soviet leader introduced glasnost and perestroika?|Mikhail Gorbachev|Leonid Brezhnev;Boris Yeltsin;Yuri Andropov|Gorbachev
+his|3|Which Soviet leader banged his shoe at the UN in 1960?|Nikita Khrushchev|Leonid Brezhnev;Joseph Stalin;Mikhail Gorbachev|Khrushchev
+his|3|Who was the first female Prime Minister in the world (Sri Lanka, 1960)?|Sirimavo Bandaranaike|Indira Gandhi;Golda Meir;Margaret Thatcher|Bandaranaike
+his|3|Who was Israel's first female Prime Minister?|Golda Meir|Tzipi Livni;Indira Gandhi;Shulamit Aloni|Meir
+his|3|Who was the French general who led the Free French and later became President?|Charles de Gaulle|Philippe Pétain;Georges Pompidou;François Mitterrand|de Gaulle
+his|4|Who was the first Chancellor of West Germany after WWII?|Konrad Adenauer|Willy Brandt;Helmut Kohl;Ludwig Erhard|Adenauer
+his|4|Who was German Chancellor when Germany reunified in 1990?|Helmut Kohl|Gerhard Schröder;Helmut Schmidt;Angela Merkel|Kohl
+his|4|Who was the first Prime Minister of Israel?|David Ben-Gurion|Golda Meir;Menachem Begin;Chaim Weizmann|Ben-Gurion
+his|4|Which Prussian statesman unified Germany in 1871?|Otto von Bismarck|Wilhelm I;Helmuth von Moltke;Frederick the Great|Bismarck
+his|4|Which Vietnamese revolutionary leader declared independence in 1945?|Ho Chi Minh|Ngo Dinh Diem;Vo Nguyen Giap;Pol Pot
+his|4|Which Chinese leader launched economic reforms after Mao's death?|Deng Xiaoping|Hua Guofeng;Zhou Enlai;Jiang Zemin|Deng
+his|4|Who was the Russian tsar who founded St. Petersburg?|Peter the Great|Ivan the Terrible;Catherine the Great;Nicholas I|Peter I
+his|4|Which Macedonian king created an empire stretching to India by age 30?|Alexander the Great|Philip II;Darius III;Ptolemy I|Alexander
+his|5|Which Mughal emperor built the Taj Mahal?|Shah Jahan|Akbar;Aurangzeb;Babur
+his|5|Which Mali emperor was famous for his lavish 1324 pilgrimage to Mecca?|Mansa Musa|Sundiata Keita;Askia Muhammad;Sonni Ali|Musa
+his|5|Which Ethiopian emperor was revered by Rastafarians?|Haile Selassie|Menelik II;Tewodros II;Yohannes IV|Selassie
+his|5|Which Inca emperor was captured by Pizarro in 1532?|Atahualpa|Huáscar;Pachacuti;Manco Inca
+his|2|Who invented the telephone?|Alexander Graham Bell|Thomas Edison;Nikola Tesla;Samuel Morse|Bell
+his|2|Who invented the first practical airplane flown in 1903?|The Wright brothers|Glenn Curtiss;Alberto Santos-Dumont;Charles Lindbergh|Wright brothers;Wrights;Orville and Wilbur Wright
+his|2|Who made the first solo nonstop flight across the Atlantic in 1927?|Charles Lindbergh|Amelia Earhart;Howard Hughes;Wiley Post|Lindbergh
+his|3|Which code of dots and dashes was developed for the telegraph?|Morse code|Braille;Semaphore;Baudot code|Morse
+his|3|Which Canadian invented the snowmobile prototype and founded Bombardier?|Joseph-Armand Bombardier|Elijah McCoy;Alexander Graham Bell;Reginald Fessenden|Bombardier;Armand Bombardier
+his|3|Basketball, the paint roller and the snowblower are all inventions credited to people from which country?|Canada|United States;Sweden;Scotland
+his|3|Which Ontario-born inventor, James Naismith, created a sport played with peach baskets?|Basketball|Volleyball;Netball;Lacrosse
+his|3|In which decade did the Great Depression begin?|1920s|1910s;1930s;1940s|1929
+his|3|What was the name of the stock market crash of October 1929?|Black Tuesday|Black Monday;Black Friday;Bloody Sunday|Wall Street Crash
+his|3|Which pandemic of 1918 killed tens of millions worldwide?|Spanish flu|Asian flu;Black Death;Hong Kong flu|1918 flu;Influenza
+his|3|Which international organization was founded in 1945 to replace the League of Nations?|United Nations|NATO;European Union;World Bank|UN
+his|3|Which military alliance was formed in 1949 by Western nations?|NATO|Warsaw Pact;SEATO;United Nations|North Atlantic Treaty Organization
+his|3|What was the Eastern Bloc's response alliance to NATO?|Warsaw Pact|Comecon;Molotov Pact;Iron Curtain|Warsaw Treaty
+his|3|Which war took place from 1950 to 1953 on a divided peninsula?|Korean War|Vietnam War;Crimean War;Gulf War|Korea
+his|3|Which famous phrase did Churchill use in 1946 to describe Soviet-dominated Europe?|Iron Curtain|Cold War;Evil Empire;Berlin Wall
+his|3|Which 1989 protest in Beijing ended in a violent crackdown?|Tiananmen Square protests|Cultural Revolution;Hundred Flowers;Umbrella Movement|Tiananmen;Tiananmen Square
+his|3|Which country did Iraq invade in 1990, triggering the Gulf War?|Kuwait|Iran;Saudi Arabia;Jordan
+his|3|What was the name of the first human-made object to reach space?|V-2 rocket|Sputnik 1;Vostok 1;Explorer 1|V-2;V2
+his|3|What was the name of the Apollo mission that first landed on the Moon?|Apollo 11|Apollo 8;Apollo 12;Apollo 13
+his|3|Which Apollo mission had to abort its Moon landing after an oxygen tank exploded?|Apollo 13|Apollo 11;Apollo 1;Apollo 14
+his|4|Which space shuttle broke apart shortly after launch in 1986?|Challenger|Columbia;Discovery;Atlantis
+his|4|What was the name of the Soviet space station that orbited from 1986 to 2001?|Mir|Salyut 7;Skylab;Tiangong
+his|4|What was the name of the 1919 conference that redrew Europe's borders after WWI?|Paris Peace Conference|Congress of Vienna;Yalta Conference;Potsdam Conference|Paris
+his|4|Which 1945 conference featured Churchill, Roosevelt and Stalin in Crimea?|Yalta Conference|Potsdam Conference;Tehran Conference;Casablanca Conference|Yalta
+his|4|Which battle in 1942–43 was a turning point on WWII's Eastern Front?|Battle of Stalingrad|Battle of Kursk;Siege of Leningrad;Battle of Moscow|Stalingrad
+his|4|What was the German name for its lightning war tactics?|Blitzkrieg|Wehrmacht;Luftwaffe;Anschluss
+his|4|What was the name of the Nazi annexation of Austria in 1938?|Anschluss|Blitzkrieg;Lebensraum;Kristallnacht
+his|4|Which battle in 1916 on the Somme saw huge Commonwealth losses, including the Newfoundland Regiment at Beaumont-Hamel?|Battle of the Somme|Battle of Verdun;Battle of Ypres;Battle of Passchendaele|Somme
+his|4|Which 1917 battle in Belgium was fought in deep mud and won by Canadians in its final phase?|Battle of Passchendaele|Battle of Vimy Ridge;Battle of the Somme;Battle of Cambrai|Passchendaele;Third Battle of Ypres
+his|4|Which battle in 1944 opened the Scheldt estuary to Allied shipping, with heavy Canadian involvement?|Battle of the Scheldt|Battle of Ortona;Battle of Caen;Battle of Arnhem|Scheldt
+his|4|Which Italian town saw a famous Canadian street battle in December 1943?|Ortona|Monte Cassino;Anzio;Salerno
+his|4|Which 18th-century conflict was called the French and Indian War in North America?|Seven Years' War|Thirty Years' War;War of Spanish Succession;Hundred Years' War|Seven Years War
+his|5|Which 1763 document set out rules for British relations with Indigenous peoples in North America?|Royal Proclamation of 1763|Quebec Act;Treaty of Paris;Constitutional Act|Royal Proclamation
+his|5|Which 1774 Act allowed French civil law and Catholicism in Quebec?|Quebec Act|Constitutional Act;Act of Union;Royal Proclamation
+his|5|Which 1840 Act united Upper and Lower Canada?|Act of Union|British North America Act;Constitutional Act;Quebec Act|Union Act
+his|5|Who was the leader of the 1837 rebellion in Upper Canada?|William Lyon Mackenzie|Louis-Joseph Papineau;Louis Riel;Joseph Howe|Mackenzie
+his|5|Who led the 1837 Patriote rebellion in Lower Canada?|Louis-Joseph Papineau|William Lyon Mackenzie;Louis Riel;George-Étienne Cartier|Papineau
+his|5|Which explorer's 1845 expedition to find the Northwest Passage vanished, with ships found in 2014 and 2016?|John Franklin|Henry Hudson;Martin Frobisher;William Parry|Franklin;Sir John Franklin
+his|5|What were the names of Franklin's two lost ships?|Erebus and Terror|Endeavour and Discovery;Resolute and Investigator;Fram and Gjøa|HMS Erebus and HMS Terror;Terror and Erebus
+his|5|Which Hudson's Bay Company explorer mapped much of western Canada?|David Thompson|Simon Fraser;Alexander Mackenzie;Samuel Hearne|Thompson
+his|5|Which explorer was the first European to cross North America north of Mexico, reaching the Pacific in 1793?|Alexander Mackenzie|Simon Fraser;David Thompson;Meriwether Lewis|Mackenzie
+his|5|Which company, chartered in 1670, is one of the oldest in North America?|Hudson's Bay Company|North West Company;East India Company;Canada Company|HBC;Hudson's Bay
+his|2|Which ancient civilization used hieroglyphics and mummified their dead?|Ancient Egypt|Ancient Greece;Mesopotamia;The Maya|Egyptians;Egypt
+his|2|What was the name of the ancient Roman language?|Latin|Greek;Italian;Etruscan
+his|3|What was the capital of the Aztec Empire, on the site of modern Mexico City?|Tenochtitlan|Teotihuacan;Tula;Chichén Itzá|Tenochtitlán
+his|3|What was the Mesopotamian wedge-shaped writing system called?|Cuneiform|Hieroglyphs;Sanskrit;Linear A
+his|3|Which ancient Greek historian is called the "Father of History"?|Herodotus|Thucydides;Plutarch;Xenophon
+his|3|Which Greek philosopher was the teacher of Alexander the Great?|Aristotle|Plato;Socrates;Pythagoras
+his|3|Which Greek philosopher was sentenced to drink hemlock?|Socrates|Plato;Aristotle;Diogenes
+his|3|Which Roman emperor is said to have "fiddled while Rome burned"?|Nero|Caligula;Commodus;Tiberius
+his|4|What year is traditionally given for the fall of the Western Roman Empire?|476 AD|410 AD;1453 AD;395 AD|476
+his|4|Which ancient Mesopotamian epic is one of the oldest surviving works of literature?|Epic of Gilgamesh|Enuma Elish;Mahabharata;Iliad|Gilgamesh
+his|4|Who was the first emperor of a unified China?|Qin Shi Huang|Han Wudi;Kublai Khan;Sun Yat-sen|Shi Huangdi
+his|4|What is the name of the army of clay soldiers buried with China's first emperor?|Terracotta Army|Jade Army;Clay Legion;Stone Guard|Terracotta Warriors
+his|5|Which ancient city was the ceremonial capital of the Achaemenid Persian Empire?|Persepolis|Babylon;Susa;Nineveh
+his|5|Which Phoenician city founded Carthage?|Tyre|Sidon;Byblos;Jerusalem
+his|5|What were the series of Greek–Persian wars of the 5th century BC called?|Persian Wars|Peloponnesian Wars;Punic Wars;Trojan Wars|Greco-Persian Wars
+his|5|Which wars were fought between Rome and Carthage?|Punic Wars|Persian Wars;Gallic Wars;Samnite Wars|Punic
+his|5|Which Frankish leader stopped the Umayyad advance at the Battle of Tours in 732?|Charles Martel|Charlemagne;Clovis I;Pepin the Short|Martel

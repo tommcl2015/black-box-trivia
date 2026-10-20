@@ -1,0 +1,144 @@
+# Rewritten from Open Trivia DB batch 2
+art|4|Coquelicot, an old word for the poppy, names a shade of which colour?|Red|Purple;Yellow;Blue
+art|1|"Burro" is the Spanish word for which animal?|Donkey|Horse;Bull;Dog
+art|3|Le Corbusier was a pioneer of which architectural movement?|Modernism|Art Deco;Baroque;Gothic Revival|Modernist architecture;Modern
+art|3|"An accident waiting to happen" is an example of which figure of speech?|Idiom|Simile;Oxymoron;Alliteration
+art|4|"Curiosity killed the cat" has a lesser-known second half: "...but satisfaction brought it..." what?|Back|Home;Peace;Fame|brought it back
+art|3|Which subject did Thomas Carlyle nickname "the dismal science"?|Economics|Philosophy;Statistics;Theology
+art|1|Someone who is jealous is said to be which colour with envy?|Green|Red;Yellow;Blue
+art|5|What does the medical term "astasia" describe?|Being unable to stand|Being unable to sleep;Being unable to speak;Being unable to swallow
+art|3|Bramante and Michelangelo both worked on which great church in Vatican City?|St. Peter's Basilica|Sistine Chapel;St. Mark's Basilica;Florence Cathedral|St Peters;Saint Peter's Basilica
+art|3|"The Tortoise and the Hare" and "The Fox and the Grapes" are fables credited to which ancient storyteller?|Aesop|Homer;Ovid;Plutarch
+art|1|What is the French word for "hat"?|Chapeau|Bonnet;Gant;Écharpe
+art|4|"Zima" is the Russian word for which season?|Winter|Summer;Spring;Autumn
+art|3|In the nursery rhyme, what did Little Jack Horner pull out of his Christmas pie?|A plum|A cherry;A sixpence;A blackbird|plum
+art|5|Which architect designed One World Trade Center, completed in 2014?|David Childs|Daniel Libeskind;Santiago Calatrava;Norman Foster|Childs
+art|2|A coward is said to be what colour?|Yellow|Green;White;Blue|yellow-bellied
+art|5|"Abulia" is the inability to do what?|Make decisions|Taste food;Feel pain;Recognize faces
+art|3|What does a funambulist walk on?|A tightrope|Hot coals;Stilts;Broken glass|Tightrope;Rope;Wire
+art|4|Which symbol was once recited at the end of the alphabet, almost as a 27th letter?|Ampersand|Asterisk;Tilde;Pilcrow|&
+art|5|If something is "olid", what is wrong with it?|It smells foul|It is broken;It is out of date;It is too salty
+art|4|"Qamar" is the Arabic word for what?|Moon|Star;Sun;Sky
+art|4|Which European language is NOT part of the Indo-European family?|Hungarian|Greek;Latvian;Albanian
+art|2|What is the final letter of the Greek alphabet?|Omega|Zeta;Psi;Alpha
+art|5|Which word means a person who idly watches boats on canals?|Gongoozler|Flâneur;Lollygagger;Rubberneck
+art|4|According to Oxford dictionary research, what is the most common noun in English?|Time|Person;Year;Way
+art|2|A PhD is a Doctor of what?|Philosophy|Physics;Pharmacy;Psychology
+art|5|The Swedish word "grunka" means what?|Thingamajig|Window;Pancake;Grumpy|Thing;thingy
+art|3|Frank Lloyd Wright designed which spiral-shaped New York museum?|Solomon R. Guggenheim Museum|Museum of Modern Art;Whitney Museum;Metropolitan Museum of Art|Guggenheim;The Guggenheim
+art|3|Complete the New York Times slogan: "All the News That's Fit to..."|Print|Read;Tell;Publish
+art|1|What is the first book of the Bible?|Genesis|Exodus;Psalms;Matthew
+art|5|"Aprosexia" describes an inability to do what?|Concentrate|Stand;Remember;Speak
+art|4|"Feiji" is the Mandarin word for which vehicle?|Airplane|Bicycle;Train;Boat|Plane;aeroplane
+art|4|Which language has no grammatical gender at all?|Turkish|German;Polish;Spanish
+art|4|"Daigaku" is the Japanese word for what?|University|Library;Hospital;Train station
+art|3|Who is often called the father of modern philosophy?|René Descartes|Immanuel Kant;John Locke;Baruch Spinoza|Descartes
+art|1|What is the French word for "fish"?|Poisson|Pêche;Mer;Fromage
+art|1|What is the Italian word for "tomato"?|Pomodoro|Cipolla;Aglio;Melanzana
+art|1|How do you say "goodbye" in Spanish?|Adiós|Hola;Gracias;Por favor|Adios
+art|3|"Löffel" is the German word for which piece of cutlery?|Spoon|Fork;Knife;Chopsticks
+art|3|Finish Sherlock Holmes's rule: "When you have eliminated the impossible, whatever remains, however improbable, must be the..."|Truth|Answer;Culprit;Solution
+art|5|What is nephelococcygia?|Seeing shapes in clouds|Fear of birds;Talking in your sleep;Counting stars
+art|3|Which fallacy attacks the person making an argument instead of the argument itself?|Ad hominem|Straw man;Red herring;Slippery slope
+art|4|"Fönster" is the Swedish word for what?|Window|Door;Flower;Chair
+art|3|Mauve, named after the mallow flower, is a shade of what colour?|Purple|Blue;Green;Orange|Violet
+art|4|Before "living room" became common, what was the formal front room of a house called?|Parlour|Drawing hall;Den;Foyer|Parlor
+ent|4|Who voiced the dragon Draco in the 1996 film "DragonHeart"?|Sean Connery|Patrick Stewart;Anthony Hopkins;Christopher Lee|Connery
+ent|3|Who plays Alice in the "Resident Evil" film series?|Milla Jovovich|Michelle Rodriguez;Kate Beckinsale;Charlize Theron|Jovovich
+ent|4|In "Army of Darkness", what does Ash call his shotgun?|Boomstick|Thunderstick;Big Bertha;Old Faithful
+ent|3|In sci-fi slang taken from "Star Trek", what are expendable characters killed to show danger called?|Redshirts|Blueshirts;Ensigns;Extras|Red shirts;Red shirt
+ent|3|In which year was the action film "Con Air" released?|1997|1993;1995;2000
+ent|5|Which composer's Requiem "Dies irae" is heard in "Mad Max: Fury Road"?|Giuseppe Verdi|Wolfgang Amadeus Mozart;Gabriel Fauré;Hector Berlioz|Verdi
+ent|1|Daniel Radcliffe became famous playing which character?|Harry Potter|Peter Pan;Oliver Twist;Frodo Baggins
+ent|4|What was Michael Caine's birth name?|Maurice Micklewhite|Michael Mitchell;Maurice Cohen;Malcolm Caine
+ent|2|Which "Star Wars" film was released first, in 1977?|A New Hope|The Empire Strikes Back;The Phantom Menace;Return of the Jedi|Star Wars;Episode IV
+ent|4|Wallace and Gromit's favourite cheese, which saw a sales boost from their films, is what?|Wensleydale|Cheddar;Stilton;Red Leicester
+ent|2|"Nobody puts Baby in a corner" is a line from which film?|Dirty Dancing|Footloose;Grease;Flashdance
+ent|3|In which year was "Napoleon Dynamite" released?|2004|2001;2006;2008
+ent|4|Who played Colonel Guile in the 1994 film "Street Fighter"?|Jean-Claude Van Damme|Dolph Lundgren;Steven Seagal;Chuck Norris|Van Damme
+ent|4|Which star filmed a cameo as a school principal that was cut from "E.T."?|Harrison Ford|Tom Hanks;Bill Murray;Robin Williams|Ford
+ent|2|Which Stanley Kubrick film is based on a Stephen King novel?|The Shining|A Clockwork Orange;Full Metal Jacket;Eyes Wide Shut
+ent|4|In "Indiana Jones and the Temple of Doom", the chilled monkey brains were actually made of what?|Custard and raspberry sauce|Tofu;Jelly;Cauliflower|Custard
+ent|3|Which character from Tolkien's book was left out of the "Fellowship of the Ring" film?|Tom Bombadil|Barliman Butterbur;Celeborn;Bill the Pony|Bombadil
+ent|1|Who directed the "Kill Bill" films?|Quentin Tarantino|Robert Rodriguez;Guy Ritchie;Martin Scorsese|Tarantino
+ent|3|At which summer camp is the original "Friday the 13th" set?|Camp Crystal Lake|Camp Arawak;Camp Blackfoot;Camp Redwood|Crystal Lake
+ent|2|Which 2016 film pits Superman against Batman?|Batman v Superman: Dawn of Justice|Justice League;Man of Steel;The Dark Knight Rises|Batman v Superman
+ent|4|In "Star Wars", which planet is Han Solo from?|Corellia|Tatooine;Alderaan;Kashyyyk
+ent|2|Who voices Po in "Kung Fu Panda"?|Jack Black|Seth Rogen;Jonah Hill;Will Ferrell
+ent|4|Which "Star Trek" actor directed "Three Men and a Baby"?|Leonard Nimoy|William Shatner;Patrick Stewart;Jonathan Frakes|Nimoy
+ent|5|What is the name of the hero of the 1979 mod film "Quadrophenia"?|Jimmy Cooper|Johnny Rotten;Ace Face;Pete Townshend|Jimmy
+ent|4|What is the designation of the planet where the crew finds the alien eggs in "Alien" and "Aliens"?|LV-426|LV-223;Fiorina 161;Acheron 7|Acheron
+ent|4|In the sitcom "ALF", what was ALF's real name?|Gordon Shumway|Willie Tanner;Melmac Gordon;Brian Tanner
+ent|3|In "Big Hero 6", what is the heroes' home city called?|San Fransokyo|Neo Tokyo;Tokyo Bay;San Francokyo
+ent|4|In "Spaceballs", what are the Spaceballs trying to steal from Planet Druidia?|Air|Water;Gold;The Schwartz|Its air;fresh air
+ent|5|What was the name of the dog who played Toto in "The Wizard of Oz" (1939)?|Terry|Spot;Lassie;Rin Tin Tin
+ent|4|Roughly how much did "Avengers: Endgame" earn worldwide on its 2019 opening weekend?|$1.2 billion|$640 million;$850 million;$2 billion
+ent|4|What is James Dean's character called in "Rebel Without a Cause"?|Jim Stark|Cal Trask;Jett Rink;Buzz Gunderson
+ent|5|How did "The Wizard of Oz" achieve its "Horse of a Different Color"?|Gelatin powder|Food dye;Hand-painted film;Coloured lights|Jell-O;Jello
+ent|3|Who directed "The Revenant" (2015)?|Alejandro G. Iñárritu|Alfonso Cuarón;Guillermo del Toro;Denis Villeneuve|Inarritu
+ent|5|In which 1958 film do Kirk Douglas and Tony Curtis play half-brothers Einar and Eric?|The Vikings|Spartacus;The Long Ships;Ivanhoe
+ent|2|Who is the teenage hero of "Back to the Future"?|Marty McFly|Doc Brown;Biff Tannen;George McFly|Marty
+ent|4|Roger Ebert wrote "I hated hated hated hated hated this movie" about which 1994 film starring Elijah Wood?|North|The Good Son;Radio Flyer;Flipper
+ent|2|Which director made "Reservoir Dogs" and "Django Unchained"?|Quentin Tarantino|Martin Scorsese;Coen brothers;David Fincher|Tarantino
+ent|3|Which city does the monster attack in "Cloverfield"?|New York City|Los Angeles;Chicago;Boston|New York;NYC
+ent|5|At the end of "Rat Race" (2001), whose concert do the racers crash?|Smash Mouth|Sugar Ray;Blink-182;Barenaked Ladies
+ent|3|Johnny Depp made his film debut in which 1984 horror film?|A Nightmare on Elm Street|Friday the 13th Part III;Halloween II;Children of the Corn
+ent|2|What was the first fully computer-animated feature film?|Toy Story|Shrek;A Bug's Life;Antz
+ent|3|"The Enforcer" and "Sudden Impact" star which Clint Eastwood cop?|Dirty Harry|Rooster Cogburn;The Man with No Name;Josey Wales|Harry Callahan
+ent|4|Eadweard Muybridge's famous early motion photographs showed what?|A galloping horse|A train arriving;A man sneezing;Waves breaking|Horse
+ent|3|What is Nicolas Cage's character called in "National Treasure"?|Benjamin Franklin Gates|Thomas Jefferson Gates;John Adams Gates;George Washington Gates|Ben Gates
+ent|4|In "Pulp Fiction", which character explains what a Quarter Pounder is called in Paris?|Vincent Vega|Jules Winnfield;Butch Coolidge;Marsellus Wallace|Vincent
+ent|4|In the original "Scream", who turns out to be Ghostface?|Billy Loomis and Stu Macher|Dewey Riley;Randy Meeks;Gale Weathers|Billy and Stu
+ent|1|In what year was James Cameron's "Titanic" released?|1997|1995;1999;2001
+ent|4|Which was Alfred Hitchcock's first colour film?|Rope|Vertigo;Rear Window;The Birds
+ent|3|Arnold Schwarzenegger's Terminator is which model?|T-800|T-1000;T-X;T-600
+ent|2|Which actor starred in "Top Gun", "Jerry Maguire" and "Born on the Fourth of July"?|Tom Cruise|Tom Hanks;Kevin Costner;Val Kilmer|Cruise
+ent|4|Which Ed Wood film, often called the worst ever made, has aliens trying to stop humans building a doomsday weapon?|Plan 9 from Outer Space|Robot Monster;Glen or Glenda;The Brain That Wouldn't Die|Plan 9
+ent|3|What is the name of the boy who befriends "The Iron Giant"?|Hogarth Hughes|Kent Mansley;Dean McCoppin;Timmy Turner|Hogarth
+ent|3|Who directed "The Silence of the Lambs"?|Jonathan Demme|Ridley Scott;David Fincher;Brian De Palma|Demme
+ent|4|The 2016 "Assassin's Creed" film flashes back to which period?|The Spanish Inquisition|The French Revolution;Renaissance Italy;The Crusades|Spanish Inquisition
+ent|3|In "Back to the Future Part II", Marty and Doc travel to which date?|October 21, 2015|July 4, 2015;January 1, 2015;November 5, 2015
+ent|4|Harrison Ford's famous decision to shoot the swordsman in "Raiders of the Lost Ark" came because he was suffering from what?|Dysentery|Flu;A broken toe;Sunstroke
+ent|3|Who won an Oscar as US Marshal Samuel Gerard in "The Fugitive"?|Tommy Lee Jones|Harrison Ford;Joe Pantoliano;Jeroen Krabbé|Jones
+ent|1|What is the name of the volleyball companion in "Cast Away"?|Wilson|Spalding;Mikasa;Willy
+ent|3|In "V for Vendetta", which date does V urge people to remember?|November 5|July 14;October 31;December 25|5th of November;Guy Fawkes Night
+ent|3|Which 1992 comedy features Alice Cooper, Meat Loaf and Chris Farley in cameos?|Wayne's World|Bill & Ted's Excellent Adventure;Tommy Boy;Airheads
+ent|5|Which 2002 film was shot in a single continuous take inside the Hermitage Museum?|Russian Ark|Rope;Birdman;Timecode
+ent|5|Most extras on the original "Mad Max" (1979) were paid with what?|Beer|Petrol;Pizza;Concert tickets
+ent|2|Which film features the line "No, I am your father"?|The Empire Strikes Back|A New Hope;Return of the Jedi;Revenge of the Sith|Empire Strikes Back
+ent|4|What car is Max's "Pursuit Special" in the "Mad Max" films based on?|Ford Falcon|Holden Monaro;Chevrolet Camaro;Dodge Charger
+ent|3|What is Dorothy's last name in "The Wizard of Oz"?|Gale|Baum;Kansas;Marsh
+ent|4|In Disney's "Mulan", who leads the Hun army?|Shan Yu|Chi Fu;Li Shang;Yao
+ent|3|Who sang the theme to the Bond film "Goldfinger"?|Shirley Bassey|Tom Jones;Nancy Sinatra;Carly Simon|Bassey
+ent|5|Giant mutant rabbits menace the town in which 1972 horror film?|Night of the Lepus|Them!;Willard;Frogs
+ent|2|Who played Edward in "Edward Scissorhands"?|Johnny Depp|Jim Carrey;Christian Slater;Keanu Reeves|Depp
+ent|5|What was the last Marx Brothers film featuring Zeppo?|Duck Soup|Horse Feathers;Monkey Business;A Night at the Opera
+ent|3|In "Speed", the bus explodes if it drops below what speed?|50 mph|30 mph;55 mph;65 mph|50
+ent|4|In "Mean Girls", whose breasts can supposedly tell when it's raining?|Karen Smith|Gretchen Wieners;Regina George;Cady Heron|Karen
+ent|5|In "Quadrophenia", the mods head to which English seaside town?|Brighton|Blackpool;Margate;Bournemouth
+ent|2|Which was the first James Bond film, released in 1962?|Dr. No|Goldfinger;From Russia with Love;Thunderball
+ent|4|Which villain ends up frozen by liquid nitrogen at the end of "GoldenEye"?|Boris Grishenko|Alec Trevelyan;Xenia Onatopp;General Ourumov|Boris
+ent|4|What government replaced the Galactic Empire after "Return of the Jedi"?|The New Republic|The First Order;The Old Republic;The Resistance|New Republic
+ent|3|Who wrote and directed "Platoon" (1986)?|Oliver Stone|Stanley Kubrick;Francis Ford Coppola;Michael Cimino|Stone
+ent|3|Which 1973 film stars Yul Brynner as a malfunctioning robot gunslinger in a theme park?|Westworld|Futureworld;Logan's Run;The Stepford Wives
+ent|5|In "Hobo with a Shotgun", what did the hobo originally want to buy?|A lawnmower|A guitar;A bicycle;A suit
+ent|3|Who voices Toad in "The Super Mario Bros. Movie" (2023)?|Keegan-Michael Key|Seth Rogen;Charlie Day;Jack Black|Key
+ent|4|Which British documentary maker made "My Scientology Movie"?|Louis Theroux|Nick Broomfield;Michael Moore;Morgan Spurlock|Theroux
+ent|1|Who plays Ethan Hunt in the "Mission: Impossible" films?|Tom Cruise|Matt Damon;Keanu Reeves;Brad Pitt|Cruise
+ent|2|Who played Batman in Tim Burton's 1989 "Batman"?|Michael Keaton|Val Kilmer;Adam West;George Clooney|Keaton
+ent|4|Who plays truck driver Jack Burton in "Big Trouble in Little China"?|Kurt Russell|Bruce Willis;Mel Gibson;Patrick Swayze|Russell
+ent|5|Who played Freddy Krueger in the 2010 "A Nightmare on Elm Street" remake?|Jackie Earle Haley|Robert Englund;Kane Hodder;Bill Moseley|Haley
+ent|5|"Mother India" became India's first submission for the Best Foreign Language Film Oscar in which year?|1957|1949;1962;1971
+ent|4|Which James Bond villain is NOT a member of SPECTRE in the films?|Auric Goldfinger|Dr. No;Ernst Stavro Blofeld;Emilio Largo|Goldfinger
+ent|4|In what year was the first "Transformers" movie released, as an animated feature?|1986|1984;1991;2007
+ent|3|Mark Wahlberg starred in which 2008 film based on a video game?|Max Payne|Hitman;Doom;Prince of Persia
+ent|3|Who played Batman in "Batman & Robin" (1997)?|George Clooney|Val Kilmer;Michael Keaton;Christian Bale|Clooney
+ent|2|"I love the smell of napalm in the morning" comes from which war film?|Apocalypse Now|Platoon;Full Metal Jacket;The Deer Hunter
+ent|4|Which Winnie the Pooh character was created by Disney and isn't in A. A. Milne's books?|Gopher|Tigger;Eeyore;Piglet
+ent|4|In 2012, which Adam Sandler comedy swept every category at the Golden Raspberry Awards?|Jack and Jill|Grown Ups;That's My Boy;Pixels
+ent|4|In what year was the comedy "Police Academy" released?|1984|1981;1987;1990
+ent|5|Which jokey alternative title did a studio executive suggest for "Back to the Future"?|Spaceman from Pluto|Time Kid;The Flux Capacitor;Teen Time Traveler
+ent|4|Queen's song "A Kind of Magic" was written for which 1986 film?|Highlander|Flash Gordon;Labyrinth;Top Gun
+ent|2|Who played Willy Wonka in the 1971 film?|Gene Wilder|Johnny Depp;Dick Van Dyke;Peter Sellers|Wilder
+ent|4|What does Ash say after fitting his chainsaw hand in "Evil Dead II"?|Groovy|Hail to the king;Gimme some sugar;Come get some
+ent|3|Which 1999 sequel earned far more than the original at the box office?|Toy Story 2|Speed 2;Babe: Pig in the City;Stuart Little 2

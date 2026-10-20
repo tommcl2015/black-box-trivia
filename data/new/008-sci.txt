@@ -1,0 +1,152 @@
+# Science & Nature pack 2 — animals, body, earth, space, tech
+sci|1|What is a baby cat called?|Kitten|Cub;Pup;Kid
+sci|1|What is a baby dog called?|Puppy|Kitten;Calf;Foal|Pup
+sci|1|What is a baby horse called?|Foal|Calf;Kid;Lamb
+sci|1|What is a baby cow called?|Calf|Foal;Kid;Lamb
+sci|1|What is a baby sheep called?|Lamb|Kid;Calf;Fawn
+sci|1|What is a baby deer called?|Fawn|Kid;Calf;Foal
+sci|1|What do pandas mostly eat?|Bamboo|Eucalyptus;Fish;Berries
+sci|1|What do koalas mostly eat?|Eucalyptus leaves|Bamboo;Grass;Insects|Eucalyptus
+sci|1|Which animal is known for changing colour to blend in?|Chameleon|Gecko;Iguana;Salamander
+sci|1|What is the largest cat species?|Tiger|Lion;Jaguar;Leopard
+sci|1|Which sense is the nose responsible for?|Smell|Taste;Touch;Hearing
+sci|1|What organ do we use to breathe?|Lungs|Heart;Stomach;Liver|Lung
+sci|1|What is the colour of chlorophyll?|Green|Yellow;Red;Blue
+sci|1|Which planet is often called the "Morning Star"?|Venus|Mars;Mercury;Jupiter
+sci|2|How many chambers does the human heart have?|4|2;3;6|four
+sci|2|What is the largest bone in the human skull?|Mandible|Frontal bone;Parietal bone;Occipital bone|Jawbone;Jaw
+sci|2|Which part of the body contains the cornea?|Eye|Ear;Skin;Heart
+sci|2|What is the common name for the patella?|Kneecap|Shoulder blade;Collarbone;Shin bone|Knee cap
+sci|2|What is the common name for the scapula?|Shoulder blade|Collarbone;Kneecap;Breastbone
+sci|2|Which vitamin is mainly found in citrus fruits?|Vitamin C|Vitamin A;Vitamin B12;Vitamin K|C
+sci|2|What do red blood cells carry around the body?|Oxygen|Nutrients;Hormones;White cells
+sci|2|Which body system includes the brain and spinal cord?|Nervous system|Circulatory system;Endocrine system;Digestive system|Central nervous system;Nervous
+sci|2|What is the name of the animal that is half donkey and half horse?|Mule|Zebroid;Pony;Burro
+sci|2|Which bird is known for mimicking human speech?|Parrot|Crow;Pigeon;Owl
+sci|2|Which bird is the symbol of peace?|Dove|Eagle;Swan;Owl
+sci|2|What is the fastest bird in a dive?|Peregrine falcon|Golden eagle;Swift;Hawk|Peregrine;Falcon
+sci|2|Which animal is the national animal of Canada?|Beaver|Moose;Polar bear;Canada goose
+sci|2|Which large deer lives in Canada's forests and has broad, flat antlers?|Moose|Elk;Caribou;White-tailed deer
+sci|2|What North American animal is called a reindeer in Europe?|Caribou|Moose;Elk;Mule deer
+sci|2|Which animal sprays a foul smell when threatened?|Skunk|Raccoon;Opossum;Porcupine
+sci|2|What is a female deer called?|Doe|Hind;Ewe;Sow
+sci|2|What is a male duck called?|Drake|Gander;Cob;Tom
+sci|2|What is a group of wolves called?|Pack|Herd;Pride;Pod
+sci|2|What is a group of whales called?|Pod|Pack;School;Herd
+sci|2|What is a group of fish called?|School|Pod;Flock;Herd|Shoal
+sci|2|How many legs does an insect have?|6|4;8;10|six
+sci|2|What are baby frogs called?|Tadpoles|Froglets;Larvae;Polliwogs|Tadpole;Polliwog
+sci|2|Which planet is famous for its Great Red Spot storm?|Jupiter|Saturn;Neptune;Mars
+sci|2|What is the name of Earth's only natural satellite?|The Moon|Luna;Phobos;Europa|Moon
+sci|2|How long does it take Earth to orbit the Sun?|About 365 days|About 30 days;About 24 hours;About 180 days|365 days;One year;a year
+sci|2|What causes the tides on Earth?|The Moon's gravity|The Sun's heat;Earth's rotation alone;Ocean currents|The Moon;Moon;gravity of the moon
+sci|2|What is the term for a scientist who studies weather?|Meteorologist|Geologist;Astronomer;Seismologist
+sci|2|What is frozen carbon dioxide commonly called?|Dry ice|Ice nine;Frost;Snow
+sci|2|What do we call a mixture of metals such as bronze or brass?|Alloy|Compound;Ore;Amalgam
+sci|2|Which metal is liquid at room temperature?|Mercury|Gallium;Lead;Tin
+sci|2|What is the main ingredient of glass?|Sand|Clay;Limestone;Salt|Silica
+sci|2|What is the opposite of acidic?|Alkaline|Neutral;Saline;Ionic|Basic
+sci|2|What is the name of a word for a sound bouncing back?|Echo|Reverb;Resonance;Pitch
+sci|2|What colour do you get mixing blue and yellow paint?|Green|Purple;Orange;Brown
+sci|2|What are the three primary colours of light?|Red, green and blue|Red, yellow and blue;Cyan, magenta and yellow;Red, orange and violet|RGB
+sci|3|What is the name of the scale used to measure earthquake magnitude, introduced in 1935?|Richter scale|Beaufort scale;Mohs scale;Saffir-Simpson scale|Richter
+sci|3|What is the scale used to rank hurricanes from 1 to 5?|Saffir-Simpson scale|Fujita scale;Beaufort scale;Richter scale|Saffir-Simpson
+sci|3|What are the lines that run east–west on a globe called?|Latitude|Longitude;Meridians;Equinox|Lines of latitude;Parallels
+sci|3|What gas makes up about 21% of Earth's atmosphere?|Oxygen|Nitrogen;Argon;Carbon dioxide
+sci|3|What is the name of the effect that warms Earth by trapping heat?|Greenhouse effect|Albedo effect;Coriolis effect;Doppler effect|Greenhouse
+sci|3|What is the name of the effect that deflects winds due to Earth's rotation?|Coriolis effect|Doppler effect;Greenhouse effect;Bernoulli effect|Coriolis
+sci|3|What is the name of the dense cloud of icy bodies at the edge of the solar system?|Oort Cloud|Kuiper Belt;Asteroid Belt;Heliosphere|Oort
+sci|3|Between which two planets is the main asteroid belt?|Mars and Jupiter|Earth and Mars;Jupiter and Saturn;Venus and Earth|Jupiter and Mars
+sci|3|How long does light from the Sun take to reach Earth, approximately?|8 minutes|8 seconds;1 hour;1 day|Eight minutes
+sci|3|What do we call a star that suddenly explodes at the end of its life?|Supernova|Nebula;Pulsar;Quasar
+sci|3|What is the name for a shooting star?|Meteor|Comet;Asteroid;Nebula
+sci|3|What is the name of the famous comet that returns about every 76 years?|Halley's Comet|Hale-Bopp;Comet Encke;Shoemaker-Levy 9|Halley;Halleys Comet
+sci|3|Which planet has the most known moons?|Saturn|Jupiter;Uranus;Neptune
+sci|3|What is the name of the brightest star in the night sky?|Sirius|Polaris;Betelgeuse;Vega
+sci|3|What is the North Star called?|Polaris|Sirius;Vega;Arcturus
+sci|3|Which constellation is known as the Hunter?|Orion|Ursa Major;Cassiopeia;Perseus
+sci|3|What do we call the shape of the Moon when it is fully lit?|Full moon|New moon;Gibbous moon;Crescent moon
+sci|3|Which animal has the largest eyes of any land animal?|Ostrich|Owl;Horse;Elephant
+sci|3|Which mammal has the thickest fur?|Sea otter|Polar bear;Chinchilla;Beaver
+sci|3|What is the only continent with no native ants?|Antarctica|Australia;Europe;South America
+sci|3|What is the name of the largest bear species?|Polar bear|Grizzly bear;Sun bear;Black bear
+sci|3|What is the tallest animal in the world?|Giraffe|Elephant;Ostrich;Moose
+sci|3|Which bird lays the largest eggs?|Ostrich|Emu;Albatross;Kiwi
+sci|3|What type of animal is a dolphin?|Mammal|Fish;Amphibian;Reptile
+sci|3|What do you call an animal that is active at dawn and dusk?|Crepuscular|Nocturnal;Diurnal;Matutinal
+sci|3|What is the term for animals that carry their young in a pouch?|Marsupials|Monotremes;Rodents;Primates|Marsupial
+sci|3|Which tiny insect is the vector of malaria?|Mosquito|Tsetse fly;Tick;Flea
+sci|3|What is the name of the hollow tube that carries food to the stomach?|Esophagus|Trachea;Larynx;Duodenum|Oesophagus;Gullet
+sci|3|Where in the body is the femur?|Thigh|Arm;Lower leg;Hip|Leg;upper leg
+sci|3|What is the name of the coloured part of the eye?|Iris|Pupil;Retina;Sclera
+sci|3|Which organ filters blood to make urine?|Kidney|Liver;Bladder;Spleen|Kidneys
+sci|3|What is the body's largest muscle?|Gluteus maximus|Quadriceps;Latissimus dorsi;Biceps|Glute;Gluteus
+sci|3|How many teeth does a typical child have in their first set?|20|16;24;28|twenty
+sci|3|What is the medical term for high blood pressure?|Hypertension|Hypotension;Tachycardia;Arrhythmia
+sci|3|What is the name for the body's tiny blood vessels connecting arteries and veins?|Capillaries|Venules;Arterioles;Lymphatics|Capillary
+sci|3|What is the hard outer layer of a tree trunk called?|Bark|Sapwood;Cambium;Heartwood
+sci|3|Which plant is the main source of natural rubber?|Rubber tree|Sugar cane;Cork oak;Sisal|Hevea brasiliensis;Para rubber tree
+sci|3|What is the largest flower in the world?|Rafflesia arnoldii|Titan arum;Sunflower;Lotus|Rafflesia
+sci|3|Which flower is the provincial flower of Ontario?|White trillium|Prairie crocus;Wild rose;Pacific dogwood|Trillium
+sci|3|Venus flytraps are native to which country?|United States|Brazil;Indonesia;Madagascar|USA;US
+sci|3|What does a botanist study?|Plants|Animals;Rocks;Insects
+sci|3|What is the name of the process where water vapour turns into liquid?|Condensation|Evaporation;Sublimation;Precipitation
+sci|3|What is the name of the process where a solid turns directly into a gas?|Sublimation|Evaporation;Condensation;Deposition
+sci|3|What is the term for energy of motion?|Kinetic energy|Potential energy;Thermal energy;Chemical energy|Kinetic
+sci|3|What is the speed of light, approximately, in kilometres per second?|300,000|30,000;150,000;3,000,000|300000;299,792
+sci|3|What does "Wi-Fi" technology transmit data through?|Radio waves|Microwaves only;Infrared;Fibre-optic cable|Radio
+sci|3|What does "USB" stand for?|Universal Serial Bus|Unified System Bus;Universal Signal Board;Ultra Speed Bus
+sci|3|What does "URL" stand for?|Uniform Resource Locator|Universal Reference Link;Unified Resource Line;User Resource Locator
+sci|3|What does "RAM" stand for in computing?|Random Access Memory|Read Access Memory;Rapid Application Memory;Run-time Allocation Memory
+sci|3|What does "AI" stand for?|Artificial intelligence|Automated information;Applied integration;Analog interface
+sci|3|What was the name of Apple's first portable music player, released in 2001?|iPod|iTunes;Walkman;Zune
+sci|3|Which company created the Walkman portable cassette player?|Sony|Panasonic;Toshiba;Philips
+sci|3|What does "BlackBerry" refer to, as a Waterloo, Ontario company?|Smartphones|Search engines;Video games;Laptops|Phones;Smartphone
+sci|3|What is the name of Elon Musk's electric car company?|Tesla|Rivian;Lucid;SpaceX
+sci|3|Who co-founded Apple with Steve Jobs and wrote much of its early hardware?|Steve Wozniak|Ronald Wayne;Tim Cook;Paul Allen|Wozniak;Woz
+sci|4|What is the name of the bacteria-killing substance discovered by Fleming in 1928?|Penicillin|Streptomycin;Aspirin;Insulin
+sci|4|Which Canadian neurosurgeon mapped the brain's functions in Montreal?|Wilder Penfield|Frederick Banting;William Osler;Norman Bethune|Penfield
+sci|4|Which two Toronto scientists demonstrated the existence of stem cells in 1961?|James Till and Ernest McCulloch|Banting and Best;Penfield and Jasper;Collip and Macleod|Till and McCulloch
+sci|4|What is the name of the protein that makes up hair and nails?|Keratin|Collagen;Elastin;Melanin
+sci|4|What is the name of the pigment that colours human skin?|Melanin|Keratin;Carotene;Hemoglobin
+sci|4|Which part of the cell contains genetic material?|Nucleus|Cytoplasm;Membrane;Ribosome
+sci|4|Which scientists described the double-helix structure of DNA in 1953?|Watson and Crick|Darwin and Wallace;Pauling and Corey;Mendel and Morgan|Crick and Watson
+sci|4|Which scientist's X-ray images were key to discovering DNA's structure?|Rosalind Franklin|Dorothy Hodgkin;Barbara McClintock;Lise Meitner|Franklin
+sci|4|Who discovered the planet Uranus in 1781?|William Herschel|Galileo Galilei;Johannes Kepler;Edmond Halley|Herschel
+sci|4|Who first used a telescope to observe Jupiter's moons in 1610?|Galileo Galilei|Johannes Kepler;Tycho Brahe;Nicolaus Copernicus|Galileo
+sci|4|Who proposed that planets orbit in ellipses?|Johannes Kepler|Isaac Newton;Galileo Galilei;Tycho Brahe|Kepler
+sci|4|Which scientist discovered that the universe is expanding, in 1929?|Edwin Hubble|Albert Einstein;Georges Lemaître;Carl Sagan|Hubble
+sci|4|What is the term for the "missing" mass in the universe that doesn't emit light?|Dark matter|Antimatter;Dark energy;Black holes
+sci|4|What is the name of the closest star system to the Sun?|Alpha Centauri|Sirius;Barnard's Star;Wolf 359
+sci|4|What is the name of the spacecraft that is the farthest human-made object from Earth?|Voyager 1|Voyager 2;Pioneer 10;New Horizons
+sci|4|What is the name of the probe that flew past Pluto in 2015?|New Horizons|Juno;Cassini;Dawn
+sci|4|What is the name of the spacecraft that orbited Saturn from 2004 to 2017?|Cassini|Galileo;Juno;Voyager 2|Cassini-Huygens
+sci|4|What does the "LED" in LED light stand for?|Light-emitting diode|Low-energy display;Light energy device;Laser-emitting diode
+sci|4|What does "laser" stand for?|Light Amplification by Stimulated Emission of Radiation|Light Activated Signal Emission Ray;Luminous Amplified Spectrum Energy Radiation;Linear Accelerated Strong Electron Radiation
+sci|4|What is the name of the unit of computer memory equal to 1,024 kilobytes?|Megabyte|Gigabyte;Terabyte;Kilobit|MB
+sci|4|What does "GPU" stand for?|Graphics Processing Unit|General Processing Unit;Graphical Program Utility;Gaming Power Unit
+sci|4|What was the name of the first web browser to become widely popular, released in 1993?|Mosaic|Netscape Navigator;Internet Explorer;Opera|NCSA Mosaic
+sci|4|Which programming language was created by James Gosling, a Canadian?|Java|C++;Python;JavaScript
+sci|4|Who is often called the father of the computer for designing the Analytical Engine?|Charles Babbage|Alan Turing;John von Neumann;Ada Lovelace|Babbage
+sci|4|Which type of volcano is broad with gentle slopes, like those in Hawaii?|Shield volcano|Stratovolcano;Cinder cone;Caldera|Shield
+sci|4|What is the name of the layer of Earth beneath the crust?|Mantle|Core;Lithosphere;Asthenosphere
+sci|4|What is the boundary between Earth's crust and mantle called?|Moho|Gutenberg discontinuity;Lehmann discontinuity;Conrad discontinuity|Mohorovičić discontinuity;Mohorovicic
+sci|4|What is the largest type of penguin?|Emperor penguin|King penguin;Adélie penguin;Gentoo penguin|Emperor
+sci|4|Which animal's milk is the main ingredient in true Italian mozzarella di bufala?|Water buffalo|Goat;Sheep;Cow|Buffalo
+sci|4|What is a group of owls called?|Parliament|Murder;Gaggle;Flock|A parliament
+sci|4|What is a group of flamingos called?|Flamboyance|Parade;Colony;Flock|A flamboyance
+sci|4|Which sea creature has three hearts and blue blood?|Octopus|Squid;Jellyfish;Crab
+sci|5|What is the most common blood type worldwide?|O positive|A positive;B positive;AB negative|O+;O
+sci|5|What is the name of the smallest unit of a chemical compound?|Molecule|Atom;Ion;Electron
+sci|5|Which element has the highest electronegativity?|Fluorine|Oxygen;Chlorine;Nitrogen
+sci|5|What is the most abundant element in the universe?|Hydrogen|Helium;Oxygen;Carbon
+sci|5|What is the name of the process by which a cell divides into two identical cells?|Mitosis|Meiosis;Osmosis;Fission
+sci|5|What type of cell division produces sperm and egg cells?|Meiosis|Mitosis;Binary fission;Budding
+sci|5|What is the name of the bridge of nerve fibres connecting the brain's two hemispheres?|Corpus callosum|Medulla oblongata;Hippocampus;Thalamus
+sci|5|What is the name of the part of the brain associated with forming memories?|Hippocampus|Amygdala;Cerebellum;Pons
+sci|5|What is the name of the ancient supercontinent's southern part that included Africa and South America?|Gondwana|Laurasia;Pangaea;Rodinia|Gondwanaland
+sci|5|What is the name of the geologic era known as the "Age of Reptiles"?|Mesozoic|Paleozoic;Cenozoic;Precambrian|Mesozoic Era
+sci|5|What is the name of the period when the dinosaurs went extinct, around 66 million years ago?|Cretaceous|Jurassic;Triassic;Permian
+sci|5|Which Alberta park is famous for one of the richest dinosaur fossil beds in the world?|Dinosaur Provincial Park|Banff National Park;Writing-on-Stone;Elk Island National Park|Dinosaur Park
+sci|5|Which Alberta museum in Drumheller is famous for dinosaurs?|Royal Tyrrell Museum|Royal Ontario Museum;Canadian Museum of Nature;Royal BC Museum|Tyrrell Museum;Royal Tyrrell
+sci|5|Which Canadian site in Yoho National Park preserves famous Cambrian fossils?|Burgess Shale|Joggins Fossil Cliffs;Mistaken Point;Miguasha|Burgess

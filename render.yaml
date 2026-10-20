@@ -1,0 +1,20 @@
+# One-click deploy on Render (render.com): New + > Blueprint > pick this repo.
+services:
+  - type: web
+    name: black-box-trivia
+    runtime: node
+    plan: starter            # free tier works for testing but sleeps when idle
+    buildCommand: npm ci --omit=dev
+    startCommand: node server/index.js
+    healthCheckPath: /healthz
+    envVars:
+      - key: SITE_NAME
+        value: Black Box Trivia
+      - key: ADSENSE_CLIENT     # e.g. ca-pub-1234567890123456 (leave blank until approved)
+        sync: false
+      - key: AD_SLOT_LOBBY
+        sync: false
+      - key: AD_SLOT_FINAL
+        sync: false
+      - key: AD_SLOT_REVEAL     # optional; leave blank to skip ads between questions
+        sync: false

@@ -1,0 +1,129 @@
+# History pack 1
+his|1|In which year did World War II end?|1945|1944;1946;1939
+his|1|In which year did World War I begin?|1914|1912;1916;1918
+his|1|Who was the first President of the United States?|George Washington|John Adams;Thomas Jefferson;Benjamin Franklin
+his|1|Which ship sank on its maiden voyage in April 1912?|Titanic|Lusitania;Britannic;Queen Mary|RMS Titanic
+his|1|Which ancient civilization built the pyramids of Giza?|Egyptians|Romans;Greeks;Mayans|Ancient Egyptians;Egypt
+his|1|Who was the first person to walk on the Moon?|Neil Armstrong|Buzz Aldrin;Yuri Gagarin;John Glenn
+his|1|In which year did Christopher Columbus first reach the Americas?|1492|1488;1498;1502
+his|1|Who was Canada's first Prime Minister?|John A. Macdonald|George-Étienne Cartier;Wilfrid Laurier;Alexander Mackenzie|Macdonald;John Macdonald
+his|1|Which wall divided a German city from 1961 to 1989?|Berlin Wall|Hadrian's Wall;Atlantic Wall;Iron Curtain|Berlin
+his|2|In which year did Canada become a country through Confederation?|1867|1812;1864;1885
+his|2|Who was the British Prime Minister for most of World War II?|Winston Churchill|Neville Chamberlain;Clement Attlee;Anthony Eden|Churchill
+his|2|What was the name of the ship that carried the Pilgrims to America in 1620?|Mayflower|Santa Maria;Endeavour;Speedwell
+his|2|Who was the first woman to fly solo across the Atlantic?|Amelia Earhart|Bessie Coleman;Harriet Quimby;Jacqueline Cochran|Earhart
+his|2|Which empire was ruled by Julius Caesar's adopted heir Augustus?|Roman Empire|Byzantine Empire;Ottoman Empire;Persian Empire|Rome;Roman
+his|2|Who wrote the Communist Manifesto with Friedrich Engels?|Karl Marx|Vladimir Lenin;Leon Trotsky;Joseph Stalin|Marx
+his|2|Which queen ruled England from 1558 to 1603?|Elizabeth I|Mary I;Victoria;Anne|Elizabeth the First;Queen Elizabeth I
+his|2|Which British monarch reigned the longest?|Elizabeth II|Victoria;George III;Henry VIII|Queen Elizabeth II;Elizabeth the Second
+his|2|In which city was US President John F. Kennedy assassinated?|Dallas|Houston;Washington, D.C.;Chicago
+his|2|Who was the leader of Nazi Germany?|Adolf Hitler|Heinrich Himmler;Hermann Göring;Paul von Hindenburg|Hitler
+his|2|The Battle of Hastings took place in which year?|1066|1016;1215;1415
+his|2|Which document did King John sign in 1215?|Magna Carta|Domesday Book;Bill of Rights;Act of Union
+his|2|Which country gifted the Statue of Liberty to the United States?|France|United Kingdom;Spain;Netherlands
+his|2|Who was the first emperor of France?|Napoleon Bonaparte|Louis XIV;Charlemagne;Napoleon III|Napoleon
+his|2|Which civil rights leader gave the "I Have a Dream" speech?|Martin Luther King Jr.|Malcolm X;John Lewis;Jesse Jackson|Martin Luther King;MLK
+his|2|Which South African leader was imprisoned for 27 years before becoming president?|Nelson Mandela|Desmond Tutu;F. W. de Klerk;Thabo Mbeki|Mandela
+his|2|Which Indian leader led the non-violent independence movement against British rule?|Mahatma Gandhi|Jawaharlal Nehru;Subhas Chandra Bose;Indira Gandhi|Gandhi
+his|2|What was the name of the Soviet Union's first artificial satellite?|Sputnik 1|Vostok 1;Luna 1;Mir|Sputnik
+his|2|The ancient city of Pompeii was destroyed by which volcano?|Mount Vesuvius|Mount Etna;Stromboli;Mount Olympus|Vesuvius
+his|2|Who was the first Roman emperor?|Augustus|Julius Caesar;Nero;Caligula|Octavian;Caesar Augustus
+his|2|Which war was fought between the North and South in the United States?|American Civil War|War of 1812;Revolutionary War;Spanish-American War|Civil War
+his|2|Which country did the United States buy Alaska from in 1867?|Russia|Canada;United Kingdom;Spain
+his|2|The Reformation was started in 1517 by which German monk?|Martin Luther|John Calvin;Erasmus;Ulrich Zwingli|Luther
+his|3|Who was the first female Prime Minister of Canada?|Kim Campbell|Agnes Macphail;Alexa McDonough;Rachel Notley|Campbell
+his|3|Which Canadian Prime Minister introduced the Canadian Charter of Rights and Freedoms in 1982?|Pierre Trudeau|Brian Mulroney;Lester Pearson;John Diefenbaker|Pierre Elliott Trudeau
+his|3|In which war was the Battle of Vimy Ridge fought?|World War I|World War II;Boer War;Korean War|First World War;WWI;WW1
+his|3|What year was the Canadian flag (the Maple Leaf) adopted?|1965|1867;1945;1982
+his|3|Who was the Mongol leader who founded the largest contiguous land empire in history?|Genghis Khan|Kublai Khan;Tamerlane;Attila|Chinggis Khan
+his|3|In which year did the French Revolution begin?|1789|1776;1799;1812
+his|3|Which French queen is (wrongly) credited with saying "Let them eat cake"?|Marie Antoinette|Catherine de' Medici;Joséphine;Eleanor of Aquitaine
+his|3|What was the name of the first successful English colony in America, founded in 1607?|Jamestown|Plymouth;Roanoke;Boston
+his|3|Who was US President during the Great Depression and most of World War II?|Franklin D. Roosevelt|Herbert Hoover;Harry Truman;Theodore Roosevelt|FDR;Franklin Roosevelt
+his|3|Which US President resigned because of the Watergate scandal?|Richard Nixon|Gerald Ford;Lyndon Johnson;Jimmy Carter|Nixon
+his|3|On which Japanese city was the first atomic bomb dropped in war?|Hiroshima|Nagasaki;Tokyo;Kyoto
+his|3|What was the code name for the US project that developed the atomic bomb?|Manhattan Project|Project Trinity;Operation Overlord;Project Apollo|Manhattan
+his|3|Which empire was ruled from Constantinople after the fall of Western Rome?|Byzantine Empire|Ottoman Empire;Holy Roman Empire;Persian Empire|Byzantium;Eastern Roman Empire
+his|3|Which explorer is credited with the first European voyage to India by sea (1498)?|Vasco da Gama|Bartolomeu Dias;Ferdinand Magellan;Christopher Columbus|da Gama
+his|3|Which Italian explorer gave his name to the Americas?|Amerigo Vespucci|Christopher Columbus;John Cabot;Giovanni da Verrazzano|Vespucci
+his|3|Which explorer claimed the land that became Canada for France in 1534?|Jacques Cartier|Samuel de Champlain;John Cabot;Henry Hudson|Cartier
+his|3|Who founded Quebec City in 1608?|Samuel de Champlain|Jacques Cartier;Louis de Frontenac;René-Robert de La Salle|Champlain
+his|3|What was the name of the 1930s US program of public works under Roosevelt?|New Deal|Great Society;Fair Deal;Square Deal
+his|3|Which Chinese leader declared the People's Republic of China in 1949?|Mao Zedong|Chiang Kai-shek;Sun Yat-sen;Deng Xiaoping|Mao;Mao Tse-tung
+his|3|The Cuban Missile Crisis took place in which year?|1962|1959;1961;1965
+his|3|Which Egyptian queen allied with Mark Antony against Rome?|Cleopatra|Nefertiti;Hatshepsut;Nefertari|Cleopatra VII
+his|3|Who was the boy pharaoh whose nearly intact tomb was found in 1922?|Tutankhamun|Ramesses II;Akhenaten;Khufu|Tutankhamen;King Tut
+his|3|Which English king had six wives?|Henry VIII|Henry VII;Edward VI;Richard III|Henry the Eighth
+his|3|Which war lasted from 1337 to 1453 between England and France?|Hundred Years' War|Thirty Years' War;Wars of the Roses;Seven Years' War|Hundred Years War
+his|3|What was the name of the plague that killed much of Europe's population in the 1340s?|Black Death|Spanish Flu;Great Plague of London;Justinian Plague|Bubonic plague;Black Plague
+his|3|Which country was ruled by the Romanov dynasty until 1917?|Russia|Austria;Prussia;Sweden
+his|3|What was the name of the Allied evacuation from a French beach in 1940?|Dunkirk|Dieppe;Normandy;Calais|Dunkirk evacuation;Operation Dynamo
+his|3|Which Canadian-led raid on a French port in 1942 ended in heavy losses?|Dieppe Raid|Juno Beach;Operation Market Garden;Battle of the Scheldt|Dieppe
+his|3|Who was the first woman to win a Nobel Peace Prize?|Bertha von Suttner|Jane Addams;Mother Teresa;Marie Curie|von Suttner
+his|3|Who invented the printing press with movable type in Europe around 1440?|Johannes Gutenberg|William Caxton;Leonardo da Vinci;Martin Luther|Gutenberg
+his|3|In which year did the Soviet Union dissolve?|1991|1989;1990;1993
+his|3|Which city was divided into East and West during the Cold War?|Berlin|Vienna;Budapest;Prague
+his|3|What was the name of the Allied plan to rebuild Western Europe after WWII?|Marshall Plan|Truman Doctrine;Monroe Doctrine;Lend-Lease|Marshall
+his|3|In which year did India gain independence from Britain?|1947|1945;1950;1957
+his|3|Which Roman general crossed the Rubicon in 49 BC?|Julius Caesar|Pompey;Mark Antony;Scipio|Caesar
+his|3|What was the ancient Greek city-state famous for its warrior culture?|Sparta|Athens;Corinth;Thebes
+his|3|Which famous battle in 480 BC saw 300 Spartans hold off the Persians?|Battle of Thermopylae|Battle of Marathon;Battle of Salamis;Battle of Plataea|Thermopylae
+his|4|Who was Prime Minister of Canada during most of World War II?|William Lyon Mackenzie King|Robert Borden;R. B. Bennett;Louis St. Laurent|Mackenzie King;King
+his|4|Which Canadian Prime Minister won the Nobel Peace Prize for helping resolve the Suez Crisis?|Lester B. Pearson|Pierre Trudeau;Louis St. Laurent;John Diefenbaker|Lester Pearson;Pearson
+his|4|What was the name of the 1885 rebellion led by Louis Riel?|North-West Rebellion|Red River Rebellion;Upper Canada Rebellion;Lower Canada Rebellion|Northwest Rebellion;North-West Resistance
+his|4|Which railway was completed in 1885 with the "last spike" at Craigellachie?|Canadian Pacific Railway|Grand Trunk Railway;Canadian National Railway;Intercolonial Railway|CPR;Canadian Pacific
+his|4|In the War of 1812, which British general was killed at the Battle of Queenston Heights?|Isaac Brock|James Wolfe;Tecumseh;Gordon Drummond|Brock
+his|4|Which Shawnee leader allied with the British in the War of 1812?|Tecumseh|Joseph Brant;Pontiac;Sitting Bull
+his|4|Which battle in 1759 decided the fate of New France?|Battle of the Plains of Abraham|Battle of Quebec 1775;Battle of Louisbourg;Battle of Sainte-Foy|Plains of Abraham
+his|4|Who was the last Tsar of Russia?|Nicholas II|Alexander III;Peter the Great;Alexander II|Tsar Nicholas II
+his|4|Which treaty ended World War I with Germany?|Treaty of Versailles|Treaty of Paris;Treaty of Ghent;Treaty of Brest-Litovsk|Versailles
+his|4|Which ancient wonder stood in the harbour of Alexandria?|Lighthouse of Alexandria|Colossus of Rhodes;Temple of Artemis;Mausoleum at Halicarnassus|Pharos;Pharos of Alexandria
+his|4|Which Carthaginian general crossed the Alps with elephants?|Hannibal|Hamilcar;Hasdrubal;Scipio|Hannibal Barca
+his|4|The Meiji Restoration took place in which country?|Japan|China;Korea;Thailand
+his|4|Which dynasty built most of the Great Wall of China that survives today?|Ming dynasty|Qin dynasty;Han dynasty;Tang dynasty|Ming
+his|4|Who was the first person to reach the South Pole?|Roald Amundsen|Robert Falcon Scott;Ernest Shackleton;Richard Byrd|Amundsen
+his|4|What was the name of Shackleton's ship crushed by Antarctic ice in 1915?|Endurance|Terra Nova;Discovery;Fram
+his|4|Which revolution began in Russia in 1917, bringing the Bolsheviks to power?|October Revolution|February Revolution;Decembrist Revolt;1905 Revolution|Bolshevik Revolution;Russian Revolution
+his|4|Which Ottoman city fell to the Turks in 1453, ending the Byzantine Empire?|Constantinople|Athens;Antioch;Jerusalem|Istanbul
+his|4|Who was the Aztec emperor when the Spanish arrived in 1519?|Moctezuma II|Cuauhtémoc;Atahualpa;Itzcoatl|Montezuma;Moctezuma
+his|4|Which Spanish conquistador conquered the Inca Empire?|Francisco Pizarro|Hernán Cortés;Hernando de Soto;Vasco Núñez de Balboa|Pizarro
+his|4|Which Spanish conquistador conquered the Aztec Empire?|Hernán Cortés|Francisco Pizarro;Juan Ponce de León;Pedro de Alvarado|Cortes;Cortés
+his|4|What was the name of the 1854 charge made famous by Tennyson's poem?|Charge of the Light Brigade|Charge of the Heavy Brigade;Pickett's Charge;Charge at Balaclava|Light Brigade
+his|4|Which nurse became known as "The Lady with the Lamp" in the Crimean War?|Florence Nightingale|Mary Seacole;Clara Barton;Edith Cavell|Nightingale
+his|4|In which year did the Berlin Wall go up?|1961|1949;1953;1968
+his|4|Which US President delivered the Gettysburg Address?|Abraham Lincoln|Ulysses S. Grant;Andrew Johnson;James Buchanan|Lincoln
+his|4|What was the name of the 1919 general strike in a Canadian prairie city?|Winnipeg General Strike|Regina Riot;Calgary Strike;Saskatoon Strike|Winnipeg Strike
+his|4|Which Canadian doctor served with Mao's army and is a hero in China?|Norman Bethune|Frederick Banting;Wilder Penfield;William Osler|Bethune
+his|4|Which country was the first to give women the vote nationally, in 1893?|New Zealand|Australia;Finland;United States
+his|4|Which famous Canadian schooner appears on the dime?|Bluenose|Hector;Nonsuch;St. Roch
+his|5|Which Father of Confederation was assassinated in Ottawa in 1868?|Thomas D'Arcy McGee|George Brown;John A. Macdonald;Joseph Howe|D'Arcy McGee;McGee
+his|5|What is the name of the 1701 treaty between New France and 39 Indigenous nations?|Great Peace of Montreal|Treaty of Utrecht;Treaty of Niagara;Royal Proclamation|Great Peace;La Grande Paix de Montréal
+his|5|Which Babylonian king is known for one of the earliest written legal codes?|Hammurabi|Nebuchadnezzar II;Sargon of Akkad;Cyrus the Great
+his|5|What was the name of the trade route linking China and the Mediterranean?|Silk Road|Spice Route;Amber Road;Incense Route|Silk Route
+his|5|Which battle in 1415 saw English longbowmen defeat the French?|Battle of Agincourt|Battle of Crécy;Battle of Poitiers;Battle of Bosworth|Agincourt
+his|5|Which battle in 1485 ended the Wars of the Roses?|Battle of Bosworth Field|Battle of Towton;Battle of Tewkesbury;Battle of Barnet|Bosworth;Bosworth Field
+his|5|Who was the first Holy Roman Emperor, crowned in 800 AD?|Charlemagne|Otto I;Clovis;Pepin the Short
+his|5|What was the name of the Japanese surprise attack on the US in December 1941?|Pearl Harbor|Midway;Guadalcanal;Iwo Jima|Attack on Pearl Harbor
+his|5|Which explorer led the first expedition to reach the North Pole that is undisputed (by air, 1926)?|Roald Amundsen|Robert Peary;Richard Byrd;Frederick Cook|Amundsen
+his|5|The Rosetta Stone helped decode which ancient script?|Egyptian hieroglyphs|Cuneiform;Linear B;Mayan glyphs|hieroglyphics;hieroglyphs
+his|5|Who deciphered Egyptian hieroglyphs using the Rosetta Stone?|Jean-François Champollion|Thomas Young;Howard Carter;Flinders Petrie|Champollion
+his|5|Which archaeologist discovered Tutankhamun's tomb?|Howard Carter|Lord Carnarvon;Flinders Petrie;Heinrich Schliemann|Carter
+his|5|Which German archaeologist excavated the site believed to be Troy?|Heinrich Schliemann|Arthur Evans;Howard Carter;Leonard Woolley|Schliemann
+his|5|In which year did Newfoundland join Canada?|1949|1867;1905;1931
+his|5|What year did women in Canada (most) gain the right to vote federally?|1918|1867;1929;1940
+his|5|Which Persian king freed the Jews from Babylonian captivity?|Cyrus the Great|Darius I;Xerxes I;Artaxerxes|Cyrus
+his|5|Who was the first President of the Republic of Turkey?|Mustafa Kemal Atatürk|İsmet İnönü;Recep Tayyip Erdoğan;Celal Bayar|Ataturk;Atatürk;Mustafa Kemal
+his|5|Which treaty in 1648 ended the Thirty Years' War?|Peace of Westphalia|Treaty of Utrecht;Treaty of Paris;Peace of Augsburg|Westphalia;Treaty of Westphalia
+his|5|What was the name of the 1917 explosion that devastated a Canadian port city?|Halifax Explosion|Saint John Fire;Quebec Bridge Collapse;Montreal Blast|Halifax
+his|2|Which country did Germany invade on September 1, 1939, starting WWII in Europe?|Poland|France;Czechoslovakia;Belgium
+his|2|What was the name of the US space program that landed humans on the Moon?|Apollo|Gemini;Mercury;Artemis|Apollo program
+his|2|Which US President was in office during the September 11, 2001 attacks?|George W. Bush|Bill Clinton;Barack Obama;George H. W. Bush|George Bush;Bush
+his|3|Which famous ocean liner was sunk by a German U-boat in 1915?|Lusitania|Titanic;Britannic;Empress of Ireland|RMS Lusitania
+his|3|Which revolution of 1688 replaced James II with William and Mary?|Glorious Revolution|English Civil War;Restoration;Jacobite Rising
+his|3|Who led the Parliamentarians to victory in the English Civil War?|Oliver Cromwell|Thomas Fairfax;John Pym;Charles I|Cromwell
+his|3|Which Viking explorer reached North America around the year 1000?|Leif Erikson|Erik the Red;Ragnar Lodbrok;Harald Hardrada|Leif Ericson;Leif Eriksson
+his|4|Where in Newfoundland is the only confirmed Norse site in North America?|L'Anse aux Meadows|Gros Morne;Signal Hill;Cape Spear
+his|3|Who was the first human to journey into outer space?|Yuri Gagarin|Alan Shepard;John Glenn;Valentina Tereshkova|Gagarin
+his|3|Who was the first woman in space?|Valentina Tereshkova|Sally Ride;Svetlana Savitskaya;Mae Jemison|Tereshkova
+his|4|Who was the first Canadian in space?|Marc Garneau|Chris Hadfield;Roberta Bondar;Julie Payette|Garneau
+his|4|Which Canadian astronaut famously sang "Space Oddity" aboard the ISS?|Chris Hadfield|Marc Garneau;David Saint-Jacques;Jeremy Hansen|Hadfield
