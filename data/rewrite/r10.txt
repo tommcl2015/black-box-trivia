@@ -1,0 +1,77 @@
+# Rewritten from Open Trivia DB batch 10 (video games — mainstream picks only)
+spo|5|What was the first handheld electronic game, released by Mattel in 1976?|Auto Race|Football;Game & Watch;Microvision|Mattel Auto Race
+spo|4|What is the main healing item in "Dark Souls"?|Estus Flask|Elixir;Ether;Phoenix Down|Estus
+spo|4|What is the home world of the Elites in "Halo"?|Sanghelios|Reach;Harvest;High Charity
+spo|4|Who is the main character of "Life Is Strange: Before the Storm"?|Chloe Price|Max Caulfield;Rachel Amber;Kate Marsh|Chloe
+spo|5|Which feature did "Heretic" (1994) add that "Doom" lacked?|Looking up and down|Jumping;Multiplayer;Saving
+spo|4|What is the name of Joel's daughter in "The Last of Us"?|Sarah|Ellie;Tess;Riley
+spo|4|In "Undertale", who built the robot TV star Mettaton?|Alphys|Undyne;Sans;Asgore
+spo|3|Who created the "Metal Gear" series?|Hideo Kojima|Shigeru Miyamoto;Hidetaka Miyazaki;Shinji Mikami|Kojima
+spo|4|Which first-person-shooter series got a real-time strategy spin-off called "Wars"?|Halo|Battlefield;Call of Duty;Gears of War
+spo|4|Which "Devil May Cry" game comes first in the story?|Devil May Cry 3|Devil May Cry;Devil May Cry 4;Devil May Cry 5|Dante's Awakening
+spo|4|Which "Overwatch" cowboy says "It's high noon"?|McCree|Ashe;Soldier: 76;Hanzo|Cassidy
+spo|4|Who single-handedly made "Stardew Valley"?|Eric Barone|Toby Fox;Notch;Jonathan Blow|ConcernedApe;Barone
+spo|4|How many kills in a row earn the Tactical Nuke in "Modern Warfare 2"?|25|15;20;30
+spo|3|Which of these arcade games came out first, in 1978?|Space Invaders|Asteroids;Pac-Man;Galaga
+spo|4|Which company made the kids' games "Putt-Putt", "Freddi Fish" and "Pajama Sam"?|Humongous Entertainment|LucasArts;The Learning Company;Sierra
+spo|4|Mai Shiranui comes from which fighting series, not Street Fighter?|Fatal Fury / King of Fighters|Tekken;Mortal Kombat;Dead or Alive|King of Fighters;Fatal Fury
+spo|3|What genre were the original "Warcraft" games?|Real-time strategy|Role-playing game;Turn-based strategy;Platformer|RTS
+spo|5|What is the name of Dr. Kleiner's pet headcrab in "Half-Life 2"?|Lamarr|Hedy;Gordon;Barney
+spo|4|Mario is said to be named after the landlord of which company's US warehouse?|Nintendo of America|Atari;Sega of America;Coleco
+spo|4|In "Left 4 Dead", what is the disease that creates the Infected called?|Green Flu|Red Fever;T-Virus;Rage Virus
+spo|3|In "Undertale", what are Sans and Papyrus named after?|Fonts|Bones;Pasta shapes;Paper types
+spo|4|Which "Destiny" character is a wisecracking Exo Hunter voiced by Nathan Fillion?|Cayde-6|Zavala;Ikora Rey;Shaxx
+spo|1|What is Pikachu's number in the National Pokédex?|25|1;52;151|#025;025
+spo|4|In the "Sonic" series, what is Cream the Rabbit's mother called?|Vanilla|Cocoa;Honey;Peach
+spo|4|What was the first PlayStation game to require the DualShock controller?|Ape Escape|Crash Bandicoot;Spyro;Tomb Raider
+spo|3|What is Mercy's ultimate ability called in "Overwatch"?|Valkyrie|Resurrect;Guardian Angel;Angelic Descent
+spo|5|Which game company created the cult bullet-hell series "Touhou Project"?|ZUN (Team Shanghai Alice)|Treasure;Cave;Taito|ZUN;Team Shanghai Alice
+spo|5|An early Dreamcast controller prototype was compared to which household object?|A TV remote|A hairdryer;A stapler;A toaster
+spo|4|What was the world's first home video game console, released in 1972?|Magnavox Odyssey|Atari 2600;Coleco Telstar;Fairchild Channel F|Odyssey
+spo|4|Which snowy mob was added to Minecraft in version 1.10?|Polar bear|Penguin;Snow fox;Yeti
+spo|4|Which of these Pokémon games came out first?|Pokémon Crystal|Pokémon FireRed;Pokémon Platinum;Pokémon Black
+spo|4|Who is the hero of "Xenoblade Chronicles"?|Shulk|Rex;Noah;Reyn
+spo|2|How many Power Stars are there to collect in "Super Mario 64"?|120|70;100;150
+spo|4|The "Day of Defeat" games are set in which war?|World War II|World War I;Vietnam War;Korean War|WWII;Second World War
+spo|3|Which studio developed "No Man's Sky"?|Hello Games|Bungie;Hello Kitty Games;Frontier Developments
+spo|4|What do humans in "Halo" call the Unggoy aliens?|Grunts|Jackals;Brutes;Elites
+spo|4|What was "Sonic the Hedgehog 4" codenamed during development?|Project Needlemouse|Project Blue;Project Sonic X;Project Ring
+spo|4|What is the giant feathered creature in "The Last Guardian" called?|Trico|Agro;Wander;Yorda
+spo|4|Which Zelda game was released in North America before Japan?|Twilight Princess|Majora's Mask;Ocarina of Time;Wind Waker
+spo|4|Sean Bean voices Martin Septim in which Elder Scrolls game?|Oblivion|Skyrim;Morrowind;Daggerfall|The Elder Scrolls IV: Oblivion
+spo|3|In what year was "Portal 2" released?|2011|2007;2009;2013
+spo|2|In which city does "Half-Life 2" begin?|City 17|City 13;Black Mesa;Ravenholm
+spo|4|Which studio created the "Call of Duty" Zombies mode?|Treyarch|Infinity Ward;Sledgehammer Games;Raven Software
+spo|4|Who invented Mario's water pack F.L.U.D.D. in "Super Mario Sunshine"?|Professor E. Gadd|Dr. Wily;Professor Oak;Toadsworth|E. Gadd
+spo|3|Where did Gabe Newell work before co-founding Valve?|Microsoft|Apple;IBM;Intel
+spo|4|What is the name of the virus in "Metal Gear Solid"?|FOXDIE|FOXHOUND;Les Enfants Terribles;Shagohod
+spo|4|Who programmed the first well-known video game Easter egg, in Atari's "Adventure"?|Warren Robinett|Nolan Bushnell;Howard Scott Warshaw;Steve Wozniak|Robinett
+spo|4|Who are the pop-idol duo Off the Hook in "Splatoon 2"?|Pearl and Marina|Callie and Marie;Frye and Shiver;Ruby and Sapphire
+spo|3|In what year was "Team Fortress 2" released?|2007|2004;2009;2012
+spo|5|In "Doom", what does the cheat code IDDQD do?|God mode|All weapons;No clipping;Level skip
+spo|3|"Call of Duty: Black Ops" is set during which conflict?|The Cold War|World War II;The Gulf War;World War III|Cold War
+spo|5|Who voices the rogue AI SHODAN in "System Shock"?|Terri Brosius|Jennifer Hale;Ellen McLain;Tara Strong
+spo|4|How many Star Spirits does Mario rescue in "Paper Mario" for the N64?|7|5;8;12|seven
+spo|2|In Minecraft, what two items make a torch?|A stick and coal|Wood and flint;A stick and string;Coal and iron
+spo|4|Which Game Boy model came first?|Game Boy Color|Game Boy Advance;Game Boy Micro;Game Boy Advance SP
+spo|4|How many Chaos Emeralds can be collected in the first "Sonic the Hedgehog"?|6|7;5;8|six
+spo|4|Who is the hero of "Metal Gear Solid V: The Phantom Pain"?|Venom Snake|Solid Snake;Liquid Snake;Raiden|Punished Snake;Big Boss
+spo|4|Which engine powers the original "Titanfall"?|Source|Unreal Engine;Frostbite;id Tech|Source engine
+spo|2|What types is Charizard?|Fire and Flying|Fire and Dragon;Fire only;Dragon and Flying|Fire/Flying
+spo|4|What was Crash Bandicoot's working name?|Willie the Wombat|Bandy;Wally Wombat;Crashy|Willie Wombat
+spo|3|In what year was "Super Mario Sunshine" released?|2002|1999;2004;2006
+spo|4|What is Leon's middle name in "Resident Evil"?|Scott|Sam;Steven;Stuart
+spo|4|In "Portal 2", GLaDOS is turned into what?|A potato|A lemon;A toaster;A turret
+spo|4|Which Blizzard writer voiced Thrall in the "Warcraft" games?|Chris Metzen|Sam Didier;Rob Pardo;Jim Cummings|Metzen
+spo|5|What are the Ice Climbers' names in "Ice Climber"?|Popo and Nana|Pip and Nina;Rick and Nell;Ice and Snow
+spo|4|In what year were achievements added to Steam?|2007|2004;2010;2012
+spo|4|What title do demons give the hero of "Doom" (2016)?|The Doom Slayer|The Doomguy;The Unchained;The Hellwalker|Doom Slayer
+spo|5|What was "Final Fantasy XV" called when first announced?|Final Fantasy Versus XIII|Final Fantasy XIII-2;Final Fantasy Agito;Final Fantasy Zero
+spo|4|About how many copies did Atari's notorious "E.T." game sell?|1.5 million|100,000;4 million;10 million
+spo|3|"All your base are belong to us" comes from which mistranslated game?|Zero Wing|R-Type;Gradius;Raiden
+spo|4|In "Star Wars: Republic Commando", what is your clone squad called?|Delta Squad|Omega Squad;Rancor Battalion;501st Legion
+spo|4|"Just Cause 2" is set on which fictional island nation?|Panau|Medici;Solis;Rico
+spo|4|What is the technical name for a Tetris piece?|Tetromino|Polyomino;Tetrablock;Quadrant
+spo|4|Which game was originally meant to be part of "Sonic 3" but was split off?|Sonic & Knuckles|Sonic CD;Sonic Spinball;Sonic 3D Blast
+spo|4|Who is the villain of "Kirby's Return to Dream Land"?|Magolor|King Dedede;Meta Knight;Dark Matter
+spo|4|In "Portal", what colour is the Morality Core?|Purple|Orange;Blue;Green

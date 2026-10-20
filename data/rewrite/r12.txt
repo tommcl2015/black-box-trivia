@@ -1,0 +1,50 @@
+# Rewritten from Open Trivia DB batch 12 (video games — mainstream picks only)
+spo|5|Who wrote the story of "Half-Life"?|Marc Laidlaw|Gabe Newell;Chet Faliszek;Erik Wolpaw|Laidlaw
+spo|4|What is the minimum number of obsidian blocks needed for a Nether portal?|10|8;12;14|ten
+spo|4|What is the most rupees Link can carry in "Ocarina of Time"?|500|999;255;1000
+spo|3|Which programming language was Minecraft originally written in?|Java|C++;Python;JavaScript
+spo|2|Which famous puzzle game was created by a Soviet programmer in 1984?|Tetris|Bejeweled;Minesweeper;Lemmings
+spo|4|In what year was the first "Call of Duty" released?|2003|2000;2005;2007
+spo|4|Which "Final Fantasy" game has an all-female party of Yuna, Rikku and Paine?|Final Fantasy X-2|Final Fantasy X;Final Fantasy XIII;Final Fantasy XIII-2|FFX-2
+spo|3|The "64" in Nintendo 64 refers to what?|Its 64-bit processor|64 MB of memory;64 launch games;64 colours
+spo|4|What sea creature is on Link's pyjamas in "The Wind Waker"?|A lobster|A fish;A crab;An octopus|Lobster
+spo|5|Besides Mortal Kombat, which full-motion-video game helped spark the 1993 hearings that led to the ESRB?|Night Trap|Sewer Shark;Mad Dog McCree;Phantasmagoria
+spo|4|Which household appliance becomes a time machine in "Steins;Gate"?|A microwave|A toaster;A fridge;A washing machine|Microwave
+spo|3|In which year was "League of Legends" released?|2009|2006;2011;2013
+spo|2|Who is the photojournalist hero of the first "Dead Rising"?|Frank West|Chuck Greene;Nick Ramos;Leon Kennedy|Frank
+spo|5|In which country's version of "Half-Life" were the soldiers replaced by robots to avoid censorship?|Germany|Japan;Australia;China
+spo|4|Who is Sora's Nobody in "Kingdom Hearts"?|Roxas|Riku;Xion;Ventus
+spo|3|What nationality is D.Va from "Overwatch"?|South Korean|Japanese;Chinese;Thai|Korean
+spo|4|Which actor stars in "Fable III"?|Michael Fassbender|Tom Hardy;Daniel Craig;Benedict Cumberbatch|Fassbender
+spo|2|Which of these consoles was made by Sega, not Nintendo?|Dreamcast|SNES;Wii;GameCube
+spo|5|What was the infamous 2006 RuneScape glitch where players attacked others in a city called?|The Falador Massacre|The Varrock Riot;The Lumbridge Purge;The Party Hat Crash
+spo|4|Which golf game was recalled because it hid a "South Park" short on the disc?|Tiger Woods 99 PGA Tour|Links LS 99;Golden Tee;PGA Tour 96
+spo|4|In "Mass Effect", what is Commander Shepard's ship called?|The Normandy|The Endeavour;The Pillar of Autumn;The Galactica|Normandy;SSV Normandy
+spo|4|What was the top-grossing game on Steam in 2016?|Civilization VI|Grand Theft Auto V;Counter-Strike: Global Offensive;Dark Souls III
+spo|5|How many sound channels does the Super Nintendo support?|8|4;6;16|eight
+spo|5|Ellen McLain (GLaDOS) is married to the voice of which "Team Fortress 2" class?|Sniper|Heavy;Soldier;Spy
+spo|4|What is the hero called in the 1983 laserdisc game "Dragon's Lair"?|Dirk the Daring|Sir Lancelot;Arthur the Brave;Galahad
+spo|5|What was the name of Sonic's human girlfriend in early concept material?|Madonna|Amy;Sally;Elise
+spo|4|"Final Fantasy VI" was first sold in North America under what title?|Final Fantasy III|Final Fantasy VI;Final Fantasy II;Final Fantasy Adventure
+spo|1|In most shooters, which hit does the most damage?|A headshot|A chest shot;A leg shot;An arm shot|Head
+spo|3|Which genre is the "Touhou Project" best known for?|Bullet-hell shooter|Racing;Turn-based strategy;Puzzle|Shoot 'em up;Bullet hell
+spo|3|Minecraft's Creeper came from a coding mistake while making which animal?|A pig|A cow;A chicken;A sheep|Pig
+spo|3|Knuckles the Echidna debuted in which game?|Sonic the Hedgehog 3|Sonic 2;Sonic & Knuckles;Sonic CD
+spo|4|Which Fallout game was made by Obsidian rather than Bethesda?|Fallout: New Vegas|Fallout 3;Fallout 4;Fallout 76|New Vegas
+spo|1|What is Sega's mascot?|Sonic the Hedgehog|Alex Kidd;Mario;Crash Bandicoot|Sonic
+spo|4|What was the first game released on Valve's Source engine?|Counter-Strike: Source|Half-Life 2;Team Fortress 2;Portal
+spo|4|In which game did the Mega Mushroom first appear?|Mario Party 4|New Super Mario Bros.;Mario Kart Wii;Super Mario Galaxy
+spo|4|What car do you start the career with in "Need for Speed: Most Wanted" (2005)?|BMW M3 GTR|Porsche 911;Nissan Skyline;Ford Mustang GT
+spo|4|Which footballer was on the international cover of "FIFA 16"?|Lionel Messi|Cristiano Ronaldo;Wayne Rooney;Neymar|Messi
+spo|5|What was the nickname of the early Gordon Freeman character model?|Ivan the Space Biker|Gordon the Space Trucker;Doc Brown;The Professor
+spo|4|Who is the villain of "Ori and the Blind Forest"?|Kuro|Shriek;Gumo;Sein
+spo|4|What is Jimmy's surname in Rockstar's "Bully"?|Hopkins|Vercetti;Smith;Harrington
+spo|4|Toby Fox has said he first worked out "Megalovania" how?|By singing it|On guitar;On piano;By humming into his phone app
+spo|4|In "Fallout: New Vegas", which famous casino is Mr. House's sealed tower?|Lucky 38|The Tops;Gomorrah;Ultra-Luxe
+spo|3|In which spin-off did Waluigi make his debut?|Mario Tennis|Mario Party;Mario Kart: Double Dash!!;Mario Golf
+spo|4|Which virtual world was called "LindenWorld" in development?|Second Life|IMVU;Habbo Hotel;There.com
+spo|3|Which rifle is the Terrorist team's signature weapon in "Counter-Strike"?|AK-47|M4A1;AWP;FAMAS
+spo|4|In what year was "Luigi's Mansion 3" released?|2019|2015;2017;2021
+spo|5|Who composed the "Watch Dogs 2" soundtrack?|Hudson Mohawke|Daft Punk;Trent Reznor;Flying Lotus
+spo|4|Who is the hero of "Metal Gear Solid 3: Snake Eater"?|Naked Snake|Solid Snake;Liquid Snake;Raiden|Big Boss
+art|2|A beginner is often described as what colour?|Green|Blue;White;Grey

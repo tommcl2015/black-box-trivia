@@ -95,7 +95,9 @@ function add(item) {
 }
 
 /* ---------- 1. OpenTDB-style array ---------- */
-(function loadOpenTdb() {
+// The original Open Trivia DB questions have all been rewritten in original wording
+// (data/rewrite/). Set USE_OPENTDB=1 to load the raw originals again.
+if (process.env.USE_OPENTDB === '1') (function loadOpenTdb() {
   const src = fs.readFileSync(D('raw/opentdb.js'), 'utf8')
     .replace(/^\s*const\s+triviaQuestions\s*=\s*/, '').replace(/;\s*$/, '');
   const arr = JSON.parse(src);

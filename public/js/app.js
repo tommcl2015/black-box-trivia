@@ -558,7 +558,7 @@
       title: 'About ' + CFG.siteName, cls: 'narrow', close: 'back',
       body: `<div class="logo-row">${Art.pie(CATS, 'lg', 2.5)}<div><h2>${esc(CFG.siteName)}</h2><div class="muted">Version 1.0</div></div></div>
         <div class="prose"><p>A free multiplayer trivia game with a classic black &amp; white desktop look.</p>
-        <p class="muted">Some questions are adapted from the Open Trivia Database (opentdb.com), licensed CC BY-SA 4.0. Font: ChicagoFLF (public domain).</p></div>
+        <p class="muted">Questions written for Black Box Trivia. Thanks to the Open Trivia Database community for inspiration. Font: ChicagoFLF (public domain).</p></div>
         <div class="btn-row"><a class="btn" href="privacy.html">Privacy</a><button class="btn default" data-act="back">OK</button></div>`
     }));
   }

@@ -1,0 +1,77 @@
+# Rewritten from Open Trivia DB batch 9 (video games — mainstream picks only)
+spo|4|In what year was the mobile game "Jetpack Joyride" released?|2011|2008;2013;2015
+spo|4|Wario made his first appearance in which game?|Super Mario Land 2: 6 Golden Coins|Super Mario Bros. 3;Wario Land;Mario Kart 64|Super Mario Land 2
+spo|4|Who is the hero of the first "Fire Emblem" game?|Marth|Roy;Ike;Lyn
+spo|4|What is Solid Snake's real first name?|David|John;Jack;Eli
+spo|4|What was the GameCube's codename during development?|Dolphin|Revolution;Project Reality;Nitro
+spo|4|Who voiced Joel in "The Last of Us"?|Troy Baker|Nolan North;Nathan Fillion;Ashley Johnson|Baker
+spo|3|In "Undertale", which skeleton warns that you're "gonna have a bad time"?|Sans|Papyrus;Gaster;Asgore
+spo|5|Who is the final boss of the original "Half-Life"?|The Nihilanth|The G-Man;Wallace Breen;The Gonarch|Nihilanth
+spo|2|Mario first appeared in which arcade game?|Donkey Kong|Mario Bros.;Super Mario Bros.;Pac-Man
+spo|4|In the "Oddworld" games, what are the gun-toting guards called?|Sligs|Slogs;Glukkons;Scrabs
+spo|4|Which song plays over the credits of "Guitar Hero: World Tour"?|Pull Me Under by Dream Theater|Free Bird;Through the Fire and Flames;Sweet Child o' Mine
+spo|3|Who is the hero of the "Mass Effect" trilogy?|Commander Shepard|Garrus Vakarian;Liara T'Soni;Kaidan Alenko|Shepard
+spo|4|In "Fallout 3", which vault is home to many clones named Gary?|Vault 108|Vault 101;Vault 112;Vault 87
+spo|3|If a "360 no-scope" is one spin, how many full spins is a "1080 no-scope"?|3|2;4;6|three
+spo|5|Which Oscar-winning actor voices Cave Johnson in "Portal 2"?|J. K. Simmons|Christopher Lloyd;John Goodman;Kevin Spacey|JK Simmons;Simmons
+spo|4|Who founded Roblox?|David Baszucki and Erik Cassel|Markus Persson and Jakob Porser;Gabe Newell and Mike Harrington;Notch and Jeb
+spo|4|In the "Fallout" series, on what date did the Great War destroy the world?|October 23, 2077|July 4, 2076;December 31, 2099;August 6, 2045
+spo|4|In "Overwatch", which DJ hero can ride along walls?|Lúcio|Tracer;Genji;Sombra|Lucio
+spo|4|In which US state is the Black Mesa Research Facility in "Half-Life"?|New Mexico|Nevada;Arizona;Utah
+spo|3|What is Sora's home world in "Kingdom Hearts"?|Destiny Islands|Traverse Town;Twilight Town;Hollow Bastion
+spo|4|How many Crash Bandicoot games came out on the original PlayStation?|5|3;4;6|five
+spo|3|Which of these is NOT a class in "Team Fortress 2"?|Healer|Pyro;Demoman;Engineer
+spo|4|In what year was Nintendo's Virtual Boy released?|1995|1991;1998;2001
+spo|4|What is the robot hero of "Cave Story" called?|Quote|Curly;Balrog;Sue
+spo|3|Which company developed "Pokémon Go"?|Niantic|Game Freak;Rovio;Supercell
+spo|4|Which two Australian outlaws in "Overwatch" form the Junkers?|Junkrat and Roadhog|Reaper and Sombra;McCree and Ashe;Torbjörn and Brigitte
+spo|3|Which fighting-game series was made by Namco?|Tekken|Street Fighter;Mortal Kombat;King of Fighters
+spo|4|In what year did "Metal Gear Solid" come out in North America?|1998|1994;2001;2004
+spo|3|Which company makes the "Dragon Quest" games?|Square Enix|Capcom;Konami;Bandai Namco|Enix
+spo|4|Without enchantments, which pickaxe mines fastest in Minecraft?|Golden pickaxe|Diamond pickaxe;Netherite pickaxe;Iron pickaxe|Gold;Golden
+spo|3|In what year was the original "The Sims" released?|2000|1997;2002;2004
+spo|5|Which 1974 game is often cited as the first first-person shooter?|Spasim|Maze War;Wolfenstein 3D;Doom
+spo|5|Chris Sawyer wrote "RollerCoaster Tycoon" almost entirely in what?|Assembly language|C++;Java;BASIC|x86 assembly;Assembly
+spo|4|In "Halo: Combat Evolved", which gas giant does Installation 04 orbit?|Threshold|Reach;Harvest;Sanghelios
+spo|4|Which team won the first Overwatch League championship in 2018?|London Spitfire|Philadelphia Fusion;New York Excelsior;Seoul Dynasty
+spo|4|What device lets Tracer jump through time in "Overwatch"?|Chronal accelerator|Flux capacitor;Time dilator;Temporal harness
+spo|4|Which company created "Overwatch"?|Blizzard Entertainment|Valve;Riot Games;Bungie|Blizzard
+spo|5|In "Team Fortress 2", where was the Sniper born?|New Zealand|Australia;South Africa;Canada
+spo|3|What was the first game in the "Battlefield" series?|Battlefield 1942|Battlefield 2;Battlefield Vietnam;Battlefield 1
+spo|4|Which "Grand Theft Auto" game started the series' famous grid-style cover art?|Grand Theft Auto III|Grand Theft Auto II;Vice City;San Andreas
+spo|4|Who is the jester of the Dark Brotherhood in "Skyrim"?|Cicero|Astrid;Nazir;Babette
+spo|5|What is Rinoa's surname in "Final Fantasy VIII"?|Heartilly|Loire;Trepe;Almasy
+spo|4|The cake in "Portal" is closest to which real cake?|Black Forest cake|Red velvet cake;Devil's food cake;Carrot cake|Black Forest
+spo|4|Who is the main playable character for most of "Metal Gear Solid 2"?|Raiden|Solid Snake;Big Boss;Otacon
+spo|4|In "Pikmin", which colour of Pikmin has no Onion of its own?|Purple|Red;Blue;Yellow
+spo|4|Which faction from earlier games is NOT in "Fallout 4"?|The Enclave|The Brotherhood of Steel;The Institute;The Minutemen|Enclave
+spo|4|"The Potato Sack" indie game bundle was an elaborate promotion for which game?|Portal 2|Half-Life 3;Left 4 Dead 2;Team Fortress 2
+spo|4|In "Left 4 Dead", which campaign takes survivors through a subway to a hospital roof?|No Mercy|Dead Air;Blood Harvest;Death Toll
+spo|3|Which "Overwatch" healer shouts "Heroes never die!"?|Mercy|Ana;Moira;Zenyatta
+spo|4|Phil Fish designed which indie puzzle-platformer?|Fez|Braid;Limbo;Super Meat Boy
+spo|4|In what year was "Left 4 Dead 2" released?|2009|2007;2011;2013
+spo|4|In "Team Fortress 2", which city is the Scout from?|Boston|Chicago;New York;Detroit
+spo|4|The "Metroid" series is named after what?|An alien creature in the game|The heroine's ship;The final boss;A planet
+spo|4|What was the cancelled Blizzard project that turned into "Overwatch"?|Titan|Nova;Ghost;Odyssey
+spo|4|Which augmented-reality game did Niantic make before "Pokémon Go"?|Ingress|Geocaching;Wizards Unite;Field Trip
+spo|2|What is the villain AI in "Portal"?|GLaDOS|Wheatley;HAL 9000;SHODAN
+spo|3|Who founded Aperture Science in "Portal"?|Cave Johnson|GLaDOS;Gordon Freeman;Chell
+spo|3|Which of these is NOT a team in "Pokémon Go"?|Team Rocket|Team Mystic;Team Valor;Team Instinct
+spo|4|In what year was the first "Mass Effect" released?|2007|2005;2009;2012
+spo|1|"Rocket League" is soccer played with what?|Cars|Hovercraft;Jetpacks;Robots
+spo|4|In standard Minecraft, which material can NOT be made into armour?|Emerald|Diamond;Iron;Leather
+spo|5|Goldenrod City Gym's maze in "Pokémon Gold and Silver" is shaped like which Pokémon?|Clefairy|Jigglypuff;Pikachu;Togepi
+spo|3|Which "Far Cry 3" villain asks if he ever told you "the definition of insanity"?|Vaas Montenegro|Pagan Min;Joseph Seed;Hoyt Volker|Vaas
+spo|5|Which "Half-Life 2" scientist is the default player model in "Garry's Mod"?|Dr. Isaac Kleiner|Gordon Freeman;Alyx Vance;Eli Vance|Kleiner
+spo|3|How many classes are there in "Team Fortress 2"?|9|6;8;12|nine
+spo|4|What is the Mega Man series called in Japan?|Rockman|Mega Boy;Blue Bomber;Robot Man
+spo|4|In which "Dark Souls" game do you play as the Ashen One?|Dark Souls III|Dark Souls;Dark Souls II;Demon's Souls
+spo|2|In "Bloons Tower Defense", which animals pop the balloons?|Monkeys|Penguins;Cats;Hedgehogs
+spo|3|What is Frank West's job in "Dead Rising"?|Photojournalist|Police officer;Firefighter;Mall cop|Photographer;Journalist
+spo|2|In "Super Mario Bros.", who tells Mario the princess is in another castle?|Toad|Luigi;Yoshi;Peach
+spo|3|Which of these is a class in "Hearthstone"?|Priest|Monk;Cleric;Bard
+spo|3|What is the evil megacorporation in "Stardew Valley"?|Joja Corporation|Pierre's General Store;Ferngill Republic;Morris Inc.|Joja;JojaMart
+spo|4|Which 1958 oscilloscope game is often called the first video game?|Tennis for Two|Spacewar!;Pong;OXO
+spo|5|"Exile" and "Revelation" are sequels in which puzzle adventure series?|Myst|Riven only;The 7th Guest;Shivers
+spo|4|In "Overwatch" lore, which cowboy was once in the Deadlock Gang?|McCree|Ashe's butler Bob;Soldier: 76;Reaper|Cassidy;Cole Cassidy
+spo|3|In "Saints Row: The Third", which wrestling legend voices a character?|Hulk Hogan|The Rock;John Cena;Macho Man Randy Savage|Hogan

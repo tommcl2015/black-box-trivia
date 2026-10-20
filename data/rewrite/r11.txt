@@ -1,0 +1,70 @@
+# Rewritten from Open Trivia DB batch 11 (video games — mainstream picks only)
+spo|4|Which character first joined "Super Smash Bros." in "Melee"?|Sheik|Samus;Kirby;Fox
+spo|4|In Splatoon 2's Hero Mode, which agent are you?|Agent 4|Agent 1;Agent 3;Agent 8
+spo|4|Which Zelda game does NOT have Ganon as its final villain?|Majora's Mask|Ocarina of Time;A Link to the Past;Breath of the Wild
+spo|2|What does Solid Snake famously hide under?|A cardboard box|A bush;A barrel;A blanket|Cardboard box;Box
+spo|4|In "Assassin's Creed", what does Abstergo call Desmond Miles?|Subject 17|Subject 16;Subject 1;Patient Zero
+spo|3|Samus Aran of "Metroid" is often called gaming's first what?|Female protagonist|Bounty hunter;Space marine;Silent hero|Female hero;Heroine
+spo|5|How many Simoleons does a new household start with in the original "The Sims"?|20,000|10,000;50,000;100,000|20000
+spo|4|"Borderlands 2" boasted how many guns?|87 bazillion|87 million;1 billion;A googol
+spo|2|Who created Minecraft?|Markus "Notch" Persson|Jens Bergensten;Gabe Newell;Toby Fox|Markus Persson;Notch;Persson
+spo|4|In what year did Club Penguin launch?|2005|2002;2008;2011
+spo|3|How many Chaos Emeralds are there in most Sonic games?|7|6;8;12|seven
+spo|3|In "Overwatch", what kind of ape is the scientist Winston?|Gorilla|Chimpanzee;Orangutan;Bonobo
+spo|4|Who is the only woman of the "Original Four" Kerbals in Kerbal Space Program?|Valentina Kerman|Jebediah Kerman;Bill Kerman;Bob Kerman|Valentina
+spo|3|Which of these is NOT a playable lead in "Grand Theft Auto V"?|Tommy Vercetti|Michael De Santa;Franklin Clinton;Trevor Philips|Tommy
+spo|3|In what year was "Grand Theft Auto V" first released?|2013|2011;2014;2015
+spo|2|In what year was "Super Mario Bros." released in Japan?|1985|1981;1983;1988
+spo|4|Which was the first Pokémon ever designed, according to Game Freak?|Rhydon|Bulbasaur;Pikachu;Mew
+spo|4|Which Kirby game introduced his Copy Abilities?|Kirby's Adventure|Kirby's Dream Land;Kirby Super Star;Kirby 64
+spo|4|What was Minecraft's original working title?|Cave Game|Block World;Mine Craft;Dig Dug 2
+spo|3|In "Undertale", who is the first character you meet underground?|Flowey|Toriel;Sans;Papyrus
+spo|3|Which four survivors star in the first "Left 4 Dead"?|Bill, Zoey, Francis and Louis|Coach, Ellis, Nick and Rochelle;Joel, Ellie, Tess and Bill;Leon, Claire, Ada and Sherry
+spo|4|In "GTA V", what was Michael De Santa's surname before witness protection?|Townley|Philips;Clinton;Vercetti
+spo|4|Which "League of Legends" champion is called "the Virtuoso"?|Jhin|Ezreal;Sona;Ahri
+spo|3|Before Sonic, who was Sega's mascot?|Alex Kidd|Opa-Opa;Ristar;NiGHTS
+spo|4|Which "Left 4 Dead" special infected cannot be played in Versus?|The Witch|The Tank;The Hunter;The Smoker|Witch
+spo|4|Which game was NOT a GameCube launch title?|Super Mario Sunshine|Luigi's Mansion;Star Wars Rogue Squadron II;Wave Race: Blue Storm
+spo|3|In what year did Steam launch?|2003|1999;2006;2009
+spo|4|The meme "Weegee" came from which game?|Mario Is Missing! (MS-DOS)|Luigi's Mansion;Mario Party;Super Mario Bros. 2
+spo|2|"League of Legends" and "Dota 2" belong to which genre?|MOBA|MMORPG;Battle royale;Fighting|Multiplayer online battle arena
+spo|4|Which "Overwatch" hero is from Brazil?|Lúcio|Sombra;Symmetra;Ana|Lucio
+spo|4|Who is the first villain in the original "Spyro the Dragon"?|Gnasty Gnorc|Ripto;The Sorceress;Malefor
+spo|2|Which Greek letter is the "Half-Life" logo?|Lambda|Omega;Sigma;Delta|λ
+spo|4|Which footballer was on the cover of "FIFA 18"?|Cristiano Ronaldo|Lionel Messi;Neymar;Kylian Mbappé|Ronaldo
+spo|5|Who created "Katamari Damacy"?|Keita Takahashi|Hideki Kamiya;Shu Takumi;Goichi Suda|Takahashi
+spo|3|Which "Left 4 Dead" infected grabs survivors with its long tongue?|The Smoker|The Hunter;The Jockey;The Boomer|Smoker
+spo|4|In what year was "Grand Theft Auto IV" released?|2008|2006;2010;2012
+spo|4|What is Morgana's code name in "Persona 5"?|Mona|Panther;Skull;Fox
+spo|4|In "Super Mario RPG", which Nintendo hero is asleep in the hotel bed in Rose Town?|Link|Samus;Kirby;Fox McCloud
+spo|4|How much did "Cave Story" cost when it came out in 2004?|Nothing — it was free|$5;$10;$20|Free;0
+spo|4|In "Undertale", what is the "prize" for answering Mettaton's quiz correctly?|More questions|A new car;Gold;A date with Mettaton
+spo|3|In the original "Civilization", a famous bug made which peaceful leader go nuclear?|Gandhi|Abraham Lincoln;Queen Elizabeth;Montezuma|Mahatma Gandhi
+spo|3|Which game caused a 2005 scandal over its hidden "Hot Coffee" minigame?|Grand Theft Auto: San Andreas|Grand Theft Auto: Vice City;Saints Row;Mafia|San Andreas;GTA San Andreas
+spo|3|Which Mario Kart game came out on the Game Boy Advance?|Mario Kart: Super Circuit|Mario Kart DS;Double Dash!!;Mario Kart 64|Super Circuit
+spo|3|What is the talking cat in "Persona 5" called?|Morgana|Teddie;Koromaru;Nyanko
+spo|4|Which shape was NOT in the old Electronic Arts logo (cube, sphere, pyramid)?|Cylinder|Cube;Sphere;Pyramid
+spo|3|The cat-like Khajiit come from which RPG series?|The Elder Scrolls|The Witcher;Dragon Age;World of Warcraft|Elder Scrolls
+spo|3|Who leads the Brotherhood of Nod in "Command & Conquer"?|Kane|Yuri;CABAL;General Solomon
+spo|3|Which of these space shooters came out first?|Space Invaders|Galaxian;Galaga;Defender
+spo|4|What type is the Pokémon Sudowoodo, despite looking like a tree?|Rock|Grass;Ground;Bug
+spo|3|Who is the grappling-hook hero of the "Just Cause" series?|Rico Rodriguez|Nathan Drake;Sam Fisher;Ezio Auditore|Rico
+spo|4|Which came out first?|Terraria|Starbound;Factorio;Stardew Valley
+spo|3|In what year was "Hearthstone" released?|2014|2010;2012;2016
+spo|2|What is the bald assassin in the "Hitman" series called?|Agent 47|Agent 007;Agent 13;Agent Zero|47
+spo|3|Who is the main villain of "Crash Bandicoot"?|Dr. Neo Cortex|Dr. Robotnik;Dr. Wily;Uka Uka|Cortex;Neo Cortex
+spo|4|Pokémon Diamond and Pearl came out in Japan in which year?|2006|2004;2008;2010
+spo|4|What is the alligator called in "Where's My Water?"|Swampy|Cranky;Allie;Gator Joe
+spo|4|Who replaced Peter Dinklage as the voice of Ghost in "Destiny"?|Nolan North|Troy Baker;Nathan Fillion;Mark Hamill|North
+spo|4|How many playable fighters were in "Street Fighter II: Champion Edition"?|12|8;16;20|twelve
+spo|4|Meryl Silverburgh first appeared in which Hideo Kojima game?|Policenauts|Snatcher;Metal Gear 2;Zone of the Enders
+spo|3|What is the dog companion called in "Fallout 4"?|Dogmeat|Rex;Chop;Max
+spo|4|How late is Gordon Freeman for work at the start of "Half-Life"?|30 minutes|5 minutes;1 hour;2 hours
+spo|4|What is the largest planet in Kerbal Space Program?|Jool|Eve;Duna;Kerbol
+spo|4|How many members does Organization XIII really have in "Kingdom Hearts"?|14|12;13;15
+spo|4|What is the Scout's first name in "Team Fortress 2"?|Jeremy|Johnny;Mike;Tony
+spo|4|Which language is Valve's Source engine written in?|C++|Java;Python;Lua
+spo|4|Which "Souls" game was NOT directed by Hidetaka Miyazaki?|Dark Souls II|Demon's Souls;Dark Souls;Dark Souls III
+spo|3|Which bloody 1992 fighting game helped lead to the creation of the ESRB?|Mortal Kombat|Street Fighter II;Doom;Killer Instinct
+spo|4|What is the name of Mario's first Goomba partner in "Paper Mario"?|Goombario|Goombella;Goombaria;Gooby
+spo|2|Who voices GLaDOS in "Portal"?|Ellen McLain|Jennifer Hale;Tara Strong;Sigourney Weaver|McLain

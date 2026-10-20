@@ -1,5 +1,5 @@
 # Rewritten from Open Trivia DB batch 5 (music, TV)
-ent|5|Entertainer Sammy Davis Jr. lost which eye in a 1954 car crash?|Left|Right|Left eye
+ent|5|Entertainer Sammy Davis Jr. lost which eye in a 1954 car crash?|Left||Left eye
 ent|3|Who had a 1969 hit with "A Boy Named Sue", written by Shel Silverstein?|Johnny Cash|Kris Kristofferson;Willie Nelson;Waylon Jennings|Cash
 ent|5|Which Soviet rock singer, memorialized by a famous wall in Moscow, has a song in "Grand Theft Auto IV"?|Viktor Tsoi|Vladimir Vysotsky;Boris Grebenshchikov;Yuri Shevchuk|Tsoi
 ent|2|What is Michael Jackson's best-selling album?|Thriller|Bad;Off the Wall;Dangerous
