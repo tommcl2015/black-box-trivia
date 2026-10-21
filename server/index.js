@@ -11,7 +11,9 @@ const { Room, QuestionPicker, MAX_PLAYERS } = require('../public/js/engine.js');
 
 const PORT = process.env.PORT || 3000;
 const SITE_NAME = process.env.SITE_NAME || 'Black Box Trivia';
-const ADSENSE_CLIENT = process.env.ADSENSE_CLIENT || '';        // e.g. ca-pub-1234567890123456
+const ADSENSE_CLIENT = process.env.ADSENSE_CLIENT ?? 'ca-pub-8705243334753575';   // set ADSENSE_CLIENT= (empty) to turn ads off
+const SITE_URL = (process.env.SITE_URL || 'https://blackboxtrivia.com').replace(/\/$/, '');
+const CONTACT_EMAIL = process.env.CONTACT_EMAIL || 'blackboxtrivia@gmail.com';
 const AD_SLOTS = {
   lobby: process.env.AD_SLOT_LOBBY || '',
   reveal: process.env.AD_SLOT_REVEAL || '',
@@ -48,6 +50,7 @@ app.get('/api/stats', (req, res) => {
 app.get('/api/questions', (req, res) => {
   res.set('Cache-Control', 'public, max-age=3600').json(bank);
 });
+require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, bank });
 app.use(express.static(path.join(__dirname, '..', 'public'), { maxAge: '1h', extensions: ['html'] }));
 
 const server = http.createServer(app);

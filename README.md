@@ -51,7 +51,7 @@ Other hosts that work: Railway, Fly.io, DigitalOcean App Platform, or any VPS (a
 
    | Variable | Example |
    |---|---|
-   | `ADSENSE_CLIENT` | `ca-pub-1234567890123456` |
+   | `ADSENSE_CLIENT` | already built in (`ca-pub-8705243334753575`); set it to blank to turn ads off |
    | `AD_SLOT_LOBBY` | `1234567890` |
    | `AD_SLOT_FINAL` | `2345678901` |
    | `AD_SLOT_REVEAL` | *(optional – ads between questions)* |

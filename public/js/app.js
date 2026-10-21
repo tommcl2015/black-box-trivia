@@ -592,7 +592,7 @@
   function setStatus(txt) { const el = $('#mbStatus'); if (el && txt) el.textContent = txt; else if (el) renderMenubar(); }
 
   function renderFoot() {
-    $('#foot').innerHTML = `<a href="privacy.html">Privacy</a> <span>·</span> <a href="#" data-act="help">How to play</a> <span>·</span> <a href="#" data-act="about">About</a>`;
+    $('#foot').innerHTML = `<a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a>`;
     $('#deskIcons').innerHTML = `<button class="desk-icon" data-act="help">${Art.icon('doc')}<span>Read Me</span></button>
       <button class="desk-icon" data-act="trash">${Art.icon('trash')}<span>Trash</span></button>`;
   }
@@ -742,7 +742,7 @@
   /* ================= boot ================= */
   function boot() {
     Art.installDefs();
-    if (CFG.adsenseClient) {
+    if (CFG.adsenseClient && !document.querySelector('script[src*="adsbygoogle.js"]')) {
       const s = document.createElement('script'); s.async = true; s.crossOrigin = 'anonymous';
       s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${encodeURIComponent(CFG.adsenseClient)}`;
       document.head.appendChild(s);
