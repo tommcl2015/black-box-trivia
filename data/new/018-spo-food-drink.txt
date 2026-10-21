@@ -1,0 +1,54 @@
+# Food & drink — beer, brews and famous eats
+spo|2|Which company is the largest brewer in the world, making Budweiser, Corona and Stella Artois?|AB InBev|Heineken;Carlsberg;Molson Coors|Anheuser-Busch InBev;Anheuser-Busch
+spo|2|Which beer is nicknamed "The King of Beers"?|Budweiser|Coors;Miller High Life;Labatt Blue|Bud
+spo|3|Which Mexican beer passed Bud Light in 2023 to become America's best-selling beer?|Modelo Especial|Corona Extra;Dos Equis;Pacifico|Modelo
+spo|2|Which country drinks the most beer per person in the world?|Czech Republic|Germany;Ireland;Belgium|Czechia
+spo|2|Which city hosts Oktoberfest, the world's largest beer festival?|Munich|Berlin;Vienna;Frankfurt
+spo|3|Despite its name, Oktoberfest mostly takes place in which month?|September|October;August;November
+spo|3|Which Ontario festival bills itself as the largest Bavarian festival outside Germany?|Kitchener-Waterloo Oktoberfest|Calgary Stampede;Winterlude;Just for Laughs|Oktoberfest
+spo|3|Pilsner beer is named after which Czech city?|Plzeň|Prague;Brno;Budweis|Pilsen;Plzen
+spo|3|The original Budweiser beer name comes from which Czech town?|České Budějovice|Plzeň;Prague;Brno|Budweis;Ceske Budejovice
+spo|2|Guinness stout comes from which city?|Dublin|Belfast;Cork;Glasgow
+spo|2|Heineken beer comes from which country?|Netherlands|Germany;Belgium;Denmark|Holland
+spo|2|Stella Artois comes from which country?|Belgium|France;Netherlands;Germany
+spo|2|Corona beer comes from which country?|Mexico|Spain;Brazil;Cuba
+spo|3|Which German law of 1516 said beer could only contain water, barley and hops?|Reinheitsgebot|Bierordnung;Oktoberrecht;Brauerlaw|Beer Purity Law;Purity law
+spo|2|Which flower gives beer its bitterness and aroma?|Hops|Barley;Juniper;Chamomile|Hop
+spo|3|What does "IPA" stand for?|India Pale Ale|Imperial Pale Ale;Irish Porter Ale;International Pale Ale
+spo|3|Which brewery, founded in Montreal in 1786, is the oldest in North America?|Molson|Labatt;Sleeman;Moosehead|Molson Brewery
+spo|3|Which Canadian brewery from Saint John, New Brunswick, calls itself the country's oldest independent brewery?|Moosehead|Sleeman;Alexander Keith's;Big Rock|Moosehead Breweries
+spo|3|Which Halifax brewery's beer says "Those who like it, like it a lot"?|Alexander Keith's|Moosehead;Oland;Garrison|Keith's
+spo|3|Which Ontario brewery, founded in Guelph, became famous for its clear glass bottles?|Sleeman|Labatt;Brick;Steam Whistle|Sleeman Breweries
+spo|3|Which Toronto brewery makes a single pilsner in green bottles beside the CN Tower?|Steam Whistle|Mill Street;Amsterdam;Great Lakes
+spo|3|Which Canadian beer ad featured "Joe" shouting "I am Canadian!"?|Molson Canadian|Labatt Blue;Kokanee;Molson Export|Molson
+spo|3|Which BC beer's TV ads featured a Sasquatch and a park ranger?|Kokanee|Molson Canadian;Pilsner;Coors Light
+spo|2|What is a "two-four" in Canada?|A case of 24 beers|A two-dollar coin;A doughnut order;A double-double coffee|Case of 24;24 beers
+spo|2|What is a "double-double" at Tim Hortons?|Coffee with two creams and two sugars|Two coffees;A double espresso;Two Timbits with coffee|Two cream two sugar
+spo|2|Which cocktail was invented in Calgary in 1969 and uses Clamato juice?|Caesar|Bloody Mary;Mai Tai;Moscow Mule|Bloody Caesar
+spo|2|Which country drinks the most coffee per person?|Finland|Italy;Brazil;Colombia
+spo|3|Which country drinks the most tea per person?|Turkey|United Kingdom;China;India|Türkiye
+spo|2|Which Canadian province makes about 70 per cent of the world's maple syrup?|Quebec|Ontario;New Brunswick;Nova Scotia
+spo|2|Which no-bake bar dessert is named after a city on Vancouver Island?|Nanaimo bar|Victoria square;Comox crumble;Tofino slice|Nanaimo bars;Nanaimo
+spo|2|Which very Canadian pastry is filled with butter, sugar and eggs, and fans fight over raisins?|Butter tart|Bakewell tart;Sugar pie;Mince tart|Butter tarts
+spo|3|What is the hottest chili pepper in the world, which took the record in 2023?|Pepper X|Carolina Reaper;Ghost pepper;Trinidad Scorpion|Pepper-X
+spo|3|Which scale measures how spicy a chili pepper is?|Scoville scale|Richter scale;Beaufort scale;Mohs scale|Scoville
+spo|2|What is the most expensive spice by weight, made from crocus flowers?|Saffron|Vanilla;Cardamom;Cinnamon
+spo|3|Ketchup was sold as what in the 1830s?|Medicine|Paint;Hair dye;Soap|A medicine
+spo|2|Champagne must come from a region of which country?|France|Italy;Spain;Germany
+spo|2|Tequila is made from which plant?|Blue agave|Cactus;Sugar cane;Corn|Agave
+spo|2|Which drink is flavoured mainly with juniper berries?|Gin|Vodka;Rum;Whisky
+spo|2|Rum is made from sugar cane or which sugary by-product?|Molasses|Honey;Maple sap;Corn syrup
+spo|3|What is Japan's famous rice wine called?|Sake|Soju;Mirin;Shochu|Saké
+spo|3|Which country usually spells it "whiskey", with an e?|Ireland|Scotland;Canada;Japan|Irish
+spo|2|Which country is the world's biggest producer of coffee?|Brazil|Colombia;Vietnam;Ethiopia
+spo|3|Coffee was first discovered, legend says, by a goat herder in which country?|Ethiopia|Yemen;Brazil;Turkey
+spo|2|Which nut is used to make marzipan?|Almond|Hazelnut;Walnut;Pistachio|Almonds
+spo|2|Which country invented pizza?|Italy|Greece;United States;France
+spo|3|Which Italian city is the birthplace of pizza?|Naples|Rome;Milan;Florence|Napoli
+spo|3|Which Swiss cheese is famous for its holes?|Emmental|Gruyère;Raclette;Appenzeller|Emmentaler
+spo|2|Which fruit is used to make guacamole?|Avocado|Lime;Tomato;Pear|Avocados
+spo|2|Which nut grows underground?|Peanut|Cashew;Almond;Walnut|Peanuts
+spo|3|Botanically, which "nut" is actually a legume, like peas and beans?|Peanut|Almond;Cashew;Pecan|Peanuts
+spo|2|Which Canadian treat, sold at hockey rinks and festivals, is a flat fried dough named after an animal's tail?|BeaverTails|Moose Tracks;Elephant Ears;Timbits|Beaver Tails;Beavertail
+spo|3|Which Quebec maple treat is made by pouring hot syrup onto snow?|Maple taffy|Maple butter;Sugar pie;Maple fudge|Tire d'érable;Tire sur la neige;Maple toffee
+spo|3|Kraft Dinner is known as what in the rest of the world?|Kraft Macaroni & Cheese|Kraft Pasta Bake;Easy Mac;Mac Attack|Kraft Mac and Cheese;Macaroni and cheese;Mac and cheese

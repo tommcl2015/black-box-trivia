@@ -1,0 +1,37 @@
+# Wild weather — records, storms and Canadian winters
+sci|2|What is the coldest air temperature ever recorded on Earth's surface, at Antarctica's Vostok Station?|−89.2 °C|−62.4 °C;−73.0 °C;−101.5 °C|-89.2;-89;minus 89
+sci|3|Which Siberian village is often called the coldest permanently inhabited place on Earth?|Oymyakon|Norilsk;Yakutsk;Murmansk
+sci|3|Which Canadian village set Canada's all-time heat record of 49.6 °C in June 2021, then burned in a wildfire the next day?|Lytton, British Columbia|Kamloops, British Columbia;Osoyoos, British Columbia;Medicine Hat, Alberta|Lytton
+sci|3|The fastest wind gust ever recorded outside a tornado, 408 km/h in 1996, hit an island belonging to which country?|Australia|New Zealand;Japan;Philippines
+sci|3|Which New Hampshire mountain held the world wind-speed record of 372 km/h for over 60 years?|Mount Washington|Mount Mitchell;Pikes Peak;Mount Rainier|Washington
+sci|3|The fastest winds ever measured on Earth, about 480 km/h, were inside a 1999 tornado near which US city?|Oklahoma City|Dallas;Kansas City;Wichita|Moore;Bridge Creek
+sci|2|Which country gets the most tornadoes in the world?|United States|Canada;Argentina;Bangladesh|USA
+sci|3|Which country gets the second-most tornadoes in the world?|Canada|Mexico;Russia;Australia
+sci|2|What is the top category on the Saffir–Simpson hurricane scale?|Category 5|Category 4;Category 6;Category 10|5;Five
+sci|3|What scale is used to rate tornadoes by damage, from EF0 to EF5?|Enhanced Fujita scale|Saffir–Simpson scale;Beaufort scale;Richter scale|Fujita scale;Fujita;EF scale
+sci|3|Which scale measures wind speed from 0 (calm) to 12 (hurricane force)?|Beaufort scale|Fujita scale;Mercalli scale;Saffir–Simpson scale|Beaufort
+sci|2|What are hurricanes called in the western Pacific Ocean?|Typhoons|Cyclones;Monsoons;Tornadoes|Typhoon
+sci|3|What are hurricanes called in the Indian Ocean and around Australia?|Cyclones|Typhoons;Willy-willies;Monsoons|Cyclone;Tropical cyclones
+sci|3|Which 1979 typhoon was the largest and most intense tropical cyclone ever recorded?|Typhoon Tip|Typhoon Haiyan;Hurricane Patricia;Cyclone Nargis|Tip
+sci|3|Which 2005 hurricane flooded New Orleans?|Hurricane Katrina|Hurricane Andrew;Hurricane Sandy;Hurricane Rita|Katrina
+sci|3|Which 1954 hurricane flooded Toronto and killed 81 people?|Hurricane Hazel|Hurricane Juan;Hurricane Fiona;Hurricane Igor|Hazel
+sci|3|Which 2022 storm became the costliest extreme weather event in Atlantic Canada's history?|Hurricane Fiona|Hurricane Juan;Hurricane Dorian;Hurricane Igor|Fiona
+sci|2|Which 1998 storm coated eastern Ontario and southern Quebec in ice, leaving millions without power?|The Great Ice Storm|The Blizzard of '98;The Polar Vortex;Snowmageddon|Ice Storm;The Ice Storm;North American ice storm
+sci|3|In 1999, which Toronto mayor called in the army to help dig the city out of snow?|Mel Lastman|Rob Ford;David Miller;John Tory|Lastman
+sci|3|Which Indian town is often listed as the wettest place on Earth?|Mawsynram|Cherrapunji;Mumbai;Darjeeling
+sci|2|Which South American desert is the driest non-polar place on Earth?|Atacama Desert|Patagonian Desert;Sechura Desert;Sahara|Atacama
+sci|3|Which lake in Venezuela gets more lightning than anywhere else on Earth?|Lake Maracaibo|Lake Titicaca;Lake Valencia;Lake Nicaragua|Maracaibo
+sci|2|Lightning is roughly how much hotter than the surface of the Sun?|About five times hotter|About half as hot;About the same;About 100 times hotter|5 times;Five times
+sci|2|What shape is a falling raindrop really, despite the cartoons?|Like a hamburger bun|A teardrop;A perfect cube;A long needle|Hamburger bun;Bun;Round on top and flat on the bottom
+sci|3|Where did the largest hailstone in US records fall, in 2010, measuring 20 cm across?|Vivian, South Dakota|Denver, Colorado;Wichita, Kansas;Amarillo, Texas|Vivian
+sci|3|Which mountain in Washington State set the record for most snow in one season, nearly 29 metres in 1998–99?|Mount Baker|Mount Rainier;Mount St. Helens;Mount Hood|Baker
+sci|3|What are the warm, dry winds that can raise Calgary's winter temperature by 20 °C in hours?|Chinooks|Santa Anas;Siroccos;Mistrals|Chinook
+sci|3|Which major Canadian city is the foggiest, snowiest and windiest, according to Environment Canada rankings?|St. John's|Halifax;Quebec City;Winnipeg
+sci|3|What is the name of the cold, dense air that sometimes plunges south from the Arctic in winter?|Polar vortex|Jet stream;El Niño;Arctic dome|The polar vortex
+sci|3|What do you call a periodic warming of the Pacific Ocean that changes weather worldwide?|El Niño|La Niña;Gulf Stream;Monsoon|El Nino
+sci|3|What word means rain, snow, sleet or hail falling from the sky?|Precipitation|Condensation;Evaporation;Humidity
+sci|2|What do you call a snowstorm with strong winds and very low visibility?|Blizzard|Squall;Flurry;Whiteout|A blizzard
+sci|3|Which Winnipeg intersection is famous as one of the coldest and windiest corners in Canada?|Portage and Main|Yonge and Bloor;Jasper and 101 Street;Granville and Georgia|Portage & Main
+sci|3|In which month is Groundhog Day?|February|January;March;December
+sci|3|At what temperature do Celsius and Fahrenheit read exactly the same?|−40|0;−32;32|-40;minus 40;negative 40
+sci|3|What does a meteorologist mean by "wind chill"?|How cold the air feels on skin because of wind|The temperature of the wind itself;The coldest temperature of the day;How fast the wind is blowing|Feels like temperature
