@@ -1,0 +1,116 @@
+# Big leagues — NHL, NFL, NBA, MLB, CFL legends, records and lore
+# --- Hockey ---
+spo|1|What trophy is awarded to the NHL playoff champion?|Stanley Cup|Grey Cup;Hart Trophy;Calder Cup|The Stanley Cup;Stanley
+spo|2|Which team has won the most Stanley Cups?|Montreal Canadiens|Toronto Maple Leafs;Detroit Red Wings;Boston Bruins|Canadiens;Habs;Montreal
+spo|2|In which year did the Toronto Maple Leafs last win the Stanley Cup?|1967|1972;1993;1959
+spo|2|Who holds the NHL record for most career goals, passing Wayne Gretzky in 2025?|Alex Ovechkin|Sidney Crosby;Jaromír Jágr;Gordie Howe|Ovechkin;Ovi
+spo|2|What number did Wayne Gretzky wear, now retired across the whole NHL?|99|66;9;87|Ninety-nine
+spo|3|What number did Mario Lemieux wear?|66|99;68;87
+spo|3|What number does Sidney Crosby wear?|87|99;71;97
+spo|3|Which Oilers star won the 2024 Conn Smythe Trophy even though his team lost the Final?|Connor McDavid|Leon Draisaitl;Sidney Crosby;Auston Matthews|McDavid
+spo|3|In which year was Wayne Gretzky traded from Edmonton to Los Angeles?|1988|1985;1990;1992
+spo|2|What is the NHL award for the league's most valuable player?|Hart Trophy|Art Ross Trophy;Vezina Trophy;Norris Trophy|Hart;Hart Memorial Trophy
+spo|3|Which NHL trophy goes to the playoff MVP?|Conn Smythe Trophy|Hart Trophy;Lady Byng Trophy;Selke Trophy|Conn Smythe
+spo|3|Which NHL trophy goes to the best goaltender?|Vezina Trophy|Norris Trophy;Calder Trophy;Jennings Trophy|Vezina
+spo|3|Which NHL trophy goes to the top rookie?|Calder Trophy|Ted Lindsay Award;Lady Byng Trophy;Masterton Trophy|Calder
+spo|2|What is a "hat trick" in hockey?|Three goals by one player in a game|Three assists in a game;Three fights in a game;Three penalties in a period
+spo|3|What do fans throw on the ice after a hat trick?|Hats|Octopuses;Rats;Teddy bears
+spo|3|Detroit Red Wings fans have a tradition of throwing which sea creature on the ice?|Octopus|Squid;Crab;Fish|Octopi;An octopus
+spo|3|Which goaltender was the first to regularly wear a mask, in 1959?|Jacques Plante|Terry Sawchuk;Glenn Hall;Ken Dryden|Plante
+spo|3|Which Canadiens goalie and later author and MP played in the 1972 Summit Series?|Ken Dryden|Patrick Roy;Gump Worsley;Rogie Vachon|Dryden
+spo|3|Which Hockey Night in Canada commentator was famous for loud suits and "Coach's Corner"?|Don Cherry|Ron MacLean;Bob Cole;Foster Hewitt|Cherry
+spo|3|Which broadcaster made "He shoots, he scores!" famous?|Foster Hewitt|Bob Cole;Danny Gallivan;Don Cherry|Hewitt
+spo|2|What was the 1972 hockey series between Canada and the Soviet Union called?|Summit Series|Canada Cup;Super Series;Challenge Cup|The Summit Series
+spo|3|Which team did Canada's women beat for Olympic gold in hockey in 2002, 2010, 2014 and 2022?|United States|Finland;Sweden;Russia|USA;Team USA
+spo|3|Which country's hockey team pulled off the "Miracle on Ice" against the Soviets at the 1980 Olympics?|United States|Canada;Sweden;Finland|USA;Team USA
+spo|3|What do NHL players call the gap between a goalie's legs?|Five-hole|Pocket;Window;Back door|Five hole
+spo|3|Which Canadian NHL team plays in Ottawa?|Senators|Rough Riders;Redblacks;67's|Ottawa Senators;Sens
+spo|3|Which NHL team did Winnipeg lose in 1996 when it moved to Arizona?|Jets|Thrashers;Coyotes;Nordiques|Winnipeg Jets
+spo|3|The Quebec Nordiques moved in 1995 and became which team?|Colorado Avalanche|Dallas Stars;Carolina Hurricanes;Arizona Coyotes|Avalanche
+spo|4|Which team became the Winnipeg Jets when it moved from Atlanta in 2011?|Atlanta Thrashers|Atlanta Flames;Hartford Whalers;Phoenix Coyotes|Thrashers
+spo|4|The Atlanta Flames moved in 1980 and became which team?|Calgary Flames|Colorado Rockies;Edmonton Oilers;Dallas Stars|Flames
+spo|3|Which expansion team reached the Stanley Cup Final in its very first season, 2017–18?|Vegas Golden Knights|Seattle Kraken;Nashville Predators;Florida Panthers|Golden Knights;Vegas
+# --- Football (NFL) ---
+spo|1|What is the NFL's championship game called?|Super Bowl|Grey Cup;Rose Bowl;World Series|The Super Bowl
+spo|2|What trophy is given to the Super Bowl winner?|Vince Lombardi Trophy|Heisman Trophy;Grey Cup;George Halas Trophy|Lombardi Trophy;Lombardi
+spo|2|Which quarterback has won the most Super Bowls, with seven?|Tom Brady|Joe Montana;Patrick Mahomes;Peyton Manning|Brady
+spo|2|Tom Brady won six Super Bowls with the Patriots and one with which team?|Tampa Bay Buccaneers|Kansas City Chiefs;Miami Dolphins;Las Vegas Raiders|Buccaneers;Bucs;Tampa Bay
+spo|2|Which Chiefs quarterback won Super Bowls in the 2019, 2022 and 2023 seasons?|Patrick Mahomes|Travis Kelce;Josh Allen;Joe Burrow|Mahomes
+spo|2|Which Chiefs tight end became engaged to Taylor Swift in 2025?|Travis Kelce|Patrick Mahomes;Jason Kelce;Rob Gronkowski|Kelce
+spo|3|Which 1972 team had the NFL's only perfect season, including the Super Bowl?|Miami Dolphins|Dallas Cowboys;New England Patriots;Pittsburgh Steelers|Dolphins
+spo|3|Which team is nicknamed "America's Team"?|Dallas Cowboys|Green Bay Packers;New York Giants;Chicago Bears|Cowboys
+spo|3|Which NFL team is owned by its fans, a community of shareholders?|Green Bay Packers|Buffalo Bills;Chicago Bears;Kansas City Chiefs|Packers
+spo|3|Which 1985 NFL team recorded "The Super Bowl Shuffle"?|Chicago Bears|Miami Dolphins;San Francisco 49ers;Dallas Cowboys|Bears
+spo|3|Which 49ers quarterback won four Super Bowls in the 1980s?|Joe Montana|Steve Young;Dan Marino;John Elway|Montana
+spo|3|Which 49ers receiver holds the NFL record for career receiving yards?|Jerry Rice|Randy Moss;Terrell Owens;Larry Fitzgerald|Rice
+spo|3|Which famous catch by Dwight Clark sent the 49ers to their first Super Bowl?|The Catch|The Immaculate Reception;The Helmet Catch;Hail Mary|Catch
+spo|4|Franco Harris's 1972 deflected catch for the Steelers is known as what?|The Immaculate Reception|The Catch;The Music City Miracle;The Hail Mary|Immaculate Reception
+spo|3|Which halftime show in 2004 caused a famous "wardrobe malfunction"?|Janet Jackson and Justin Timberlake|Beyoncé and Coldplay;Madonna and Nicki Minaj;Prince and Usher
+spo|3|Which singer performed the 2025 Super Bowl halftime show?|Kendrick Lamar|Usher;Rihanna;Drake|Lamar
+spo|2|How many points is a touchdown worth (before the extra point)?|6|7;3;5|Six
+spo|2|How many points is a field goal worth?|3|2;1;4|Three
+spo|2|What is a "safety" worth in American football?|2 points|1 point;3 points;6 points|2;Two
+spo|3|Which NFL team plays home games in Buffalo and has many Canadian fans?|Buffalo Bills|Buffalo Sabres;Rochester Americans;Toronto Argonauts|Bills
+spo|3|Which NFL team plays in Green Bay, the smallest NFL market?|Packers|Bears;Vikings;Lions|Green Bay Packers
+spo|3|Which famous fans wear foam "cheeseheads"?|Green Bay Packers|Wisconsin Badgers;Chicago Bears;Minnesota Vikings|Packers
+spo|3|Which award goes to the top college football player in the US?|Heisman Trophy|Lombardi Trophy;Davey O'Brien Award;Walter Camp Award|Heisman
+# --- Basketball (NBA) ---
+spo|2|Who invented basketball in 1891?|James Naismith|Walter Camp;Abner Doubleday;George Halas|Naismith
+spo|2|James Naismith, the inventor of basketball, was born in which country?|Canada|United States;Scotland;England
+spo|3|Basketball was invented using a peach basket at a YMCA in which US state?|Massachusetts|New York;Pennsylvania;Illinois
+spo|2|Which Chicago Bulls star won six NBA titles in the 1990s?|Michael Jordan|Scottie Pippen;Dennis Rodman;Magic Johnson|Jordan;MJ
+spo|2|What number did Michael Jordan famously wear?|23|33;32;24|Twenty-three
+spo|2|Which LA Lakers star wore numbers 8 and 24, and was nicknamed "Black Mamba"?|Kobe Bryant|Shaquille O'Neal;LeBron James;Magic Johnson|Kobe;Bryant
+spo|2|Which player is the NBA's all-time leading scorer, passing Kareem Abdul-Jabbar in 2023?|LeBron James|Kevin Durant;Michael Jordan;Kobe Bryant|LeBron;James
+spo|3|Which Golden State guard is famous for long three-pointers and four NBA titles?|Stephen Curry|Klay Thompson;Kevin Durant;Draymond Green|Steph Curry;Curry
+spo|3|Which Canadian point guard won two NBA MVP awards, in 2005 and 2006?|Steve Nash|Jamal Murray;Shai Gilgeous-Alexander;Andrew Wiggins|Nash
+spo|3|Which Canadian won NBA MVP and Finals MVP with Oklahoma City in 2025?|Shai Gilgeous-Alexander|Jamal Murray;RJ Barrett;Andrew Wiggins|SGA;Gilgeous-Alexander;Shai
+spo|3|Which Canadian guard helped the Denver Nuggets win their first title in 2023?|Jamal Murray|Shai Gilgeous-Alexander;Dillon Brooks;Kelly Olynyk|Murray
+spo|3|Which rapper is the Toronto Raptors' "global ambassador" and courtside superfan?|Drake|The Weeknd;Kardinal Offishall;Tory Lanez
+spo|3|Which NBA team moved from Vancouver to Memphis in 2001?|Grizzlies|Raptors;Thunder;Hornets|Vancouver Grizzlies;Memphis Grizzlies
+spo|3|Which 1992 US Olympic basketball team featured Jordan, Magic and Bird?|The Dream Team|The Redeem Team;The Showtime Team;The All-Stars|Dream Team
+spo|3|Which 1980s Lakers era was nicknamed for its flashy, fast style?|Showtime|Bad Boys;Run TMC;Lob City
+spo|3|Which 1980s–90s Detroit Pistons team was nicknamed for its rough play?|Bad Boys|Showtime;Twin Towers;Big Three
+spo|3|Who scored 100 points in a single NBA game in 1962?|Wilt Chamberlain|Bill Russell;Kobe Bryant;Elgin Baylor|Chamberlain;Wilt
+spo|3|Which Celtics centre won 11 NBA championships as a player?|Bill Russell|Larry Bird;Kevin McHale;Robert Parish|Russell
+spo|2|How many points is a basket from behind the arc worth?|3|2;4;1|Three
+spo|3|In 2016, which team came back from 3–1 down to beat the 73-win Warriors?|Cleveland Cavaliers|Oklahoma City Thunder;San Antonio Spurs;Houston Rockets|Cavaliers;Cavs
+# --- Baseball (MLB) ---
+spo|2|Which Toronto Blue Jays player hit the walk-off home run to win the 1993 World Series?|Joe Carter|Roberto Alomar;Paul Molitor;Devon White|Carter
+spo|3|Who threw the famous "bat flip" after a home run for the Blue Jays in the 2015 playoffs?|José Bautista|Josh Donaldson;Edwin Encarnación;Troy Tulowitzki|Jose Bautista;Bautista
+spo|3|Which team ended an 86-year championship drought in 2004, breaking the "Curse of the Bambino"?|Boston Red Sox|Chicago Cubs;Cleveland Guardians;New York Mets|Red Sox
+spo|3|Which team ended a 108-year World Series drought in 2016?|Chicago Cubs|Boston Red Sox;Cleveland Indians;Chicago White Sox|Cubs
+spo|2|What was Babe Ruth's nickname, used in the "Curse of the ..."?|The Bambino|The Sultan of Swing;The Iron Horse;Mr. October|Bambino
+spo|3|Which Yankee was known as "Mr. October" for his playoff home runs?|Reggie Jackson|Derek Jeter;Mickey Mantle;Babe Ruth|Jackson
+spo|3|Which Yankees first baseman was "The Iron Horse"?|Lou Gehrig|Babe Ruth;Joe DiMaggio;Yogi Berra|Gehrig
+spo|3|Which Yankees catcher said "It ain't over till it's over"?|Yogi Berra|Mickey Mantle;Thurman Munson;Joe Torre|Berra;Yogi
+spo|3|Who broke baseball's colour barrier in 1947?|Jackie Robinson|Satchel Paige;Larry Doby;Hank Aaron|Robinson
+spo|3|Jackie Robinson played his first season in organized pro baseball for which Canadian team?|Montreal Royals|Toronto Maple Leafs;Montreal Expos;Vancouver Canadians|Royals
+spo|3|Which Japanese two-way star both pitches and hits for the Dodgers?|Shohei Ohtani|Yoshinobu Yamamoto;Ichiro Suzuki;Hideki Matsui|Ohtani
+spo|3|Which Montreal team moved to Washington in 2005 and became the Nationals?|Montreal Expos|Montreal Royals;Montreal Alouettes;Montreal Canadiens|Expos
+spo|3|What was the name of the Montreal Expos' orange furry mascot?|Youppi!|Gritty;Ace;Phillie Phanatic|Youppi
+spo|2|How many strikes make an out in baseball?|3|4;2;5|Three
+spo|2|How many players are on the field for one baseball team?|9|10;11;8|Nine
+spo|3|Who is MLB's all-time hits leader, with 4,256?|Pete Rose|Ty Cobb;Hank Aaron;Derek Jeter|Rose
+spo|4|Which pitcher from Chatham, Ontario, won the 1971 NL Cy Young Award with the Cubs?|Ferguson Jenkins|Éric Gagné;Ryan Dempster;Kirk McCaskill|Fergie Jenkins;Jenkins
+spo|3|Which Canadian outfielder won the 1997 National League MVP with the Rockies?|Larry Walker|Joey Votto;Justin Morneau;Jason Bay|Walker
+spo|3|Which Blue Jays slugger, son of a Hall of Famer, signed a big extension in 2025?|Vladimir Guerrero Jr.|Bo Bichette;George Springer;Fernando Tatís Jr.|Vladdy;Guerrero;Vladimir Guerrero
+spo|2|What is the stadium beside the CN Tower where the Blue Jays play?|Rogers Centre|SkyDome Arena;Scotiabank Arena;BMO Field|SkyDome;Rogers Center
+spo|3|What was the Rogers Centre originally called when it opened in 1989 with the first retractable roof?|SkyDome|Exhibition Stadium;Rogers Dome;Toronto Dome|Sky Dome
+# --- CFL ---
+spo|1|What is the CFL championship trophy called?|Grey Cup|Stanley Cup;Vanier Cup;Lombardi Trophy|The Grey Cup
+spo|2|How many downs does a team get in Canadian football?|3|4;2;5|Three
+spo|2|How many players are on the field per team in Canadian football?|12|11;10;13|Twelve
+spo|3|In Canadian football, what is a single point called, scored on a missed field goal or punt?|Rouge|Safety;Conversion;Touchback|A rouge;Single
+spo|3|What is the Canadian university football championship trophy?|Vanier Cup|Yates Cup;Grey Cup;Hec Crighton Trophy|Vanier
+spo|3|Which US city's team won the Grey Cup in 1995, the only American winner?|Baltimore|Memphis;San Antonio;Birmingham|Baltimore Stallions;Stallions
+spo|3|Which Edmonton CFL team changed its name to the Elks in 2021?|Edmonton Eskimos|Edmonton Oilers;Edmonton Trappers;Edmonton Wildcats|Eskimos
+spo|3|Which Ottawa CFL team joined the league in 2014?|Redblacks|Rough Riders;Renegades;Senators|Ottawa Redblacks
+spo|3|Which CFL team is famous for fans wearing watermelons on their heads?|Saskatchewan Roughriders|Winnipeg Blue Bombers;Calgary Stampeders;BC Lions|Roughriders;Riders
+spo|3|Which Calgary CFL team gives white cowboy hats to visiting dignitaries?|Stampeders|Flames;Roughnecks;Hitmen|Calgary Stampeders;Stamps
+spo|3|Which CFL team has won the most Grey Cups?|Toronto Argonauts|Edmonton Elks;Montreal Alouettes;Hamilton Tiger-Cats|Argonauts;Argos
+spo|3|Doug Flutie won his first Grey Cup in 1992 with which team?|Calgary Stampeders|Toronto Argonauts;BC Lions;Hamilton Tiger-Cats|Stampeders;Calgary
+spo|3|Which quarterback won the 1997 Grey Cup with Toronto and later starred for the Buffalo Bills?|Doug Flutie|Warren Moon;Damon Allen;Jeff Garcia|Flutie
+spo|4|Which Edmonton quarterback won five straight Grey Cups (1978–82) before an NFL Hall of Fame career?|Warren Moon|Doug Flutie;Joe Theismann;Ron Lancaster|Moon
+spo|3|What is the annual CFL game between rivals like Hamilton and Toronto on the first Monday of September?|Labour Day Classic|Thanksgiving Classic;Heritage Classic;Banjo Bowl
+spo|3|Which famous rivalry is between Edmonton and Calgary teams?|The Battle of Alberta|The Battle of the Prairies;The Rocky Mountain Derby;The Oil Bowl|Battle of Alberta

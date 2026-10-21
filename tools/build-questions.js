@@ -80,7 +80,10 @@ function add(item) {
   const ak = normalize(item.a).replace(/ /g, '');
   const toks = new Set(normalize(item.q).split(' ').filter(t => t.length > 2 && !STOP.has(t)));
   const prior = byAnswer.get(ak) || [];
+  // questions that differ only by a year or game number ("won the Cup in 1986" vs "in 1993") are different questions
+  toks.nums = (item.q.match(/\b(\d{2,4}|[IVXL]{1,6})\b/g) || []).join(',');
   for (const t of prior) {
+    if (toks.nums && t.nums && toks.nums !== t.nums) continue;
     let inter = 0; for (const x of toks) if (t.has(x)) inter++;
     const j = inter / Math.min(toks.size || 1, t.size || 1);
     if (j >= 0.6) { stats.nearDupes = (stats.nearDupes || 0) + 1; return false; }

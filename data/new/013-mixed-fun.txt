@@ -109,7 +109,6 @@ his|2|Which coin was introduced in Canada in 1987, nicknamed after a bird?|The l
 his|2|Which Canadian coin, introduced in 1996, shows a polar bear?|The toonie|The loonie;The quarter;The fifty-cent piece|Toonie;Twonie;Two-dollar coin
 his|3|In which year did Canada stop making the penny?|2012|2008;2015;2019
 his|2|Which British band's 1964 arrival in America launched "Beatlemania" there?|The Beatles|The Rolling Stones;The Who;The Animals|Beatles
-his|2|Which 1969 festival in New York was billed as "3 Days of Peace & Music"?|Woodstock|Altamont;Monterey Pop;Isle of Wight
 his|3|What sank in Lake Superior in 1975 and was immortalized in a Gordon Lightfoot song?|The Edmund Fitzgerald|The Titanic;The Carl D. Bradley;The Daniel J. Morrell|Edmund Fitzgerald;Fitzgerald
 his|2|What was the name of the space shuttle that broke apart shortly after launch in 1986?|Challenger|Columbia;Discovery;Atlantis
 his|2|Which giant ship sank in 1912 and was found on the seabed in 1985?|Titanic|Lusitania;Britannic;Empress of Ireland|RMS Titanic

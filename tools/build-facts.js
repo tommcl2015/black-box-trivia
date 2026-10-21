@@ -162,6 +162,28 @@ for (const lg of ['NHL', 'NBA', 'NFL', 'MLB', 'CFL']) {
 }
 simple('spo-terms', 'spo', S.terms, k => `The term "${k}" comes from which sport?`);
 
+/* ---------- League champions ---------- */
+{
+  const CH = F('champions.js');
+  const diff = (y, home) => Math.max(1, Math.min(5, (+y >= 2015 ? 2 : +y >= 1990 ? 3 : 4) - (home ? 1 : 0)));
+  const canadian = t => /Toronto|Montreal|Edmonton|Calgary|Vancouver|Ottawa|Winnipeg|Hamilton|Saskatchewan|BC Lions/.test(t);
+  const champs = (pack, table, q, opts = {}) => {
+    const r = rows(table).map(x => opts.map ? opts.map(x) : x);
+    const all = [...new Set(r.map(x => x.team))];
+    for (const x of r) {
+      const near = r.filter(o => Math.abs(o.year - x.year) <= 8).map(o => o.team);
+      const w = x.team.split(' '), two = w.slice(-2).join(' '), TWO = /^(Maple Leafs|Red Wings|Blue Jays|Golden Knights|Trail Blazers|Blue Bombers|Rough Riders|Red Sox|White Sox)$/;
+      const alt = w.length < 2 ? [] : TWO.test(two) ? (two !== x.team ? [two] : []) : (w[w.length - 1].length >= 4 && x.team !== 'BC Lions' ? [w[w.length - 1]] : []);
+      add(pack, 'spo', diff(x.year, opts.home && canadian(x.team)), q(x), x.team, pick(near.length >= 4 ? near : all, x.team), [...new Set(alt)]);
+    }
+  };
+  champs('spo-champions', CH.stanleyCup, x => `Which team won the Stanley Cup in ${x.year}?`, { map: ([y, t]) => ({ year: +y, team: t }), home: true });
+  champs('spo-champions', CH.greyCup, x => `Which team won the Grey Cup in ${x.year}?`, { map: ([y, t]) => ({ year: +y, team: t }), home: true });
+  champs('spo-champions', CH.nba, x => `Which team won the NBA championship in ${x.year}?`, { map: ([y, t]) => ({ year: +y, team: t }) });
+  champs('spo-champions', CH.worldSeries, x => `Which team won the World Series in ${x.year}?`, { map: ([y, t]) => ({ year: +y, team: t }), home: true });
+  champs('spo-champions', CH.superBowl, x => `Which team won Super Bowl ${x.num}, played after the ${x.year} season?`, { map: ([n, y, t]) => ({ num: n, year: +y, team: t }) });
+}
+
 /* ---------- write ---------- */
 let total = 0;
 for (const f of fs.readdirSync(OUT)) if (f.startsWith('3') && f.includes('-facts-')) fs.unlinkSync(path.join(OUT, f));

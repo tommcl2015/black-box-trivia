@@ -1,0 +1,65 @@
+# TV theme songs, catchphrases and "name the decade"
+# --- Theme songs (described, not quoted at length) ---
+ent|2|Which sitcom's theme song is "I'll Be There for You" by The Rembrandts?|Friends|Seinfeld;Mad About You;Frasier
+ent|2|Which show's theme, "Where Everybody Knows Your Name", is about a Boston bar?|Cheers|Frasier;Taxi;Wings
+ent|2|Which show's theme song tells how a teen from West Philadelphia moved in with his aunt and uncle?|The Fresh Prince of Bel-Air|Family Matters;Saved by the Bell;Moesha|Fresh Prince;The Fresh Prince
+ent|2|Which show's theme song is "Thank You for Being a Friend"?|The Golden Girls|Murder, She Wrote;Designing Women;Empty Nest|Golden Girls
+ent|3|Which 1970s show's theme, "Movin' On Up", followed a family moving to a deluxe apartment?|The Jeffersons|Good Times;Sanford and Son;All in the Family|Jeffersons
+ent|3|Which show's theme song is "Those Were the Days", sung at the piano by Archie and Edith?|All in the Family|The Honeymooners;Happy Days;Maude
+ent|2|Which show's theme begins with a "duh-nuh duh-nuh" bass line and a finger-snapping family?|The Addams Family|The Munsters;Bewitched;The Twilight Zone|Addams Family
+ent|2|Which cartoon's theme says its family lives in the town of Bedrock?|The Flintstones|The Jetsons;The Simpsons;Scooby-Doo|Flintstones
+ent|2|Which cartoon's theme introduces a family of the future with a boy named Elroy?|The Jetsons|The Flintstones;Futurama;Lost in Space|Jetsons
+ent|2|Which show opened with "Here's the story of a lovely lady who was bringing up three very lovely girls"?|The Brady Bunch|The Partridge Family;Eight Is Enough;Full House|Brady Bunch
+ent|3|Which 1980s action show's theme starts "In 1972, a crack commando unit was sent to prison..."?|The A-Team|Airwolf;Knight Rider;MacGyver|A-Team
+ent|3|Which show's intro said "One man can make a difference" about a talking car?|Knight Rider|The A-Team;Airwolf;The Dukes of Hazzard
+ent|3|What was the name of the talking car in "Knight Rider"?|KITT|KARR;Herbie;General Lee
+ent|3|What was the name of the orange car in "The Dukes of Hazzard"?|General Lee|KITT;Herbie;Eleanor
+ent|2|Which TV hospital show was set in Chicago's County General and starred George Clooney?|ER|Chicago Hope;Grey's Anatomy;St. Elsewhere
+ent|3|Which spy show's theme music features the famous lit fuse in its opening?|Mission: Impossible|Get Smart;I Spy;The Avengers|Mission Impossible
+ent|3|Which spoof spy show featured a "shoe phone" and Agent 86?|Get Smart|Mission: Impossible;The Man from U.N.C.L.E.;I Spy
+ent|3|Which show's catchphrase was "Book 'em, Danno"?|Hawaii Five-O|Dragnet;Kojak;Columbo|Hawaii Five-0
+ent|3|Which lifeguard show starring David Hasselhoff was once the world's most-watched TV series?|Baywatch|Knight Rider;Miami Vice;Beverly Hills, 90210
+ent|3|Which 1990s teen drama was named after a Beverly Hills zip code?|Beverly Hills, 90210|Melrose Place;The O.C.;Saved by the Bell|90210
+ent|3|Which Canadian teen drama followed students at a Toronto school, later starring Drake as Jimmy?|Degrassi: The Next Generation|Edgemont;Instant Star;Ready or Not|Degrassi
+# --- Catchphrases ---
+ent|2|Which cartoon character says "What's up, Doc?"|Bugs Bunny|Daffy Duck;Porky Pig;Elmer Fudd|Bugs
+ent|2|Which Looney Tunes character ends cartoons with "That's all, folks!"?|Porky Pig|Bugs Bunny;Daffy Duck;Tweety|Porky
+ent|2|Which cartoon dog says "Ruh-roh!"?|Scooby-Doo|Astro;Snoopy;Muttley|Scooby
+ent|2|Which Simpsons character says "Eat my shorts!"?|Bart Simpson|Homer Simpson;Nelson Muntz;Milhouse|Bart
+ent|2|Which Simpsons neighbour says "Hi-diddly-ho, neighbourino!"?|Ned Flanders|Moe Szyslak;Mr. Burns;Apu|Flanders;Ned
+ent|2|Which "Happy Days" character's catchphrase was "Ayyy!"?|The Fonz|Richie Cunningham;Potsie;Ralph Malph|Fonzie;Fonz;Arthur Fonzarelli
+ent|2|Which "Friends" character's pickup line was "How you doin'?"|Joey Tribbiani|Chandler Bing;Ross Geller;Monica Geller|Joey
+ent|2|Which "Diff'rent Strokes" character asked "Whatchu talkin' 'bout, Willis?"|Arnold|Willis;Mr. Drummond;Kimberly|Arnold Jackson
+ent|3|Which "Family Matters" nerd asked "Did I do that?"|Steve Urkel|Carl Winslow;Eddie Winslow;Myra|Urkel
+ent|2|Which "Seinfeld" catchphrase dismisses something with a shrug?|"Yada, yada, yada"|"How you doin'?";"D'oh!";"Cowabunga!"|Yada yada yada;Yada yada
+ent|2|On which game show are contestants called up with "Come on down!"?|The Price Is Right|Family Feud;Let's Make a Deal;Wheel of Fortune|Price Is Right
+ent|2|On which game show does the host say "Survey says!"?|Family Feud|The Price Is Right;Jeopardy!;Match Game
+ent|2|Which reality show's host says "You're fired!"?|The Apprentice|Dragons' Den;Shark Tank;Survivor|Apprentice
+ent|3|Which Canadian show has investors called "Dragons" hear business pitches?|Dragons' Den|Shark Tank;The Apprentice;Million Dollar Listing|Dragons Den
+ent|2|Which talk show host signed off with "Be kind to one another"?|Ellen DeGeneres|Oprah Winfrey;Kelly Ripa;Rosie O'Donnell|Ellen
+ent|2|Which "Star Trek" captain's catchphrase is "Make it so"?|Jean-Luc Picard|James T. Kirk;Kathryn Janeway;Benjamin Sisko|Picard
+ent|2|Which "Star Trek" device is used with "Beam me up"?|Transporter|Holodeck;Replicator;Warp drive|The transporter
+ent|2|Which superhero shouts "Shazam!" to transform? Name the boy who becomes him.|Billy Batson|Peter Parker;Bruce Wayne;Clark Kent|Batson
+ent|2|"Cowabunga, dude!" is the catchphrase of which heroes?|Teenage Mutant Ninja Turtles|Power Rangers;Thundercats;He-Man and the Masters of the Universe|Ninja Turtles;TMNT
+ent|2|Which 1980s hero shouted "I have the power!"?|He-Man|She-Ra;Lion-O;Optimus Prime
+ent|2|Which "Terminator 2" line became a famous goodbye?|"Hasta la vista, baby"|"I'll be back";"Get to the chopper!";"Yippee-ki-yay"|Hasta la vista baby;Hasta la vista
+ent|3|Which Bruce Willis action film's hero says "Yippee-ki-yay"?|Die Hard|Lethal Weapon;Speed;The Fifth Element
+ent|3|Which Canadian TV duo said "Take off, eh!" and "beauty, eh"?|Bob and Doug McKenzie|Wayne and Shuster;The Kids in the Hall;Trailer Park Boys|McKenzie Brothers;Bob and Doug
+ent|3|Which Canadian comedy troupe had a "Head Crusher" sketch?|The Kids in the Hall|Codco;SCTV;Royal Canadian Air Farce|Kids in the Hall
+# --- Name the decade ---
+ent|2|Disco, "Saturday Night Fever" and the Bee Gees ruled the dance floor in which decade?|1970s|1960s;1980s;1990s|70s;Seventies
+ent|2|Leg warmers, Rubik's Cubes and Cabbage Patch Kids belong to which decade?|1980s|1970s;1990s;2000s|80s;Eighties
+ent|2|Grunge, "Friends" and the Spice Girls all belong to which decade?|1990s|1980s;2000s;1970s|90s;Nineties
+ent|2|Flip phones, "American Idol" and the first iPod belong to which decade?|2000s|1990s;2010s;1980s|Two-thousands;Noughties
+ent|2|Beatlemania, the Moon landing and Woodstock belong to which decade?|1960s|1950s;1970s;1980s|60s;Sixties
+ent|2|Fidget spinners, "Gangnam Style" and the ice bucket challenge belong to which decade?|2010s|2000s;2020s;1990s|Twenty-tens
+ent|3|Pet rocks, mood rings and CB radios were fads in which decade?|1970s|1960s;1980s;1990s|70s;Seventies
+ent|3|Pogs, Tamagotchis and Beanie Babies were crazes in which decade?|1990s|1980s;2000s;1970s|90s;Nineties
+ent|3|Atari 2600s, Pac-Man arcades and E.T. on the big screen belong to which decade?|1980s|1970s;1990s;1960s|80s;Eighties
+ent|3|Napster, Y2K panic and "Who Wants to Be a Millionaire?" mark the end of which decade?|1990s|1980s;2000s;2010s|90s;Nineties
+ent|3|MySpace, the Razr phone and "High School Musical" were huge in which decade?|2000s|1990s;2010s;1980s|Noughties
+ent|3|Lava lamps, go-go boots and "The Ed Sullivan Show" Beatles debut belong to which decade?|1960s|1950s;1970s;1980s|60s;Sixties
+ent|3|Big hair, "Dallas" and Michael Jackson's "Thriller" video belong to which decade?|1980s|1970s;1990s;1960s|80s;Eighties
+ent|3|Zoom calls, banana bread baking and TikTok dances defined the start of which decade?|2020s|2010s;2000s;1990s|20s;Twenty-twenties
+ent|3|8-track tapes, bell-bottoms and "Star Wars" in theatres belong to which decade?|1970s|1960s;1980s;1990s|70s;Seventies
+ent|3|Blockbuster Video Friday nights, Furbies and "Titanic" belong to which decade?|1990s|1980s;2000s;1970s|90s;Nineties
