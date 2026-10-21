@@ -1,0 +1,149 @@
+# Pop culture 1965–2025 — TV, movies, music and famous moments everyone knows
+# --- TV ---
+ent|1|What is the name of the coffee shop where the "Friends" gang hangs out?|Central Perk|Monk's Café;The Peach Pit;Luke's Diner|Central Perk Café
+ent|2|In "Friends", what is the name of Ross's pet monkey?|Marcel|Bubbles;George;Abu
+ent|2|In "Seinfeld", what is the name of Jerry's neighbour across the hall?|Kramer|Newman;George;Puddy|Cosmo Kramer
+ent|2|Which "Seinfeld" character is famous for shouting "No soup for you!"?|The Soup Nazi|Newman;Kramer;George's father|Soup Nazi
+ent|1|In "The Simpsons", what is Homer's favourite catchphrase when something goes wrong?|D'oh!|Ay caramba!;Eat my shorts!;Excellent!|Doh
+ent|2|What is the name of the bar in "The Simpsons"?|Moe's Tavern|Cheers;Paddy's Pub;MacLaren's|Moe's
+ent|2|In which fictional town do "The Simpsons" live?|Springfield|Shelbyville;Quahog;South Park
+ent|2|In "Cheers", where everybody knows your name, which city is the bar in?|Boston|Chicago;New York;Philadelphia
+ent|2|Which TV show was about a group of doctors at the 4077th Mobile Army Surgical Hospital?|M*A*S*H|ER;Trapper John, M.D.;China Beach|MASH
+ent|2|The final episode of which show was the most-watched US TV broadcast for decades after 1983?|M*A*S*H|Cheers;Seinfeld;Dallas|MASH
+ent|3|"Who shot J.R.?" was the famous 1980 cliffhanger from which show?|Dallas|Dynasty;Knots Landing;Falcon Crest
+ent|2|What is the name of the coffee-loving FBI agent in "Twin Peaks"?|Dale Cooper|Fox Mulder;Jack Bauer;Dana Scully|Agent Cooper;Cooper
+ent|2|In "The X-Files", what are the names of the two FBI agents?|Mulder and Scully|Starsky and Hutch;Cagney and Lacey;Crockett and Tubbs|Scully and Mulder
+ent|2|Which TV detective drove a red Ferrari and lived in Hawaii?|Magnum, P.I.|Columbo;Jim Rockford;Sonny Crockett|Magnum;Thomas Magnum
+ent|3|Which rumpled TV detective always asked "just one more thing"?|Columbo|Kojak;Rockford;Ironside
+ent|2|Which TV show featured Fonzie, who could start a jukebox with a punch?|Happy Days|Laverne & Shirley;Grease;The Wonder Years
+ent|2|What was the name of the family in "The Brady Bunch"?|Brady|Partridge;Keaton;Cunningham|The Bradys
+ent|2|Which 1980s sitcom starred Michael J. Fox as Alex P. Keaton?|Family Ties|Growing Pains;Who's the Boss?;Spin City
+ent|2|What was the name of the alien from Melmac who lived with the Tanner family?|ALF|Mork;E.T.;Uncle Martin
+ent|2|Which alien greeted people with "Nanu nanu"?|Mork|ALF;Spock;Dick Solomon
+ent|2|Which comedian starred in "Mork & Mindy" as the alien Mork?|Robin Williams|Steve Martin;Billy Crystal;Jim Carrey|Williams
+ent|2|In "Star Trek", what is the name of Captain Kirk's half-Vulcan first officer?|Spock|Sulu;Data;Worf|Mr. Spock
+ent|2|What is the name of the starship in the original "Star Trek"?|USS Enterprise|USS Voyager;Millennium Falcon;Serenity|Enterprise
+ent|2|Which show's theme song begins "Come and listen to a story about a man named Jed"?|The Beverly Hillbillies|Green Acres;Petticoat Junction;The Andy Griffith Show|Beverly Hillbillies
+ent|3|In "Gilligan's Island", what was the name of the boat that got shipwrecked?|S.S. Minnow|S.S. Guppy;The Love Boat;The Skipper|Minnow
+ent|2|Which TV show is set in the Dunder Mifflin paper company's Scranton branch?|The Office|Parks and Recreation;30 Rock;Superstore|Office
+ent|2|In "The Office" (US), who is the regional manager played by Steve Carell?|Michael Scott|Dwight Schrute;Jim Halpert;Andy Bernard
+ent|2|In "Breaking Bad", what is the street name used by chemistry teacher Walter White?|Heisenberg|Pinkman;Gus;Saul|Heisenberg
+ent|2|Which HBO show is set in the lands of Westeros?|Game of Thrones|The Witcher;Rome;Vikings|Thrones
+ent|2|In "Game of Thrones", what is the motto of House Stark?|Winter is coming|Fire and blood;Hear me roar;Ours is the fury
+ent|2|Which TV show features the Upside Down and a girl named Eleven?|Stranger Things|Dark;The OA;Wednesday
+ent|2|Which New Jersey mob boss saw a psychiatrist in a hit HBO series?|Tony Soprano|Vito Corleone;Nucky Thompson;Paulie Walnuts|Soprano;Tony
+ent|3|Which show about an advertising agency in the 1960s starred Jon Hamm as Don Draper?|Mad Men|Suits;Boardwalk Empire;The Crown
+ent|2|Which British series follows Queen Elizabeth II's reign?|The Crown|Downton Abbey;Victoria;The Royals
+ent|2|Which Canadian sitcom is set in a small Saskatchewan town with a gas station called Dog River?|Corner Gas|Schitt's Creek;Letterkenny;Trailer Park Boys
+ent|2|Which Canadian show about a rich family that loses everything swept the Emmys in 2020?|Schitt's Creek|Kim's Convenience;Corner Gas;Letterkenny
+ent|3|Which Canadian kids' TV show featured the Friendly Giant and his friends Rusty and Jerome?|The Friendly Giant|Mr. Dressup;Sesame Park;Fraggle Rock|Friendly Giant
+ent|3|Which CBC children's host had a Tickle Trunk?|Mr. Dressup|Mr. Rogers;The Friendly Giant;Bob Homme
+ent|2|Which Muppets show took place in a world of underground creatures called Fraggles?|Fraggle Rock|The Muppet Show;Sesame Street;The Dark Crystal
+ent|2|On "Sesame Street", which monster lives in a trash can?|Oscar the Grouch|Cookie Monster;Grover;Elmo|Oscar
+ent|1|Which "Sesame Street" character is famous for eating cookies?|Cookie Monster|Elmo;Grover;Big Bird
+ent|2|Which talk show host gave away cars to her whole audience in 2004?|Oprah Winfrey|Ellen DeGeneres;Rosie O'Donnell;Martha Stewart|Oprah
+ent|2|Who hosted "The Tonight Show" for 30 years, until 1992?|Johnny Carson|Jay Leno;David Letterman;Jack Paar|Carson
+ent|3|Which game show host told viewers to "help control the pet population" by spaying and neutering?|Bob Barker|Alex Trebek;Pat Sajak;Monty Hall|Barker
+ent|2|Which Canadian hosted "Jeopardy!" for 37 seasons?|Alex Trebek|Pat Sajak;Bob Barker;Howie Mandel|Trebek
+ent|2|On "Jeopardy!", contestants must give their answers in what form?|A question|A rhyme;A single word;A number
+ent|2|On "Wheel of Fortune", who turned the letters for decades alongside Pat Sajak?|Vanna White|Kathie Lee Gifford;Dian Parkinson;Rachel Reynolds|Vanna
+ent|3|Which game show asked contestants "Is that your final answer?"|Who Wants to Be a Millionaire?|The Price Is Right;Deal or No Deal;Family Feud|Millionaire
+ent|2|Which reality show has contestants voted off an island, with "The tribe has spoken"?|Survivor|Big Brother;The Amazing Race;Lost
+ent|2|Which 2004 TV drama was about survivors of Oceanic Flight 815?|Lost|Manifest;Survivor;The Leftovers
+# --- Movies ---
+ent|1|In "Star Wars", who is Luke Skywalker's father?|Darth Vader|Obi-Wan Kenobi;Emperor Palpatine;Han Solo|Anakin Skywalker;Vader;Anakin
+ent|2|What is the name of Han Solo's ship?|Millennium Falcon|X-Wing;Slave I;Star Destroyer|Falcon
+ent|2|Which small green Jedi master said "Do. Or do not. There is no try"?|Yoda|Grogu;Mace Windu;Qui-Gon Jinn
+ent|1|What is the name of the shark movie that made people afraid to go in the water in 1975?|Jaws|Deep Blue Sea;The Meg;Orca
+ent|2|In "E.T.", what candy does Elliott use to lure E.T.?|Reese's Pieces|M&M's;Smarties;Jelly beans|Reese's
+ent|2|What speed does the DeLorean need to reach to time travel in "Back to the Future"?|88 mph|55 mph;100 mph;121 mph|88;88 miles per hour
+ent|2|Who played Marty McFly in "Back to the Future"?|Michael J. Fox|Matthew Broderick;Tom Cruise;Emilio Estevez|Fox
+ent|2|"Back to the Future" star Michael J. Fox grew up in which country?|Canada|United States;England;Australia
+ent|2|Which 1986 film had the line "I feel the need... the need for speed!"?|Top Gun|Days of Thunder;Iron Eagle;Firefox
+ent|2|In "The Terminator", which actor says "I'll be back"?|Arnold Schwarzenegger|Sylvester Stallone;Bruce Willis;Jean-Claude Van Damme|Schwarzenegger;Arnold
+ent|2|"Say hello to my little friend!" is from which 1983 film?|Scarface|The Godfather;Goodfellas;Carlito's Way
+ent|2|"You're gonna need a bigger boat" is a line from which movie?|Jaws|Titanic;The Perfect Storm;Waterworld
+ent|2|"Life is like a box of chocolates" is a line from which film?|Forrest Gump|Big;Rain Man;Cast Away
+ent|2|In "Titanic", what is the name of the blue diamond necklace?|Heart of the Ocean|Star of India;Hope Diamond;Blue Moon
+ent|2|Who played Jack Dawson in "Titanic"?|Leonardo DiCaprio|Matt Damon;Brad Pitt;Johnny Depp|DiCaprio
+ent|2|In "Home Alone", which city do the McCallisters fly to, leaving Kevin behind?|Paris|London;Rome;New York
+ent|2|In "Home Alone 2", which city does Kevin end up in?|New York City|Miami;Chicago;Los Angeles|New York;NYC
+ent|2|Who directed "Jurassic Park", "E.T." and "Jaws"?|Steven Spielberg|George Lucas;James Cameron;Ron Howard|Spielberg
+ent|2|In "Ghostbusters", what giant marshmallow creature attacks New York?|The Stay Puft Marshmallow Man|Slimer;The Michelin Man;Zuul|Stay Puft;Marshmallow Man;Stay Puft Man
+ent|3|Which 1984 film features a karate teacher who says "wax on, wax off"?|The Karate Kid|Bloodsport;Kickboxer;Best of the Best|Karate Kid
+ent|2|In "The Princess Bride", what does Westley always say to Buttercup?|"As you wish"|"I love you";"Inconceivable!";"Have fun storming the castle"|As you wish
+ent|2|Which 1980s movie featured Ferris skipping school in Chicago?|Ferris Bueller's Day Off|The Breakfast Club;Sixteen Candles;Weird Science|Ferris Bueller
+ent|2|In "The Breakfast Club", the students spend Saturday where?|Detention|Summer camp;A mall;A school dance
+ent|2|In "Dirty Dancing", what line does Johnny say about Baby?|"Nobody puts Baby in a corner"|"Here's looking at you, kid";"You had me at hello";"I'll have what she's having"|Nobody puts Baby in a corner
+ent|3|"You had me at hello" is from which Tom Cruise film?|Jerry Maguire|Top Gun;Cocktail;A Few Good Men
+ent|3|"You can't handle the truth!" was shouted by Jack Nicholson in which film?|A Few Good Men|The Shining;Batman;As Good as It Gets
+ent|2|"Here's Johnny!" is a famous line from which horror film?|The Shining|Halloween;Psycho;The Exorcist
+ent|2|What is the name of the haunted hotel in "The Shining"?|The Overlook Hotel|The Bates Motel;The Stanley Hotel;The Grand Budapest|Overlook;The Overlook
+ent|2|Which movie features the line "I see dead people"?|The Sixth Sense|The Others;Ghost;Poltergeist|Sixth Sense
+ent|2|Which film's tagline was "In space no one can hear you scream"?|Alien|Gravity;Event Horizon;The Thing
+ent|2|In "The Matrix", which pill does Neo take to learn the truth?|The red pill|The blue pill;The green pill;The white pill|Red
+ent|2|Which actor played Neo in "The Matrix" and also John Wick?|Keanu Reeves|Hugo Weaving;Laurence Fishburne;Brad Pitt|Reeves;Keanu
+ent|3|Keanu Reeves grew up in which Canadian city?|Toronto|Vancouver;Montreal;Calgary
+ent|2|"Rocky" climbs the steps of which city's art museum?|Philadelphia|Boston;New York;Pittsburgh
+ent|2|In "Rocky", what is the name of Rocky's girlfriend?|Adrian|Apollo;Paulie;Mickey
+ent|2|What is the name of the hobbit who carries the One Ring in "The Lord of the Rings"?|Frodo Baggins|Bilbo Baggins;Samwise Gamgee;Peregrin Took|Frodo
+ent|2|Who says "My precious" in "The Lord of the Rings"?|Gollum|Sauron;Saruman;Bilbo|Smeagol;Sméagol
+ent|2|What is the name of Harry Potter's school?|Hogwarts|Durmstrang;Beauxbatons;Ilvermorny|Hogwarts School of Witchcraft and Wizardry
+ent|2|In "Harry Potter", what is the name of the sport played on broomsticks?|Quidditch|Quaffle;Bludger;Snitchball
+ent|1|In "Frozen", what is the name of the snowman?|Olaf|Sven;Kristoff;Hans
+ent|2|In "The Lion King", what is the name of Simba's evil uncle?|Scar|Mufasa;Rafiki;Zazu
+ent|2|What phrase from "The Lion King" means "no worries"?|Hakuna matata|Asante sana;Jambo;Simba ya
+ent|2|In "Finding Nemo", what kind of fish is Dory?|Blue tang|Clownfish;Angelfish;Pufferfish|Regal tang;Tang
+ent|2|What is the name of the space ranger toy in "Toy Story"?|Buzz Lightyear|Woody;Zurg;Rex|Buzz
+ent|2|In "Shrek", which animal is Shrek's talkative sidekick?|A donkey|A cat;A dragon;A mule|Donkey
+ent|2|Which Marvel hero is Tony Stark?|Iron Man|Captain America;Thor;Spider-Man
+ent|2|In "Avengers: Endgame", what does Tony Stark say before snapping his fingers?|"I am Iron Man"|"Avengers assemble";"I love you 3000";"We have a Hulk"|I am Iron Man
+ent|2|Who played Barbie in the 2023 movie "Barbie"?|Margot Robbie|Emma Stone;Anya Taylor-Joy;Florence Pugh|Robbie
+ent|2|Who played Ken in the 2023 movie "Barbie"?|Ryan Gosling|Ryan Reynolds;Chris Pine;Simu Liu|Gosling
+ent|2|Which two Canadian actors, both named Ryan, starred in "Barbie" and "Deadpool"?|Ryan Gosling and Ryan Reynolds|Ryan Gosling and Ryan Phillippe;Ryan Reynolds and Ryan Seacrest;Ryan Gosling and Ryan O'Neal
+ent|3|Which Canadian comedian starred in "The Mask", "Ace Ventura" and "Dumb and Dumber"?|Jim Carrey|Mike Myers;Martin Short;Dan Aykroyd|Carrey
+ent|3|Which Canadian comedian created and played Austin Powers and voiced Shrek?|Mike Myers|Jim Carrey;Seth Rogen;Eugene Levy|Myers
+ent|3|Which "Wayne's World" catchphrase means you don't really mean what you just said?|"Not!"|"Excellent!";"Party on!";"Schwing!"|Not
+ent|2|Which 1990s movie features Bill Murray living the same day over and over?|Groundhog Day|Groundhog Night;Caddyshack;Scrooged
+ent|3|In "Groundhog Day", what is the name of the groundhog?|Punxsutawney Phil|Wiarton Willie;Shubenacadie Sam;Chuck|Phil
+ent|3|What is the name of Canada's most famous weather-predicting groundhog, from Ontario?|Wiarton Willie|Punxsutawney Phil;Shubenacadie Sam;Balzac Billy|Willie
+# --- Music ---
+ent|1|Which Liverpool band was known as the "Fab Four"?|The Beatles|The Rolling Stones;The Who;The Kinks|Beatles
+ent|2|Which 1969 music festival drew around 400,000 people to a New York farm?|Woodstock|Monterey Pop;Altamont;Lollapalooza
+ent|2|Who sang "Thriller" and moonwalked across the stage?|Michael Jackson|Prince;Usher;Lionel Richie|Jackson
+ent|2|"Thriller" is the best-selling album of all time. In which year was it released?|1982|1979;1985;1987
+ent|2|Which singer is known as the "Queen of Pop"?|Madonna|Cher;Whitney Houston;Lady Gaga
+ent|2|Which singer's fans are called "Swifties"?|Taylor Swift|Selena Gomez;Katy Perry;Ariana Grande|Swift;Taylor
+ent|2|What was the name of Taylor Swift's record-breaking 2023–2024 concert tour?|The Eras Tour|The Reputation Tour;The Lover Tour;The 1989 Tour|Eras Tour;Eras
+ent|2|Which Queen song begins "Is this the real life? Is this just fantasy?"|Bohemian Rhapsody|We Are the Champions;Somebody to Love;Don't Stop Me Now
+ent|2|Who was the lead singer of Queen?|Freddie Mercury|Brian May;Roger Daltrey;Robert Plant|Mercury
+ent|2|Which Swedish pop group won Eurovision in 1974 with "Waterloo"?|ABBA|Roxette;Ace of Base;Europe
+ent|2|Which band sang "Stairway to Heaven"?|Led Zeppelin|Pink Floyd;The Doors;Deep Purple|Zeppelin
+ent|2|Which Pink Floyd album has a prism on its cover?|The Dark Side of the Moon|The Wall;Wish You Were Here;Animals|Dark Side of the Moon
+ent|2|Which singer is known as "The Boss"?|Bruce Springsteen|Bob Dylan;Tom Petty;Billy Joel|Springsteen
+ent|2|Which song by Bryan Adams is about a memorable summer?|Summer of '69|Run to You;Heaven;Cuts Like a Knife|Summer of 69
+ent|2|Which Canadian singer recorded "My Heart Will Go On"?|Celine Dion|Shania Twain;Alanis Morissette;Avril Lavigne|Dion;Céline Dion
+ent|2|Which Canadian country-pop star sang "Man! I Feel Like a Woman!"?|Shania Twain|Faith Hill;Celine Dion;Carrie Underwood|Twain
+ent|2|Which Canadian singer was discovered on YouTube and released "Baby"?|Justin Bieber|Shawn Mendes;The Weeknd;Drake|Bieber
+ent|2|Which Toronto rapper is nicknamed "Drizzy" and calls the city "The 6"?|Drake|The Weeknd;Tory Lanez;Nav
+ent|2|Which Toronto singer had a hit with "Blinding Lights"?|The Weeknd|Drake;Shawn Mendes;Daniel Caesar|Weeknd
+ent|3|Which Canadian band from Kingston, Ontario, sang "Ahead by a Century"?|The Tragically Hip|Barenaked Ladies;Our Lady Peace;Blue Rodeo|Tragically Hip;The Hip
+ent|3|Which Canadian band sang "If I Had $1000000"?|Barenaked Ladies|The Tragically Hip;Great Big Sea;Sloan|BNL;Barenaked
+ent|3|Which Canadian singer released the 1995 album "Jagged Little Pill"?|Alanis Morissette|Avril Lavigne;Sarah McLachlan;k.d. lang|Alanis
+ent|2|Which song by Gotye was a worldwide hit in 2011?|Somebody That I Used to Know|Call Me Maybe;Pumped Up Kicks;Royals
+ent|2|Which Canadian singer had a 2012 hit with "Call Me Maybe"?|Carly Rae Jepsen|Avril Lavigne;Nelly Furtado;Tegan and Sara|Jepsen
+ent|2|Which song by Pharrell Williams starts "It might seem crazy what I'm 'bout to say"?|Happy|Get Lucky;Blurred Lines;Freedom
+ent|2|Which Korean song's video was the first on YouTube to hit one billion views?|Gangnam Style|Dynamite;Gentleman;Butter
+ent|2|Which South Korean boy band had hits with "Dynamite" and "Butter"?|BTS|EXO;Big Bang;Stray Kids
+ent|2|Which singer wore a dress made of meat to the 2010 MTV awards?|Lady Gaga|Katy Perry;Madonna;Rihanna|Gaga
+ent|3|Which band's 1991 hit "Smells Like Teen Spirit" kicked off the grunge era?|Nirvana|Pearl Jam;Soundgarden;Alice in Chains
+ent|2|Which Spanish duo had a worldwide dance hit with "Macarena" in 1996?|Los del Río|Gipsy Kings;Los Lobos;Las Ketchup|Los del Rio
+ent|3|Which Spice Girl was known as "Posh Spice"?|Victoria Beckham|Geri Halliwell;Emma Bunton;Mel B|Victoria Adams;Victoria
+ent|2|Which Disney Channel movie had the song "We're All in This Together"?|High School Musical|Camp Rock;Hannah Montana: The Movie;Descendants
+ent|2|Which TV singing competition made Kelly Clarkson its first winner?|American Idol|The Voice;The X Factor;America's Got Talent
+ent|3|Who was the famously blunt British judge on "American Idol"?|Simon Cowell|Piers Morgan;Gordon Ramsay;Randy Jackson|Cowell
+ent|2|What did Elvis Presley's fans call his Memphis mansion?|Graceland|Neverland;Paisley Park;Sun Studio
+ent|3|Which Michael Jackson ranch had a zoo and amusement park?|Neverland Ranch|Graceland;Paisley Park;Skywalker Ranch|Neverland
+ent|2|"Live Aid" in 1985 raised money for famine relief in which country?|Ethiopia|Sudan;Somalia;Kenya
+ent|3|Which 1984 charity single was organised by Bob Geldof?|Do They Know It's Christmas?|We Are the World;Tears Are Not Enough;Heal the World
+ent|3|Which 1985 Canadian charity single for famine relief featured Gordon Lightfoot, Anne Murray and others?|Tears Are Not Enough|We Are the World;Wavin' Flag;Do They Know It's Christmas?

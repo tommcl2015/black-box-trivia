@@ -43,6 +43,22 @@ function add(pack, c, d, q, a, wrong, alt) {
   }
 }
 
+/* ---------- Oscar acting winners ---------- */
+{
+  const O = F('oscars.js');
+  for (const [key, role] of [['bestActor', 'Best Actor'], ['bestActress', 'Best Actress']]) {
+    const r = rows(O[key]);
+    const people = [...new Set(r.map(x => x[1]))], films = r.map(x => x[2]);
+    const yr = p => r.filter(x => x[1] === p).map(x => +x[0]);
+    for (const [y, who, film, d] of r) {
+      const near = p => p !== who && yr(p).some(z => Math.abs(z - y) <= 10);
+      add('ent-oscars-acting', 'ent', +d, `Who won the Oscar for ${role} for "${film}" (${y})?`, who, pick(people, who, 3, near));
+      if (+d <= 3) add('ent-oscars-acting', 'ent', Math.min(5, +d + 1), `${who} won the ${role} Oscar for which film (${y})?`, film,
+        pick(films.filter(f => !r.some(x => x[1] === who && x[2] === f)), film, 3, f => Math.abs(r.find(x => x[2] === f)[0] - y) <= 8));
+    }
+  }
+}
+
 /* ---------- Olympics / World Cup ---------- */
 {
   const s = rows(H.summerOlympics), w = rows(H.winterOlympics);

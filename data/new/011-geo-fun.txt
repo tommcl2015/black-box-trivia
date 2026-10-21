@@ -1,0 +1,119 @@
+# Fun geography — quirks, records, landmarks and "who knew?"
+geo|1|What is the largest ocean on Earth?|Pacific Ocean|Atlantic Ocean;Indian Ocean;Arctic Ocean|Pacific
+geo|1|What is the largest country in the world by area?|Russia|Canada;China;United States
+geo|2|Which country is second largest in the world by area?|Canada|United States;China;Brazil
+geo|1|What is the smallest country in the world?|Vatican City|Monaco;San Marino;Liechtenstein|Vatican;Holy See
+geo|2|Which country has the longest coastline in the world?|Canada|Russia;Australia;Norway
+geo|1|On which continent is the Sahara Desert?|Africa|Asia;Australia;South America
+geo|2|What is the largest hot desert in the world?|Sahara|Gobi;Kalahari;Arabian|Sahara Desert
+geo|3|Technically, what is the largest desert in the world, counting cold deserts?|Antarctica|Sahara;Arctic;Gobi|Antarctic
+geo|1|What is the tallest mountain above sea level?|Mount Everest|K2;Kangchenjunga;Denali|Everest
+geo|2|Mount Everest sits on the border of Nepal and which other country (or region)?|China (Tibet)|India;Bhutan;Pakistan|China;Tibet
+geo|3|What is the second-highest mountain in the world?|K2|Kangchenjunga;Lhotse;Makalu
+geo|2|What is the longest river in South America?|Amazon|Paraná;Orinoco;Magdalena|Amazon River
+geo|2|The Nile and which other river compete for the title of world's longest?|Amazon|Mississippi;Yangtze;Congo
+geo|1|What is the capital of Australia?|Canberra|Sydney;Melbourne;Perth
+geo|2|What is the capital of Canada?|Ottawa|Toronto;Montreal;Vancouver
+geo|2|Which US state is made up entirely of islands?|Hawaii|Alaska;Florida;Rhode Island
+geo|2|Which is the largest US state by area?|Alaska|Texas;California;Montana
+geo|2|Which is the largest Canadian province by area?|Quebec|Ontario;British Columbia;Alberta
+geo|2|What is Canada's largest territory by area?|Nunavut|Northwest Territories;Yukon;Labrador
+geo|2|Which Canadian province is the smallest by area?|Prince Edward Island|Nova Scotia;New Brunswick;Newfoundland and Labrador|PEI;P.E.I.
+geo|2|What are the five Great Lakes?|Superior, Michigan, Huron, Erie and Ontario|Superior, Michigan, Huron, Erie and Champlain;Superior, Winnipeg, Huron, Erie and Ontario;Superior, Michigan, Huron, Ontario and Great Bear
+geo|2|Which Great Lake is the only one entirely within the United States?|Lake Michigan|Lake Erie;Lake Superior;Lake Huron|Michigan
+geo|2|Which is the largest of the Great Lakes?|Lake Superior|Lake Michigan;Lake Huron;Lake Ontario|Superior
+geo|3|What is the shallowest of the Great Lakes?|Lake Erie|Lake Ontario;Lake Huron;Lake Michigan|Erie
+geo|1|Niagara Falls sits on the border between Ontario and which US state?|New York|Michigan;Ohio;Pennsylvania
+geo|2|What is the world's largest waterfall system by width, on the Brazil–Argentina border?|Iguazu Falls|Angel Falls;Victoria Falls;Niagara Falls|Iguazu;Iguaçu
+geo|3|What is the world's tallest uninterrupted waterfall, found in Venezuela?|Angel Falls|Iguazu Falls;Kaieteur Falls;Victoria Falls|Angel
+geo|2|Victoria Falls sits on the border of Zambia and which country?|Zimbabwe|Botswana;Mozambique;Malawi
+geo|2|What is the deepest lake in the world, found in Siberia?|Lake Baikal|Lake Tanganyika;Caspian Sea;Lake Superior|Baikal
+geo|3|What is the largest lake in the world by area?|Caspian Sea|Lake Superior;Lake Victoria;Lake Baikal|Caspian
+geo|2|What is the lowest point on land, on the shores of a very salty lake?|Dead Sea|Death Valley;Lake Assal;Caspian Sea
+geo|2|In which US state is Death Valley?|California|Nevada;Arizona;Utah
+geo|2|What is the deepest point in the world's oceans?|Mariana Trench|Puerto Rico Trench;Java Trench;Tonga Trench|Challenger Deep;Marianas Trench
+geo|2|What is the largest island in the world (not counting Australia)?|Greenland|New Guinea;Borneo;Baffin Island
+geo|3|Greenland is an autonomous territory of which country?|Denmark|Norway;Iceland;Canada
+geo|3|What is Canada's largest island?|Baffin Island|Victoria Island;Vancouver Island;Newfoundland|Baffin
+geo|2|Which country has the most islands, with over 200,000?|Sweden|Indonesia;Philippines;Canada
+geo|2|Which country is known as the "Land of the Rising Sun"?|Japan|China;South Korea;Thailand
+geo|2|Which country is shaped like a boot?|Italy|Greece;Portugal;Chile
+geo|3|Which is the longest, narrowest country in the world, running down South America's west coast?|Chile|Peru;Argentina;Ecuador
+geo|2|Which two countries share the world's longest international border?|Canada and the United States|Russia and China;Russia and Kazakhstan;Argentina and Chile|USA and Canada;Canada and USA
+geo|3|Which country is completely surrounded by South Africa?|Lesotho|Eswatini;Botswana;Namibia
+geo|2|Which famous city straddles Europe and Asia across the Bosphorus?|Istanbul|Cairo;Moscow;Athens
+geo|3|Which country has the most time zones, counting its overseas territories?|France|Russia;United States;China
+geo|3|China spans five geographic time zones, but how many official time zones does it use?|One|Two;Three;Five|1
+geo|2|Which country has the most people?|India|China;United States;Indonesia
+geo|2|Which city is known as "The Big Apple"?|New York City|Chicago;Los Angeles;Boston|New York;NYC
+geo|2|Which city is nicknamed "The Windy City"?|Chicago|Boston;Wellington;Toronto
+geo|3|Which Canadian city is nicknamed "Cowtown"?|Calgary|Edmonton;Regina;Red Deer
+geo|3|Which Canadian city is known as "The Steel City"?|Hamilton|Sudbury;Sault Ste. Marie;Windsor
+geo|3|Which Ontario city is known as "The Royal City"?|Guelph|Kingston;London;Windsor
+geo|3|Which Ontario city is home to the Stratford Festival?|Stratford|Niagara-on-the-Lake;Kingston;London
+geo|2|Which Ontario city is known as "the Forest City"?|London|Guelph;Barrie;Sudbury
+geo|2|What is the tallest free-standing structure in Canada?|CN Tower|First Canadian Place;Calgary Tower;Olympic Stadium Tower|CN
+geo|1|In which city would you find the CN Tower?|Toronto|Vancouver;Montreal;Ottawa
+geo|2|What is the tallest building in the world, in Dubai?|Burj Khalifa|Shanghai Tower;Taipei 101;One World Trade Center|Burj
+geo|2|Which country gave the Statue of Liberty to the United States?|France|England;Spain;Italy
+geo|2|Which famous clock tower's bell is nicknamed "Big Ben"?|Elizabeth Tower|Victoria Tower;Clock Tower of Westminster Abbey;Tower of London
+geo|1|In which city is the Eiffel Tower?|Paris|Lyon;Brussels;London
+geo|2|Which country is home to Machu Picchu?|Peru|Bolivia;Ecuador;Chile
+geo|2|In which country would you find Petra, the "rose-red city"?|Jordan|Egypt;Israel;Saudi Arabia
+geo|2|In which country are the famous moai statues of Easter Island?|Chile|Peru;New Zealand;Ecuador
+geo|1|In which country is the Taj Mahal?|India|Pakistan;Bangladesh;Iran
+geo|2|The Great Barrier Reef lies off the coast of which Australian state?|Queensland|New South Wales;Western Australia;Northern Territory
+geo|2|What is the name of the famous red rock in the middle of Australia?|Uluru|Kata Tjuta;Wave Rock;Mount Augustus|Ayers Rock
+geo|2|Which country has the most active volcanoes?|Indonesia|Japan;Iceland;Italy
+geo|2|Which country is known as the "Land of Fire and Ice"?|Iceland|Norway;Greenland;Finland
+geo|3|What is the northernmost capital city in the world?|Reykjavík|Oslo;Helsinki;Tallinn|Reykjavik
+geo|3|What is the highest capital city in the world (seat of government)?|La Paz|Quito;Bogotá;Kathmandu
+geo|2|Which line of latitude runs around the middle of the Earth?|Equator|Prime Meridian;Tropic of Cancer;Arctic Circle|The Equator
+geo|3|Which South American country is named after the Equator?|Ecuador|Colombia;Venezuela;Guyana
+geo|3|The Americas are named after which Italian explorer?|Amerigo Vespucci|Christopher Columbus;John Cabot;Giovanni da Verrazzano|Vespucci;Amerigo
+geo|3|Venezuela's name means "little ..." which city?|Venice|Valencia;Vienna;Verona
+geo|3|What does the name "Canada" likely come from?|An Iroquoian word for "village"|A French word for "cold";A Spanish word for "nothing here";A Cree word for "lake"|village;kanata
+geo|2|Which country has a flag that is not rectangular?|Nepal|Bhutan;Switzerland;Vatican City
+geo|3|Which two countries have square flags?|Switzerland and Vatican City|Nepal and Bhutan;Denmark and Norway;Monaco and Andorra
+geo|2|Which country's flag features a maple leaf?|Canada|Vermont;Switzerland;Austria
+geo|2|What is the only continent with no countries?|Antarctica|Australia;Arctic;Greenland|Antarctic
+geo|2|How many continents are there (by the usual count)?|Seven|Five;Six;Eight|7
+geo|2|Which continent has the most countries?|Africa|Asia;Europe;South America
+geo|3|Which landlocked country is the largest by area?|Kazakhstan|Mongolia;Chad;Bolivia
+geo|3|Which two South American countries are landlocked?|Bolivia and Paraguay|Uruguay and Paraguay;Bolivia and Ecuador;Guyana and Suriname
+geo|2|What is the main language spoken in Brazil?|Portuguese|Spanish;French;Italian
+geo|2|What is the official currency of Japan?|Yen|Won;Yuan;Ringgit|Japanese yen
+geo|2|Which US state is nicknamed the "Sunshine State"?|Florida|California;Arizona;Hawaii
+geo|2|Which US state is nicknamed the "Lone Star State"?|Texas|Nevada;Oklahoma;Arizona
+geo|3|Which two US states don't observe daylight saving time (mostly)?|Hawaii and Arizona|Alaska and Hawaii;Arizona and Nevada;Florida and Hawaii|Arizona and Hawaii
+geo|3|Which US city is nicknamed "Sin City"?|Las Vegas|Reno;New Orleans;Atlantic City|Vegas
+geo|2|Which US city is home to the Golden Gate Bridge?|San Francisco|Los Angeles;Seattle;Portland
+geo|3|Which Canadian province is the only officially bilingual one?|New Brunswick|Quebec;Ontario;Manitoba
+geo|2|Which country is home to the kangaroo?|Australia|New Zealand;South Africa;Argentina
+geo|2|What is the national animal of Canada?|Beaver|Moose;Polar bear;Canada goose
+geo|3|What is the national animal of Scotland?|Unicorn|Lion;Red deer;Golden eagle
+geo|2|In which country did the Olympic Games begin?|Greece|Italy;France;Egypt
+geo|2|Which river flows through London?|Thames|Seine;Severn;Trent|River Thames
+geo|2|Which river flows through Paris?|Seine|Loire;Rhône;Thames|The Seine
+geo|3|Which river flows through Ottawa, forming much of the Ontario–Quebec border?|Ottawa River|St. Lawrence River;Rideau River;Gatineau River|Ottawa
+geo|2|Which Canadian city sits at the foot of a mountain called "Mount Royal"?|Montreal|Quebec City;Vancouver;Calgary
+geo|3|What is the world's largest freshwater island, found in Lake Huron?|Manitoulin Island|Isle Royale;Wolfe Island;Pelee Island|Manitoulin
+geo|3|Point Pelee in Ontario is the southernmost point of mainland Canada. Which lake is it on?|Lake Erie|Lake Ontario;Lake Huron;Lake St. Clair|Erie
+geo|4|Point Pelee, Canada's southernmost mainland point, is at about the same latitude as which European capital?|Rome|Paris;Berlin;London
+geo|2|What do you call a piece of land surrounded by water on three sides?|Peninsula|Isthmus;Archipelago;Atoll
+geo|3|What is the name for a chain or group of islands?|Archipelago|Atoll;Isthmus;Peninsula
+geo|3|Which narrow strip of land joins North and South America?|Isthmus of Panama|Isthmus of Suez;Yucatán Peninsula;Strait of Magellan|Panama
+geo|3|Which canal links the Atlantic and Pacific Oceans?|Panama Canal|Suez Canal;Welland Canal;Kiel Canal|Panama
+geo|3|Which Ontario canal lets ships bypass Niagara Falls?|Welland Canal|Rideau Canal;Trent–Severn Waterway;Erie Canal|Welland
+geo|3|Which Ottawa canal becomes the world's largest skating rink in winter?|Rideau Canal|Welland Canal;Lachine Canal;Trent Canal|Rideau
+geo|2|Which country has the city of Timbuktu?|Mali|Niger;Morocco;Chad
+geo|3|Which country has the most pyramids?|Sudan|Egypt;Mexico;Peru
+geo|3|Which country has the most lakes in the world?|Canada|Finland;Russia;United States
+geo|3|What is the only sea in the world without a coastline?|Sargasso Sea|Caspian Sea;Dead Sea;Coral Sea|Sargasso
+geo|3|Which European country has a dragon on its flag, as part of the UK?|Wales|Scotland;Northern Ireland;Cornwall
+geo|3|Which country's flag is the oldest in continuous use?|Denmark|Netherlands;Austria;Scotland
+geo|2|In which country would you find the city of Marrakesh?|Morocco|Tunisia;Algeria;Egypt
+geo|2|Which mountain range separates Europe from Asia?|Ural Mountains|Caucasus;Alps;Carpathians|Urals
+geo|2|Which mountain range runs down the west side of South America?|Andes|Rockies;Sierra Madre;Appalachians|Andes Mountains
+geo|2|The Rocky Mountains run through Alberta and which other Canadian province?|British Columbia|Saskatchewan;Yukon;Manitoba|BC;B.C.
+geo|2|Which Alberta national park, home to Lake Louise, is Canada's oldest?|Banff|Jasper;Waterton Lakes;Yoho|Banff National Park

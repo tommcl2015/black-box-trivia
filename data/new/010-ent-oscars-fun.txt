@@ -1,0 +1,44 @@
+# Oscars — records, firsts and famous moments
+ent|2|Which three films hold the record for the most Oscar wins, with 11 each?|Ben-Hur, Titanic and The Return of the King|Titanic, Avatar and Gandhi;Ben-Hur, Gone with the Wind and Titanic;The Godfather, Titanic and Casablanca
+ent|3|"The Lord of the Rings: The Return of the King" won all how many Oscars it was nominated for?|11|9;12;14|Eleven
+ent|2|In 2017, which film was wrongly announced as Best Picture before "Moonlight" was named the real winner?|La La Land|Hidden Figures;Manchester by the Sea;Arrival
+ent|1|At the 2022 Oscars, Will Smith walked on stage and slapped which comedian?|Chris Rock|Jimmy Kimmel;Ricky Gervais;Kevin Hart|Rock
+ent|2|Which 2019 South Korean film became the first non-English-language winner of Best Picture?|Parasite|Oldboy;Minari;Burning
+ent|2|Who holds the record for the most acting Oscars, with four Best Actress wins?|Katharine Hepburn|Meryl Streep;Bette Davis;Ingrid Bergman|Hepburn
+ent|2|Which actress holds the record for the most acting nominations?|Meryl Streep|Katharine Hepburn;Judi Dench;Cate Blanchett|Streep
+ent|3|Daniel Day-Lewis is the only man to win how many Best Actor Oscars?|Three|Two;Four;Five|3
+ent|2|Which person has won the most Oscars ever?|Walt Disney|Steven Spielberg;John Williams;Edith Head|Disney
+ent|3|Which comedian hosted the Oscars a record 19 times?|Bob Hope|Billy Crystal;Johnny Carson;Whoopi Goldberg|Hope
+ent|2|Who finally won his first Oscar for "The Revenant" after several near misses?|Leonardo DiCaprio|Brad Pitt;Matt Damon;Johnny Depp|DiCaprio;Leo
+ent|3|Heath Ledger won a posthumous Oscar for playing which villain?|The Joker|Bane;The Riddler;Two-Face|Joker
+ent|3|Which film was the first to win Best Animated Feature, in 2002?|Shrek|Toy Story;Finding Nemo;Spirited Away
+ent|4|Who became the first woman to win Best Director, for "The Hurt Locker"?|Kathryn Bigelow|Sofia Coppola;Jane Campion;Greta Gerwig|Bigelow
+ent|3|Who became the first Black man to win Best Actor, for "Lilies of the Field"?|Sidney Poitier|Denzel Washington;Harry Belafonte;James Earl Jones|Poitier
+ent|3|Who was the first Black woman to win Best Actress, for "Monster's Ball"?|Halle Berry|Whoopi Goldberg;Viola Davis;Angela Bassett|Berry
+ent|4|Who was the first Black performer to win an Oscar, for "Gone with the Wind"?|Hattie McDaniel|Dorothy Dandridge;Ethel Waters;Lena Horne|McDaniel
+ent|4|Who is the youngest person to win a competitive Oscar, at age 10 for "Paper Moon"?|Tatum O'Neal|Shirley Temple;Anna Paquin;Jodie Foster|O'Neal
+ent|3|Which Canadian filmmaker directed "Titanic", winner of 11 Oscars?|James Cameron|Denis Villeneuve;David Cronenberg;Norman Jewison|Cameron
+ent|3|Which 1991 film is one of only three to win the "Big Five": Picture, Director, Actor, Actress and Screenplay?|The Silence of the Lambs|Schindler's List;The Godfather Part II;Forrest Gump|Silence of the Lambs
+ent|4|Which 1975 Jack Nicholson film also won the "Big Five" Oscars?|One Flew Over the Cuckoo's Nest|Chinatown;The Shining;Terms of Endearment|Cuckoo's Nest
+ent|3|The Oscar statuette shows a knight standing on what?|A reel of film|A globe;A camera;A star|Film reel;Reel
+ent|4|Host Ellen DeGeneres took a famous celebrity selfie at the Oscars in which year?|2014|2010;2012;2017
+ent|2|In which Los Angeles neighbourhood is the Oscars' home theatre, the Dolby Theatre?|Hollywood|Beverly Hills;Santa Monica;Burbank
+ent|3|Which composer of "Star Wars" and "Jaws" has the most Oscar nominations of any living person?|John Williams|Hans Zimmer;Danny Elfman;James Horner|Williams
+ent|3|At 83, who became the oldest Best Actor winner, for "The Father"?|Anthony Hopkins|Michael Caine;Christopher Plummer;Henry Fonda|Hopkins
+ent|4|In 2012, which Canadian actor, then 82, became the oldest acting winner to date, for "Beginners"?|Christopher Plummer|Donald Sutherland;William Shatner;Michael J. Fox|Plummer
+ent|2|"Everything Everywhere All at Once" won Best Picture and Best Actress for which star?|Michelle Yeoh|Jamie Lee Curtis;Awkwafina;Lucy Liu|Yeoh
+ent|2|Which Christopher Nolan film won Best Picture for 2023?|Oppenheimer|Dunkirk;Interstellar;Tenet
+ent|3|Which Disney song from "Frozen" won Best Original Song?|Let It Go|Into the Unknown;Do You Want to Build a Snowman?;For the First Time in Forever
+ent|3|Eminem won the Best Original Song Oscar for which track?|Lose Yourself|Stan;Without Me;Not Afraid
+ent|3|"My Heart Will Go On" won Best Original Song for which film?|Titanic|The Bodyguard;Armageddon;Pearl Harbor
+ent|4|Which Bond theme by Adele won Best Original Song?|Skyfall|No Time to Die;Writing's on the Wall;Spectre
+ent|3|Billie Eilish has won Oscars for the James Bond song "No Time to Die" and which "Barbie" song?|What Was I Made For?|I'm Just Ken;Dance the Night;Happier Than Ever
+ent|2|What is the Oscar-nominated Randy Newman song from the first "Toy Story"?|You've Got a Friend in Me|I Will Go Sailing No More;Strange Things;When She Loved Me
+ent|2|Which film's famous line is "Here's looking at you, kid"? It won Best Picture for 1943.|Casablanca|Gone with the Wind;The Maltese Falcon;Citizen Kane
+ent|3|Which 1997 film about a sinking ship tied the record for most Oscar nominations, with 14?|Titanic|Pearl Harbor;The Perfect Storm;Poseidon
+ent|4|Which two films besides "Titanic" received a record 14 Oscar nominations?|All About Eve and La La Land|Ben-Hur and Gandhi;Avatar and Gravity;Chicago and Gladiator
+ent|3|Which Pixar film about a rat who cooks won Best Animated Feature?|Ratatouille|Up;Coco;Cars
+ent|3|Which Disney animated film was the first nominated for Best Picture, in 1991?|Beauty and the Beast|The Lion King;Aladdin;The Little Mermaid
+ent|3|Which Tom Hanks film won Best Picture for 1994?|Forrest Gump|Philadelphia;Apollo 13;Saving Private Ryan
+ent|3|Which Mel Gibson film about William Wallace won Best Picture for 1995?|Braveheart|Rob Roy;Gladiator;Highlander
+ent|2|"Gladiator" won Best Picture and Best Actor for which star?|Russell Crowe|Joaquin Phoenix;Mel Gibson;Gerard Butler|Crowe

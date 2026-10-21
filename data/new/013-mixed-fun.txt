@@ -1,0 +1,119 @@
+# Fun mixed pack — toys, games, gadgets, food, famous moments (1965–2025)
+# --- Sports & Leisure: toys, games, food ---
+spo|1|Which colourful 3x3 puzzle cube was invented by Ernő Rubik?|Rubik's Cube|Magic Square;Puzzle Box;Twisty Cube|Rubiks Cube;Rubik Cube
+spo|2|Which toy from 1959 is a fashion doll made by Mattel?|Barbie|Sindy;Bratz;Polly Pocket
+spo|2|Which Danish company makes colourful plastic building bricks?|Lego|Mega Bloks;K'Nex;Duplo|LEGO
+spo|2|What does the toy company name "Lego" come from, in Danish?|"Play well"|"Build more";"Little bricks";"Fun time"|Play well;leg godt
+spo|2|Which 1980s doll came with a birth certificate and adoption papers?|Cabbage Patch Kids|Care Bears;Teddy Ruxpin;My Little Pony|Cabbage Patch Kid;Cabbage Patch
+spo|2|Which handheld virtual pet from Japan needed feeding and cleaning in the late 1990s?|Tamagotchi|Furby;Pokémon;Giga Pet
+spo|2|Which furry talking toy was the craze of Christmas 1998?|Furby|Tickle Me Elmo;Teddy Ruxpin;Tamagotchi
+spo|3|Which Sesame Street toy caused shopping riots at Christmas 1996?|Tickle Me Elmo|Talking Big Bird;Cookie Monster Muncher;Furby|Elmo
+spo|2|Which Hasbro toy lets kids stick eyes, ears and a mouth onto a plastic potato?|Mr. Potato Head|Mr. Bucket;Cootie;Weebles|Potato Head
+spo|2|Which toy "slinks" down stairs?|Slinky|Yo-yo;Etch A Sketch;Silly Putty
+spo|2|Which drawing toy has two white knobs and you shake it to erase?|Etch A Sketch|Spirograph;Lite-Brite;Magna Doodle|Etch-A-Sketch
+spo|2|Which toys were "robots in disguise" that turned into cars and trucks?|Transformers|GoBots;Voltron;Power Rangers
+spo|2|What is the name of the leader of the Autobots in "Transformers"?|Optimus Prime|Megatron;Bumblebee;Starscream
+spo|2|Which teenage heroes are named after Renaissance artists and love pizza?|Teenage Mutant Ninja Turtles|Power Rangers;Thundercats;Battletoads|Ninja Turtles;TMNT
+spo|2|Which Ninja Turtle wears a blue mask and carries two swords?|Leonardo|Raphael;Donatello;Michelangelo|Leo
+spo|2|In the board game "Clue", who is the victim?|Mr. Boddy|Colonel Mustard;Professor Plum;Mrs. White|Dr. Black;Boddy
+spo|2|In "Monopoly", what are the two most expensive properties (US edition)?|Boardwalk and Park Place|Mayfair and Park Lane;Broadway and Wall Street;Pennsylvania Avenue and Atlantic Avenue
+spo|2|In "Monopoly", how much money do you collect for passing GO?|$200|$100;$300;$500|200
+spo|2|Which word game uses lettered tiles worth points on a 15x15 board?|Scrabble|Boggle;Bananagrams;Upwords
+spo|3|In Scrabble, how many points is the letter Q worth?|10|8;5;12|Ten
+spo|2|Which game has players stack and remove wooden blocks without toppling the tower?|Jenga|Kerplunk;Topple;Ker-Plunk
+spo|2|Which party game has players put hands and feet on coloured circles?|Twister|Simon Says;Limbo;Hopscotch
+spo|2|Which trivia board game, invented in Montreal in 1979, uses a pie with six wedges?|Trivial Pursuit|Scene It?;Cranium;Jeopardy!
+spo|3|Which drawing-guessing party game was created in Seattle in 1985?|Pictionary|Charades;Cranium;Boggle
+spo|2|Which handheld game system from 1989 came with "Tetris"?|Game Boy|Game Gear;Atari Lynx;Nintendo DS
+spo|2|Which Russian puzzle game has falling blocks you fit together?|Tetris|Columns;Dr. Mario;Puyo Puyo
+spo|2|Which yellow, pie-shaped character eats dots and avoids ghosts?|Pac-Man|Q*bert;Dig Dug;Kirby|Pacman
+spo|2|What is the name of Mario's brother?|Luigi|Wario;Toad;Yoshi
+spo|2|Which princess does Mario usually rescue?|Princess Peach|Princess Zelda;Princess Daisy;Princess Rosalina|Peach;Princess Toadstool
+spo|2|What kind of animal is Sonic?|Hedgehog|Fox;Echidna;Armadillo
+spo|2|Which yellow electric mouse is the mascot of Pokémon?|Pikachu|Jigglypuff;Raichu;Psyduck
+spo|2|Which 2016 phone game sent people outside to catch Pokémon?|Pokémon Go|Pokémon Snap;Ingress;Harry Potter: Wizards Unite|Pokemon Go
+spo|2|Which block-building video game features Creepers and Steve?|Minecraft|Roblox;Terraria;Fortnite
+spo|2|Which game has 100 players drop onto an island and build forts?|Fortnite|Minecraft;Roblox;Apex Legends
+spo|2|Which fizzy drink was famously changed to "New Coke" in 1985?|Coca-Cola|Pepsi;Dr Pepper;7 Up|Coke
+spo|2|Which Canadian coffee chain is famous for Timbits and "Roll Up the Rim"?|Tim Hortons|Second Cup;Coffee Time;Country Style|Tim Horton's;Tims
+spo|2|Tim Hortons was co-founded by a player from which sport?|Hockey|Football;Baseball;Curling|Ice hockey
+spo|2|Which Quebec dish combines fries, cheese curds and gravy?|Poutine|Tourtière;Pâté chinois;Montreal smoked meat
+spo|3|Which chocolate bar has the slogan "Have a break, have a..."?|Kit Kat|Coffee Crisp;Aero;Mars
+spo|3|Which Cadbury bar was advertised with "How do they get the caramel in?"|Caramilk|Crunchie;Wunderbar;Mr. Big
+spo|2|Which fast-food chain's mascot is a clown called Ronald?|McDonald's|Burger King;Wendy's;Dairy Queen|McDonalds
+spo|2|What sandwich did McDonald's first sell in 1967, with "two all-beef patties"?|Big Mac|Quarter Pounder;Whopper;Filet-O-Fish
+spo|3|Which Canadian invented the "Hawaiian" pizza with pineapple, in Chatham, Ontario?|Sam Panopoulos|Tony Tomasso;Jack Lowe;Mike Ilitch|Panopoulos
+spo|2|Which fitness craze from the 1980s featured Jane Fonda in leg warmers?|Aerobics|Pilates;Zumba;Tae Bo
+spo|2|Which hockey player is known as "The Great One"?|Wayne Gretzky|Mario Lemieux;Sidney Crosby;Gordie Howe|Gretzky
+spo|2|Which Canadian hockey player scored the "Golden Goal" at the 2010 Vancouver Olympics?|Sidney Crosby|Jonathan Toews;Connor McDavid;Jarome Iginla|Crosby
+spo|3|Who scored the famous winning goal for Canada in the 1972 Summit Series?|Paul Henderson|Phil Esposito;Bobby Clarke;Ken Dryden|Henderson
+spo|2|Which Toronto team won the World Series in 1992 and 1993?|Blue Jays|Maple Leafs;Raptors;Argonauts|Toronto Blue Jays
+spo|2|Which NBA team won Canada's first NBA championship in 2019?|Toronto Raptors|Vancouver Grizzlies;Montreal Royals;Toronto Huskies|Raptors
+spo|3|Which Raptors player hit the famous four-bounce buzzer-beater in the 2019 playoffs?|Kawhi Leonard|Kyle Lowry;Pascal Siakam;DeMar DeRozan|Kawhi;Leonard
+spo|2|Which boxer said he could "float like a butterfly, sting like a bee"?|Muhammad Ali|Joe Frazier;George Foreman;Mike Tyson|Ali;Cassius Clay
+spo|2|Which Jamaican sprinter was nicknamed "Lightning Bolt"?|Usain Bolt|Asafa Powell;Yohan Blake;Donovan Bailey|Bolt
+spo|3|Which Canadian sprinter won 100 m gold at the 1996 Atlanta Olympics?|Donovan Bailey|Ben Johnson;Bruny Surin;Andre De Grasse|Bailey
+spo|2|Which golfer was nicknamed "Tiger"?|Eldrick Woods|Phil Mickelson;Jack Nicklaus;Rory McIlroy|Tiger Woods;Woods
+spo|2|Which swimmer has won the most Olympic gold medals, with 23?|Michael Phelps|Mark Spitz;Ryan Lochte;Ian Thorpe|Phelps
+# --- Science & tech ---
+sci|2|Which company released the first iPod in 2001?|Apple|Sony;Microsoft;Samsung
+sci|2|What was the name of Sony's portable cassette player from 1979?|Walkman|Discman;Watchman;Boombox|Sony Walkman
+sci|2|Which Canadian company made the BlackBerry?|Research In Motion|Nortel;Corel;Open Text|RIM;BlackBerry Limited
+sci|2|In which Ontario city was BlackBerry based?|Waterloo|Ottawa;Toronto;Kitchener
+sci|2|Which social network was started by Mark Zuckerberg in a Harvard dorm in 2004?|Facebook|MySpace;Twitter;Instagram
+sci|2|Which video site was founded in 2005 and bought by Google in 2006?|YouTube|Vimeo;Dailymotion;Netflix
+sci|2|Which company, founded in 1997, mailed DVDs before switching to streaming?|Netflix|Blockbuster;Hulu;Redbox
+sci|2|Which video rental chain famously passed on buying Netflix?|Blockbuster|Rogers Video;Hollywood Video;Movie Gallery
+sci|2|What does "www" stand for in a web address?|World Wide Web|World Web Wide;Wide World Web;Web World Wide
+sci|3|Who invented the World Wide Web in 1989?|Tim Berners-Lee|Bill Gates;Steve Jobs;Vint Cerf|Berners-Lee
+sci|2|Which company did Bill Gates co-found?|Microsoft|Apple;IBM;Intel
+sci|2|What sound did dial-up internet make that many people remember?|A screeching modem noise|A ringing bell;A whistle;A ticking clock|Screech;Modem
+sci|2|Which internet company was famous for "You've got mail!"?|AOL|Yahoo!;Hotmail;CompuServe|America Online
+sci|2|Which first video was uploaded to YouTube in 2005, showing a man at the zoo?|Me at the zoo|My first video;Elephants;Hello YouTube
+sci|2|What is the name of Apple's voice assistant, launched in 2011?|Siri|Alexa;Cortana;Bixby
+sci|2|What is the name of Amazon's voice assistant?|Alexa|Siri;Cortana;Echo
+sci|2|In 1969, which spacecraft carried Neil Armstrong to the Moon?|Apollo 11|Apollo 13;Gemini 4;Apollo 8
+sci|2|Which Apollo mission had the famous line "Houston, we've had a problem"?|Apollo 13|Apollo 11;Apollo 1;Apollo 17
+sci|2|What were Neil Armstrong's first words on the Moon?|"That's one small step for man, one giant leap for mankind"|"The Eagle has landed";"Houston, we have a problem";"We came in peace"|One small step
+sci|2|What did the Apollo 11 crew call their lunar module?|Eagle|Columbia;Falcon;Snoopy|The Eagle
+sci|2|Which Canadian astronaut played "Space Oddity" on the International Space Station?|Chris Hadfield|Marc Garneau;Roberta Bondar;Julie Payette|Hadfield
+sci|3|Who was the first Canadian in space, in 1984?|Marc Garneau|Chris Hadfield;Roberta Bondar;Steve MacLean|Garneau
+sci|2|Which robotic arm, built in Canada, flew on the Space Shuttle?|Canadarm|Dextre;Robo-Arm;StarArm
+sci|2|Which planet was "demoted" to dwarf planet in 2006?|Pluto|Ceres;Eris;Neptune
+sci|2|Which famous sheep was the first cloned mammal, in 1996?|Dolly|Molly;Polly;Daisy|Dolly the Sheep
+sci|2|Which telescope, launched in 1990, orbits Earth taking deep-space photos?|Hubble Space Telescope|James Webb Space Telescope;Kepler;Spitzer|Hubble
+sci|3|Which telescope, launched on Christmas Day 2021, sees in infrared from far beyond the Moon?|James Webb Space Telescope|Hubble Space Telescope;Chandra;Kepler|James Webb;Webb;JWST
+sci|2|Which electric-car company is led by Elon Musk?|Tesla|Rivian;Lucid;Polestar
+sci|2|Which Elon Musk company launches reusable Falcon 9 rockets?|SpaceX|Blue Origin;Virgin Galactic;Rocket Lab
+sci|2|Which bug feared on 1 January 2000 was about computers reading the year "00"?|Y2K|Millennium virus;ILOVEYOU;Heartbleed|Y2K bug;Millennium bug
+sci|2|Which Japanese word for "picture character" is now used for little phone icons like 😂?|Emoji|Emoticon;Anime;Kanji|Emojis
+sci|2|Which app with a ghost logo made disappearing photos popular?|Snapchat|Instagram;TikTok;WhatsApp
+sci|2|Which short-video app, owned by ByteDance, became huge around 2020?|TikTok|Vine;Snapchat;Triller
+sci|2|Which chatbot made by OpenAI went viral in late 2022?|ChatGPT|Siri;Alexa;Clippy
+sci|3|Which animated paper clip was Microsoft Office's helper in the late 1990s?|Clippy|Bob;Paperclip Pete;Cortana|Clippit
+sci|2|What colour is the "screen of death" Windows shows when it crashes?|Blue|Black;Red;Green|Blue screen
+sci|2|Which first smartphone was unveiled by Steve Jobs in 2007?|iPhone|iPod Touch;BlackBerry Bold;Palm Pre|Apple iPhone
+# --- History & famous moments ---
+his|1|In which year did Neil Armstrong walk on the Moon?|1969|1965;1972;1967
+his|2|In which year did the Berlin Wall come down?|1989|1985;1991;1987
+his|2|Which Canadian ran the "Marathon of Hope" across Canada on one leg in 1980?|Terry Fox|Rick Hansen;Steve Fonyo;Chris Hadfield|Fox
+his|2|Which Canadian wheeled around the world in his "Man in Motion" tour, 1985–87?|Rick Hansen|Terry Fox;Steve Fonyo;Jeff Adams|Hansen
+his|2|Which world fair did Montreal host in 1967 for Canada's 100th birthday?|Expo 67|Expo 86;World's Fair 1964;Centennial Fair|Expo '67;Expo
+his|3|Which city hosted Expo 86?|Vancouver|Montreal;Calgary;Toronto
+his|2|Which US president resigned in 1974 after the Watergate scandal?|Richard Nixon|Gerald Ford;Lyndon B. Johnson;Jimmy Carter|Nixon
+his|2|Which British princess married Prince Charles in 1981 in a wedding watched by 750 million?|Diana|Anne;Sarah;Camilla|Lady Diana Spencer;Princess Diana;Diana Spencer
+his|2|In which year did Prince William marry Catherine Middleton?|2011|2009;2013;2015
+his|2|Who was Canada's prime minister when the Charter of Rights and Freedoms was signed in 1982?|Pierre Trudeau|Brian Mulroney;Joe Clark;John Turner|Trudeau;Pierre Elliott Trudeau
+his|2|What did Canada adopt as its national anthem officially in 1980?|O Canada|The Maple Leaf Forever;God Save the Queen;True North|O Canada!
+his|2|Which coin was introduced in Canada in 1987, nicknamed after a bird?|The loonie|The toonie;The puffin;The goose|Loonie;Dollar coin
+his|2|Which Canadian coin, introduced in 1996, shows a polar bear?|The toonie|The loonie;The quarter;The fifty-cent piece|Toonie;Twonie;Two-dollar coin
+his|3|In which year did Canada stop making the penny?|2012|2008;2015;2019
+his|2|Which British band's 1964 arrival in America launched "Beatlemania" there?|The Beatles|The Rolling Stones;The Who;The Animals|Beatles
+his|2|Which 1969 festival in New York was billed as "3 Days of Peace & Music"?|Woodstock|Altamont;Monterey Pop;Isle of Wight
+his|3|What sank in Lake Superior in 1975 and was immortalized in a Gordon Lightfoot song?|The Edmund Fitzgerald|The Titanic;The Carl D. Bradley;The Daniel J. Morrell|Edmund Fitzgerald;Fitzgerald
+his|2|What was the name of the space shuttle that broke apart shortly after launch in 1986?|Challenger|Columbia;Discovery;Atlantis
+his|2|Which giant ship sank in 1912 and was found on the seabed in 1985?|Titanic|Lusitania;Britannic;Empress of Ireland|RMS Titanic
+his|2|Which Alberta mall was the world's largest shopping mall for many years after it opened in 1981?|West Edmonton Mall|Mall of America;Eaton Centre;Metrotown|West Ed
+his|2|Which company, founded in 1670, was long known as North America's oldest?|Hudson's Bay Company|Molson;Bank of Montreal;Northwest Company|Hudson's Bay;HBC;The Bay
+his|3|Which Canadian department store chain famous for its catalogue closed in 1999?|Eaton's|Simpsons;Zellers;Woolco|Eatons;T. Eaton Company
+his|2|Which COVID-era item did people famously panic-buy in March 2020?|Toilet paper|Bottled water;Batteries;Bread
