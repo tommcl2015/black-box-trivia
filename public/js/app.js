@@ -145,8 +145,18 @@
     else Sounds.wrong();
   }
 
+  // Google Analytics events (only if the GA tag is on the page)
+  function track(name, extra) {
+    try {
+      if (typeof window.gtag !== 'function') return;
+      const r = S.room || {};
+      window.gtag('event', name, Object.assign({ game_mode: r.solo ? 'solo' : r.passPlay ? 'pass_play' : 'online', players: (r.players || []).length, questions: (r.settings || {}).numQuestions }, extra || {}));
+    } catch (e) { /* analytics must never break the game */ }
+  }
+
   function onFinal(f) {
     S.final = f; stopTimer(); go('final');
+    if (isHost()) track('game_finished');
     const mine = (S.room && S.room.passPlay) ? f.standings[0] : f.standings.find(x => x.id === S.me);
     if (mine && mine.rank === 1) Sounds.win(); else Sounds.lose();
   }
@@ -268,6 +278,7 @@
       if (!res || !res.ok) { Sounds.beep(); return alertBox('stop', (res && res.error) || 'Could not join that game.'); }
       S.me = res.you; store.set('session', { code: res.code });
       history.replaceState(null, '', location.pathname);
+      track('game_joined');
     });
   }
 
@@ -638,6 +649,7 @@
           busy(false);
           if (!res || !res.ok) return alertBox('stop', (res && res.error) || 'Could not create a game.');
           S.me = res.you; store.set('session', { code: res.code });
+          track('game_created');
         });
         break;
       }
@@ -674,7 +686,7 @@
       case 'start': case 'again':
         if (!isHost()) return;
         store.set('settings', S.room.settings);
-        S.net.emit('start', null, res => { if (res && !res.ok && res.error) alertBox('caution', res.error); });
+        S.net.emit('start', null, res => { if (res && !res.ok && res.error) alertBox('caution', res.error); else track('game_started'); });
         break;
       case 'next': if (isHost()) S.net.emit('next'); break;
       case 'lobby': if (isHost()) S.net.emit('lobby'); break;

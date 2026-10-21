@@ -6,10 +6,13 @@ const path = require('path');
 const CATS = { geo: 'Geography', ent: 'Entertainment', his: 'History', art: 'Arts & Literature', sci: 'Science & Nature', spo: 'Sports & Leisure' };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, bank }) {
-  const adHead = adsenseClient
-    ? `<meta name="google-adsense-account" content="${esc(adsenseClient)}">\n  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(adsenseClient)}" crossorigin="anonymous"></script>\n`
+module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank }) {
+  const gaHead = gaId
+    ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(gaId)}"></script>\n  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(gaId)}');</script>\n  `
     : '';
+  const adHead = gaHead + (adsenseClient
+    ? `<meta name="google-adsense-account" content="${esc(adsenseClient)}">\n  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(adsenseClient)}" crossorigin="anonymous"></script>\n`
+    : '');
 
   // Add the AdSense account tag + script to the <head> of a static HTML file (cached after first read).
   const cache = new Map();
