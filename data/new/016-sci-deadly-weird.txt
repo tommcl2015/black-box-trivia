@@ -1,0 +1,89 @@
+# Deadly, record-breaking and just plain weird — nature and the human body
+# --- Deadliest ---
+sci|1|Which animal kills the most people in the world each year, mostly by spreading malaria?|Mosquito|Snake;Shark;Crocodile|Mosquitoes;The mosquito
+sci|2|After mosquitoes and humans themselves, which group of animals kills the most people each year?|Snakes|Dogs;Crocodiles;Hippos|Snake
+sci|2|Which disease spread by mosquitoes kills the most people?|Malaria|Dengue fever;Yellow fever;Zika|
+sci|3|Which country has the most snakebite deaths in the world?|India|Australia;Brazil;Nigeria
+sci|2|Which snake has the most toxic venom of any land snake?|Inland taipan|Black mamba;King cobra;Eastern diamondback rattlesnake|Taipan;Fierce snake
+sci|2|In which country does the inland taipan live?|Australia|India;Brazil;South Africa
+sci|3|Which African snake is the fastest in the world, able to slither about 20 km/h?|Black mamba|Green mamba;Puff adder;Boomslang|Mamba
+sci|3|Which is the longest venomous snake in the world?|King cobra|Black mamba;Reticulated python;Taipan|Cobra
+sci|3|What is the only venomous snake found in Ontario?|Massasauga rattlesnake|Timber rattlesnake;Copperhead;Garter snake|Massasauga;Eastern massasauga
+sci|2|Which large African animal is often called the deadliest large land mammal to humans?|Hippopotamus|Lion;Elephant;Rhinoceros|Hippo
+sci|2|Which kills more people each year in Africa: hippos or lions?|Hippos|Lions;They're about equal;Neither kills anyone|Hippo;Hippopotamus
+sci|2|Which wild animal is linked to the most human deaths in North America, mostly through car crashes?|Deer|Bears;Moose;Wolves
+sci|2|In the United States, which kill more people each year: cows or sharks?|Cows|Sharks;About the same;Neither|Cattle
+sci|2|In the United States, which cause more deaths each year: bee and wasp stings or snakebites?|Bee and wasp stings|Snakebites;About the same;Neither|Bees;Bees and wasps;Bee stings
+sci|2|Which is more likely: being struck by lightning or being killed by a shark?|Struck by lightning|Killed by a shark;Equally likely;Neither ever happens|Lightning
+sci|2|Which is more likely: being struck by lightning or winning a big lottery jackpot?|Struck by lightning|Winning the jackpot;Equally likely;Neither|Lightning
+sci|2|Mile for mile, which is safer: flying on a commercial plane or driving a car?|Flying|Driving;They are equally safe;It depends only on the weather|Plane;Flying on a plane
+sci|3|Which tiny freshwater creature spreads a disease (schistosomiasis) that kills far more people than sharks?|Freshwater snail|Leech;Tadpole;Water flea|Snail;Snails
+sci|3|Which African fly spreads "sleeping sickness"?|Tsetse fly|Sand fly;Horse fly;Botfly|Tsetse
+sci|2|Which sea creature, nearly see-through, is often called the most venomous animal in the ocean?|Box jellyfish|Portuguese man o' war;Lionfish;Sea snake|Sea wasp;Jellyfish
+sci|3|Which small, brightly coloured octopus from Australian waters has venom that can kill a person?|Blue-ringed octopus|Giant Pacific octopus;Mimic octopus;Dumbo octopus|Blue ringed octopus
+sci|2|Which fish, a delicacy called fugu in Japan, can be deadly if prepared wrong?|Pufferfish|Swordfish;Eel;Catfish|Puffer fish;Blowfish;Fugu
+sci|3|Which fish is the most venomous in the world, and looks just like a rock?|Stonefish|Lionfish;Scorpionfish;Pufferfish|Stone fish
+sci|3|Which tiny frog from Colombia is one of the most poisonous animals on Earth?|Golden poison frog|Red-eyed tree frog;Tomato frog;Cane toad|Golden poison dart frog;Poison dart frog
+sci|3|Which Australian spider is considered among the deadliest in the world?|Sydney funnel-web spider|Huntsman spider;Redback spider;Wolf spider|Funnel-web;Funnel web spider;Funnel web
+sci|3|Which lizard, from Indonesia, is the largest in the world and has a venomous bite?|Komodo dragon|Gila monster;Monitor lizard;Iguana|Komodo
+sci|3|The male of which odd Australian mammal has a venomous spur on its hind legs?|Platypus|Echidna;Koala;Wombat|Duck-billed platypus
+sci|4|Which is the only known venomous primate?|Slow loris|Tarsier;Aye-aye;Lemur|Loris
+sci|2|Which animal has the strongest measured bite of any living animal?|Saltwater crocodile|Great white shark;Hippopotamus;Lion|Crocodile;Saltie
+sci|2|What is the largest living reptile?|Saltwater crocodile|Komodo dragon;Leatherback sea turtle;Green anaconda|Saltie;Crocodile
+sci|3|The "electric eel" isn't really an eel. What kind of fish is it?|Knifefish|Catfish;Lamprey;Ray
+sci|2|What is the leading cause of death worldwide?|Heart disease|Cancer;Car accidents;Malaria|Heart attack;Coronary heart disease;Cardiovascular disease
+sci|2|Which plague killed roughly a third or more of Europe's population in the 1300s?|The Black Death|Spanish flu;Smallpox;Cholera|Black Death;Bubonic plague;The plague
+sci|2|Which 1918 pandemic killed more people than World War I?|Spanish flu|Black Death;Smallpox;Polio|1918 flu;Spanish influenza;Influenza
+sci|3|Which deadly disease, which killed hundreds of millions, is the only human disease ever wiped out?|Smallpox|Polio;Measles;Leprosy
+sci|3|Above what height on mountains like Everest is the "death zone", where there's too little oxygen to survive for long?|8,000 m|5,000 m;6,500 m;10,000 m|8000 m;8000;8000 metres;8,000 metres
+# --- Records ---
+sci|1|What is the largest animal ever known to have lived?|Blue whale|Megalodon;Argentinosaurus;Sperm whale|Blue whales
+sci|2|A blue whale's heart is roughly the size of what?|A small car|A basketball;A fridge door;A bathtub|Small car;Car
+sci|1|What is the fastest land animal?|Cheetah|Pronghorn;Lion;Greyhound
+sci|2|What is the fastest animal in the world, reaching over 300 km/h in a dive?|Peregrine falcon|Golden eagle;Cheetah;Swift|Peregrine
+sci|3|Which fish is often called the fastest in the sea?|Sailfish|Marlin;Tuna;Swordfish
+sci|2|What is the tallest animal in the world?|Giraffe|Elephant;Ostrich;Moose
+sci|2|What is the largest land animal?|African elephant|Asian elephant;White rhinoceros;Hippopotamus|Elephant;African bush elephant
+sci|2|What is the largest bird in the world?|Ostrich|Emu;Albatross;Andean condor
+sci|3|What is the smallest bird in the world?|Bee hummingbird|Ruby-throated hummingbird;Goldcrest;Wren|Hummingbird
+sci|3|Which bird has the largest wingspan?|Wandering albatross|Andean condor;Bald eagle;Pelican|Albatross
+sci|3|Which animal is the loudest on Earth, using clicks that can reach about 230 decibels?|Sperm whale|Blue whale;Howler monkey;Lion
+sci|3|Which shark is the longest-living animal with a backbone, possibly reaching 400 years?|Greenland shark|Great white shark;Whale shark;Hammerhead shark
+sci|3|What is the largest fish in the world?|Whale shark|Basking shark;Great white shark;Blue whale
+sci|3|Which tiny jellyfish is nicknamed "immortal" because it can turn back into a young polyp?|Turritopsis dohrnii|Box jellyfish;Moon jellyfish;Lion's mane jellyfish|Immortal jellyfish;Turritopsis
+sci|3|Which tiny eight-legged "water bear" can survive the vacuum of space?|Tardigrade|Mite;Springtail;Rotifer|Tardigrades;Water bear
+sci|2|What is the hottest temperature officially recorded on Earth, in Death Valley in 1913?|56.7 °C (134 °F)|49.6 °C (121 °F);51.2 °C (124 °F);60.1 °C (140 °F)|56.7;134;56.7 C;134 F
+sci|3|At which Antarctic research station was the coldest air temperature, −89.2 °C, recorded?|Vostok Station|McMurdo Station;Amundsen–Scott South Pole Station;Casey Station|Vostok
+sci|3|What is the coldest temperature ever recorded in Canada, in Snag, Yukon in 1947?|−63 °C|−48 °C;−55 °C;−71 °C|-63;-63 C;minus 63
+sci|3|Which tree species includes the tallest living tree in the world?|Coast redwood|Giant sequoia;Douglas fir;Eucalyptus|Redwood
+# --- Weird but true ---
+sci|2|How many hearts does an octopus have?|Three|Two;One;Eight|3
+sci|2|What colour is an octopus's blood?|Blue|Green;Red;Clear
+sci|3|Where is a shrimp's heart?|In its head|In its tail;In its legs;It doesn't have one|Head
+sci|2|What colour is a polar bear's skin under its fur?|Black|White;Pink;Grey
+sci|2|What makes flamingos pink?|Their diet|Sunlight;Their blood;Mud baths|Food;What they eat;Diet
+sci|3|What unusual shape is wombat poop?|Cube|Spiral;Star;Triangle|Cubes;Square;Cube-shaped
+sci|3|What colour is a giraffe's tongue?|Dark blue-black|Pink;Bright red;Yellow|Blue;Black;Purple;Bluish black
+sci|2|Which animal, the largest on land, can't jump at all?|Elephant|Giraffe;Kangaroo;Horse|Elephants
+sci|2|How many hours a day can a koala sleep?|Up to 22|Up to 8;Up to 12;Up to 16|22;About 20;20
+sci|2|Which food never spoils and has been found edible in ancient Egyptian tombs?|Honey|Rice;Salt pork;Maple syrup
+sci|2|Botanically, which of these is a berry: a banana or a strawberry?|Banana|Strawberry;Both;Neither|Bananas
+sci|3|What is a group of crows called?|A murder|A parliament;A pride;A gaggle|Murder
+sci|3|What is a group of owls called?|A parliament|A murder;A flock;A pod|Parliament
+sci|3|What is a group of flamingos called?|A flamboyance|A blush;A pod;A gaggle|Flamboyance
+sci|2|What is a group of lions called?|A pride|A pack;A herd;A troop|Pride
+sci|3|Snakes "smell" mostly by flicking what?|Their tongue|Their tail;Their eyes;Their scales|Tongue
+sci|3|How many stomach compartments does a cow have?|Four|Two;One;Six|4
+sci|2|Which animal's fingerprints are so like ours they could confuse a crime scene?|Koala|Chimpanzee;Gorilla;Raccoon|Koalas
+sci|3|Which mammal is the only one that can truly fly?|Bat|Flying squirrel;Sugar glider;Colugo|Bats
+sci|3|Which bird can fly backwards?|Hummingbird|Swallow;Kingfisher;Sparrow|Hummingbirds
+sci|3|Sea otters hold what while they sleep so they don't drift apart?|Each other's paws|Seaweed only;Rocks;Their tails|Hands;Paws;Each other
+# --- Human body ---
+sci|2|How many bones are in the adult human body?|206|186;212;256
+sci|3|Do babies have more or fewer bones than adults?|More|Fewer;The same;It depends on height|More bones
+sci|2|What is the largest organ of the human body?|Skin|Liver;Brain;Lungs|The skin
+sci|2|What is the smallest bone in the human body, found in the ear?|Stapes|Incus;Malleus;Hyoid|Stirrup
+sci|2|Roughly how many times does the human heart beat in a day?|About 100,000|About 10,000;About 1 million;About 50,000|100,000;100000
+sci|3|Which part of the body has no blood supply and takes its oxygen straight from the air?|The cornea|The lens;The eardrum;Tooth enamel|Cornea
+sci|2|Which hard tissue in your body can't repair itself once it's damaged?|Tooth enamel|Bone;Fingernails;Cartilage|Enamel;Teeth
+sci|3|How long is the average human small intestine?|About 6 metres|About 1 metre;About 15 metres;About 25 metres|6 metres;6 m;20 feet
