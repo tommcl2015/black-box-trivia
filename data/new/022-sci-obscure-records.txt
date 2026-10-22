@@ -1,0 +1,50 @@
+# Obscure records — biggest, heaviest, fastest
+# --- Buildings & structures ---
+geo|3|Which Chinese building is often cited as the largest in the world by floor area, with a fake beach inside?|New Century Global Center|Abraj Al-Bait;Shanghai Tower;Dubai Mall|New Century Global Centre
+geo|3|Which aircraft factory in Washington State is the largest building in the world by volume?|Boeing Everett Factory|Tesla Gigafactory;Airbus Hamburg Plant;NASA Vehicle Assembly Building|Boeing factory;Everett factory;Boeing Everett
+geo|3|Which Romanian building in Bucharest is the heaviest building in the world?|Palace of the Parliament|Bran Castle;Romanian Athenaeum;Palace of Culture|Palace of Parliament;People's House
+geo|3|Which Indian building, opened in 2023 for the diamond trade, overtook the Pentagon as the world's largest office building?|Surat Diamond Bourse|Bharat Diamond Bourse;Mumbai Trade Centre;Antilia|Surat Diamond Bourse
+geo|3|Which US military headquarters held the title of the world's largest office building for about 80 years?|The Pentagon|The White House;Fort Knox;NORAD|Pentagon
+geo|3|Which Chinese dam contains more concrete than any other structure on Earth?|Three Gorges Dam|Hoover Dam;Itaipu Dam;Grand Coulee Dam|Three Gorges
+geo|3|Which Washington State dam is the largest concrete structure in the US?|Grand Coulee Dam|Hoover Dam;Glen Canyon Dam;Shasta Dam|Grand Coulee
+geo|3|Which hydroelectric dam on the Brazil–Paraguay border is one of the world's biggest power producers?|Itaipu Dam|Three Gorges Dam;Belo Monte Dam;Guri Dam|Itaipu
+geo|3|Which Quebec power complex, on La Grande River, is one of the largest hydro systems in the world?|James Bay Project|Churchill Falls;Manic-5;Beauharnois|James Bay;La Grande Complex
+geo|3|Which Malaysian hotel, in the Genting Highlands, is often listed as the largest in the world by number of rooms?|First World Hotel|Venetian Macao;MGM Grand;Izmailovo Hotel
+geo|3|Which Las Vegas hotel was long the largest single hotel in the US, with over 6,000 rooms?|MGM Grand|Caesars Palace;Bellagio;The Venetian
+geo|3|Which Ivory Coast church is often called the largest church in the world?|Basilica of Our Lady of Peace|St. Peter's Basilica;Cathedral of Seville;Basilica of Aparecida|Our Lady of Peace
+geo|3|Which Polish castle, built by the Teutonic Knights, is the largest castle in the world by land area?|Malbork Castle|Wawel Castle;Prague Castle;Windsor Castle|Malbork
+geo|3|Which Dutch building in Aalsmeer, used to auction flowers, has one of the largest footprints of any building?|Aalsmeer Flower Auction|Keukenhof Pavilion;Rotterdam Markthal;Schiphol Terminal|Royal FloraHolland Aalsmeer;Aalsmeer
+geo|3|Which is the world's largest library by number of items?|Library of Congress|British Library;New York Public Library;Library and Archives Canada
+geo|3|Which Mecca mosque is the largest in the world?|Masjid al-Haram|Al-Aqsa Mosque;Blue Mosque;Sheikh Zayed Grand Mosque|Great Mosque of Mecca;Al-Haram
+geo|3|Which museum is the most visited art museum in the world?|The Louvre|The Metropolitan Museum of Art;The British Museum;The Vatican Museums|Louvre
+geo|3|What is the world's largest religious monument, a temple complex in Cambodia?|Angkor Wat|Borobudur;Karnak;Bagan|Angkor
+# --- Fastest ---
+sci|2|Who is the fastest man ever over 100 metres, at 9.58 seconds?|Usain Bolt|Tyson Gay;Yohan Blake;Noah Lyles|Bolt
+sci|3|In which year did Usain Bolt set the 100 m world record of 9.58 seconds?|2009|2008;2012;2016
+sci|3|Who holds the women's 100 m world record of 10.49 seconds, set in 1988?|Florence Griffith Joyner|Marion Jones;Shelly-Ann Fraser-Pryce;Elaine Thompson-Herah|Flo-Jo;Florence Griffith-Joyner
+sci|3|In 2026, who became the first man to run an official marathon world record under two hours?|Sabastian Sawe|Eliud Kipchoge;Kelvin Kiptum;Kenenisa Bekele|Sawe
+sci|3|At which race did Sabastian Sawe run his 1:59:30 marathon world record in 2026?|London Marathon|Berlin Marathon;Boston Marathon;Chicago Marathon|London
+sci|3|Which Kenyan ran a marathon in under two hours in 2019, in a special race that didn't count as an official record?|Eliud Kipchoge|Sabastian Sawe;Kelvin Kiptum;Geoffrey Mutai|Kipchoge
+sci|3|Which Swedish pole vaulter keeps breaking his own world record, reaching 6.31 m in 2026?|Mondo Duplantis|Renaud Lavillenie;Sergey Bubka;Sam Kendricks|Armand Duplantis;Duplantis
+sci|3|What is the fastest a train runs in regular passenger service, on China's CR400 "Fuxing" trains?|350 km/h|250 km/h;300 km/h;450 km/h|350;350 kmh
+sci|3|Which Chinese bullet train, tested at 453 km/h, is designed to carry passengers at 400 km/h?|CR450|CR400;Hexie;Shinkansen N700S|CR450 Fuxing
+sci|3|Which train set the all-time world speed record of 603 km/h in a 2015 test?|Japanese maglev (L0 Series)|French TGV;Chinese CR450;German ICE|L0 Series;SCMaglev;Japanese maglev;Maglev
+sci|3|Which roller coaster, opened in Saudi Arabia at the end of 2025, is the world's fastest at 250 km/h?|Falcon's Flight|Formula Rossa;Kingda Ka;Top Thrill 2|Falcons Flight
+sci|3|Which Abu Dhabi roller coaster held the world speed record at 240 km/h before Falcon's Flight?|Formula Rossa|Kingda Ka;Red Force;Do-Dodonpa
+sci|3|Which British car was the first to break the sound barrier on land, in 1997?|ThrustSSC|Bloodhound LSR;Spirit of America;Blue Flame|Thrust SSC;Thrust
+sci|3|Which US spy plane is the fastest crewed jet aircraft ever flown?|SR-71 Blackbird|F-22 Raptor;Concorde;MiG-25|SR-71;Blackbird
+sci|3|Which supersonic passenger jet flew from London to New York in about three and a half hours until 2003?|Concorde|Boeing 747;Tupolev Tu-144;Airbus A380
+sci|3|The fastest humans ever were the crew of which mission, returning from the Moon at about 39,900 km/h in 1969?|Apollo 10|Apollo 11;Apollo 13;Gemini 7
+# --- Biggest moving things ---
+sci|3|What is the largest passenger airliner ever built?|Airbus A380|Boeing 747-8;Antonov An-225;Boeing 777X|A380
+sci|3|Which giant Soviet-built cargo plane, the largest aircraft ever, was destroyed in Ukraine in 2022?|Antonov An-225 Mriya|Antonov An-124;Lockheed C-5 Galaxy;Boeing Dreamlifter|An-225;Mriya
+sci|3|What was the longest ship ever built, a supertanker at 458 m?|Seawise Giant|Titanic;Prelude FLNG;Queen Mary 2|Knock Nevis;Jahre Viking
+sci|3|Which Royal Caribbean ship, launched in 2024, was the world's largest cruise ship?|Icon of the Seas|Wonder of the Seas;Symphony of the Seas;Queen Mary 2|Icon
+# --- Odd extremes ---
+sci|3|What is the deepest hole ever drilled, in Russia, reaching about 12 km?|Kola Superdeep Borehole|Mponeng Mine;Mariana Trench;Krubera Cave|Kola Borehole;Kola
+sci|3|Which South African gold mine is the deepest mine in the world, about 4 km down?|Mponeng|Kola;TauTona;Kidd Creek
+sci|3|Which mine in Timmins, Ontario, is the world's deepest base-metal mine?|Kidd Creek Mine|Sudbury Basin;Red Lake Mine;Hemlo Mine|Kidd Creek
+sci|3|What is the longest-burning light bulb, glowing since 1901 in a California fire station?|The Centennial Light|The Eternal Flame;The Edison Bulb;The Livermore Lamp|Centennial Light;Centennial Bulb
+sci|3|Which Australian experiment, running since 1927, has seen only nine drops fall?|Pitch drop experiment|Slow drip test;Tar ball test;Honey flow trial|Pitch drop
+sci|3|What is the oldest known living individual tree, a bristlecone pine in California?|Methuselah|General Sherman;Old Tjikko;Hyperion
+sci|3|What is the largest single tree by volume, a giant sequoia in California?|General Sherman|Hyperion;Methuselah;General Grant|General Sherman Tree
