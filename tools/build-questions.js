@@ -228,7 +228,14 @@ for (let i = out.length - 1; i >= 0; i--) {
   if (diffFix[x.id]) x.d = diffFix[x.id];
 }
 const final = out.map(({ id, c, sub, d, q, a, w, alt, fib, src, f }) => ({ id, c, sub, d, q, a, w, alt, fib, src, f }));
-fs.writeFileSync(path.join(ROOT, 'server', 'questions.json'), JSON.stringify(final));
+// Picture questions (data/pictures.json, made by art/picture-rounds/build_pictures.py). Kept out of text dedupe:
+// every picture shares its question wording, so the image path is the identity.
+const pics = readJson('pictures.json', []).map(x => Object.assign({ id: hashId('pic:' + x.img), f: x.img }, x))
+  .filter(x => !retired.has(x.id) && !(fixes[x.id] && fixes[x.id].drop))
+  .map(x => { const fx = fixes[x.id]; if (fx) for (const k of ['q', 'a', 'w', 'alt', 'd']) if (fx[k] !== undefined) x[k] = fx[k]; if (diffFix[x.id]) x.d = diffFix[x.id]; return x; });
+pics.forEach(x => { if (ids.has(x.id)) throw new Error('picture id clash ' + x.img); ids.add(x.id); });
+console.log('Picture questions', pics.length);
+fs.writeFileSync(path.join(ROOT, 'server', 'questions.json'), JSON.stringify(final.concat(pics.map(({ id, c, d, q, a, w, alt, fib, f, img, pr, prn }) => ({ id, c, d, q, a, w, alt, fib, f, img, pr, prn })))));
 const byCat = {}; final.forEach(x => byCat[x.c] = (byCat[x.c] || 0) + 1);
 console.log('Built', final.length, 'questions', stats);
 console.log('By category', byCat);

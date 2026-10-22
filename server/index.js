@@ -25,7 +25,8 @@ const ROOM_IDLE_MS = 15 * 60 * 1000;
 
 const bank = require('./questions.json');
 const picker = QuestionPicker(bank);
-console.log(`Loaded ${bank.length} questions`);
+const textCount = bank.filter(q => !q.img).length, pictureCount = bank.length - textCount;
+console.log(`Loaded ${textCount} questions and ${pictureCount} picture questions`);
 
 const app = express();
 app.set('trust proxy', 1);
@@ -35,23 +36,23 @@ app.use(helmet({ contentSecurityPolicy: false, crossOriginEmbedderPolicy: false 
 
 app.get('/config.js', (req, res) => {
   res.type('application/javascript').set('Cache-Control', 'no-cache').send(
-    `window.APP_CONFIG=${JSON.stringify({ siteName: SITE_NAME, adsenseClient: ADSENSE_CLIENT, adSlots: AD_SLOTS, contactEmail: CONTACT_EMAIL, maxPlayers: MAX_PLAYERS, questionCount: bank.length })};`
+    `window.APP_CONFIG=${JSON.stringify({ siteName: SITE_NAME, adsenseClient: ADSENSE_CLIENT, adSlots: AD_SLOTS, contactEmail: CONTACT_EMAIL, maxPlayers: MAX_PLAYERS, questionCount: textCount, pictureCount })};`
   );
 });
 app.get('/ads.txt', (req, res) => {
   if (!ADSENSE_CLIENT) return res.status(404).type('text/plain').send('');
   res.type('text/plain').send(`google.com, ${ADSENSE_CLIENT.replace(/^ca-/, '')}, DIRECT, f08c47fec0942fa0\n`);
 });
-app.get('/healthz', (req, res) => res.json({ ok: true, rooms: rooms.size, questions: bank.length }));
+app.get('/healthz', (req, res) => res.json({ ok: true, rooms: rooms.size, questions: textCount, pictures: pictureCount }));
 app.get('/api/stats', (req, res) => {
   const byCat = {}; for (const c of Object.keys(picker.byCat)) byCat[c] = picker.count(c);
-  res.json({ total: bank.length, byCat, rooms: rooms.size });
+  res.json({ total: textCount, pictures: pictureCount, byCat, rooms: rooms.size });
 });
 // solo play: client fetches the bank once and runs the engine locally (no server load)
 app.get('/api/questions', (req, res) => {
   res.set('Cache-Control', 'public, max-age=3600').json(bank);
 });
-require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank });
+require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank: bank.filter(q => !q.img), pictureCount });
 app.use(express.static(path.join(__dirname, '..', 'public'), { maxAge: '1h', extensions: ['html'] }));
 
 const server = http.createServer(app);

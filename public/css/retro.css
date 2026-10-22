@@ -228,6 +228,11 @@ h1 { font-size: 26px; } h2 { font-size: 20px; } h3 { font-size: 16px; }
 .timer .fill { height: 100%; background: #000; width: 100%; transform-origin: left; }
 .timer.urgent .fill { background: var(--pat-gray); background-size: 2px 2px; }
 .timer .secs { position: absolute; right: 6px; top: -1px; font-size: 12px; background: #fff; padding: 0 4px; line-height: 16px; display: none; }
+.q-pic { display: flex; justify-content: center; margin: 2px 0 12px; }
+.q-pic img { width: min(384px, 100%); height: auto; aspect-ratio: 3 / 2; image-rendering: pixelated; image-rendering: crisp-edges; border: 2px solid #000; background: #fff; box-shadow: 3px 3px 0 #000; }
+.q-pic.small img { width: min(240px, 70%); }
+.q-text.with-pic { font-size: 19px; min-height: 0; text-align: center; margin-bottom: 14px; }
+.pic-grid { grid-template-columns: 1fr 1fr; }
 .q-text { font-size: 22px; line-height: 1.32; margin: 4px 0 18px; min-height: 2.6em; overflow-wrap: anywhere; }
 @media (max-width: 520px) { .q-text { font-size: 19px; } }
 .choices { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }

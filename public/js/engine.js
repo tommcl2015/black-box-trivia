@@ -11,11 +11,19 @@
     geo: 'Geography', ent: 'Entertainment', his: 'History',
     art: 'Arts & Literature', sci: 'Science & Nature', spo: 'Sports & Leisure'
   };
+  // Picture rounds: questions that carry a 96x64 bitmap (q.img). pr = round key.
+  const PIC_ROUNDS = ['flags', 'shapes', 'maps', 'landmarks', 'skylines', 'states', 'aircraft', 'stars', 'animals', 'paintings'];
+  const PIC_NAMES = {
+    flags: 'Flags', shapes: 'Country shapes', maps: 'Find the country', landmarks: 'Landmarks & wonders', skylines: 'City skylines',
+    states: 'US states', aircraft: 'Famous aircraft', stars: 'Constellations', animals: 'Animals', paintings: 'Famous paintings'
+  };
+  const PIC_SHARE = 0.25;   // share of a mixed game that is picture questions
   const REVEAL_MS = 7000;
   const ICONS = ['disk', 'bomb', 'watch', 'cup', 'bug', 'rocket', 'dog', 'globe'];
 
   const DEFAULT_SETTINGS = {
-    numQuestions: 10, categories: CATS.slice(), difficulty: 'any', mode: 'mixed', timeLimit: 20
+    numQuestions: 10, categories: CATS.slice(), difficulty: 'any', mode: 'mixed', timeLimit: 20,
+    pictures: 'mix', picRounds: PIC_ROUNDS.slice()
   };
 
   function shuffle(a, rnd) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
@@ -32,15 +40,22 @@
     if (['any', 'easy', 'medium', 'hard'].includes(s.difficulty)) o.difficulty = s.difficulty;
     if (['mc', 'fib', 'mixed'].includes(s.mode)) o.mode = s.mode;
     if (s.timeLimit != null) o.timeLimit = clamp(parseInt(s.timeLimit, 10) || 20, 5, 120);
+    if (['off', 'mix', 'only'].includes(s.pictures)) o.pictures = s.pictures;
+    if (Array.isArray(s.picRounds)) {
+      const r = s.picRounds.filter(x => PIC_ROUNDS.includes(x));
+      o.picRounds = r.length ? r : PIC_ROUNDS.slice();
+    }
     return o;
   }
 
   /* bank: array of {id,c,d,q,a,w?,alt?,fib} */
   function QuestionPicker(bank) {
     const byCat = {}; CATS.forEach(c => byCat[c] = []);
+    const byRound = {}; PIC_ROUNDS.forEach(r => byRound[r] = []);
     const known = new Set('Afghanistan,Albania,Algeria,Andorra,Angola,Argentina,Armenia,Australia,Austria,Azerbaijan,Bahamas,Bahrain,Bangladesh,Barbados,Belarus,Belgium,Belize,Benin,Bhutan,Bolivia,Bosnia,Botswana,Brazil,Brunei,Bulgaria,Burkina Faso,Burundi,Cambodia,Cameroon,Canada,Chad,Chile,China,Colombia,Comoros,Congo,Costa Rica,Croatia,Cuba,Cyprus,Czechia,Denmark,Djibouti,Dominica,Ecuador,Egypt,El Salvador,Eritrea,Estonia,Eswatini,Ethiopia,Fiji,Finland,France,Gabon,Gambia,Georgia,Germany,Ghana,Greece,Grenada,Guatemala,Guinea,Guyana,Haiti,Honduras,Hungary,Iceland,India,Indonesia,Iran,Iraq,Ireland,Israel,Italy,Jamaica,Japan,Jordan,Kazakhstan,Kenya,Kiribati,Kosovo,Kuwait,Kyrgyzstan,Laos,Latvia,Lebanon,Lesotho,Liberia,Libya,Liechtenstein,Lithuania,Luxembourg,Madagascar,Malawi,Malaysia,Maldives,Mali,Malta,Mauritania,Mauritius,Mexico,Micronesia,Moldova,Monaco,Mongolia,Montenegro,Morocco,Mozambique,Myanmar,Namibia,Nauru,Nepal,Netherlands,New Zealand,Nicaragua,Niger,Nigeria,North Korea,Norway,Oman,Pakistan,Palau,Panama,Paraguay,Peru,Philippines,Poland,Portugal,Qatar,Romania,Russia,Rwanda,Samoa,San Marino,Saudi Arabia,Senegal,Serbia,Seychelles,Sierra Leone,Singapore,Slovakia,Slovenia,Somalia,South Africa,South Korea,South Sudan,Spain,Sri Lanka,Sudan,Suriname,Sweden,Switzerland,Syria,Taiwan,Tajikistan,Tanzania,Thailand,Togo,Tonga,Tunisia,Turkey,Turkmenistan,Tuvalu,Uganda,Ukraine,Uruguay,Uzbekistan,Vanuatu,Venezuela,Vietnam,Yemen,Zambia,Zimbabwe,Austrian,Australian,Swiss,Swedish,Swede,Danish,Dutch,Spanish,Spaniard,Mali,Malawi,Gambia,Zambia,Guinea,Slovenia,Slovakia,Iran,Iraq,Java,Jakarta,Mercury,Venus,Mars,Saturn,Uranus,Neptune,Pluto'.split(',').map(x => Match.compact(Match.normalize(x))));
     for (const q of bank) {
-      if (byCat[q.c]) byCat[q.c].push(q);
+      if (q.img) { if (byRound[q.pr]) byRound[q.pr].push(q); }
+      else if (byCat[q.c]) byCat[q.c].push(q);
       known.add(Match.compact(Match.normalize(q.a)));
       if (q.w) q.w.forEach(w => known.add(Match.compact(Match.normalize(w))));
     }
@@ -53,70 +68,98 @@
        * Variety rules: rotate categories, choose a question *pattern* before a question so that big
        * template families (e.g. "What is the capital of…") can't crowd a game, cap each pattern per game,
        * never use the same answer twice, and keep video-game questions to about a third of their category. */
+      pictureCount(r) { return byRound[r] ? byRound[r].length : 0; },
       pick(settings, used, rnd, seen) {
         seen = seen || new Set();
-        const N = settings.numQuestions, cats = settings.categories;
+        const N = settings.numQuestions;
         const diffOk = q => settings.difficulty === 'any' ||
           (settings.difficulty === 'easy' && q.d <= 2) ||
           (settings.difficulty === 'medium' && q.d === 3) ||
           (settings.difficulty === 'hard' && q.d >= 4);
         const modeOk = q => settings.mode === 'mixed' ? (q.w || q.fib) : settings.mode === 'mc' ? !!q.w : !!q.fib;
-        const need = Math.ceil(N / cats.length) + 2;
-        const famCap = Math.max(1, Math.ceil(N / 15));
-        const famUsed = new Map(), answers = new Set(), perCat = {}, nicheCat = {};
+        const famUsed = new Map(), answers = new Set();
         const ansKey = q => Match.compact(Match.normalize(q.a));
-        const groups = {};
-        for (const c of cats) {
-          const base = byCat[c].filter(modeOk);
-          let p = base.filter(q => diffOk(q) && !used.has(q.id));
-          if (p.length < need) p = base.filter(q => !used.has(q.id));                    // relax difficulty
-          if (p.length < need) { base.forEach(q => used.delete(q.id)); p = base.filter(diffOk); if (p.length < need) p = base.slice(); } // recycle
-          const unseen = p.filter(q => !seen.has(q.id));
-          if (unseen.length >= need) p = unseen;                                           // prefer questions nobody here has seen
-          const g = new Map();
-          for (const q of shuffle(p, rnd)) { const k = q.f || q.id; if (!g.has(k)) g.set(k, []); g.get(k).push(q); }
-          groups[c] = g; perCat[c] = 0; nicheCat[c] = 0;
-        }
-        const draw = c => {
-          const g = groups[c];
-          for (let pass = 0; pass < 2; pass++) {
-            const fams = [];
-            let total = 0;
-            for (const [k, list] of g) {
-              if (!list.length) continue;
-              if (pass === 0 && (famUsed.get(k) || 0) >= famCap) continue;
-              const w = Math.sqrt(list.length); fams.push([k, list, w]); total += w;
-            }
-            for (let tries = 0; tries < 30 && fams.length && total > 0; tries++) {
-              let r = rnd() * total, pickF = fams[fams.length - 1];
-              for (const f of fams) { r -= f[2]; if (r <= 0) { pickF = f; break; } }
-              const [k, list] = pickF;
-              const q = list[list.length - 1];
-              const niche = q.sub === 'Video Games';
-              if (answers.has(ansKey(q)) || (pass === 0 && niche && (nicheCat[c] + 1) * 3 > perCat[c] + 3)) {
-                list.pop(); if (!list.length) { total -= pickF[2]; fams.splice(fams.indexOf(pickF), 1); }
-                continue;
+        /* Draws n questions from pools (key -> questions), rotating through keys. */
+        const run = (pools, keys, n) => {
+          if (n <= 0 || !keys.length) return [];
+          const need = Math.ceil(n / keys.length) + 2;
+          const famCap = Math.max(1, Math.ceil(n / 15));
+          const perCat = {}, nicheCat = {}, groups = {};
+          for (const c of keys) {
+            const base = pools[c].filter(modeOk);
+            let p = base.filter(q => diffOk(q) && !used.has(q.id));
+            if (p.length < need) p = base.filter(q => !used.has(q.id));                    // relax difficulty
+            if (p.length < need) { base.forEach(q => used.delete(q.id)); p = base.filter(diffOk); if (p.length < need) p = base.slice(); } // recycle
+            const unseen = p.filter(q => !seen.has(q.id));
+            if (unseen.length >= need) p = unseen;                                           // prefer questions nobody here has seen
+            const g = new Map();
+            for (const q of shuffle(p, rnd)) { const k = q.f || q.id; if (!g.has(k)) g.set(k, []); g.get(k).push(q); }
+            groups[c] = g; perCat[c] = 0; nicheCat[c] = 0;
+          }
+          const draw = c => {
+            const g = groups[c];
+            for (let pass = 0; pass < 2; pass++) {
+              const fams = [];
+              let total = 0;
+              for (const [k, list] of g) {
+                if (!list.length) continue;
+                if (pass === 0 && (famUsed.get(k) || 0) >= famCap) continue;
+                const w = Math.sqrt(list.length); fams.push([k, list, w]); total += w;
               }
-              list.pop();
-              famUsed.set(k, (famUsed.get(k) || 0) + 1);
-              answers.add(ansKey(q)); perCat[c]++; if (niche) nicheCat[c]++;
-              return q;
+              for (let tries = 0; tries < 30 && fams.length && total > 0; tries++) {
+                let r = rnd() * total, pickF = fams[fams.length - 1];
+                for (const f of fams) { r -= f[2]; if (r <= 0) { pickF = f; break; } }
+                const [k, list] = pickF;
+                const q = list[list.length - 1];
+                const niche = q.sub === 'Video Games';
+                if (answers.has(ansKey(q)) || (pass === 0 && niche && (nicheCat[c] + 1) * 3 > perCat[c] + 3)) {
+                  list.pop(); if (!list.length) { total -= pickF[2]; fams.splice(fams.indexOf(pickF), 1); }
+                  continue;
+                }
+                list.pop();
+                famUsed.set(k, (famUsed.get(k) || 0) + 1);
+                answers.add(ansKey(q)); perCat[c]++; if (niche) nicheCat[c]++;
+                return q;
+              }
             }
+            return null;
+          };
+          const out = [];
+          let order = shuffle(keys.slice(), rnd), last = null, guard = 0;
+          const dry = new Set();
+          while (out.length < n && guard++ < 2000 && dry.size < keys.length) {
+            if (order.length > 1 && order[0] === last) order.push(order.shift());            // no category twice in a row
+            for (const c of order) {
+              if (out.length >= n) break;
+              if (dry.has(c)) continue;
+              const q = draw(c);
+              if (q) { out.push(q); used.add(q.id); last = c; } else dry.add(c);
+            }
+            order = shuffle(order, rnd);
           }
-          return null;
+          return out;
         };
-        const out = [];
-        let order = shuffle(cats.slice(), rnd), last = null, guard = 0, dry = new Set();
-        while (out.length < N && guard++ < 2000 && dry.size < cats.length) {
-          if (order.length > 1 && order[0] === last) order.push(order.shift());            // no category twice in a row
-          for (const c of order) {
-            if (out.length >= N) break;
-            if (dry.has(c)) continue;
-            const q = draw(c);
-            if (q) { out.push(q); used.add(q.id); last = c; } else dry.add(c);
+        const cats = settings.categories;
+        const picMode = settings.pictures || 'off';
+        const rounds = (settings.picRounds || PIC_ROUNDS).filter(r => byRound[r]);
+        const picPools = {};
+        for (const r of rounds) picPools[r] = byRound[r].filter(q => picMode === 'only' || cats.includes(q.c));
+        const picKeys = rounds.filter(r => picPools[r].length);
+        if (picMode === 'only') return run(picPools, picKeys, N);
+        if (picMode === 'off' || !picKeys.length || N < 3) return run(byCat, cats, N);
+        const pics = run(picPools, picKeys, Math.max(1, Math.round(N * PIC_SHARE)));
+        const texts = run(byCat, cats, N - pics.length);
+        // spread the pictures evenly through the game
+        const out = texts.slice();
+        pics.forEach((q, i) => {
+          const target = Math.min(out.length, Math.floor((i + 0.6) * N / pics.length));
+          let pos = target;
+          for (let k = 0; k <= out.length; k++) {                                            // nearest slot with different neighbours
+            const cand = [target + k, target - k].find(x => x >= 0 && x <= out.length && (!out[x - 1] || out[x - 1].c !== q.c) && (!out[x] || out[x].c !== q.c));
+            if (cand !== undefined) { pos = cand; break; }
           }
-          order = shuffle(order, rnd);
-        }
+          out.splice(pos, 0, q);
+        });
         return out;
       }
     };
@@ -267,7 +310,7 @@
       else type = q.w && q.fib ? (this.rnd() < 0.6 ? 'mc' : 'fib') : (q.w ? 'mc' : 'fib');
       let choices = null, correctIndex = -1;
       if (type === 'mc') {
-        choices = shuffle([q.a, ...q.w.slice(0, 3)], this.rnd);
+        choices = shuffle([q.a, ...(q.img ? shuffle(q.w.slice(), this.rnd) : q.w).slice(0, 3)], this.rnd);
         correctIndex = choices.indexOf(q.a);
       }
       const timeLimit = this.settings.timeLimit + (type === 'fib' ? 10 : 0);
@@ -293,7 +336,7 @@
       if (this.turnIdx >= this.turnOrder.length) return this.reveal();
       const id = this.turnOrder[this.turnIdx];
       const p = this.players.get(id);
-      this.emit(null, 'turn', { id, name: p.name, icon: p.icon, turn: this.turnIdx, turns: this.turnOrder.length, index: this.qIndex, total: this.questions.length, category: this.current.q.c, categoryName: CAT_NAMES[this.current.q.c] });
+      this.emit(null, 'turn', { id, name: p.name, icon: p.icon, turn: this.turnIdx, turns: this.turnOrder.length, index: this.qIndex, total: this.questions.length, category: this.current.q.c, categoryName: this.current.q.prn || CAT_NAMES[this.current.q.c] });
       this.broadcastRoom();
     }
 
@@ -310,7 +353,7 @@
       const elapsed = this.now() - c.startedAt;
       return {
         index: this.qIndex, total: this.questions.length, type: c.type, qid: c.q.id,
-        category: c.q.c, categoryName: CAT_NAMES[c.q.c], difficulty: c.q.d,
+        category: c.q.c, categoryName: c.q.prn || CAT_NAMES[c.q.c], difficulty: c.q.d, img: c.q.img || null,
         text: c.q.q, choices: c.choices, timeLimit: c.timeLimit,
         remainingMs: Math.max(0, c.timeLimit * 1000 - elapsed)
       };
@@ -373,7 +416,7 @@
       this.state = 'reveal';
       this.lastReveal = {
         index: this.qIndex, total: this.questions.length, type: c.type, qid: c.q.id,
-        category: c.q.c, categoryName: CAT_NAMES[c.q.c], difficulty: c.q.d,
+        category: c.q.c, categoryName: c.q.prn || CAT_NAMES[c.q.c], difficulty: c.q.d, img: c.q.img || null,
         text: c.q.q, choices: c.choices, correctIndex: c.correctIndex, answer: c.q.a,
         results, players: this.publicPlayers(), last: this.qIndex >= this.questions.length - 1,
         nextInMs: REVEAL_MS
@@ -400,5 +443,5 @@
     destroy() { this.clearTimer(); }
   }
 
-  return { Room, QuestionPicker, CATS, CAT_NAMES, MAX_PLAYERS, DEFAULT_SETTINGS, cleanSettings };
+  return { Room, QuestionPicker, CATS, CAT_NAMES, PIC_ROUNDS, PIC_NAMES, MAX_PLAYERS, DEFAULT_SETTINGS, cleanSettings };
 });

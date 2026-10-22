@@ -6,7 +6,7 @@ const path = require('path');
 const CATS = { geo: 'Geography', ent: 'Entertainment', his: 'History', art: 'Arts & Literature', sci: 'Science & Nature', spo: 'Sports & Leisure' };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank }) {
+module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank, pictureCount }) {
   const gaHead = gaId
     ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(gaId)}"></script>\n  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(gaId)}');</script>\n  `
     : '';
@@ -69,6 +69,7 @@ ${body}
         <h3>The questions</h3>
         <p>The game has ${total} questions in six categories:</p>
         <ul>${catList}</ul>
+        <p>There are also ${(pictureCount || 0).toLocaleString('en-CA')} picture questions drawn in the same one-bit style: flags, country shapes, maps, landmarks and wonders, city skylines, US states, famous aircraft, constellations, animals and famous paintings.</p>
         <p>The collection began with questions written by the game's creator, and it has grown with new questions on film, music, TV, sports, geography, history, science and plenty of odd facts. Questions are checked against reliable sources, and we fix mistakes as soon as we hear about them.</p>
         <p>Found an error, or have a question you'd like to see in the game? <a href="/contact">Let us know</a>.</p>`),
 
@@ -79,7 +80,7 @@ ${body}
           <li>Type your name and choose <b>New Game</b>.</li>
           <li>You'll get a six-digit game code. Share it, or use the <b>Share invite</b> button to send a link.</li>
           <li>Friends choose <b>Join Game</b> and type the code. Up to eight players can join.</li>
-          <li>As host, pick the number of questions, the categories, the difficulty, the question type and the time limit, then press <b>Start Game</b>.</li>
+          <li>As host, pick the number of questions, the categories, picture rounds, the difficulty, the question type and the time limit, then press <b>Start Game</b>.</li>
         </ol>
         <h3>Answering</h3>
         <p>Every question is either <b>multiple choice</b> (pick A, B, C or D) or <b>fill in the blank</b> (type your answer). For typed answers, spelling doesn't have to be perfect: "Missisipi" counts for Mississippi. A different real answer does not count, so "Austria" is still wrong when the answer is Australia.</p>
@@ -90,6 +91,8 @@ ${body}
           <li>Harder questions are worth a little more.</li>
           <li>Get three or more in a row for a streak bonus.</li>
         </ul>
+        <h3>Picture rounds</h3>
+        <p>Some questions show a little black-and-white picture instead: name the flag, the country from its shape or from a map, the landmark, the city skyline, the aircraft and more. In the lobby, the host chooses <b>Mixed in</b> (about one question in four is a picture), <b>Pictures only</b>, or <b>Off</b>, and can pick which picture rounds to use.</p>
         <h3>Fill your box</h3>
         <p>Each category has its own piece of the box. Answer a question correctly in a category to earn that piece. Six categories, one box: try to fill all six before the game ends. The player with the most points wins.</p>
         <h3>Pass &amp; Play</h3>

@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   const CFG = Object.assign({ siteName: 'Black Box Trivia', adsenseClient: '', adSlots: {}, maxPlayers: 8, questionCount: 0, adPreview: false, offline: false }, window.APP_CONFIG || {});
-  const { CAT_NAMES, CATS } = window.TriviaEngine;
+  const { CAT_NAMES, CATS, PIC_ROUNDS, PIC_NAMES } = window.TriviaEngine;
   const $ = s => document.querySelector(s);
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const store = {
@@ -147,8 +147,8 @@
     S.reveal = rv; stopTimer();
     go('reveal');
     // one analytics event per player per question, so we can spot questions that are wrong, too hard or too easy
-    if (S.room && S.room.passPlay) rv.results.forEach(r => track('question_answered', { qid: rv.qid, category: rv.category, difficulty: rv.difficulty, qtype: rv.type, correct: r.correct ? 1 : 0, answered: r.answered ? 1 : 0 }));
-    else { const me = rv.results.find(x => x.id === S.me); if (me) track('question_answered', { qid: rv.qid, category: rv.category, difficulty: rv.difficulty, qtype: rv.type, correct: me.correct ? 1 : 0, answered: me.answered ? 1 : 0 }); }
+    if (S.room && S.room.passPlay) rv.results.forEach(r => track('question_answered', { qid: rv.qid, category: rv.category, difficulty: rv.difficulty, qtype: rv.type, picture: rv.img ? rv.img.split('/')[2] : '', correct: r.correct ? 1 : 0, answered: r.answered ? 1 : 0 }));
+    else { const me = rv.results.find(x => x.id === S.me); if (me) track('question_answered', { qid: rv.qid, category: rv.category, difficulty: rv.difficulty, qtype: rv.type, picture: rv.img ? rv.img.split('/')[2] : '', correct: me.correct ? 1 : 0, answered: me.answered ? 1 : 0 }); }
     const mine = (S.room && S.room.passPlay) ? (rv.results.find(x => x.correct) || rv.results[0]) : rv.results.find(x => x.id === S.me);
     if (mine && mine.correct) Sounds.correct();
     else if (mine && !mine.answered) Sounds.timeout();
@@ -223,7 +223,7 @@
 
   /* ================= HOME ================= */
   function renderHome() {
-    const count = CFG.questionCount ? CFG.questionCount.toLocaleString() + ' questions · ' : '';
+    const count = CFG.questionCount ? CFG.questionCount.toLocaleString() + ' questions' + (CFG.pictureCount ? ' + ' + CFG.pictureCount.toLocaleString() + ' pictures' : '') + '<br>' : '';
     mount(win({
       title: CFG.siteName, cls: 'narrow',
       body: `
@@ -358,6 +358,8 @@
     const dis = host ? '' : 'disabled';
     const radio = (name, val, label) => `<label class="opt"><input type="radio" name="${name}" value="${val}" ${st[name] === val ? 'checked' : ''} ${dis}><span>${label}</span></label>`;
     const cats = CATS.map(c => `<label class="opt cat-opt"><input type="checkbox" name="cat" value="${c}" ${st.categories.includes(c) ? 'checked' : ''} ${dis}>${Art.swatch(c)}<span>${CAT_NAMES[c]}</span></label>`).join('');
+    const picMode = st.pictures || 'off', picRounds = st.picRounds || PIC_ROUNDS;
+    const picOpts = PIC_ROUNDS.map(r => `<label class="opt"><input type="checkbox" name="pic" value="${r}" ${picRounds.includes(r) ? 'checked' : ''} ${dis}><span>${PIC_NAMES[r]}</span></label>`).join('');
     const presets = [5, 10, 20, 30, 50].map(n => `<button class="btn small ${st.numQuestions === n ? 'pressed' : ''}" data-act="nq" data-n="${n}" ${dis}>${n}</button>`).join('');
     const times = [10, 15, 20, 30, 45, 60].map(t => `<option value="${t}" ${st.timeLimit === t ? 'selected' : ''}>${t} seconds</option>`).join('');
 
@@ -377,7 +379,9 @@
           <div style="display:flex;align-items:center;flex-wrap:wrap;gap:6px">
             <div class="stepper"><button data-act="nqm" ${dis} aria-label="Fewer">−</button><output>${st.numQuestions}</output><button data-act="nqp" ${dis} aria-label="More">+</button></div>
             <div class="presets">${presets}</div></div>
-          <div class="lbl">Categories</div><div class="cat-grid">${cats}</div>
+          <div class="lbl">Pictures</div><div class="radio-group">${radio('pictures', 'off', 'Off')}${radio('pictures', 'mix', 'Mixed in')}${radio('pictures', 'only', 'Pictures only')}</div>
+          ${picMode === 'off' ? '' : `<div class="lbl">Picture rounds</div><div class="cat-grid pic-grid">${picOpts}</div>`}
+          ${picMode === 'only' ? '' : `<div class="lbl">Categories</div><div class="cat-grid">${cats}</div>`}
           <div class="lbl">Question type</div><div class="radio-group">${radio('mode', 'mixed', 'Mixed')}${radio('mode', 'mc', 'Multiple choice (A–D)')}${radio('mode', 'fib', 'Fill in the blank')}</div>
           <div class="lbl">Difficulty</div><div class="radio-group">${radio('difficulty', 'any', 'Any')}${radio('difficulty', 'easy', 'Easy')}${radio('difficulty', 'medium', 'Medium')}${radio('difficulty', 'hard', 'Hard')}</div>
           <div class="lbl"><label for="timeSel">Time per question</label></div><div><select class="select" id="timeSel" ${dis}>${times}</select> <span class="muted">+10s for fill-in</span></div>
@@ -387,7 +391,7 @@
           ${r.passPlay ? '<button class="btn" data-act="editPlayers">Edit players</button>' : ''}
           ${host ? `<button class="btn default big" data-act="start">Start Game</button>` : `<span class="muted"><span class="blink">▪</span> Waiting for ${esc((r.players.find(p => p.isHost) || {}).name || 'host')} to start…</span>`}
         </div>`,
-      status: `<span>${r.solo ? 'Practice on your own' : r.passPlay ? 'Everyone takes turns on this device' : 'Up to 8 players · anyone can join with the code'}</span><span>${(CFG.questionCount || '').toLocaleString()} questions</span>`
+      status: `<span>${r.solo ? 'Practice on your own' : r.passPlay ? 'Everyone takes turns on this device' : 'Up to 8 players · anyone can join with the code'}</span><span>${st.pictures === 'only' ? (CFG.pictureCount || 0).toLocaleString() + ' pictures' : (CFG.questionCount || '').toLocaleString() + ' questions' + (st.pictures === 'mix' && CFG.pictureCount ? ' + ' + CFG.pictureCount.toLocaleString() + ' pictures' : '')}</span>`
     }) + ad('lobby'));
 
     if (host) {
@@ -396,6 +400,11 @@
         const cats = [...$('#app').querySelectorAll('input[name=cat]:checked')].map(x => x.value);
         if (!cats.length) { el.checked = true; Sounds.beep(); return; }
         sendSettings({ categories: cats });
+      }));
+      $('#app').querySelectorAll('input[name=pic]').forEach(el => el.addEventListener('change', () => {
+        const rs = [...$('#app').querySelectorAll('input[name=pic]:checked')].map(x => x.value);
+        if (!rs.length) { el.checked = true; Sounds.beep(); return; }
+        sendSettings({ picRounds: rs });
       }));
       $('#timeSel').addEventListener('change', e => sendSettings({ timeLimit: +e.target.value }));
     }
@@ -424,7 +433,8 @@
         <div class="q-head"><div class="q-cat">${Art.swatch(q.category)}<span>${esc(q.categoryName)}</span></div>
           <div style="display:flex;align-items:center;gap:8px"><span class="muted">${q.type === 'mc' ? 'Multiple choice' : 'Fill in the blank'}</span><span class="diff" title="Difficulty ${q.difficulty}/5">${diff}</span></div></div>
         <div class="timer" id="timer"><div class="fill" id="timerFill"></div><span class="secs" id="timerSecs"></span></div>
-        <div class="q-text">${esc(q.text)}</div>
+        ${q.img ? `<div class="q-pic"><img src="${esc(q.img)}" alt="Picture for this question" width="96" height="64"></div>` : ''}
+        <div class="q-text${q.img ? ' with-pic' : ''}">${esc(q.text)}</div>
         <div id="answerArea">${answerUi}</div>
         <div id="waitArea"></div>
         <div class="answer-strip" id="strip"></div>`
@@ -517,6 +527,7 @@
       body: `
         <div class="q-head"><div class="q-cat">${Art.swatch(rv.category)}<span>${esc(rv.categoryName)}</span></div></div>
         <div class="verdict">${esc(verdict)}</div>
+        ${rv.img ? `<div class="q-pic small"><img src="${esc(rv.img)}" alt="The picture" width="96" height="64"></div>` : ''}
         <div class="q-text" style="font-size:17px;min-height:0;margin-bottom:10px">${esc(rv.text)}</div>
         ${choices || `<div class="answer-box"><span class="lbl">The answer was</span>${esc(rv.answer)}</div>`}
         ${!pp && rv.type === 'fib' && mine.answered ? `<p class="center muted" style="margin-top:-6px">You said: “${esc(mine.text)}”</p>` : ''}
@@ -697,7 +708,7 @@
       case 'report': {
         const rv = S.reveal; if (!rv) break;
         track('question_report', { qid: rv.qid });
-        const body = `Question ID: ${rv.qid}\nQuestion: ${rv.text}\nOur answer: ${rv.answer}\n\nWhat's wrong? (wrong answer, typo, out of date, unclear...)\n\n`;
+        const body = `Question ID: ${rv.qid}\nQuestion: ${rv.text}${rv.img ? ' (picture: ' + rv.img + ')' : ''}\nOur answer: ${rv.answer}\n\nWhat's wrong? (wrong answer, typo, out of date, unclear...)\n\n`;
         S.reportHref = `mailto:${CFG.contactEmail || 'blackboxtrivia@gmail.com'}?subject=${encodeURIComponent('Question report ' + rv.qid)}&body=${encodeURIComponent(body)}`;
         alertBox('note', 'Thanks for helping! Your email app will open with the question filled in. Just tell us what looks wrong.', [{ label: 'Cancel', act: 'closeModal' }, { label: 'Write email', act: 'reportGo', def: true }]);
         break;
