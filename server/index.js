@@ -24,6 +24,7 @@ const MAX_ROOMS = parseInt(process.env.MAX_ROOMS || '5000', 10);
 const ROOM_IDLE_MS = 15 * 60 * 1000;
 
 const bank = require('./questions.json');
+const LB = require('./leaderboard.js');
 const picker = QuestionPicker(bank);
 const textCount = bank.filter(q => !q.img).length, pictureCount = bank.length - textCount;
 console.log(`Loaded ${textCount} questions and ${pictureCount} picture questions`);
@@ -48,11 +49,24 @@ app.get('/api/stats', (req, res) => {
   const byCat = {}; for (const c of Object.keys(picker.byCat)) byCat[c] = picker.count(c);
   res.json({ total: textCount, pictures: pictureCount, byCat, rooms: rooms.size });
 });
+// leaderboard: top 10 per game length
+const clientIp = req => String(req.headers['x-forwarded-for'] || '').split(',')[0].trim() || req.ip || req.socket.remoteAddress || '';
+app.get('/api/leaderboard', (req, res) => res.set('Cache-Control', 'no-cache').json({ boards: LB.BOARDS, leaders: LB.list() }));
+const lbHits = new Map();   // ip -> recent submission times (flood control)
+app.post('/api/leaderboard', express.json({ limit: '4kb' }), (req, res) => {
+  const ip = clientIp(req), now = Date.now();
+  const hits = (lbHits.get(ip) || []).filter(t => now - t < 3600e3);
+  if (hits.length >= 20) return res.status(429).json({ placed: [] });
+  hits.push(now); lbHits.set(ip, hits);
+  const b = req.body || {};
+  res.json({ placed: LB.submit(b.players, b.questions, ip, b.kind === 'pass' ? 'pass' : 'solo') });
+});
+setInterval(() => { const now = Date.now(); for (const [ip, h] of lbHits) if (!h.some(t => now - t < 3600e3)) lbHits.delete(ip); }, 600e3).unref();
 // solo play: client fetches the bank once and runs the engine locally (no server load)
 app.get('/api/questions', (req, res) => {
   res.set('Cache-Control', 'public, max-age=3600').json(bank);
 });
-require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank: bank.filter(q => !q.img), pictureCount });
+require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank: bank.filter(q => !q.img), pictureCount, leaderboard: LB });
 app.use(express.static(path.join(__dirname, '..', 'public'), { maxAge: '1h', extensions: ['html'] }));
 
 const server = http.createServer(app);
@@ -61,6 +75,7 @@ const io = new Server(server, { cors: { origin: false }, pingInterval: 10000, pi
 /* ---------- rooms ---------- */
 const rooms = new Map();          // code -> Room
 const tokens = new Map();         // secret token -> { pid, code }
+const playerIps = new Map();      // pid -> ip, used to show a top-10 player's country
 
 function newCode() {
   for (let i = 0; i < 50; i++) {
@@ -78,6 +93,12 @@ function makeRoom() {
     emit: (target, event, payload) => {
       if (target === null) io.to('room:' + code).emit(event, payload);
       else io.to('p:' + target).emit(event, payload);
+      if (event === 'final' && target === null) {
+        // multiplayer games run on the server, so their scores go straight to the leaderboard
+        const placed = [];
+        for (const p of payload.standings) placed.push(...LB.submit([p], payload.total, playerIps.get(p.id), 'online').map(x => Object.assign(x, { id: p.id })));
+        if (placed.length) io.to('room:' + code).emit('leaderboard', { placed });
+      }
     }
   });
   rooms.set(code, room);
@@ -86,6 +107,7 @@ function makeRoom() {
 
 function destroyRoom(code) {
   const r = rooms.get(code); if (!r) return;
+  for (const pid of r.players.keys()) playerIps.delete(pid);
   r.destroy(); rooms.delete(code);
   for (const [t, v] of tokens) if (v.code === code) tokens.delete(t);
 }
@@ -125,10 +147,11 @@ io.on('connection', socket => {
   function enter(r, name, ack) {
     if (session) leave();
     const pid = crypto.randomBytes(6).toString('hex');
-    const res = r.addPlayer(pid, name);
+    const res = r.addPlayer(pid, LB.cleanName(name));
     if (!res.ok) return ack && ack(res);
     session = { pid, code: r.code };
     tokens.set(token, session);
+    playerIps.set(pid, String(socket.handshake.headers['x-forwarded-for'] || '').split(',')[0].trim() || socket.handshake.address);
     socket.join('room:' + r.code); socket.join('p:' + pid);
     r.lastActive = Date.now();
     ack && ack({ ok: true, code: r.code, you: pid });

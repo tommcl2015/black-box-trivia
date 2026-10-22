@@ -6,7 +6,7 @@ const path = require('path');
 const CATS = { geo: 'Geography', ent: 'Entertainment', his: 'History', art: 'Arts & Literature', sci: 'Science & Nature', spo: 'Sports & Leisure' };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank, pictureCount }) {
+module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank, pictureCount, leaderboard }) {
   const gaHead = gaId
     ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(gaId)}"></script>\n  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(gaId)}');</script>\n  `
     : '';
@@ -66,6 +66,8 @@ ${body}
         <p>${esc(siteName)} is a free trivia game for friends and family. One person starts a game, shares a six-digit code, and up to eight people join from their own phones or computers. There is nothing to download and no account to create.</p>
         <p>It was built for the moments when you want a quick game together: a party, a family night, a team break, or a long drive with kids in the back seat. If you only have one phone, Pass &amp; Play mode lets everyone take turns on the same device.</p>
         <p>The look is a tribute to the black-and-white personal computers of the 1980s: one-bit graphics, pull-down menus, little window title bars and simple beeps.</p>
+        <p>${esc(siteName)} was created by <b>Tom M</b>.</p>
+        <!--LEADERBOARD-->
         <h3>The questions</h3>
         <p>The game has ${total} questions in six categories:</p>
         <ul>${catList}</ul>
@@ -126,7 +128,15 @@ ${body}
         <ol>${qs.map(q => `<li><details><summary>${esc(q.q)}</summary><p>Answer: <b>${esc(q.a)}</b></p></details></li>`).join('')}</ol>`).join('\n        ')}
         <p>Ready for more? Start a game and invite up to eight friends.</p>`);
 
-  for (const [slug, body] of Object.entries(html)) app.get([`/${slug}`, `/${slug}.html`], (req, res) => res.type('html').send(body));
+  // Leaderboard tables (the About page is rendered on each visit so the scores are current)
+  const lbHtml = () => {
+    if (!leaderboard) return '';
+    const L = leaderboard.list();
+    return `<h3 id="leaderboard">Leaderboard</h3>
+        <p>The ten highest scores for each game length. Scores from online, solo and Pass &amp; Play games all count.</p>
+        ${leaderboard.BOARDS.map(b => `<h4>${b}-question games</h4>` + (L[b].length ? `<table class="lb"><tbody>${L[b].map((r, i) => `<tr><td>${i + 1}.</td><td>${esc(r.name)}</td><td>${r.country ? (r.country.flag ? `<img src="${esc(r.country.flag)}" alt="" width="24" height="16"> ` : '') + esc(r.country.name) : ''}</td><td class="num">${r.score.toLocaleString('en-CA')}</td></tr>`).join('')}</tbody></table>` : '<p class="muted">No scores yet. Be the first!</p>')).join('\n        ')}`;
+  };
+  for (const [slug, body] of Object.entries(html)) app.get([`/${slug}`, `/${slug}.html`], (req, res) => res.type('html').set('Cache-Control', 'no-cache').send(slug === 'about' ? body.replace('<!--LEADERBOARD-->', lbHtml()) : body));
 
   app.get('/robots.txt', (req, res) => res.type('text/plain').send(`User-agent: *\nAllow: /\nDisallow: /api/\nSitemap: ${siteUrl}/sitemap.xml\n`));
   app.get('/sitemap.xml', (req, res) => {

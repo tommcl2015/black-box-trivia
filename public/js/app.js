@@ -34,7 +34,7 @@
     socket.on('connect_error', () => setStatus('Connecting…'));
     socket.on('disconnect', () => { setStatus('Reconnecting…'); });
     socket.on('connect', () => setStatus(''));
-    ['room', 'question', 'reveal', 'final', 'starting', 'answerAck', 'kicked', 'rejoined', 'react'].forEach(ev => socket.on(ev, d => (handlers[ev] || []).forEach(fn => fn(d))));
+    ['room', 'question', 'reveal', 'final', 'starting', 'answerAck', 'kicked', 'rejoined', 'react', 'leaderboard'].forEach(ev => socket.on(ev, d => (handlers[ev] || []).forEach(fn => fn(d))));
     return {
       kind: 'online',
       on(ev, fn) { (handlers[ev] = handlers[ev] || []).push(fn); },
@@ -98,6 +98,7 @@
     net.on('kicked', d => { teardown(); go('home'); alertBox('stop', d.message || 'You were removed from the game.'); });
     net.on('rejoined', d => { S.me = d.you; store.set('session', { code: d.code }); if (S.room) render(); toast('Reconnected to game ' + fmtCode(d.code)); });
     net.on('react', d => floatReaction(d.e));
+    net.on('leaderboard', d => { S.placed = d.placed || []; if (S.screen === 'final') renderFinal(); });
   }
 
   function online() {
@@ -165,7 +166,14 @@
   }
 
   function onFinal(f) {
-    S.final = f; stopTimer(); go('final');
+    S.final = f; S.placed = null; stopTimer(); go('final');
+    // solo and Pass & Play games run on this device, so they send their scores to the leaderboard themselves
+    if (S.mode === 'local' && !CFG.offline && CFG.transport !== 'room') {
+      fetch('/api/leaderboard', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ questions: f.total, kind: S.room && S.room.passPlay ? 'pass' : 'solo', players: f.standings.map(p => ({ name: p.name, score: p.score, correct: p.correct })) }) })
+        .then(r => r.json()).then(d => { if (S.final === f) { S.placed = (d.placed || []).map((x, i) => Object.assign(x, { id: (f.standings.find(p => p.name === x.name) || {}).id })); if (S.screen === 'final') renderFinal(); } }).catch(() => {});
+      LBcache = null;
+    }
     if (isHost()) track('game_finished');
     const mine = (S.room && S.room.passPlay) ? f.standings[0] : f.standings.find(x => x.id === S.me);
     if (mine && mine.rank === 1) Sounds.win(); else Sounds.lose();
@@ -562,6 +570,7 @@
       title: 'Final Scores', cls: 'wide', close: 'leave',
       body: `<h2 class="center">${esc(headline)}</h2>
         <div class="center" style="margin:6px 0 10px">${Art.pie(me.wedges, 'lg', 2.5)}<div class="muted">${(me.wedges || []).length} of 6 pieces</div></div>
+        ${S.placed && S.placed.length ? `<div class="lb-made">${Art.icon('trophy')}<div>${S.placed.map(x => `<b>${esc(x.name)}</b> is <b>#${x.rank}</b> on the ${x.board}-question leaderboard!`).join('<br>')}<br><a href="#" data-act="leaders">See the leaderboard</a></div></div>` : ''}
         ${pod}
         <table class="results">${rows}</table>
         <div class="btn-row">
@@ -586,14 +595,28 @@
         <div class="btn-row"><button class="btn default" data-act="back">OK</button></div>`
     }));
   }
+  let LBcache = null, LBtab = 10;
   function renderAbout() {
+    const lb = LBcache;
+    const boards = lb ? lb.boards : [10, 20, 30, 50];
+    const rowsFor = b => {
+      if (!lb) return '<p class="muted center">Loading scores…</p>';
+      const L = lb.leaders[b] || [];
+      if (!L.length) return '<p class="muted center">No scores yet. Be the first!</p>';
+      return `<table class="lb"><tbody>${L.map((r, i) => `<tr><td>${i + 1}.</td><td>${esc(r.name)}</td><td class="ctry">${r.country ? (r.country.flag ? `<img src="${esc(r.country.flag)}" alt="" width="24" height="16">` : '') + `<span>${esc(r.country.name)}</span>` : ''}</td><td class="num">${r.score.toLocaleString()}</td></tr>`).join('')}</tbody></table>`;
+    };
     mount(win({
-      title: 'About ' + CFG.siteName, cls: 'narrow', close: 'back',
-      body: `<div class="logo-row">${Art.pie(CATS, 'lg', 2.5)}<div><h2>${esc(CFG.siteName)}</h2><div class="muted">Version 1.0</div></div></div>
-        <div class="prose"><p>A free multiplayer trivia game with a classic black &amp; white desktop look.</p>
-        <p class="muted">Questions written for Black Box Trivia. Thanks to the Open Trivia Database community for inspiration. Font: ChicagoFLF (public domain).</p></div>
+      title: 'About ' + CFG.siteName, cls: 'wide', close: 'back',
+      body: `<div class="logo-row">${Art.pie(CATS, 'lg', 2.5)}<div><h2>${esc(CFG.siteName)}</h2><div class="muted">Version 1.1 · created by Tom M</div></div></div>
+        <div class="prose"><p>A free multiplayer trivia game with a classic black &amp; white desktop look.</p></div>
+        <h3 id="lbHead">Leaderboard</h3>
+        <div class="lb-tabs" role="tablist">${boards.map(b => `<button class="btn small ${b === LBtab ? 'pressed' : ''}" role="tab" aria-selected="${b === LBtab}" data-act="lbtab" data-b="${b}">${b} questions</button>`).join('')}</div>
+        ${rowsFor(LBtab)}
+        <p class="muted small">Top 10 scores for each game length. Top-10 players show the country they played from.</p>
+        <div class="prose"><p class="muted">Questions written for Black Box Trivia. Thanks to the Open Trivia Database community for inspiration. Font: ChicagoFLF (public domain).</p></div>
         <div class="btn-row"><a class="btn" href="privacy.html">Privacy</a><button class="btn default" data-act="back">OK</button></div>`
     }));
+    if (!lb && !CFG.offline) fetch('/api/leaderboard').then(r => r.json()).then(d => { LBcache = d; if (S.screen === 'about') renderAbout(); }).catch(() => {});
   }
 
   /* ================= menubar ================= */
@@ -603,7 +626,7 @@
     const r = S.room;
     const menus = [
       { id: 'apple', label: `<svg width="15" height="15" viewBox="0 0 100 100" aria-label="${esc(CFG.siteName)} menu"><path d="M50 4L90 27L90 73L50 96L10 73L10 27Z" fill="#000"/><path d="M50 50L10 27M50 50L90 27M50 50L50 96" stroke="#fff" stroke-width="9"/></svg>`, items: [
-        { label: `About ${CFG.siteName}…`, act: 'about' }, { label: 'How to Play…', act: 'help' }] },
+        { label: `About ${CFG.siteName}…`, act: 'about' }, { label: 'Leaderboard…', act: 'leaders' }, { label: 'How to Play…', act: 'help' }] },
       { id: 'file', label: 'File', items: [
         { label: 'New Game', act: 'new', kbd: '⌘N', disabled: inGame || CFG.offline }, { label: 'Join Game…', act: 'goJoin', kbd: '⌘J', disabled: inGame || CFG.offline },
         { label: 'Pass & Play…', act: 'goPass', disabled: inGame }, { label: 'Solo Practice', act: 'solo', disabled: inGame }, '-', { label: 'Leave Game', act: 'leave', disabled: !inGame }] },
@@ -741,6 +764,8 @@
       case 'beep': Sounds.beep(); break;
       case 'help': go('help'); break;
       case 'about': go('about'); break;
+      case 'leaders': LBcache = null; go('about'); break;
+      case 'lbtab': LBtab = +el.dataset.b; renderAbout(); break;
       case 'privacy': location.href = 'privacy.html'; break;
       case 'trash': alertBox('note', 'The Trash is empty.'); break;
       default:

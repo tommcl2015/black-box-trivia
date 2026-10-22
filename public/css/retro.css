@@ -354,3 +354,14 @@ h1 { font-size: 26px; } h2 { font-size: 20px; } h3 { font-size: 16px; }
 .foot { flex-wrap: wrap; }
 .report-row { text-align: right; margin: 6px 0 0; font-size: 12px; }
 .report-row a { color: #000; }
+
+/* leaderboard */
+.lb-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
+table.lb { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: 6px; }
+table.lb td { padding: 5px 6px; border-bottom: 1px dotted #000; vertical-align: middle; }
+table.lb td:first-child { width: 28px; }
+table.lb td.num { text-align: right; font-variant-numeric: tabular-nums; font-weight: bold; }
+table.lb td img, .ctry img { width: 24px; height: 16px; image-rendering: pixelated; border: 1px solid #000; vertical-align: middle; margin-right: 6px; }
+table.lb .ctry span { font-size: 12px; }
+@media (max-width: 480px) { table.lb .ctry span { display: none; } }
+.lb-made { display: flex; gap: 10px; align-items: center; border: 2px solid #000; padding: 8px 12px; margin: 8px 0 12px; box-shadow: 3px 3px 0 #000; line-height: 1.5; }

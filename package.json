@@ -16,8 +16,10 @@
   "dependencies": {
     "compression": "^1.8.2",
     "express": "^5.3.0",
+    "geoip-country": "^5.0.202610210158",
     "he": "^2.0.0",
     "helmet": "^8.3.0",
+    "obscenity": "^0.4.6",
     "socket.io": "^4.8.4"
   }
 }
