@@ -1,0 +1,66 @@
+# Space — fastest, farthest, planets and the deadliest moments
+# --- Fastest & farthest ---
+sci|3|Which rocket plane is the fastest crewed aircraft ever flown, reaching Mach 6.7 in 1967?|North American X-15|SR-71 Blackbird;Bell X-1;Space Shuttle|X-15
+sci|3|Who was the first person to fly faster than sound, in the Bell X-1 in 1947?|Chuck Yeager|Neil Armstrong;John Glenn;Pete Knight|Yeager
+sci|3|Which giant rocket carried the Apollo astronauts to the Moon?|Saturn V|Atlas;Titan II;Falcon Heavy|Saturn 5;Saturn Five
+sci|3|Which NASA rocket launched the Artemis II crew around the Moon in 2026?|Space Launch System|Saturn V;Falcon Heavy;Starship|SLS
+sci|3|Artemis II was expected to break Apollo 10's speed record for humans. Why didn't it?|NASA chose a gentler re-entry to protect the heat shield|The rocket ran out of fuel;The Moon's gravity slowed it down;The crew asked to go slower
+sci|3|Which Canadian astronaut flew around the Moon on Artemis II in April 2026?|Jeremy Hansen|Chris Hadfield;David Saint-Jacques;Jenni Gibbons|Hansen
+sci|3|In 2026, the Artemis II crew broke which mission's 56-year-old record for the farthest humans from Earth?|Apollo 13|Apollo 11;Apollo 17;Apollo 8
+sci|3|About how far from Earth did the Artemis II crew travel, a new record for humans?|About 407,000 km|About 40,000 km;About 150,000 km;About 1 million km|406,773 km;407,000 km;407000
+sci|3|What is the name of the Artemis II spacecraft that carried the crew?|Orion|Dragon;Starliner;Apollo|Integrity
+sci|2|What is the farthest human-made object from Earth?|Voyager 1|Voyager 2;New Horizons;Pioneer 10|Voyager
+sci|3|In which year was Voyager 1 launched?|1977|1969;1983;1990
+sci|3|In November 2026, Voyager 1 becomes the first spacecraft one "light-day" from Earth. What does that mean?|Its radio signals take a full day to reach us|It has travelled for exactly one day;It is one day's drive from the Sun;It sees one sunrise a day
+sci|3|What golden item does Voyager 1 carry, with sounds and music from Earth?|A golden record|A golden key;A golden map;A golden flag|Golden Record;Record
+sci|3|Which NASA probe is the fastest human-made object ever, swinging past the Sun at about 690,000 km/h?|Parker Solar Probe|Voyager 1;New Horizons;Juno|Parker
+sci|3|Which spacecraft flew past Pluto in 2015, sending back the first close-up photos?|New Horizons|Voyager 2;Cassini;Juno
+sci|2|Who was the first human in space, in 1961?|Yuri Gagarin|Alan Shepard;John Glenn;Valentina Tereshkova|Gagarin
+sci|2|Who was the first woman in space, in 1963?|Valentina Tereshkova|Sally Ride;Svetlana Savitskaya;Mae Jemison|Tereshkova
+sci|3|Which Canadian was the first Canadian woman in space, in 1992?|Roberta Bondar|Julie Payette;Jenni Gibbons;Marc Garneau|Bondar
+sci|3|Which Canadian astronaut was the first to command the International Space Station?|Chris Hadfield|Marc Garneau;Julie Payette;David Saint-Jacques|Hadfield
+sci|2|Who was the second person to walk on the Moon?|Buzz Aldrin|Michael Collins;John Glenn;Alan Bean|Aldrin
+sci|3|Which Apollo 11 astronaut stayed in orbit while the others walked on the Moon?|Michael Collins|Buzz Aldrin;Jim Lovell;Frank Borman|Collins
+sci|3|How many people have walked on the Moon?|12|6;10;24|Twelve
+sci|3|Which Apollo mission was the last to land on the Moon, in 1972?|Apollo 17|Apollo 15;Apollo 18;Apollo 20
+sci|3|What was the first animal to orbit the Earth, in 1957?|Laika the dog|Ham the chimp;Albert the monkey;Félicette the cat|Laika;A dog
+# --- Planets ---
+sci|1|Which is the largest planet in our solar system?|Jupiter|Saturn;Neptune;Earth
+sci|2|Which is the smallest planet in our solar system?|Mercury|Mars;Venus;Pluto
+sci|2|Which is the hottest planet, even though it's not closest to the Sun?|Venus|Mercury;Mars;Jupiter
+sci|3|Why is Venus hotter than Mercury?|Its thick carbon-dioxide atmosphere traps heat|It is closer to the Sun;It has active volcanoes everywhere;It spins faster
+sci|3|Which planet is usually the coldest, despite not being the farthest?|Uranus|Neptune;Saturn;Jupiter
+sci|2|Which planet has the most known moons, with well over 200?|Saturn|Jupiter;Uranus;Neptune
+sci|3|On which planet is a day longer than its year?|Venus|Mercury;Mars;Neptune
+sci|3|Which planet spins on its side, tipped almost 98 degrees?|Uranus|Neptune;Saturn;Venus
+sci|3|Which planet has the fastest winds in the solar system, over 2,000 km/h?|Neptune|Jupiter;Saturn;Uranus
+sci|3|Which is the tallest volcano in the solar system, on Mars?|Olympus Mons|Mauna Kea;Valles Marineris;Tharsis Tholus|Olympus
+sci|2|Which planet is called the "Red Planet"?|Mars|Venus;Jupiter;Mercury
+sci|3|What makes Mars look red?|Rust (iron oxide) in its dust|Red ice;Lava;Sunlight reflected off its moons|Iron oxide;Rust
+sci|3|Which planet could float in a giant bathtub, being less dense than water?|Saturn|Jupiter;Neptune;Uranus
+sci|3|What is the only planet not named after a Greek or Roman god?|Earth|Mars;Uranus;Neptune
+sci|3|Which planet was the first discovered with a telescope, by William Herschel in 1781?|Uranus|Neptune;Pluto;Saturn
+sci|3|Which planet was found in 1846 after mathematicians predicted where it should be?|Neptune|Uranus;Pluto;Saturn
+sci|2|What are the names of Mars's two small moons?|Phobos and Deimos|Io and Europa;Titan and Rhea;Triton and Nereid
+sci|3|Which moon of Saturn has lakes of liquid methane?|Titan|Europa;Enceladus;Ganymede
+sci|3|Which moon of Jupiter is the largest moon in the solar system?|Ganymede|Titan;Callisto;Io
+sci|3|Which moon of Jupiter is the most volcanic place in the solar system?|Io|Europa;Ganymede;Callisto
+sci|2|Roughly how long does sunlight take to reach Earth?|About 8 minutes|About 8 seconds;About 8 hours;About 1 minute|8 minutes
+sci|3|About how far is the Moon from Earth?|About 384,000 km|About 38,000 km;About 1.5 million km;About 150 million km|384,000 km;384000
+sci|3|What is the name of the boundary around a black hole beyond which nothing can escape?|Event horizon|Photon ring;Singularity;Accretion disc|The event horizon
+sci|3|What is the closest star to Earth after the Sun?|Proxima Centauri|Sirius;Alpha Centauri A;Barnard's Star|Proxima
+sci|2|What is the brightest star in the night sky?|Sirius|Polaris;Betelgeuse;Vega|The Dog Star
+sci|3|What is the name of our galaxy's nearest large neighbour?|Andromeda Galaxy|Triangulum Galaxy;Large Magellanic Cloud;Whirlpool Galaxy|Andromeda
+# --- Deadliest ---
+sci|3|Which space shuttle broke apart 73 seconds after launch in January 1986?|Challenger|Columbia;Discovery;Atlantis
+sci|3|Which space shuttle broke up while returning to Earth in 2003?|Columbia|Challenger;Endeavour;Discovery
+sci|3|Which 1971 Soviet crew are the only people known to have died in space itself?|Soyuz 11|Soyuz 1;Vostok 1;Mir 3
+sci|3|Which 1967 launch-pad fire killed three American astronauts during a test?|Apollo 1|Apollo 13;Gemini 8;Skylab 1
+sci|3|Which Soviet rocket explosion in 1960 was the deadliest disaster in space-program history?|Nedelin catastrophe|Challenger disaster;Soyuz 1 crash;Baikonur fire of 1980|Nedelin disaster;Nedelin
+sci|3|Which planet's surface is the deadliest for landers, with pressure like 900 m under the sea and heat that melts lead?|Venus|Mercury;Mars;Jupiter
+sci|3|What is the longest any lander has survived on Venus, set by the Soviet Venera 13 in 1982?|About 2 hours|About 2 minutes;About 2 days;About 2 weeks|127 minutes;2 hours
+sci|3|An asteroid impact in which modern-day Mexican peninsula wiped out the dinosaurs?|Yucatán|Baja California;Florida;Cape Breton|Yucatan;Chicxulub
+sci|3|Which 1908 explosion flattened 80 million trees in a Siberian forest?|Tunguska event|Chelyabinsk meteor;Krakatoa eruption;Sikhote-Alin fall|Tunguska
+sci|3|Which Russian city was hit by a meteor in 2013 that blew out windows and injured about 1,500 people?|Chelyabinsk|Tunguska;Novosibirsk;Omsk
+sci|3|What 1859 solar storm made telegraph wires spark and northern lights appear in the tropics?|Carrington Event|Halloween Storm;Quebec Blackout;Maunder Event|Carrington
+sci|3|A 1989 solar storm knocked out power for millions in which Canadian province?|Quebec|Ontario;Manitoba;British Columbia
