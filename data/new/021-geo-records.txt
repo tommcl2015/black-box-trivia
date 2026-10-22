@@ -1,0 +1,68 @@
+# World records — tallest, longest, oldest, richest
+# --- Tallest buildings ---
+geo|1|What is the tallest building in the world?|Burj Khalifa|Shanghai Tower;Merdeka 118;Taipei 101|Burj
+geo|2|In which city is the Burj Khalifa?|Dubai|Abu Dhabi;Doha;Riyadh
+geo|3|About how tall is the Burj Khalifa?|828 metres|541 metres;632 metres;1,008 metres|828 m;828
+geo|3|Which Kuala Lumpur skyscraper became the world's second-tallest building in 2023?|Merdeka 118|Petronas Towers;Shanghai Tower;Lotte World Tower|Merdeka
+geo|3|Which Saudi tower under construction aims to be the first building over 1 km tall?|Jeddah Tower|Burj Khalifa;Abraj Al-Bait;Kingdom Centre|Kingdom Tower
+geo|2|What is the tallest building in North America?|One World Trade Center|Willis Tower;Empire State Building;CN Tower|One World Trade;Freedom Tower;1 WTC
+geo|3|One World Trade Center's height in feet, 1,776, honours what?|The year of US independence|The year New York was founded;The number of 9/11 victims plus floors;The tower's address
+geo|3|Which Toronto tower became Canada's tallest building in 2026, at 106 storeys?|SkyTower at Pinnacle One Yonge|First Canadian Place;One Bloor West;Scotia Plaza|SkyTower;Pinnacle One Yonge
+geo|2|The CN Tower held the title of world's tallest free-standing structure for how long?|About 32 years|About 5 years;About 15 years;About 50 years|32 years;32
+geo|2|Which New York skyscraper was the world's tallest building from 1931 to 1970?|Empire State Building|Chrysler Building;Woolworth Building;World Trade Center|Empire State
+geo|3|Which Chicago skyscraper, once called the Sears Tower, was the world's tallest from 1974 to 1998?|Willis Tower|John Hancock Center;Trump Tower;Aon Center|Sears Tower;Willis
+geo|3|Which twin skyscrapers in Kuala Lumpur were the world's tallest buildings from 1998 to 2004?|Petronas Towers|Merdeka 118;Twin Towers;Taipei 101|Petronas;Petronas Twin Towers
+geo|3|Which Taiwanese skyscraper, named for its floor count, was the world's tallest from 2004 to 2010?|Taipei 101|Tower 88;Taipei 88;Shanghai World Financial Center|Taipei One-O-One
+geo|3|Which structure was the tallest in the world until New York's Chrysler Building passed it in 1930?|Eiffel Tower|Washington Monument;Cologne Cathedral;Great Pyramid of Giza|Eiffel
+geo|2|For about 3,800 years, what was the tallest human-made structure on Earth?|The Great Pyramid of Giza|Lincoln Cathedral;The Colossus of Rhodes;The Lighthouse of Alexandria|Great Pyramid;Pyramid of Giza
+geo|3|What is the tallest statue in the world, in India?|Statue of Unity|Spring Temple Buddha;Statue of Liberty;Christ the Redeemer
+# --- Railways & roads ---
+geo|2|Which is the longest railway line in the world, running from Moscow to Vladivostok?|Trans-Siberian Railway|Canadian Pacific Railway;Orient Express;Trans-Mongolian Railway|Trans-Siberian
+geo|3|About how long is the Trans-Siberian Railway's main line?|About 9,300 km|About 2,500 km;About 5,000 km;About 15,000 km|9300 km;9,300 km;9300
+geo|3|Which VIA Rail train runs between Toronto and Vancouver, about 4,500 km?|The Canadian|The Ocean;The Corridor;The Rockies Express|Canadian
+geo|3|Which Swiss tunnel, opened in 2016, is the world's longest railway tunnel?|Gotthard Base Tunnel|Channel Tunnel;Simplon Tunnel;Seikan Tunnel|Gotthard
+geo|2|Which tunnel carries trains under the sea between England and France?|Channel Tunnel|Gotthard Base Tunnel;Seikan Tunnel;Eurostar Tube|Chunnel;Eurotunnel
+geo|2|What are Japan's high-speed "bullet trains" called?|Shinkansen|Maglev;TGV;Eurostar
+geo|3|What is France's high-speed train called?|TGV|ICE;AVE;Eurostar
+geo|3|Which highway network, from Alaska almost to the tip of South America, is often called the world's longest road?|Pan-American Highway|Trans-Canada Highway;Route 66;Alaska Highway|Pan American Highway
+geo|3|Which Toronto street was once listed by Guinness as the longest street in the world?|Yonge Street|Queen Street;Dundas Street;Bloor Street|Yonge
+geo|3|Which highway links all ten Canadian provinces?|Trans-Canada Highway|Highway 401;Yellowhead Highway;Alaska Highway|Trans-Canada;Highway 1
+geo|3|Which Ontario highway is one of the busiest in North America?|Highway 401|Highway 400;Queen Elizabeth Way;Highway 7|401;The 401
+# --- Bridges ---
+geo|3|Which bridge in China is the longest in the world, at about 165 km?|Danyang–Kunshan Grand Bridge|Hong Kong–Zhuhai–Macau Bridge;Lake Pontchartrain Causeway;Akashi Kaikyō Bridge|Danyang Kunshan Grand Bridge;Danyang-Kunshan
+geo|3|Which bridge in Louisiana is the longest continuous bridge over water?|Lake Pontchartrain Causeway|Chesapeake Bay Bridge;Seven Mile Bridge;Golden Gate Bridge|Pontchartrain Causeway;Causeway
+geo|2|Which bridge links Prince Edward Island to New Brunswick?|Confederation Bridge|Macdonald Bridge;Champlain Bridge;Ambassador Bridge|Confederation
+geo|3|The Confederation Bridge holds what world record?|Longest bridge over ice-covered water|Longest suspension bridge;Highest bridge in the world;Oldest steel bridge
+geo|3|Which bridge in France is the tallest bridge structure in the world, taller than the Eiffel Tower?|Millau Viaduct|Pont de Normandie;Pont du Gard;Pont Neuf|Millau
+geo|3|Which bridge, opened in China in 2025, became the world's highest, more than 600 m above a canyon river?|Huajiang Grand Canyon Bridge|Millau Viaduct;Duge Bridge;Royal Gorge Bridge|Huajiang
+geo|3|Which bridge in Turkey has the longest suspension span in the world?|1915 Çanakkale Bridge|Bosphorus Bridge;Akashi Kaikyō Bridge;Golden Gate Bridge|Canakkale Bridge;Çanakkale Bridge
+geo|2|In which year did San Francisco's Golden Gate Bridge open?|1937|1927;1947;1957
+geo|3|Which bridge linking Windsor to Detroit is one of North America's busiest border crossings?|Ambassador Bridge|Blue Water Bridge;Peace Bridge;Rainbow Bridge|Ambassador
+geo|3|Which Niagara bridge is named for a natural sight often seen over the falls?|Rainbow Bridge|Peace Bridge;Whirlpool Bridge;Lewiston–Queenston Bridge|Rainbow
+# --- Oldest ---
+his|3|Which West Bank city is often called the oldest city in the world, with walls over 10,000 years old?|Jericho|Damascus;Byblos;Ur
+his|3|Which Syrian capital is one of the oldest continuously inhabited cities on Earth?|Damascus|Aleppo;Baghdad;Beirut
+his|3|What is the oldest known temple site, built in what is now Turkey about 11,500 years ago?|Göbekli Tepe|Stonehenge;Çatalhöyük;Newgrange|Gobekli Tepe
+his|3|Which Newfoundland site is the only confirmed Viking settlement in North America?|L'Anse aux Meadows|Gros Morne;Port au Choix;Signal Hill|L'Anse aux Meadows;Lanse aux Meadows
+his|3|About when did the Vikings settle at L'Anse aux Meadows?|About 1000 AD|About 500 AD;About 1300 AD;About 1500 AD|1000 AD;1000;1021
+his|2|Which city did Samuel de Champlain found in 1608?|Quebec City|Montreal;Trois-Rivières;Halifax|Quebec
+his|3|Which Newfoundland capital claims to be the oldest English-founded city in North America?|St. John's|Halifax;Corner Brook;Placentia|St Johns
+his|3|Which Florida city, founded by the Spanish in 1565, is the oldest continuously inhabited European-founded city in the US?|St. Augustine|Pensacola;Jamestown;Santa Fe|Saint Augustine
+his|3|Which Nova Scotia settlement, founded in 1605, was one of the first permanent European settlements in North America north of Florida?|Port-Royal|Halifax;Lunenburg;Louisbourg|Port Royal
+his|3|Which English settlement in Virginia, founded in 1607, was the first permanent English colony in America?|Jamestown|Plymouth;Roanoke;Williamsburg
+his|3|Which European country has kept almost the same borders since the 1200s, the oldest in Europe?|Portugal|Spain;France;England
+his|3|Which tiny country claims to be the world's oldest republic, founded in 301 AD?|San Marino|Iceland;Switzerland;Andorra
+# --- Richest ---
+spo|2|As of 2026, who is the richest person in the world?|Elon Musk|Jeff Bezos;Larry Ellison;Mark Zuckerberg|Musk
+spo|3|Which 14th-century king of Mali is often called the richest person in history?|Mansa Musa|Sundiata Keita;Sunni Ali;Askia Muhammad|Musa
+spo|3|Which American oil tycoon is often called the richest American in history?|John D. Rockefeller|Andrew Carnegie;Cornelius Vanderbilt;J.P. Morgan|Rockefeller
+spo|3|Which family, owners of Thomson Reuters, is the richest in Canada?|The Thomson family|The Weston family;The Irving family;The Rogers family|Thomson;Thomsons
+spo|2|Which country has the largest economy in the world?|United States|China;Japan;Germany|USA
+spo|2|Which country has the second-largest economy in the world?|China|Japan;Germany;India
+spo|3|Which small European country usually tops the list for income (GDP) per person?|Luxembourg|Switzerland;Norway;Monaco
+spo|3|According to a 2026 wealth report, which city is home to the most millionaires?|New York|London;Tokyo;San Francisco|New York City;NYC
+spo|3|Which company in 2018 became the first US company worth one trillion dollars?|Apple|Amazon;Microsoft;Google
+spo|3|Which chipmaker became the first company worth five trillion dollars, in 2025?|Nvidia|Apple;Microsoft;Intel
+spo|3|Which US airport usually ranks as the world's busiest by passengers?|Atlanta Hartsfield–Jackson|Chicago O'Hare;Los Angeles International;Dubai International|Atlanta;Hartsfield-Jackson
+spo|3|Which is the busiest airport in Canada?|Toronto Pearson|Vancouver International;Montréal–Trudeau;Calgary International|Pearson;YYZ
+spo|3|Which Indian stadium, home to cricket, has the largest seating capacity in the world?|Narendra Modi Stadium|Eden Gardens;Melbourne Cricket Ground;Wembley Stadium|Modi Stadium

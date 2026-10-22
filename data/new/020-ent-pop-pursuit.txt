@@ -1,0 +1,121 @@
+# Pop culture, party-game style — surprising facts, real names, famous firsts
+# --- Stage names & nicknames ---
+ent|2|What is Lady Gaga's real first name?|Stefani|Stephanie;Germaine;Angela
+ent|3|What is Elton John's birth name?|Reginald Dwight|Elton Hercules;Reginald Davies;Roger Taylor|Reggie Dwight;Reginald Kenneth Dwight
+ent|3|What is Bruno Mars's real first name?|Peter|Bruno;Pedro;Marcus
+ent|3|Which singer was born Robyn Fenty?|Rihanna|Beyoncé;Ciara;Brandy
+ent|2|Which rapper's real name is Marshall Mathers?|Eminem|50 Cent;Dr. Dre;Snoop Dogg|Slim Shady
+ent|3|Which musician was born Gordon Sumner and nicknamed for a striped sweater?|Sting|Bono;Slash;Seal
+ent|3|Which U2 singer's real name is Paul Hewson?|Bono|The Edge;Adam Clayton;Larry Mullen Jr.
+ent|3|Which actor was born Caryn Johnson?|Whoopi Goldberg|Oprah Winfrey;Queen Latifah;Tina Turner|Whoopi
+ent|3|Which actor, born Michael Douglas, changed his name because another actor already had it?|Michael Keaton|Michael Caine;Michael Bublé;Michael Douglas Jr.|Keaton
+ent|3|Why did Michael J. Fox add the "J." to his name?|Another actor was already called Michael Fox|His middle name is James;His agent liked the sound;To honour his father Jay
+ent|2|The Weeknd was born Abel Tesfaye in which city?|Toronto|Montreal;Vancouver;Ottawa
+ent|3|Which actress was born Norma Jeane Mortenson?|Marilyn Monroe|Judy Garland;Doris Day;Jayne Mansfield|Monroe
+# --- Firsts & famous moments ---
+ent|2|What was the first music video ever played on MTV, in 1981?|"Video Killed the Radio Star"|"Thriller";"Take On Me";"Money for Nothing"|Video Killed the Radio Star
+ent|3|Which band sang "Video Killed the Radio Star"?|The Buggles|The Police;The Cars;Duran Duran|Buggles
+ent|2|Which famous 1985 music video shows a girl pulled into a pencil-sketch comic book?|"Take On Me" by a-ha|"Thriller" by Michael Jackson;"Sledgehammer" by Peter Gabriel;"Money for Nothing" by Dire Straits|Take On Me
+ent|3|Which 1984 Apple ad, aired once during the Super Bowl, was directed by Ridley Scott?|"1984"|"Think Different";"Get a Mac";"Hello"|1984
+ent|2|Which fast-food slogan asked "Where's the beef?" in 1984?|Wendy's|McDonald's;Burger King;Harvey's
+ent|2|Which brand's ads said "I'm lovin' it"?|McDonald's|Burger King;KFC;Subway
+ent|2|Which company's slogan is "Just Do It"?|Nike|Adidas;Reebok;Puma
+ent|2|Which brand's commercials asked "Got Milk?"|The California milk board|Nestlé;Dairy Queen;Kraft|Got Milk;California Milk Processor Board
+ent|3|Which candy's ads told you to "Taste the Rainbow"?|Skittles|Smarties;M&M's;Jolly Ranchers
+ent|3|Which cereal's mascot says "They're Gr-r-reat!"?|Frosted Flakes|Froot Loops;Corn Pops;Honey Nut Cheerios|Frosties;Tony the Tiger
+ent|3|Which cereal's mascot is a toucan named Toucan Sam?|Froot Loops|Fruity Pebbles;Trix;Lucky Charms
+ent|3|Which cereal's mascot is a leprechaun?|Lucky Charms|Trix;Cocoa Puffs;Count Chocula
+ent|3|"Silly rabbit, Trix are for..." who?|Kids|Bunnies;Grown-ups;Everyone|Kids!
+ent|2|What does the Energizer Bunny do in its ads?|Keeps going and going|Hops over hurdles;Plays the guitar;Dances with a hat|Keeps going;Keeps on going
+ent|2|Which Canadian store hands out its own paper "money" showing a Scotsman named Sandy McTire?|Canadian Tire|Home Hardware;Zellers;Sears
+ent|3|Which Canadian brand's 2000 "Rant" ad ended with "My name is Joe, and I am Canadian"?|Molson Canadian|Labatt Blue;Tim Hortons;Roots
+ent|3|Which iconic 1970s ad had kids on a hilltop singing "I'd like to buy the world a Coke"?|Coca-Cola|Pepsi;Sprite;7 Up|Coke
+# --- TV deep cuts ---
+ent|3|In "Friends", what is the name of Joey's stuffed penguin?|Hugsy|Waddles;Pengy;Flipper
+ent|3|In "Friends", which character was "on a break"?|Ross|Chandler;Joey;Phoebe|Ross Geller
+ent|2|What does Phoebe sing about in her most famous "Friends" song?|Smelly Cat|Stinky Dog;Ugly Duck;Funky Fish
+ent|3|In "Seinfeld", what holiday did Frank Costanza invent "for the rest of us"?|Festivus|Kwanzaa;Boxing Day;Holidaze
+ent|3|What is the traditional Festivus decoration instead of a tree?|An aluminum pole|A wooden spoon;A tinsel wreath;A string of chili peppers|Pole;Aluminum pole;Festivus pole
+ent|3|In "The Office", what does Dwight Schrute grow on his farm?|Beets|Potatoes;Corn;Turnips
+ent|2|In "The Simpsons", what colour is Marge's hair?|Blue|Purple;Green;Red
+ent|3|What is the name of Homer Simpson's boss?|Mr. Burns|Mr. Smithers;Mr. Flanders;Mr. Skinner|Montgomery Burns;Burns
+ent|3|Which kids' show had a purple dinosaur who sang "I Love You, You Love Me"?|Barney & Friends|Dinosaur Train;Land Before Time;Sesame Street|Barney
+ent|2|In "SpongeBob SquarePants", where does SpongeBob live?|In a pineapple under the sea|In a coconut;In a rock;In a tiki head|Pineapple
+ent|2|What is the name of SpongeBob's pet snail?|Gary|Larry;Sheldon;Pat
+ent|3|Which PBS cartoon about an aardvark was animated in Montreal?|Arthur|Franklin;Caillou;Babar
+ent|3|Which Canadian cartoon is about a turtle who can count by twos and tie his shoes?|Franklin|Caillou;Arthur;Max & Ruby
+ent|3|Which bald four-year-old cartoon character was created in Quebec?|Caillou|Charlie Brown;Arthur;Little Bill
+ent|2|Which Disney Channel show starred Miley Cyrus as a secret pop star?|Hannah Montana|iCarly;Lizzie McGuire;That's So Raven
+ent|3|Which TV show taught that "there's always money in the banana stand"?|Arrested Development|The Office;Parks and Recreation;30 Rock
+ent|3|Which "Parks and Recreation" character loves breakfast food and hates the government?|Ron Swanson|Andy Dwyer;Ben Wyatt;Tom Haverford|Ron
+ent|2|What colour is the TARDIS in "Doctor Who"?|Blue|Red;Green;Black
+ent|3|What does TARDIS stand for?|Time And Relative Dimension In Space|Time And Radio Distance In Space;Travel Anywhere Relative Dimension In Space;Time Altering Robotic Device In Space
+ent|2|Which show's opening ends with the family rushing to the couch in a different gag each week?|The Simpsons|Family Guy;King of the Hill;Married... with Children|Simpsons
+ent|3|Which TV chef shouted at contestants on "Hell's Kitchen"?|Gordon Ramsay|Jamie Oliver;Bobby Flay;Guy Fieri|Ramsay
+ent|3|Which TV show's cast were the "Not Ready for Prime Time Players"?|Saturday Night Live|SCTV;The Carol Burnett Show;In Living Color|SNL
+ent|3|Which Canadian created "Saturday Night Live"?|Lorne Michaels|Dan Aykroyd;Martin Short;Mike Myers|Michaels
+# --- Movies ---
+ent|3|Which future US president had a cameo in "Home Alone 2", giving Kevin directions in the Plaza Hotel?|Donald Trump|Macaulay Culkin;Joe Pesci;Tim Curry|Trump
+ent|2|In "Jurassic Park", which dinosaur hunts the kids in the kitchen?|Velociraptors|T. rex;Dilophosaurus;Triceratops|Raptors;Velociraptor
+ent|3|Which 1993 film's tagline was "An adventure 65 million years in the making"?|Jurassic Park|The Land Before Time;Dinosaur;King Kong
+ent|2|In "The Karate Kid", who teaches Daniel to "wax on, wax off"?|Mr. Miyagi|Johnny Lawrence;Sensei Kreese;Mr. Han|Miyagi
+ent|2|What is the name of the boy wizard's owl in "Harry Potter"?|Hedwig|Errol;Pigwidgeon;Fawkes
+ent|2|In "The Wizard of Oz", what does the Tin Man want?|A heart|A brain;Courage;A home|Heart
+ent|2|In "Toy Story", what is the name of the evil neighbour boy?|Sid|Andy;Al;Lenny
+ent|2|Which animated movie features a rat named Remy who cooks in Paris?|Ratatouille|Flushed Away;An American Tail;The Great Mouse Detective
+ent|3|In "Toy Story", what do the squeaky three-eyed aliens in the arcade machine worship?|The Claw|The Ball;The Light;The Rocket|Claw
+ent|2|In "Up", what lifts Carl's house into the sky?|Balloons|A tornado;Rockets;A giant kite
+ent|2|What kind of animal is Baloo in "The Jungle Book"?|A bear|A panther;A tiger;An elephant|Bear
+ent|2|Which movie features a love story between a robot who compacts trash and a robot named EVE?|WALL-E|Robots;The Iron Giant;Big Hero 6|Wall-E;Wall E
+ent|2|In "Ghostbusters", who are you gonna call?|Ghostbusters|The police;Mom;Slimer
+ent|3|What is the name of the girl who plays chess in "The Queen's Gambit"?|Beth Harmon|Jolene Harmon;Alma Wheatley;Mrs. Deardorff|Beth
+ent|3|Which 1982 film's alien phones home?|E.T. the Extra-Terrestrial|Close Encounters of the Third Kind;Starman;Mac and Me|E.T.;ET
+ent|3|Which Star Wars droid is a gold humanoid fluent in over six million forms of communication?|C-3PO|R2-D2;BB-8;K-2SO|C3PO;See-Threepio
+ent|3|Which actor has played both Wolverine and P.T. Barnum?|Hugh Jackman|Ryan Reynolds;Russell Crowe;Chris Hemsworth|Jackman
+ent|3|Which actor played Jack Sparrow in "Pirates of the Caribbean"?|Johnny Depp|Orlando Bloom;Geoffrey Rush;Javier Bardem|Depp
+ent|3|Which Canadian actor voiced Shrek? (Hint: he also played Wayne.)|Mike Myers|Eddie Murphy;Jim Carrey;Dan Aykroyd|Myers
+ent|3|Which Canadian-born actor played Deadpool?|Ryan Reynolds|Ryan Gosling;Hugh Jackman;Seth Rogen|Reynolds
+ent|3|Which Canadian actor co-wrote "Superbad" and "Pineapple Express"?|Seth Rogen|Michael Cera;Jay Baruchel;Ryan Reynolds|Rogen
+ent|3|Which Canadian actress starred in "The Notebook" and "Mean Girls"?|Rachel McAdams|Ellen Page;Sandra Oh;Nina Dobrev|McAdams
+ent|2|In "Mean Girls", what colour do they wear on Wednesdays?|Pink|Black;Purple;White
+ent|3|Which Canadian actress played Cristina Yang on "Grey's Anatomy"?|Sandra Oh|Rachel McAdams;Tatiana Maslany;Kristin Kreuk|Oh
+# --- Music ---
+ent|2|Which singer's fans are called the "Beyhive"?|Beyoncé|Rihanna;Lizzo;Nicki Minaj|Beyonce
+ent|2|Which boy band sang "I Want It That Way"?|Backstreet Boys|*NSYNC;98 Degrees;New Kids on the Block|Backstreet;BSB
+ent|2|Which boy band featured a young Justin Timberlake?|*NSYNC|Backstreet Boys;98 Degrees;Boyz II Men|NSYNC;N Sync
+ent|2|Which singer had hits with "...Baby One More Time" and "Toxic"?|Britney Spears|Christina Aguilera;Jessica Simpson;Mandy Moore|Britney
+ent|3|Which band's song "Don't Stop Believin'" has a "small-town girl" and a "city boy"?|Journey|Boston;Foreigner;REO Speedwagon
+ent|2|Which singer wore a single sparkly white glove?|Michael Jackson|Prince;Elton John;Madonna|Jackson
+ent|3|Which musician changed his name to an unpronounceable symbol in 1993?|Prince|Seal;Sting;Beck
+ent|3|Who sang the original 1991 "Life Is a Highway", later covered for Pixar's "Cars"?|Tom Cochrane|Bryan Adams;Corey Hart;Kim Mitchell|Cochrane
+ent|3|Which Canadian singer wore his sunglasses at night?|Corey Hart|Bryan Adams;Gowan;Platinum Blonde|Hart
+ent|3|Which Winnipeg band had a No. 1 hit with "American Woman"?|The Guess Who|Bachman–Turner Overdrive;April Wine;Trooper|Guess Who
+ent|3|Which Canadian band had a hit with "You Ain't Seen Nothing Yet"?|Bachman–Turner Overdrive|The Guess Who;Loverboy;Triumph|BTO;Bachman Turner Overdrive
+ent|3|Which Canadian band's biggest hit was "Working for the Weekend"?|Loverboy|Triumph;Honeymoon Suite;Glass Tiger
+ent|3|Which Canadian trio from Toronto sang "Tom Sawyer" and "Limelight"?|Rush|Triumph;Saga;Max Webster
+ent|3|Which Canadian singer hit #1 with "Sometimes When We Touch"?|Dan Hill|Gordon Lightfoot;Paul Anka;Burton Cummings
+ent|3|Which Ottawa-born singer wrote the English words to Frank Sinatra's "My Way"?|Paul Anka|Gordon Lightfoot;Leonard Cohen;Neil Young|Anka
+ent|3|Which Montreal poet and singer wrote "Hallelujah"?|Leonard Cohen|Rufus Wainwright;Jeff Buckley;Neil Young|Cohen
+ent|3|Which Canadian sang "Heart of Gold" and "Harvest Moon"?|Neil Young|Gordon Lightfoot;Leonard Cohen;Bruce Cockburn|Young
+ent|3|Which Canadian singer-songwriter wrote "Big Yellow Taxi" and "Both Sides Now"?|Joni Mitchell|Anne Murray;k.d. lang;Buffy Sainte-Marie|Mitchell
+ent|3|Which Nova Scotia singer had a hit with "Snowbird"?|Anne Murray|Rita MacNeil;Sarah McLachlan;Shania Twain|Murray
+ent|2|Which song does Rick Astley sing in the internet prank called "Rickrolling"?|Never Gonna Give You Up|Together Forever;Take On Me;Don't You Want Me|Never Gonna Give You Up
+ent|3|What dance went viral after Psy's 2012 hit?|The horse-riding dance|The Floss;The Dougie;The Macarena|Gangnam Style;Horse dance
+ent|3|Which 2019 song by Lil Nas X spent a then-record 19 weeks at No. 1 in the US?|Old Town Road|Panini;Montero;Rodeo
+ent|3|Which Canadian singer had a 2015 hit with "Hotline Bling"?|Drake|The Weeknd;Justin Bieber;Shawn Mendes
+# --- Comics, games & fads ---
+ent|2|What is Superman's home planet?|Krypton|Mars;Thanagar;Oa
+ent|2|What is Batman's secret identity?|Bruce Wayne|Clark Kent;Peter Parker;Tony Stark|Wayne
+ent|3|Which Toronto-born artist co-created Superman in 1938?|Joe Shuster|Jerry Siegel;Bob Kane;Jack Kirby|Shuster
+ent|3|Superman's newspaper, the Daily Planet, was was originally the Daily Star, named after which real paper?|Toronto Daily Star|Globe and Mail;Toronto Sun;National Post|The Toronto Star;Toronto Star
+ent|2|Which comic strip features a lasagna-loving cat?|Garfield|Heathcliff;Peanuts;Calvin and Hobbes
+ent|2|What is the name of Charlie Brown's dog?|Snoopy|Odie;Marmaduke;Spike
+ent|3|In "Calvin and Hobbes", what kind of animal is Hobbes?|A tiger|A lion;A bear;A raccoon|Tiger
+ent|2|Which teddy-bear-like collectibles from Ty sold by the millions in the 1990s?|Beanie Babies|Care Bears;Webkinz;Pound Puppies
+ent|2|What were the round cardboard discs kids collected and played with in the '90s?|Pogs|Tazos;Tiddlywinks;Slammers|Pog
+ent|3|Which 2017 craze was a toy you spin between your fingers?|Fidget spinner|Yo-yo;Beyblade;Bop It|Fidget spinners
+ent|3|Which 2014 viral challenge involved dumping cold water on your head for ALS research?|Ice Bucket Challenge|Cinnamon Challenge;Mannequin Challenge;Polar Plunge Challenge|Ice bucket
+ent|3|In 2016, which challenge had people freeze in place on video?|Mannequin Challenge|Ice Bucket Challenge;Planking;Harlem Shake|Mannequin
+ent|3|Which 2011 fad involved lying face-down, stiff as a board, in odd places?|Planking|Owling;Tebowing;Dabbing
+ent|3|Which video game console was sold with Wii Sports and motion-sensing remotes?|Nintendo Wii|PlayStation 3;Xbox 360;Nintendo GameCube|Wii
+ent|3|Which Nintendo game console let you take it on the go and dock it to a TV?|Nintendo Switch|Wii U;Game Boy Advance;PlayStation Vita|Switch
