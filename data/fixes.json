@@ -1,175 +1,183 @@
 {
- "1fxtuw4": {
-  "a": "India",
-  "w": [
-   "China",
-   "United States",
-   "Indonesia"
-  ],
-  "why": "India passed China in 2023"
- },
- "oijl1s": {
-  "a": "LeBron James",
-  "w": [
-   "Kareem Abdul-Jabbar",
-   "Michael Jordan",
-   "Kobe Bryant"
-  ],
-  "alt": [
-   "LeBron",
-   "James"
-  ],
-  "why": "LeBron passed Kareem in 2023"
- },
- "tl4s19": {
-  "drop": true,
-  "why": "duplicate of NBA scoring question; was outdated"
- },
- "1djkhci": {
-  "drop": true,
-  "why": "wrong: It is set in Derry, not Castle Rock"
- },
- "yof7xn": {
-  "q": "Which 17th-century Dutch painter is known for his self-portraits and \"The Night Watch\"?",
-  "why": "Rembrandt was 17th century, not 16th"
- },
- "1eu1a6g": {
-  "q": "Which country has the most time zones across one continuous stretch of land?",
-  "why": "France has more counting overseas territories"
- },
- "qtwvwr": {
-  "q": "Along with Vatican City, which country has a square national flag?",
-  "why": "Vatican City's flag is square too"
- },
- "ssz3o6": {
-  "q": "Who completed the first voyage around the world after Ferdinand Magellan was killed on the way?",
-  "a": "Juan Sebastián Elcano",
-  "w": [
-   "Francis Drake",
-   "Vasco da Gama",
-   "Amerigo Vespucci"
-  ],
-  "alt": [
-   "Elcano",
-   "Juan Sebastian Elcano"
-  ],
-  "why": "Magellan died before completing the circumnavigation"
- },
- "11jlwqp": {
-  "drop": true,
-  "why": "Magellan did not complete the circumnavigation"
- },
- "pdon2u": {
-  "q": "Which programming language were Android apps originally written in?",
-  "why": "Android OS is mostly C/C++; apps were Java"
- },
- "sc0x9u": {
-  "q": "Which Chinese policy, ended in 2015, limited most couples to having only one child?",
-  "why": "policy has ended"
- },
- "1b7j0y2": {
-  "q": "What is the name of the trophy awarded to the FIFA World Cup winner today?",
-  "a": "FIFA World Cup Trophy",
-  "alt": [
-   "World Cup Trophy",
-   "The World Cup"
-  ],
-  "why": "Jules Rimet trophy was retired in 1970"
- },
- "9v0nyj": {
-  "q": "Who succeeded Hugo Chávez as President of Venezuela in 2013?",
-  "why": "'has served since 2013' may be out of date"
- },
- "mxhkiu": {
-  "q": "Which element is the rarest naturally occurring element in Earth's crust, with less than a gram present at any time?",
-  "why": "the percentage given was wrong"
- },
- "jnv7oy": {
-  "q": "This American composer is known for minimalist works such as the opera \"Einstein on the Beach\" and \"Glassworks\".",
-  "why": "Music for 18 Musicians is by Steve Reich, not Glass"
- },
- "t47e7b": {
-  "drop": true,
-  "why": "duplicate of Gravity's Rainbow question"
- },
- "12fhyhx": {
-  "drop": true,
-  "why": "Ulysses asked 4 times"
- },
- "1azcth8": {
-  "drop": true,
-  "why": "Ulysses asked 4 times"
- },
- "1i623vm": {
-  "drop": true,
-  "why": "Ulysses asked 4 times"
- },
- "li0yue": {
-  "drop": true,
-  "why": "Inca asked many times"
- },
- "bfasml": {
-  "drop": true,
-  "why": "Inca asked many times"
- },
- "1kjmizx": {
-  "drop": true,
-  "why": "Maya asked many times"
- },
- "1uiqrft": {
-  "drop": true,
-  "why": "Maya asked many times"
- },
- "11o0gjs": {
-  "drop": true,
-  "why": "Rome asked many times"
- },
- "t16i4l": {
-  "drop": true,
-  "why": "Rome asked many times"
- },
- "18im38w": {
-  "drop": true,
-  "why": "Petra asked 3 times"
- },
- "ruegk": {
-  "drop": true,
-  "why": "Machu Picchu duplicate"
- },
- "1usz5wc": {
-  "drop": true,
-  "why": "Confucius duplicate"
- },
- "bckwwg": {
-  "drop": true,
-  "why": "Higgs boson asked 3 times"
- },
- "1r6i1tw": {
-  "q": "This Irish revolutionary fought in the 1916 Easter Rising and became the first woman elected to the British House of Commons.",
-  "why": "she was a participant, not one of 'the leaders'"
- },
- "9kgjgu": {
-  "q": "This Icelandic-born programmer co-founded the web browser company Opera Software and later Vivaldi.",
-  "why": "he is Icelandic-born, not Norwegian"
- },
- "1f6kpe5": {
-  "q": "A village whose 58-letter railway-station name begins \"Llanfair...\" is in which country?",
-  "why": "question gave away the answer"
- },
- "1ufwl09": {
-  "drop": true,
-  "why": "Kurt Russell is usually said to have been considered for Han Solo; claim uncertain"
- },
- "jkjcu8": {
-  "drop": true,
-  "why": "duplicate of Burj Khalifa height question"
- },
- "10xn881": {
-  "drop": true,
-  "why": "unverifiable sales claim"
- },
- "83ylvs": {
-  "drop": true,
-  "why": "record changed hands Oct 2026 (Endgame re-release vs Avatar); too volatile"
- }
+  "1fxtuw4": {
+    "a": "India",
+    "w": [
+      "China",
+      "United States",
+      "Indonesia"
+    ],
+    "why": "India passed China in 2023"
+  },
+  "oijl1s": {
+    "a": "LeBron James",
+    "w": [
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "Kobe Bryant"
+    ],
+    "alt": [
+      "LeBron",
+      "James"
+    ],
+    "why": "LeBron passed Kareem in 2023"
+  },
+  "tl4s19": {
+    "drop": true,
+    "why": "duplicate of NBA scoring question; was outdated"
+  },
+  "1djkhci": {
+    "drop": true,
+    "why": "wrong: It is set in Derry, not Castle Rock"
+  },
+  "yof7xn": {
+    "q": "Which 17th-century Dutch painter is known for his self-portraits and \"The Night Watch\"?",
+    "why": "Rembrandt was 17th century, not 16th"
+  },
+  "1eu1a6g": {
+    "q": "Which country has the most time zones across one continuous stretch of land?",
+    "why": "France has more counting overseas territories"
+  },
+  "qtwvwr": {
+    "q": "Along with Vatican City, which country has a square national flag?",
+    "why": "Vatican City's flag is square too"
+  },
+  "ssz3o6": {
+    "q": "Who completed the first voyage around the world after Ferdinand Magellan was killed on the way?",
+    "a": "Juan Sebastián Elcano",
+    "w": [
+      "Francis Drake",
+      "Vasco da Gama",
+      "Amerigo Vespucci"
+    ],
+    "alt": [
+      "Elcano",
+      "Juan Sebastian Elcano"
+    ],
+    "why": "Magellan died before completing the circumnavigation"
+  },
+  "11jlwqp": {
+    "drop": true,
+    "why": "Magellan did not complete the circumnavigation"
+  },
+  "pdon2u": {
+    "q": "Which programming language were Android apps originally written in?",
+    "why": "Android OS is mostly C/C++; apps were Java"
+  },
+  "sc0x9u": {
+    "q": "Which Chinese policy, ended in 2015, limited most couples to having only one child?",
+    "why": "policy has ended"
+  },
+  "1b7j0y2": {
+    "q": "What is the name of the trophy awarded to the FIFA World Cup winner today?",
+    "a": "FIFA World Cup Trophy",
+    "alt": [
+      "World Cup Trophy",
+      "The World Cup"
+    ],
+    "why": "Jules Rimet trophy was retired in 1970"
+  },
+  "9v0nyj": {
+    "q": "Who succeeded Hugo Chávez as President of Venezuela in 2013?",
+    "why": "'has served since 2013' may be out of date"
+  },
+  "mxhkiu": {
+    "q": "Which element is the rarest naturally occurring element in Earth's crust, with less than a gram present at any time?",
+    "why": "the percentage given was wrong"
+  },
+  "jnv7oy": {
+    "q": "This American composer is known for minimalist works such as the opera \"Einstein on the Beach\" and \"Glassworks\".",
+    "why": "Music for 18 Musicians is by Steve Reich, not Glass"
+  },
+  "t47e7b": {
+    "drop": true,
+    "why": "duplicate of Gravity's Rainbow question"
+  },
+  "12fhyhx": {
+    "drop": true,
+    "why": "Ulysses asked 4 times"
+  },
+  "1azcth8": {
+    "drop": true,
+    "why": "Ulysses asked 4 times"
+  },
+  "1i623vm": {
+    "drop": true,
+    "why": "Ulysses asked 4 times"
+  },
+  "li0yue": {
+    "drop": true,
+    "why": "Inca asked many times"
+  },
+  "bfasml": {
+    "drop": true,
+    "why": "Inca asked many times"
+  },
+  "1kjmizx": {
+    "drop": true,
+    "why": "Maya asked many times"
+  },
+  "1uiqrft": {
+    "drop": true,
+    "why": "Maya asked many times"
+  },
+  "11o0gjs": {
+    "drop": true,
+    "why": "Rome asked many times"
+  },
+  "t16i4l": {
+    "drop": true,
+    "why": "Rome asked many times"
+  },
+  "18im38w": {
+    "drop": true,
+    "why": "Petra asked 3 times"
+  },
+  "ruegk": {
+    "drop": true,
+    "why": "Machu Picchu duplicate"
+  },
+  "1usz5wc": {
+    "drop": true,
+    "why": "Confucius duplicate"
+  },
+  "bckwwg": {
+    "drop": true,
+    "why": "Higgs boson asked 3 times"
+  },
+  "1r6i1tw": {
+    "q": "This Irish revolutionary fought in the 1916 Easter Rising and became the first woman elected to the British House of Commons.",
+    "why": "she was a participant, not one of 'the leaders'"
+  },
+  "9kgjgu": {
+    "q": "This Icelandic-born programmer co-founded the web browser company Opera Software and later Vivaldi.",
+    "why": "he is Icelandic-born, not Norwegian"
+  },
+  "1f6kpe5": {
+    "q": "A village whose 58-letter railway-station name begins \"Llanfair...\" is in which country?",
+    "why": "question gave away the answer"
+  },
+  "1ufwl09": {
+    "drop": true,
+    "why": "Kurt Russell is usually said to have been considered for Han Solo; claim uncertain"
+  },
+  "jkjcu8": {
+    "drop": true,
+    "why": "duplicate of Burj Khalifa height question"
+  },
+  "10xn881": {
+    "drop": true,
+    "why": "unverifiable sales claim"
+  },
+  "83ylvs": {
+    "drop": true,
+    "why": "record changed hands Oct 2026 (Endgame re-release vs Avatar); too volatile"
+  },
+  "zhd7rc": {
+    "w": [
+      "Kerplunk",
+      "Topple",
+      "Mikado"
+    ],
+    "why": "duplicate distractor spelling"
+  }
 }

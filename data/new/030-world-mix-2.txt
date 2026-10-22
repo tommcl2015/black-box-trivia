@@ -1,0 +1,155 @@
+# World mix 2: geography quirks, history, science, arts, sport
+geo|3|Which country has the most time zones, counting its overseas territories?|France|Russia;the United States;China
+geo|2|Which country is home to the most volcanoes, with over 120 active ones?|Indonesia|Japan;Iceland;Italy
+geo|3|Which is the only country whose flag is not a rectangle?|Nepal|Bhutan;Switzerland;Vatican City
+geo|3|Which country has the longest coastline in the world?|Canada|Australia;Russia;Norway
+geo|2|Which African country has the largest population?|Nigeria|Egypt;Ethiopia;South Africa
+geo|3|Which South American country has two capitals, La Paz and Sucre?|Bolivia|Peru;Ecuador;Paraguay
+geo|3|Which country is completely surrounded by South Africa?|Lesotho|Eswatini;Botswana;Namibia
+geo|3|Which two countries share the world's longest international border?|Canada and the United States|Russia and Kazakhstan;Chile and Argentina;China and Mongolia|Canada and US;USA and Canada
+geo|3|Which city sits on two continents, Europe and Asia?|Istanbul|Cairo;Moscow;Athens
+geo|2|Which is the smallest country in the world?|Vatican City|Monaco;San Marino;Liechtenstein|Vatican;The Vatican
+geo|3|Which country has more pyramids than Egypt?|Sudan|Mexico;Peru;Libya
+geo|3|In which country would you find the world's largest coral reef system?|Australia|Belize;Indonesia;the Philippines
+geo|3|Which river flows through the most countries?|The Danube|The Nile;The Rhine;The Amazon|Danube
+geo|3|Which capital city is the highest above sea level?|La Paz|Quito;Bogotá;Kathmandu
+geo|3|Which country has the most islands in the world?|Sweden|Norway;Indonesia;the Philippines
+geo|2|Which country is shaped like a boot?|Italy|Greece;Portugal;Chile
+geo|2|Which country is long and thin, stretching about 4,300 km down South America's west coast?|Chile|Peru;Argentina;Ecuador
+geo|3|Which country has the most lakes in the world?|Canada|Finland;Russia;Sweden
+geo|3|Which European capital is split by the Danube into two halves once called Buda and Pest?|Budapest|Vienna;Bratislava;Belgrade
+geo|3|What is the only sea with no coastline, bounded by ocean currents?|The Sargasso Sea|The Coral Sea;The Dead Sea;The Bering Sea|Sargasso Sea;Sargasso
+geo|3|Which landlocked country has the largest area?|Kazakhstan|Mongolia;Chad;Bolivia
+geo|3|Which city is the southernmost capital of a country?|Wellington|Canberra;Buenos Aires;Cape Town
+geo|3|Which city is the northernmost capital of a country?|Reykjavík|Oslo;Helsinki;Tallinn|Reykjavik
+geo|2|Which ocean lies between Africa and Australia?|The Indian Ocean|The Pacific Ocean;The Atlantic Ocean;The Southern Ocean|Indian;Indian Ocean
+geo|3|What is the capital of Australia's Northern Territory?|Darwin|Alice Springs;Cairns;Broome
+geo|2|What is the world's largest hot desert?|The Sahara|The Gobi;The Kalahari;The Arabian Desert|Sahara
+geo|3|What is the largest desert of any kind, including cold deserts?|Antarctica|The Sahara;The Arctic;The Gobi|Antarctic Desert
+geo|3|Which waterfall is the tallest in the world?|Angel Falls|Victoria Falls;Niagara Falls;Iguazu Falls
+geo|2|Which mountain range separates Europe from Asia in Russia?|The Ural Mountains|The Caucasus;The Alps;The Carpathians|Urals;Ural Mountains
+geo|3|Which is the deepest point in the world's oceans?|The Challenger Deep (Mariana Trench)|The Puerto Rico Trench;The Java Trench;The Tonga Trench|Challenger Deep;Mariana Trench
+his|2|In which year did the Berlin Wall fall?|1989|1987;1991;1985
+his|2|In which year did the Titanic sink?|1912|1905;1915;1921
+his|3|Which empire was ruled from Constantinople for over 1,000 years?|The Byzantine Empire|The Ottoman Empire;The Roman Republic;The Persian Empire|Byzantine;Eastern Roman Empire
+his|3|Which plague killed about a third of Europe's population in the 1300s?|The Black Death|The Spanish flu;Smallpox;Cholera|Black Death;Bubonic plague
+his|2|Which wall did the Romans build across northern England?|Hadrian's Wall|The Antonine Wall;Offa's Dyke;The Great Wall
+his|3|Who was the first woman to win a Nobel Prize?|Marie Curie|Rosalind Franklin;Florence Nightingale;Ada Lovelace|Curie
+his|3|Who is often called the first computer programmer?|Ada Lovelace|Alan Turing;Grace Hopper;Charles Babbage|Lovelace
+his|3|Which code-breaker helped crack the Enigma machine in WWII?|Alan Turing|John von Neumann;Charles Babbage;Tim Berners-Lee|Turing
+his|3|Which city was destroyed by Mount Vesuvius in AD 79?|Pompeii|Rome;Naples;Carthage
+his|3|Which ancient wonder stood at the harbour of Rhodes?|The Colossus of Rhodes|The Lighthouse of Alexandria;The Hanging Gardens;The Mausoleum|Colossus of Rhodes;The Colossus
+his|3|Which is the only one of the Seven Wonders of the Ancient World still standing?|The Great Pyramid of Giza|The Colossus of Rhodes;The Lighthouse of Alexandria;The Temple of Artemis|Great Pyramid;Pyramid of Giza
+his|3|Which document, signed in 1215, limited the powers of the English king?|Magna Carta|The Bill of Rights;Domesday Book;The Act of Union
+his|3|What was the name of the trade route linking China with the Mediterranean?|The Silk Road|The Spice Road;The Amber Road;The Tea Route|Silk Road;Silk Route
+his|2|Who was the first person to walk on the Moon?|Neil Armstrong|Buzz Aldrin;Yuri Gagarin;Michael Collins|Armstrong
+his|3|What was the flagship of the First Fleet, which brought convicts to Australia in 1788?|HMS Sirius|HMS Beagle;HMS Endeavour;HMS Bounty|Sirius
+his|3|What was the name of the mutinied ship whose crew settled on Pitcairn Island?|HMS Bounty|HMS Beagle;HMS Victory;Mayflower|Bounty;The Bounty
+his|3|Which country gave the Statue of Liberty to the United States?|France|the United Kingdom;Spain;the Netherlands
+his|3|Which revolution began with the storming of the Bastille in 1789?|The French Revolution|The Russian Revolution;The American Revolution;The Glorious Revolution|French Revolution
+his|3|Which revolution in 1917 brought the Bolsheviks to power?|The Russian Revolution (October Revolution)|The French Revolution;The Chinese Revolution;The Cuban Revolution|Russian Revolution;October Revolution
+his|3|Which country did Mahatma Gandhi lead to independence from Britain in 1947?|India|Pakistan;Sri Lanka;Kenya
+his|3|Which Chinese leader launched the "Great Leap Forward"?|Mao Zedong|Deng Xiaoping;Sun Yat-sen;Chiang Kai-shek|Mao
+his|3|Which explorer is credited with the first European sea voyage to India, in 1498?|Vasco da Gama|Christopher Columbus;Bartolomeu Dias;Ferdinand Magellan|da Gama
+his|3|What did the Wright brothers fly in 1903 at Kitty Hawk?|The first powered aeroplane|The first hot air balloon;The first helicopter;The first glider|An airplane;Aeroplane;Airplane
+his|3|Which famous ocean liner was nicknamed "unsinkable"?|Titanic|Lusitania;Queen Mary;Britannic|RMS Titanic
+his|3|In which country did the Olympic Games begin, in ancient times?|Greece|Italy;Egypt;Turkey
+his|3|Which famous British nurse improved hospital hygiene in the Crimean War?|Florence Nightingale|Mary Seacole;Edith Cavell;Clara Barton|Nightingale
+his|4|Which Jamaican-born nurse also cared for soldiers in the Crimean War?|Mary Seacole|Florence Nightingale;Edith Cavell;Clara Barton|Seacole
+sci|2|What is the closest star to Earth?|The Sun|Proxima Centauri;Sirius;Polaris|Sun
+sci|3|What is the closest star to the Sun?|Proxima Centauri|Sirius;Betelgeuse;Alpha Centauri A
+sci|2|What is the brightest star in the night sky?|Sirius|Polaris;Betelgeuse;Vega
+sci|3|Which star is known as the North Star?|Polaris|Sirius;Vega;Rigel
+sci|2|What is the name of our galaxy?|The Milky Way|Andromeda;Orion;The Whirlpool|Milky Way
+sci|3|What is the nearest large galaxy to the Milky Way?|Andromeda|Triangulum;Sombrero;Whirlpool|Andromeda Galaxy
+sci|3|Which planet has a day longer than its year?|Venus|Mercury;Mars;Neptune
+sci|3|Which planet spins on its side?|Uranus|Neptune;Saturn;Venus
+sci|3|What is the name of the giant storm on Jupiter?|The Great Red Spot|The Great Dark Spot;The Eye;The Hexagon|Great Red Spot;Red Spot
+sci|3|What shape is the storm at Saturn's north pole?|A hexagon|A circle;A square;A triangle|Hexagon
+sci|2|How long does light from the Sun take to reach Earth?|About 8 minutes|About 8 seconds;About 1 hour;About 1 day|8 minutes;Eight minutes
+sci|3|What is a light-year a measure of?|Distance|Time;Brightness;Speed
+sci|2|What do bees collect from flowers to make honey?|Nectar|Pollen;Sap;Dew
+sci|2|What is a baby frog called?|Tadpole|Froglet;Kit;Cub|Polliwog
+sci|2|How many legs does an insect have?|6|8;4;10|Six
+sci|2|How many legs does a spider have?|8|6;10;12|Eight
+sci|3|Which bird lays the largest eggs?|Ostrich|Emu;Albatross;Eagle
+sci|2|What is the largest planet in our solar system?|Jupiter|Saturn;Neptune;Uranus
+sci|3|Which tree produces acorns?|Oak|Maple;Beech;Chestnut|Oak tree
+sci|3|Which tree's leaf is on Canada's flag?|Maple|Oak;Birch;Pine|Maple tree;Sugar maple
+sci|3|Which plant is the fastest-growing in the world?|Bamboo|Kelp;Sunflower;Ivy
+sci|3|What is the world's tallest species of tree?|Coast redwood|Giant sequoia;Douglas fir;Mountain ash|Redwood;Sequoia sempervirens
+sci|3|Which is the world's biggest tree by volume, named General Sherman?|A giant sequoia|A coast redwood;A baobab;A kauri|Giant sequoia;Sequoia
+sci|3|What gives chilli peppers their heat?|Capsaicin|Caffeine;Menthol;Citric acid
+sci|3|What makes onions make you cry?|A sulphur gas released when cut|Their acidity;Pollen inside them;Salt in the skin|Sulfur;Sulphur;Sulfur compounds
+sci|3|What gas makes bread rise?|Carbon dioxide|Oxygen;Nitrogen;Helium|CO2
+sci|3|What is the main ingredient in glass?|Sand (silica)|Salt;Limestone;Clay|Sand;Silica
+sci|3|What is the hardest natural substance?|Diamond|Quartz;Granite;Titanium
+sci|3|Which element has the chemical symbol "Au"?|Gold|Silver;Aluminium;Argon
+sci|3|Which element has the chemical symbol "Fe"?|Iron|Fluorine;Lead;Francium
+sci|3|Which element has the chemical symbol "Na"?|Sodium|Nitrogen;Neon;Nickel
+art|2|Who painted "The Starry Night"?|Vincent van Gogh|Claude Monet;Paul Gauguin;Edvard Munch|Van Gogh
+art|2|Which artist cut off part of his own ear?|Vincent van Gogh|Pablo Picasso;Salvador Dalí;Paul Cézanne|Van Gogh
+art|3|Which artist is famous for paintings of water lilies?|Claude Monet|Édouard Manet;Pierre-Auguste Renoir;Edgar Degas|Monet
+art|3|Which artist is famous for paintings of ballet dancers?|Edgar Degas|Claude Monet;Henri Matisse;Paul Cézanne|Degas
+art|3|Which Spanish artist painted melting clocks?|Salvador Dalí|Pablo Picasso;Joan Miró;Francisco Goya|Dali;Dalí
+art|3|Which painting by Picasso shows the bombing of a Spanish town?|Guernica|The Old Guitarist;Les Demoiselles d'Avignon;The Weeping Woman
+art|3|Which Mexican artist is famous for her self-portraits?|Frida Kahlo|Diego Rivera;Remedios Varo;Leonora Carrington|Kahlo
+art|3|Which pop artist painted Campbell's soup cans?|Andy Warhol|Roy Lichtenstein;Keith Haring;Jasper Johns|Warhol
+art|3|Which anonymous street artist shredded a painting right after it sold at auction?|Banksy|Shepard Fairey;Invader;Keith Haring
+art|2|Which painting by Leonardo da Vinci shows Jesus with his disciples?|The Last Supper|The Mona Lisa;The Creation of Adam;The School of Athens|Last Supper
+art|3|Who painted the ceiling of the Sistine Chapel?|Michelangelo|Raphael;Leonardo da Vinci;Donatello
+art|3|In which museum does the Mona Lisa hang?|The Louvre|The Uffizi;The Prado;The National Gallery|Louvre
+art|3|Which Dutch artist painted "Girl with a Pearl Earring"?|Johannes Vermeer|Rembrandt;Frans Hals;Jan van Eyck|Vermeer
+art|3|What is the name of the Japanese art of paper folding?|Origami|Ikebana;Bonsai;Kirigami
+art|3|What is the Japanese art of flower arranging called?|Ikebana|Origami;Bonsai;Haiku
+art|2|What is a Japanese poem with three lines of 5, 7 and 5 syllables?|Haiku|Tanka;Sonnet;Limerick
+art|3|How many lines does a sonnet have?|14|12;10;16|Fourteen
+art|3|What is a five-line funny poem with an AABBA rhyme called?|Limerick|Haiku;Sonnet;Ode
+art|3|Who wrote the "Harry Potter" books?|J.K. Rowling|Roald Dahl;Philip Pullman;C.S. Lewis|Rowling;JK Rowling
+art|3|Which author created Hercule Poirot and Miss Marple?|Agatha Christie|Arthur Conan Doyle;Dorothy L. Sayers;P.D. James|Christie
+art|3|Which writer created Sherlock Holmes?|Arthur Conan Doyle|Agatha Christie;Edgar Allan Poe;Charles Dickens|Conan Doyle;Sir Arthur Conan Doyle
+art|3|Which French author wrote "The Little Prince"?|Antoine de Saint-Exupéry|Jules Verne;Victor Hugo;Albert Camus|Saint-Exupery;Saint-Exupéry
+art|3|Which Belgian comic hero has a dog called Snowy?|Tintin|Asterix;Lucky Luke;Spirou
+art|3|Which French comic follows a small Gaul who drinks a magic potion?|Asterix|Tintin;Lucky Luke;The Smurfs|Asterix the Gaul
+art|3|Which little blue creatures were created by the Belgian artist Peyo?|The Smurfs|The Moomins;The Snorks;The Fraggles|Smurfs
+art|3|The Moomins were created by a writer from which country?|Finland|Sweden;Norway;Denmark
+art|3|Which language has the most native speakers in the world?|Mandarin Chinese|English;Spanish;Hindi|Mandarin;Chinese
+art|3|Which alphabet is used to write Russian?|Cyrillic|Latin;Greek;Arabic
+art|3|Which language is written with the Hangul alphabet?|Korean|Japanese;Chinese;Thai
+spo|2|How many players are on a basketball team on court?|5|6;7;4|Five
+spo|2|How many rings are on the Olympic flag?|5|4;6;7|Five
+spo|3|How often are the Summer Olympics held?|Every four years|Every two years;Every three years;Every five years|4 years;Four years
+spo|2|In which sport do players use a puck?|Ice hockey|Lacrosse;Curling;Polo|Hockey
+spo|3|How long is a marathon?|42.195 km (26.2 miles)|40 km (24.9 miles);50 km (31 miles);36.5 km (22.7 miles)|42.195 km;26.2 miles;42 km
+spo|3|Which country has won the most men's FIFA World Cups?|Brazil|Germany;Italy;Argentina
+spo|3|Which country has won the most Olympic gold medals overall?|The United States|The Soviet Union;China;Germany|United States;USA;US
+spo|3|What colour belt is the highest in most karate schools?|Black|Red;Brown;White
+spo|3|Which sport is played at Wimbledon?|Tennis|Golf;Cricket;Croquet
+spo|3|Which sport uses the terms "stumps" and "bails"?|Cricket|Croquet;Baseball;Rounders
+spo|3|How many holes are on a standard golf course?|18|9;12;24|Eighteen
+spo|3|In which sport is the Stanley Cup awarded?|Ice hockey|Baseball;Basketball;American football|Hockey
+spo|3|Which country is the home of sumo wrestling?|Japan|China;Mongolia;South Korea
+spo|3|Which martial art's name means "the gentle way"?|Judo|Karate;Taekwondo;Aikido
+spo|3|Which martial art comes from Korea?|Taekwondo|Karate;Judo;Kung fu
+spo|3|Which South American country is famous for capoeira, a mix of dance and martial arts?|Brazil|Argentina;Colombia;Peru
+spo|3|Which sport is played on the largest field of any team sport?|Polo|Cricket;Australian rules football;American football
+spo|3|In which sport might you perform a "Salchow" or an "axel"?|Figure skating|Gymnastics;Diving;Ballet|Ice skating
+spo|3|How many balls are on the table at the start of a snooker frame?|22|15;16;21|Twenty-two
+spo|3|How many points is the black ball worth in snooker?|7|5;6;10|Seven
+spo|3|In darts, what is the highest score possible with three darts?|180|150;160;200
+spo|3|What is the maximum score in a single game of ten-pin bowling?|300|200;250;100
+spo|3|Which country invented the sport of curling?|Scotland|Canada;Switzerland;Norway
+spo|3|How long is an Olympic swimming pool?|50 metres|25 metres;100 metres;75 metres|50 m;50
+ent|3|Which board game has the most expensive properties called Mayfair and Park Lane in the UK?|Monopoly|Cluedo;The Game of Life;Risk
+ent|3|What is the name of the coffee shop in "Friends"?|Central Perk|Central Park;Café Nervosa;Monk's Café
+ent|3|Which TV show features dragons and the Iron Throne?|Game of Thrones|The Witcher;Vikings;The Last Kingdom
+ent|3|Which streaming series follows kids in 1980s Hawkins fighting the Upside Down?|Stranger Things|Dark;Locke & Key;The OA
+ent|3|Which South Korean survival drama became Netflix's most-watched series in 2021?|Squid Game|Alice in Borderland;Kingdom;All of Us Are Dead
+ent|3|Which Spanish series follows a gang robbing the Royal Mint of Spain?|Money Heist (La Casa de Papel)|Elite;Narcos;The Crown|Money Heist;La Casa de Papel
+ent|3|Which German Netflix series about time travel is set in the town of Winden?|Dark|Babylon Berlin;1899;Biohackers
+ent|3|What colour is the Pac-Man character?|Yellow|Red;Blue;Green
+ent|3|What is the name of Mario's dinosaur friend?|Yoshi|Toad;Bowser;Wario
+ent|3|What is the name of the princess Mario often rescues?|Princess Peach|Princess Daisy;Princess Zelda;Rosalina|Peach
+ent|3|Which Pokémon is famously yellow with red cheeks?|Pikachu|Jigglypuff;Psyduck;Raichu
+ent|3|What does the "N" in "NES" stand for?|Nintendo|National;New;Network
+
