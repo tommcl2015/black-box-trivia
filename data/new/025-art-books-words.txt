@@ -1,0 +1,93 @@
+# Arts & literature — kids' books, classics, famous lines, bestsellers, art, architecture and words
+# --- Kids' books ---
+art|1|Which Dr. Seuss character stole Christmas?|The Grinch|The Cat in the Hat;The Lorax;Horton|Grinch
+art|2|In Dr. Seuss's book, what does Sam-I-Am want someone to eat?|Green eggs and ham|Red fish and blue fish;Who-pudding;Roast beast|Green Eggs and Ham
+art|2|Which Roald Dahl book features a golden ticket and a chocolate factory?|Charlie and the Chocolate Factory|Matilda;The BFG;James and the Giant Peach|Charlie and the Chocolate Factory
+art|2|What are Willy Wonka's small factory workers called?|Oompa-Loompas|Munchkins;Smurfs;Minions|Oompa Loompas
+art|3|In "The BFG", what does BFG stand for?|Big Friendly Giant|Big Funny Giant;Brave Forest Guardian;Big Fat Goblin
+art|2|Which bear loves honey and lives in the Hundred Acre Wood?|Winnie-the-Pooh|Paddington;Baloo;Rupert|Pooh;Winnie the Pooh
+art|3|Which real bear at the London Zoo inspired the name Winnie-the-Pooh?|Winnipeg|Winifred;Winston;Wilhelmina|Winnie
+art|2|Which bear from "darkest Peru" loves marmalade sandwiches?|Paddington|Pooh;Rupert;Corduroy
+art|2|In "The Lion, the Witch and the Wardrobe", what is the name of the great lion?|Aslan|Simba;Mufasa;Leo
+art|3|Through what piece of furniture do the children enter Narnia?|A wardrobe|A bookcase;A grandfather clock;A trunk|Wardrobe
+art|2|Which author wrote "The Hobbit"?|J.R.R. Tolkien|C.S. Lewis;Philip Pullman;Terry Pratchett|Tolkien
+art|2|Who wrote the "Harry Potter" books?|J.K. Rowling|Suzanne Collins;Philip Pullman;Rick Riordan|Rowling
+art|2|What is the name of the girl who falls down the rabbit hole into Wonderland?|Alice|Dorothy;Wendy;Matilda
+art|2|Who is the boy who never grows up?|Peter Pan|Pinocchio;Christopher Robin;Oliver Twist|Pan
+art|2|Whose nose grows when he tells a lie?|Pinocchio|Peter Pan;Geppetto;Jiminy Cricket
+art|3|Which Maurice Sendak book follows Max to the land of the Wild Things?|Where the Wild Things Are|In the Night Kitchen;The Monster at the End of This Book;Chicka Chicka Boom Boom
+art|3|Which Eric Carle caterpillar eats through a lot of food before becoming a butterfly?|The Very Hungry Caterpillar|The Grouchy Ladybug;The Busy Spider;The Lonely Firefly|Hungry Caterpillar
+art|3|In "Charlotte's Web", what kind of animal is Charlotte?|A spider|A pig;A goose;A rat|Spider
+art|3|In "Charlotte's Web", what is the name of the pig Charlotte saves?|Wilbur|Babe;Templeton;Porky
+art|3|Which orphan with red hair lives at Green Gables on Prince Edward Island?|Anne Shirley|Pippi Longstocking;Heidi;Pollyanna|Anne;Anne of Green Gables
+art|3|Which Swedish girl with red pigtails is the strongest girl in the world?|Pippi Longstocking|Heidi;Madeline;Matilda|Pippi
+art|3|Which Swiss girl lives with her grandfather in the Alps?|Heidi|Pippi;Clara;Madeline
+art|3|Which Belgian comic hero travels with his dog Snowy?|Tintin|Asterix;Spirou;Lucky Luke
+art|3|Which French comic hero gets his super strength from a magic potion?|Asterix|Tintin;Obelix;Lucky Luke
+# --- Classics & famous lines ---
+art|2|Which novel begins "Call me Ishmael"?|Moby-Dick|Treasure Island;The Old Man and the Sea;Robinson Crusoe|Moby Dick
+art|3|Which novel begins "It was the best of times, it was the worst of times"?|A Tale of Two Cities|Great Expectations;Oliver Twist;Les Misérables
+art|3|Which Jane Austen novel begins "It is a truth universally acknowledged..."?|Pride and Prejudice|Emma;Sense and Sensibility;Persuasion
+art|3|Which George Orwell novel begins "It was a bright cold day in April, and the clocks were striking thirteen"?|Nineteen Eighty-Four|Animal Farm;Brave New World;Fahrenheit 451|1984
+art|2|At what London address does Sherlock Holmes live?|221B Baker Street|10 Downing Street;12 Grimmauld Place;4 Privet Drive|221B Baker St;221b Baker Street
+art|2|What is the name of Sherlock Holmes's doctor friend?|Dr. Watson|Dr. Jekyll;Dr. Moriarty;Dr. Lestrade|Watson;John Watson
+art|3|Who is Sherlock Holmes's greatest enemy?|Professor Moriarty|Dr. Watson;Inspector Lestrade;Irene Adler|Moriarty
+art|3|Which Belgian detective was created by Agatha Christie?|Hercule Poirot|Miss Marple;Inspector Maigret;Father Brown|Poirot
+art|3|In "Animal Farm", which animals take control of the farm?|Pigs|Horses;Sheep;Dogs
+art|3|Which Mary Shelley novel tells of a scientist who builds a creature?|Frankenstein|Dracula;The Strange Case of Dr Jekyll and Mr Hyde;The Invisible Man
+art|3|In Bram Stoker's novel, Count Dracula comes from which region?|Transylvania|Bavaria;Siberia;Bohemia
+art|3|Which Shakespeare play features the line "To be, or not to be"?|Hamlet|Macbeth;King Lear;Othello
+art|3|Which Shakespeare character says "Wherefore art thou Romeo?"|Juliet|Ophelia;Lady Macbeth;Desdemona
+art|3|In "Romeo and Juliet", what does "wherefore" actually mean?|Why|Where;When;How
+art|3|Which Spanish knight attacked windmills, thinking they were giants?|Don Quixote|El Cid;Don Juan;Zorro|Quixote
+art|3|Which Victor Hugo novel features Jean Valjean and Inspector Javert?|Les Misérables|The Hunchback of Notre-Dame;The Count of Monte Cristo;The Three Musketeers|Les Miserables
+art|3|Who are the "Three Musketeers" in Alexandre Dumas's novel?|Athos, Porthos and Aramis|Athos, Porthos and d'Artagnan;Aramis, d'Artagnan and Planchet;Athos, Rochefort and Aramis
+art|3|Which Russian author wrote "War and Peace"?|Leo Tolstoy|Fyodor Dostoevsky;Anton Chekhov;Ivan Turgenev|Tolstoy
+art|3|Which Gabriel García Márquez novel follows the Buendía family for a century?|One Hundred Years of Solitude|Love in the Time of Cholera;Chronicle of a Death Foretold;The Autumn of the Patriarch
+art|3|In "The Great Gatsby", what colour is the light at the end of Daisy's dock?|Green|Red;Blue;White
+art|3|Who narrates "The Great Gatsby"?|Nick Carraway|Jay Gatsby;Tom Buchanan;Daisy Buchanan|Nick
+art|3|Which Harper Lee novel is narrated by a girl called Scout?|To Kill a Mockingbird|Go Set a Watchman;Little Women;The Help
+art|3|What is the name of the boy in "The Catcher in the Rye"?|Holden Caulfield|Huckleberry Finn;Tom Sawyer;Atticus Finch|Holden
+# --- Bestsellers & book-to-film ---
+art|2|Which book series features Katniss Everdeen?|The Hunger Games|Divergent;The Maze Runner;Twilight|Hunger Games
+art|2|Which book series is about a romance between Bella and a vampire named Edward?|Twilight|The Vampire Diaries;True Blood;Interview with the Vampire
+art|3|Which Dan Brown novel has Robert Langdon hunting a secret hidden in Leonardo's art?|The Da Vinci Code|Angels & Demons;Inferno;The Lost Symbol|Da Vinci Code
+art|2|Which author is called the "King of Horror", writing "It" and "The Shining"?|Stephen King|Dean Koontz;R.L. Stine;Clive Barker|King
+art|3|Which kids' horror series by R.L. Stine had a scary title on every cover?|Goosebumps|Fear Street;Scary Stories to Tell in the Dark;Are You Afraid of the Dark?
+art|3|Which fantasy series by George R.R. Martin became "Game of Thrones"?|A Song of Ice and Fire|The Wheel of Time;The Stormlight Archive;The Witcher
+art|3|Which Polish book series became a Netflix show and video games about Geralt?|The Witcher|The Last Kingdom;Shadow and Bone;Wheel of Time
+art|3|Which book, with sales of over 100 million copies, is about a little prince from asteroid B-612?|The Little Prince|The Alchemist;Jonathan Livingston Seagull;The Giving Tree
+art|3|Which Brazilian author wrote "The Alchemist"?|Paulo Coelho|Jorge Amado;Isabel Allende;Gabriel García Márquez|Coelho
+# --- Art, heists & architecture ---
+art|2|Who painted "The Starry Night"?|Vincent van Gogh|Claude Monet;Paul Cézanne;Edvard Munch|Van Gogh
+art|3|Which Dutch painter cut off part of his own ear?|Vincent van Gogh|Rembrandt;Vermeer;Piet Mondrian|Van Gogh
+art|2|Who painted "The Scream"?|Edvard Munch|Gustav Klimt;Egon Schiele;Wassily Kandinsky|Munch
+art|3|Who painted "Girl with a Pearl Earring"?|Johannes Vermeer|Rembrandt;Frans Hals;Jan van Eyck|Vermeer
+art|3|Which artist is famous for paintings of soup cans and Marilyn Monroe?|Andy Warhol|Roy Lichtenstein;Keith Haring;Jackson Pollock|Warhol
+art|3|Which artist dripped and splashed paint onto canvases on the floor?|Jackson Pollock|Mark Rothko;Andy Warhol;Willem de Kooning|Pollock
+art|3|Which Spanish artist painted melting clocks in "The Persistence of Memory"?|Salvador Dalí|Pablo Picasso;Joan Miró;Francisco Goya|Dali;Dalí
+art|3|Which mysterious street artist's painting shredded itself right after being sold at auction in 2018?|Banksy|Shepard Fairey;Invader;Keith Haring
+art|3|Who carved the statue of David from a single block of marble?|Michelangelo|Donatello;Bernini;Leonardo da Vinci
+art|3|Which ceiling did Michelangelo paint between 1508 and 1512?|The Sistine Chapel|St. Peter's Basilica;The Pantheon;Notre-Dame
+art|3|Which famous 1990 art theft from a Boston museum remains unsolved?|Isabella Stewart Gardner Museum|Museum of Fine Arts;Metropolitan Museum of Art;Louvre|Gardner Museum;Isabella Stewart Gardner
+art|3|Which French jewels were stolen from the Louvre in a daring daytime heist in October 2025?|The French Crown Jewels|The Mona Lisa;The Venus de Milo;Napoleon's sword|Crown jewels;French crown jewels
+art|3|Which Barcelona church, designed by Antoni Gaudí, has been under construction since 1882?|Sagrada Família|Barcelona Cathedral;Casa Batlló;Park Güell|Sagrada Familia
+art|3|Which Paris cathedral was badly damaged by fire in 2019 and reopened in 2024?|Notre-Dame|Sacré-Cœur;Sainte-Chapelle;Saint-Sulpice|Notre Dame;Notre-Dame de Paris
+art|3|Which Italian tower leans because of soft ground?|Leaning Tower of Pisa|Torre del Mangia;Campanile of St. Mark;Asinelli Tower|Tower of Pisa;Pisa
+art|3|Which Sydney building's roof looks like sails?|Sydney Opera House|Sydney Harbour Bridge;Australia Square;Crown Sydney|Opera House
+art|3|Which architect designed the glass pyramid at the Louvre?|I.M. Pei|Frank Gehry;Norman Foster;Zaha Hadid|Pei;I. M. Pei
+art|3|Which Canadian-born architect designed the titanium Guggenheim Museum in Bilbao?|Frank Gehry|I.M. Pei;Moshe Safdie;Arthur Erickson|Gehry
+# --- Words & language ---
+art|2|What is the most widely spoken language in the world, counting all speakers?|English|Mandarin Chinese;Spanish;Hindi
+art|2|Which language has the most native speakers?|Mandarin Chinese|English;Spanish;Hindi|Mandarin;Chinese
+art|3|What does the word "alphabet" come from?|The first two Greek letters, alpha and beta|A Roman god of writing;An Egyptian word for "sound";A Latin word for "list"
+art|3|What is a word that reads the same backwards, like "racecar"?|Palindrome|Anagram;Homophone;Oxymoron
+art|3|What do you call a word made by rearranging another word's letters, like "listen" and "silent"?|Anagram|Palindrome;Acronym;Synonym
+art|3|What is a phrase like "jumbo shrimp" or "deafening silence" called?|Oxymoron|Paradox;Pun;Simile
+art|3|What does "scuba" stand for?|Self-Contained Underwater Breathing Apparatus|Submerged Cylinder Underwater Breathing Air;Sea Creature Underwater Breathing Aid;Surface-Controlled Underwater Breathing Apparatus
+art|3|What does "laser" stand for?|Light Amplification by Stimulated Emission of Radiation|Light Activated Signal Emitting Ray;Luminous Amplified Spectrum Energy Ray;Linear Atomic Source of Energy Radiation
+art|3|What does "radar" stand for?|Radio Detection And Ranging|Range And Distance Analysis Radio;Radio Altitude Detection And Reporting;Rapid Area Detection And Response
+art|3|What is the longest word in a major English dictionary, a lung disease from volcanic dust?|Pneumonoultramicroscopicsilicovolcanoconiosis|Supercalifragilisticexpialidocious;Antidisestablishmentarianism;Floccinaucinihilipilification|Pneumonoultramicroscopicsilicovolcanoconiosis
+art|3|Which word for sleepwear comes from a Hindi and Urdu word for loose trousers?|Pyjamas|Bungalow;Shampoo;Jungle|Pajamas
+art|3|"Shampoo" comes from a Hindi word meaning what?|To massage|To wash;To smell sweet;To clean the head
+art|3|Which word for a sudden fear comes from a Greek god of the wild?|Panic|Phobia;Terror;Chaos

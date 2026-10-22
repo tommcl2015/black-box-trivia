@@ -1,0 +1,86 @@
+# World history — royals, empires, wars, inventions, disasters and mysteries
+# --- Royals ---
+his|2|How many wives did England's King Henry VIII have?|Six|Four;Five;Eight|6
+his|3|Which of Henry VIII's wives survived him?|Catherine Parr|Anne Boleyn;Jane Seymour;Catherine of Aragon|Parr
+his|3|Which of Henry VIII's wives was the mother of Queen Elizabeth I?|Anne Boleyn|Catherine of Aragon;Jane Seymour;Anne of Cleves|Boleyn
+his|3|Which English queen was known as the "Virgin Queen"?|Elizabeth I|Mary I;Victoria;Anne|Elizabeth the First;Queen Elizabeth I
+his|3|Which English queen was nicknamed "Bloody Mary"?|Mary I|Mary, Queen of Scots;Elizabeth I;Anne|Mary Tudor;Mary the First
+his|2|Who was the longest-reigning British monarch, on the throne for 70 years?|Elizabeth II|Victoria;George III;Henry III|Queen Elizabeth II;Elizabeth
+his|3|Which French queen is (wrongly) said to have said "Let them eat cake"?|Marie Antoinette|Catherine de' Medici;Josephine;Eleanor of Aquitaine|Antoinette
+his|3|Which French king, the "Sun King", built the Palace of Versailles into a royal court?|Louis XIV|Louis XVI;Napoleon;Charles X|Louis the Fourteenth;Louis 14
+his|3|Which Russian royal family was executed in 1918?|The Romanovs|The Habsburgs;The Hohenzollerns;The Bourbons|Romanovs;Romanov
+his|3|Which mystic gained huge influence over Russia's last royal family?|Rasputin|Lenin;Trotsky;Tolstoy|Grigori Rasputin
+his|3|Which Russian empress, born in Germany, is known as "the Great"?|Catherine the Great|Elizabeth of Russia;Anna Ivanovna;Alexandra Feodorovna|Catherine II;Catherine
+his|3|Which Egyptian queen allied with Julius Caesar and Mark Antony?|Cleopatra|Nefertiti;Hatshepsut;Nefertari|Cleopatra VII
+his|2|Which boy pharaoh's nearly untouched tomb was found by Howard Carter in 1922?|Tutankhamun|Ramses II;Khufu;Akhenaten|King Tut;Tutankhamen
+his|3|Which British king gave up his throne in 1936 to marry Wallis Simpson?|Edward VIII|George VI;George V;Edward VII|Edward the Eighth
+his|3|In which year was King Charles III crowned?|2023|2022;2021;2024
+# --- Empires & ancient world ---
+his|2|Who was the first Roman emperor?|Augustus|Julius Caesar;Nero;Caligula|Octavian;Caesar Augustus
+his|3|On which day was Julius Caesar assassinated?|The Ides of March|New Year's Day;The Kalends of April;Midsummer|March 15;Ides of March;15 March
+his|2|Which Mongol leader founded the largest land empire in history?|Genghis Khan|Kublai Khan;Attila;Tamerlane|Chinggis Khan;Genghis
+his|3|Which Macedonian king had conquered an empire from Greece to India by age 30?|Alexander the Great|Philip II;Darius III;Ptolemy I|Alexander
+his|3|Which general crossed the Alps with elephants to attack Rome?|Hannibal|Scipio;Spartacus;Hasdrubal
+his|2|Which wall did the Romans build across northern England?|Hadrian's Wall|Antonine Wall;Offa's Dyke;The Great Wall|Hadrians Wall
+his|2|Which empire built Machu Picchu?|The Inca Empire|The Aztec Empire;The Maya;The Olmecs|Inca;Incas
+his|3|Which Spanish conquistador defeated the Aztec Empire?|Hernán Cortés|Francisco Pizarro;Hernando de Soto;Vasco Núñez de Balboa|Cortes;Cortés;Hernan Cortes
+his|3|Which Spanish conquistador conquered the Inca Empire?|Francisco Pizarro|Hernán Cortés;Diego de Almagro;Ponce de León|Pizarro
+his|3|Which empire was ruled from Constantinople for over 1,000 years?|Byzantine Empire|Ottoman Empire;Holy Roman Empire;Persian Empire|Byzantine;Eastern Roman Empire
+his|3|Which empire captured Constantinople in 1453 and renamed it Istanbul over time?|Ottoman Empire|Mongol Empire;Byzantine Empire;Persian Empire|Ottomans;Ottoman
+his|3|The British Empire was described as the empire on which what "never sets"?|The sun|The moon;The flag;The fleet|Sun
+# --- Wars ---
+his|2|Which battle in 1815 ended Napoleon's rule?|Battle of Waterloo|Battle of Trafalgar;Battle of Austerlitz;Battle of Leipzig|Waterloo
+his|3|To which island was Napoleon finally exiled, where he died?|Saint Helena|Elba;Corsica;Sardinia|St. Helena;St Helena
+his|3|The assassination of which archduke sparked World War I?|Franz Ferdinand|Franz Joseph;Maximilian;Rudolf|Archduke Franz Ferdinand
+his|3|In which city was Archduke Franz Ferdinand shot in 1914?|Sarajevo|Vienna;Belgrade;Budapest
+his|3|What was the code name for the Allied D-Day invasion of Normandy?|Operation Overlord|Operation Barbarossa;Operation Market Garden;Operation Torch|Overlord
+his|3|What was the code name for Germany's 1941 invasion of the Soviet Union?|Operation Barbarossa|Operation Sea Lion;Operation Overlord;Operation Valkyrie|Barbarossa
+his|3|What were the five D-Day beaches called?|Utah, Omaha, Gold, Juno and Sword|Utah, Ohio, Gold, Juno and Shield;Omaha, Dakota, Gold, Ruby and Sword;Normandy, Omaha, Silver, Juno and Spear
+his|3|Which British codebreaking centre cracked the Enigma code?|Bletchley Park|Whitehall;Station X Moscow;Los Alamos|Bletchley
+his|3|Which mathematician led much of the work to break Enigma?|Alan Turing|John von Neumann;Charles Babbage;Ada Lovelace|Turing
+his|2|In which year did World War II end?|1945|1944;1946;1943
+his|3|Which 1962 standoff brought the US and USSR closest to nuclear war?|Cuban Missile Crisis|Bay of Pigs;Berlin Airlift;Suez Crisis
+his|3|Which war lasted from 1955 to 1975 and ended with the fall of Saigon?|Vietnam War|Korean War;Gulf War;Cambodian Civil War|Vietnam
+his|3|Which war between England and France actually lasted 116 years?|The Hundred Years' War|The Seven Years' War;The Thirty Years' War;The War of the Roses|Hundred Years War
+his|3|What is considered the shortest war in history, lasting under an hour in 1896?|Anglo-Zanzibar War|Football War;Six-Day War;Pastry War|Anglo Zanzibar War
+his|3|Which 1969 war between El Salvador and Honduras was nicknamed after a sport?|The Football War|The Hockey War;The Baseball War;The Cricket War|Football War;Soccer War
+# --- Inventions & firsts ---
+his|2|Who invented the printing press with movable metal type around 1440?|Johannes Gutenberg|William Caxton;Leonardo da Vinci;Martin Luther|Gutenberg
+his|2|Which brothers made the first powered airplane flight in 1903?|The Wright brothers|The Montgolfier brothers;The Lumière brothers;The Dodge brothers|Wright brothers;Wrights
+his|3|Which brothers made the first public hot-air balloon flight, in 1783 France?|The Montgolfier brothers|The Wright brothers;The Lumière brothers;The Grimm brothers|Montgolfier brothers;Montgolfiers
+his|3|Which French brothers held one of the first public film screenings, in Paris in 1895?|The Lumière brothers|The Montgolfier brothers;The Warner brothers;The Pathé brothers|Lumiere brothers;Lumière brothers
+his|2|Who is credited with inventing the telephone in 1876?|Alexander Graham Bell|Thomas Edison;Nikola Tesla;Guglielmo Marconi|Bell
+his|3|Who sent the first radio signal across the Atlantic in 1901?|Guglielmo Marconi|Nikola Tesla;Alexander Graham Bell;Heinrich Hertz|Marconi
+his|3|Which Scottish scientist discovered penicillin in 1928?|Alexander Fleming|Louis Pasteur;Joseph Lister;Edward Jenner|Fleming
+his|3|Which English doctor created the first vaccine, against smallpox, in 1796?|Edward Jenner|Louis Pasteur;Jonas Salk;Alexander Fleming|Jenner
+his|3|Insulin was first used to treat diabetes in 1922 by a team in which city?|Toronto|London;Boston;Berlin
+his|3|Who was the first person to reach the South Pole, in 1911?|Roald Amundsen|Robert Falcon Scott;Ernest Shackleton;Richard Byrd|Amundsen
+his|3|Who were the first to summit Mount Everest, in 1953?|Edmund Hillary and Tenzing Norgay|George Mallory and Andrew Irvine;Reinhold Messner and Peter Habeler;Edmund Hillary and George Mallory|Hillary and Tenzing;Tenzing and Hillary
+his|3|Who was the first woman to fly solo across the Atlantic, in 1932?|Amelia Earhart|Bessie Coleman;Amy Johnson;Harriet Quimby|Earhart
+his|3|Who was the first person to win two Nobel Prizes, in different sciences?|Marie Curie|Linus Pauling;Albert Einstein;Niels Bohr|Curie;Marie Skłodowska-Curie
+his|3|Who sent the first email, in 1971?|Ray Tomlinson|Tim Berners-Lee;Vint Cerf;Steve Jobs|Tomlinson
+# --- Disasters & mysteries ---
+his|2|Which Roman city was buried by Mount Vesuvius in 79 AD?|Pompeii|Rome;Carthage;Ostia
+his|3|Which 1883 volcanic eruption in Indonesia was heard nearly 5,000 km away?|Krakatoa|Tambora;Pinatubo;Mount Merapi|Krakatau
+his|3|Which nuclear power plant disaster happened in Ukraine in 1986?|Chernobyl|Fukushima;Three Mile Island;Windscale
+his|3|Which Japanese nuclear plant was damaged by a tsunami in 2011?|Fukushima Daiichi|Chernobyl;Kashiwazaki-Kariwa;Tokaimura|Fukushima
+his|3|Which German airship burst into flames at New Jersey in 1937?|The Hindenburg|The Graf Zeppelin;The R101;The Akron|Hindenburg
+his|3|Which 1917 explosion destroyed much of Halifax, the largest accidental blast before the atomic age?|Halifax Explosion|Texas City disaster;Silvertown explosion;Port Chicago disaster
+his|3|Which British explorer's 1845 expedition to find the Northwest Passage vanished with both ships?|John Franklin|Henry Hudson;James Cook;Robert Scott|Franklin;Sir John Franklin
+his|3|Which pilot disappeared over the Pacific in 1937 while flying around the world?|Amelia Earhart|Bessie Coleman;Amy Johnson;Jacqueline Cochran|Earhart
+his|3|Which area of the Atlantic is famous for legends of ships and planes vanishing?|Bermuda Triangle|Sargasso Circle;Devil's Sea;Florida Gap|The Bermuda Triangle
+his|3|What was the name of the English colony in North Carolina that vanished, leaving only the word "Croatoan"?|Roanoke|Jamestown;Plymouth;St. Augustine|Lost Colony;Roanoke Colony
+his|3|Which ghost ship was found drifting in 1872 with nobody aboard?|Mary Celeste|Flying Dutchman;Marie Rose;Carroll A. Deering|Marie Celeste
+his|3|Which 1888 London killer was never identified?|Jack the Ripper|The Zodiac Killer;Sweeney Todd;Spring-heeled Jack|The Ripper
+his|3|Which famous painting was stolen from the Louvre in 1911 and recovered two years later?|The Mona Lisa|The Last Supper;Liberty Leading the People;The Raft of the Medusa|Mona Lisa
+# --- Famous moments ---
+his|2|Which wall fell in 1989, reuniting a city?|Berlin Wall|Great Wall;Hadrian's Wall;Western Wall|The Berlin Wall
+his|3|Who gave the "I Have a Dream" speech in 1963?|Martin Luther King Jr.|Malcolm X;John F. Kennedy;Rosa Parks|Martin Luther King;MLK
+his|3|Who refused to give up her bus seat in Montgomery, Alabama in 1955?|Rosa Parks|Harriet Tubman;Coretta Scott King;Ruby Bridges|Parks
+his|3|Which South African leader spent 27 years in prison before becoming president?|Nelson Mandela|Desmond Tutu;Steve Biko;Thabo Mbeki|Mandela
+his|3|Which Indian leader led a famous 1930 march to the sea to protest a tax on salt?|Mahatma Gandhi|Jawaharlal Nehru;Subhas Chandra Bose;Indira Gandhi|Gandhi
+his|3|Which British PM said "We shall fight on the beaches"?|Winston Churchill|Neville Chamberlain;Clement Attlee;Margaret Thatcher|Churchill
+his|3|Which British PM was nicknamed "the Iron Lady"?|Margaret Thatcher|Theresa May;Indira Gandhi;Golda Meir|Thatcher
+his|3|Who was the first woman to serve as a prime minister anywhere, in Sri Lanka in 1960?|Sirimavo Bandaranaike|Indira Gandhi;Golda Meir;Margaret Thatcher|Bandaranaike
+his|3|Which country gave women the vote first, in 1893?|New Zealand|Australia;Finland;United Kingdom
+his|3|Which ship carried the Pilgrims to America in 1620?|Mayflower|Santa María;Endeavour;Speedwell|The Mayflower

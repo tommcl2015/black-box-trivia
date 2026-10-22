@@ -1,0 +1,75 @@
+# Mixed — holidays & traditions, famous animals, brands & money, cars, "which came first?"
+# --- Holidays & traditions ---
+spo|2|In which country did the tradition of the Christmas tree begin?|Germany|England;Norway;United States
+spo|3|In Japan, which fast-food meal has become a popular Christmas tradition?|KFC|McDonald's;Sushi;Pizza Hut|Kentucky Fried Chicken
+spo|3|In the Netherlands, what is the name of the gift-giver who arrives by steamboat from Spain?|Sinterklaas|Father Christmas;Père Noël;Ded Moroz|Sint Nicolaas;Saint Nicholas
+spo|3|In Italian tradition, which kindly witch brings presents on January 5th?|La Befana|La Strega;Santa Lucia;Babbo Natale|Befana
+spo|3|In Catalonia, what is the "Caga Tió" that children hit with sticks at Christmas?|A smiling log|A stuffed donkey;A paper star;A clay pot|Log;Christmas log
+spo|3|Which Mexican holiday honours loved ones who have died, with altars and marigolds?|Day of the Dead|Cinco de Mayo;Las Posadas;Semana Santa|Día de los Muertos;Dia de los Muertos
+spo|2|Which Hindu festival is known as the Festival of Lights?|Diwali|Holi;Navratri;Raksha Bandhan
+spo|2|Which Hindu festival is famous for throwing coloured powder?|Holi|Diwali;Onam;Pongal
+spo|3|Which Jewish festival lasts eight nights and uses a menorah?|Hanukkah|Passover;Purim;Rosh Hashanah|Chanukah
+spo|3|What do people traditionally eat at midnight on New Year's Eve in Spain?|Twelve grapes|Twelve olives;A whole fish;Lentils|12 grapes;Grapes
+spo|3|Which animal is the first in the Chinese zodiac?|Rat|Ox;Dragon;Tiger
+spo|3|Which ancient festival is the origin of Halloween?|Samhain|Beltane;Saturnalia;Lughnasa
+spo|3|What were the first jack-o'-lanterns in Ireland carved from?|Turnips|Pumpkins;Potatoes;Apples|Turnip
+spo|3|On which date is Bastille Day celebrated in France?|July 14|July 4;June 14;August 15|14 July;14th of July
+spo|3|Which country celebrates "Burns Night" with haggis and poetry?|Scotland|Ireland;Wales;England
+spo|3|Which Brazilian city holds the world's most famous Carnival parade?|Rio de Janeiro|São Paulo;Salvador;Brasília|Rio
+spo|3|Which Bavarian city's Christkindlesmarkt is one of the world's most famous Christmas markets?|Nuremberg|Munich;Cologne;Dresden|Nürnberg
+spo|3|What do people throw at each other during Spain's La Tomatina festival?|Tomatoes|Oranges;Water balloons;Flour|Tomato
+# --- Famous animals ---
+sci|2|What was the name of the first cloned mammal?|Dolly the sheep|Molly the cow;Daisy the goat;Polly the pig|Dolly
+sci|3|Which Japanese dog waited at a train station for his owner for nearly ten years after the man died?|Hachikō|Shiro;Hiro;Kuma|Hachiko;Hachi
+sci|3|Which sled dog led the final leg of the 1925 serum run to Nome, Alaska?|Balto|Togo;Buck;Fang
+sci|3|Which gorilla became famous for learning to communicate with sign language?|Koko|Harambe;Bokito;Kanzi
+sci|3|Which Cincinnati Zoo gorilla became an internet meme after he was shot in 2016?|Harambe|Koko;Bokito;Ivan
+sci|3|What was the name of the chimpanzee sent into space by NASA in 1961?|Ham|Albert;Enos;Bonzo
+sci|3|Which famous pygmy hippo from Thailand went viral in 2024?|Moo Deng|Fiona;Hugo;Bubba
+sci|3|Which brand's mascot was a Chihuahua that said "Yo quiero..."?|Taco Bell|Chipotle;Del Taco;Old El Paso
+sci|2|What is a baby kangaroo called?|Joey|Cub;Kit;Calf
+sci|2|What is a baby swan called?|Cygnet|Gosling;Duckling;Squab
+sci|3|What is a baby hedgehog called?|Hoglet|Piglet;Pup;Kit
+sci|3|What is a baby owl called?|Owlet|Fledge;Chick;Eyas
+sci|3|What is a baby hare called?|Leveret|Kit;Bunny;Joey
+sci|3|Which animal is the national animal of Australia, along with the emu?|Kangaroo|Koala;Platypus;Wombat
+sci|3|What is the national animal of India?|Bengal tiger|Elephant;Peacock;Lion|Tiger
+sci|3|What is the national bird of New Zealand?|Kiwi|Kea;Tui;Kākāpō
+sci|3|Which bird is the national symbol of the United States?|Bald eagle|Golden eagle;Turkey;Hawk|Eagle
+# --- Brands & money ---
+spo|2|Which company's logo is an apple with a bite taken out of it?|Apple|Samsung;Microsoft;Google
+spo|3|Which company's logo is a mermaid (or siren) with two tails?|Starbucks|Red Lobster;Shell;Mermaid Coffee
+spo|3|Which car maker's logo shows four interlocking rings?|Audi|Volkswagen;Mercedes-Benz;BMW
+spo|3|Which car brand's logo is a three-pointed star?|Mercedes-Benz|Mitsubishi;Subaru;Chrysler|Mercedes
+spo|3|Which car brand's logo shows a cluster of six stars, the Pleiades?|Subaru|Mitsubishi;Mazda;Isuzu
+spo|3|Which car brand has a prancing horse on its badge?|Ferrari|Porsche;Lamborghini;Ford Mustang
+spo|3|Which Italian car maker uses a charging bull on its badge?|Lamborghini|Ferrari;Maserati;Alfa Romeo
+spo|3|The Nike "swoosh" is said to suggest what?|The wing of the Greek goddess Nike|A running shoe;A check mark for "done";A boomerang
+spo|3|Which Swedish company sells flat-pack furniture with names like "Billy" and "Poäng"?|IKEA|H&M;Volvo;Electrolux
+spo|3|What does "IKEA" stand for?|Its founder's initials and his farm and village|Interior Kits for Every Apartment;Inexpensive Kitchen Equipment Assembly;It's Kind of Easy to Assemble
+spo|3|Which Danish toy company's name means "play well"?|LEGO|Playmobil;Brio;Mattel|Lego
+spo|3|Which company was named after a mathematical term for 1 followed by 100 zeros?|Google|Yahoo;Amazon;Intel
+spo|3|Which online store was originally named "Cadabra"?|Amazon|eBay;Alibaba;Etsy
+spo|3|Which country's currency is the yen?|Japan|China;South Korea;Thailand
+spo|3|Which currency is used by about 20 European Union countries?|Euro|Pound;Franc;Mark
+spo|3|Which country's currency is the rand?|South Africa|Namibia;Zimbabwe;Botswana
+spo|3|Which country's currency is the rupee?|India|Bangladesh;Thailand;Malaysia
+spo|3|Which British coin is nicknamed a "quid"?|One pound|Fifty pence;Two pounds;One penny|Pound;£1
+spo|3|Which Founding Father appears on the US $100 bill?|Benjamin Franklin|George Washington;Abraham Lincoln;Alexander Hamilton|Franklin
+# --- Cars ---
+spo|2|Which car did Henry Ford make famous in 1908?|Model T|Model A;Mustang;Thunderbird|The Model T
+spo|3|Which German car, nicknamed the "Beetle", was designed to be a "people's car"?|Volkswagen Beetle|Porsche 356;Opel Kadett;BMW Isetta|Volkswagen;VW Beetle
+spo|3|What does "Volkswagen" mean in German?|People's car|Fast car;Folk wagon of the future;Small car|Peoples car
+spo|3|Which car in "Back to the Future" becomes a time machine?|DeLorean|Ford Mustang;Corvette;Pontiac Firebird|DMC DeLorean
+spo|3|Which car does James Bond drive in "Goldfinger"?|Aston Martin DB5|Jaguar E-Type;Lotus Esprit;BMW Z3|Aston Martin;DB5
+spo|3|What is the name of the Volkswagen Beetle with a mind of its own in Disney films?|Herbie|Bumblebee;Benny;Bug
+spo|3|Which British car, launched in 1959, is famous for being tiny?|Mini|Austin Healey;MG Midget;Morris Minor|Mini Cooper
+spo|3|Which Japanese company is the world's biggest car maker by sales?|Toyota|Honda;Nissan;Hyundai
+spo|3|Which car company is named after a famous Serbian-American inventor?|Tesla|Edison;Ford;Rivian
+# --- Which came first? ---
+spo|3|Which came first: the fax machine or the telephone?|The fax machine|The telephone;They came the same year;Neither existed before 1950|Fax;Fax machine
+spo|3|Which came first: Oxford University or the Aztec Empire?|Oxford University|The Aztec Empire;They began the same year;Neither existed before 1600|Oxford
+spo|3|Which came first: the lighter or the match?|The lighter|The match;They came the same year;Neither existed before 1900|Lighter
+spo|3|Which came first: Cleopatra or the Great Pyramid of Giza?|The Great Pyramid|Cleopatra;They were built in the same century;Neither existed before 500 AD|Great Pyramid;Pyramid
+spo|3|Which came first: the Titanic sinking or the first Oreo cookie?|The first Oreo cookie|The Titanic sinking;Both happened in 1925;Neither happened before 1920|Oreo;Oreo cookie
+spo|3|Which came first: Nintendo or the end of the Ottoman Empire?|Nintendo|The end of the Ottoman Empire;Same year;Neither happened before 1950
