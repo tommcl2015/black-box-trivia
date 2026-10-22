@@ -611,6 +611,7 @@
         <div class="prose"><p>A free multiplayer trivia game with a classic black &amp; white desktop look.</p></div>
         <h3 id="lbHead">Leaderboard</h3>
         <div class="lb-tabs" role="tablist">${boards.map(b => `<button class="btn small ${b === LBtab ? 'pressed' : ''}" role="tab" aria-selected="${b === LBtab}" data-act="lbtab" data-b="${b}">${b} questions</button>`).join('')}</div>
+        ${lb && lb.founder ? `<table class="lb founder"><tbody><tr><td>★</td><td>${esc(lb.founder.name)} <span class="muted">${esc(lb.founder.title)}</span></td><td class="ctry">${lb.founder.country.flag ? `<img src="${esc(lb.founder.country.flag)}" alt="" width="24" height="16">` : ''}<span>${esc(lb.founder.country.name)}</span></td><td class="num"></td></tr></tbody></table>` : ''}
         ${rowsFor(LBtab)}
         <p class="muted small">Top 10 scores for each game length. Top-10 players show the country they played from.</p>
         <div class="prose"><p class="muted">Questions written for Black Box Trivia. Thanks to the Open Trivia Database community for inspiration. Font: ChicagoFLF (public domain).</p></div>

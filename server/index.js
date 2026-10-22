@@ -53,7 +53,7 @@ app.get('/api/stats', (req, res) => {
 });
 // leaderboard: top 10 per game length
 const clientIp = req => String(req.headers['x-forwarded-for'] || '').split(',')[0].trim() || req.ip || req.socket.remoteAddress || '';
-app.get('/api/leaderboard', (req, res) => res.set('Cache-Control', 'no-cache').json({ boards: LB.BOARDS, leaders: LB.list() }));
+app.get('/api/leaderboard', (req, res) => res.set('Cache-Control', 'no-cache').json({ boards: LB.BOARDS, leaders: LB.list(), founder: LB.FOUNDER }));
 const lbHits = new Map();   // ip -> recent submission times (flood control)
 app.post('/api/leaderboard', express.json({ limit: '4kb' }), (req, res) => {
   const ip = clientIp(req), now = Date.now();

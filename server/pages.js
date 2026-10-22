@@ -135,6 +135,7 @@ ${body}
     const L = leaderboard.list();
     return `<h3 id="leaderboard">Leaderboard</h3>
         <p>The ten highest scores for each game length. Scores from online, solo and Pass &amp; Play games all count.</p>
+        ${(() => { const f = leaderboard.FOUNDER; return `<table class="lb founder"><tbody><tr><td>★</td><td>${esc(f.name)} <span class="muted">${esc(f.title)}</span></td><td>${f.country.flag ? `<img src="${esc(f.country.flag)}" alt="" width="24" height="16"> ` : ''}${esc(f.country.name)}</td><td class="num"></td></tr></tbody></table>`; })()}
         ${leaderboard.BOARDS.map(b => `<h4>${b}-question games</h4>` + (L[b].length ? `<table class="lb"><tbody>${L[b].map((r, i) => `<tr><td>${i + 1}.</td><td>${esc(r.name)}</td><td>${r.country ? (r.country.flag ? `<img src="${esc(r.country.flag)}" alt="" width="24" height="16"> ` : '') + esc(r.country.name) : ''}</td><td class="num">${r.score.toLocaleString('en-CA')}</td></tr>`).join('')}</tbody></table>` : '<p class="muted">No scores yet. Be the first!</p>')).join('\n        ')}`;
   };
   for (const [slug, body] of Object.entries(html)) app.get([`/${slug}`, `/${slug}.html`], (req, res) => res.type('html').set('Cache-Control', 'no-cache').send(slug === 'about' ? body.replace('<!--LEADERBOARD-->', lbHtml()) : body));

@@ -95,6 +95,9 @@ function storage() {
   return { file: FILE, configured: !!process.env.LEADERBOARD_FILE, writable, saved: fs.existsSync(FILE), diskAtVarData: disk };
 }
 
+// Pinned above every board; not a score, so it never pushes anyone out of the top 10.
+const FOUNDER = { name: 'Tom M', title: 'Founder', country: { code: 'CA', name: 'Canada', flag: (COUNTRIES.CA && COUNTRIES.CA.flag) || null } };
+
 function list() { const o = {}; for (const b of BOARDS) o[b] = data[b]; return o; }
 
-module.exports = { BOARDS, KEEP, cleanName, submit, list, qualifies, storage, _reset() { data = load(); BOARDS.forEach(b => data[b] = []); } };
+module.exports = { FOUNDER, BOARDS, KEEP, cleanName, submit, list, qualifies, storage, _reset() { data = load(); BOARDS.forEach(b => data[b] = []); } };
