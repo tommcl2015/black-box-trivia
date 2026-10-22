@@ -46,7 +46,7 @@ app.get('/ads.txt', (req, res) => {
   if (!ADSENSE_CLIENT) return res.status(404).type('text/plain').send('');
   res.type('text/plain').send(`google.com, ${ADSENSE_CLIENT.replace(/^ca-/, '')}, DIRECT, f08c47fec0942fa0\n`);
 });
-app.get('/healthz', (req, res) => res.json({ ok: true, rooms: rooms.size, questions: textCount, pictures: pictureCount }));
+app.get('/healthz', (req, res) => res.json({ ok: true, rooms: rooms.size, questions: textCount, pictures: pictureCount, leaderboard: LB.storage() }));
 app.get('/api/stats', (req, res) => {
   const byCat = {}; for (const c of Object.keys(picker.byCat)) byCat[c] = picker.count(c);
   res.json({ total: textCount, pictures: pictureCount, byCat, rooms: rooms.size });

@@ -80,6 +80,12 @@ function submit(entries, questions, ip, source) {
   return placed;
 }
 
+function storage() {
+  let writable = false;
+  try { fs.mkdirSync(path.dirname(FILE), { recursive: true }); fs.accessSync(path.dirname(FILE), fs.constants.W_OK); writable = true; } catch (e) {}
+  return { file: FILE, configured: !!process.env.LEADERBOARD_FILE, writable, saved: fs.existsSync(FILE) };
+}
+
 function list() { const o = {}; for (const b of BOARDS) o[b] = data[b]; return o; }
 
-module.exports = { BOARDS, KEEP, cleanName, submit, list, qualifies, _reset() { data = load(); BOARDS.forEach(b => data[b] = []); } };
+module.exports = { BOARDS, KEEP, cleanName, submit, list, qualifies, storage, _reset() { data = load(); BOARDS.forEach(b => data[b] = []); } };
