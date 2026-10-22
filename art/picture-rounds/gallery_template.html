@@ -1,0 +1,137 @@
+<title>Black Box Picture Rounds</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: classic Mac desktop — menu bar, one big window, a category strip, a grid of picture tiles. Deliberately single-theme black & white, like the game. */
+@font-face{font-family:"Chicago";src:url(__FONT__) format("woff2");font-display:swap}
+:root{
+  --ink:#000; --paper:#fff; --desk:#fff; --dim:#555;
+  --ui:"Chicago","Geneva","Helvetica Neue",Arial,sans-serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+body{background:var(--desk);color:var(--ink);font-family:var(--ui);font-size:13px;
+  background-image:radial-gradient(var(--ink) .7px,transparent .9px);background-size:4px 4px;min-height:100vh}
+.menubar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:2px solid var(--ink);
+  padding-block:6px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+.menubar b{letter-spacing:.02em}
+.menubar span{color:var(--ink)}
+.wrap{padding-block:22px 40px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));max-width:1240px;margin:0 auto}
+.win{background:var(--paper);border:2px solid var(--ink);box-shadow:4px 4px 0 var(--ink)}
+.bar{height:22px;border-bottom:2px solid var(--ink);display:flex;align-items:center;justify-content:center;
+  background:repeating-linear-gradient(var(--ink) 0 1px,var(--paper) 1px 3px);background-clip:content-box;padding:4px 6px}
+.bar h1{font-size:13px;font-weight:normal;margin:0;background:var(--paper);padding:0 10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:80%}
+.body{padding:16px;display:grid;gap:14px}
+.intro{max-width:70ch;line-height:1.5;margin:0;font-size:12px}
+.cats{display:flex;flex-wrap:wrap;gap:6px}
+.cats button,.btn{font:inherit;font-size:12px;background:var(--paper);color:var(--ink);border:2px solid var(--ink);border-radius:8px;padding:5px 10px;cursor:pointer}
+.cats button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.cats button:focus-visible,.btn:focus-visible,.tile:focus-visible{outline:2px dashed var(--ink);outline-offset:2px}
+.cats small{opacity:.75;margin-left:4px;font-variant-numeric:tabular-nums}
+.tools{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;border-top:1px solid var(--ink);padding-top:12px}
+.tools label{display:flex;gap:6px;align-items:center;cursor:pointer}
+.tools input[type=checkbox]{width:14px;height:14px;accent-color:#000}
+.search{font:inherit;border:2px solid var(--ink);padding:4px 8px;min-width:0;width:220px;max-width:100%;background:var(--paper);color:var(--ink)}
+.qline{font-size:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.tile{all:unset;cursor:pointer;display:grid;gap:5px;min-width:0}
+.tile img{width:100%;aspect-ratio:3/2;image-rendering:pixelated;image-rendering:crisp-edges;display:block;border:2px solid var(--ink);background:var(--paper)}
+.tile:hover img{box-shadow:3px 3px 0 var(--ink)}
+.tile .cap{font-size:11px;line-height:1.25;min-height:2.5em;overflow-wrap:anywhere}
+.quiz .tile .cap .n{visibility:hidden}
+.quiz .tile.shown .cap .n{visibility:visible}
+.quiz .tile .cap::before{content:"? ? ?";position:absolute}
+.quiz .tile.shown .cap::before{content:""}
+.tile .cap{position:relative}
+.foot{font-size:11px;color:var(--dim);line-height:1.5;max-width:80ch}
+/* the question-card preview */
+.modal{position:fixed;inset:0;z-index:20;display:grid;place-items:center;padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));
+  background-image:radial-gradient(var(--ink) .8px,transparent 1px);background-size:3px 3px;background-color:rgba(255,255,255,.6)}
+[hidden]{display:none!important}
+.card{width:min(440px,100%)}
+.card .body{gap:10px}
+.card .meta{display:flex;justify-content:space-between;font-size:11px}
+.card .q{font-size:16px;margin:0;text-wrap:balance}
+.card img{width:100%;image-rendering:pixelated;border:2px solid var(--ink);display:block}
+.card .ans{border:2px solid var(--ink);border-radius:8px;padding:9px;text-align:center;font-size:14px}
+.card .ans.hidden{color:transparent;background-image:repeating-linear-gradient(45deg,var(--ink) 0 1px,var(--paper) 1px 4px)}
+.card .row{display:flex;gap:8px;justify-content:space-between;flex-wrap:wrap}
+@media (prefers-reduced-motion:no-preference){.tile img{transition:box-shadow .08s}}
+</style>
+
+<div class="menubar"><b>Black Box Trivia</b><span>File</span><span>Edit</span><span>Picture rounds</span></div>
+<div class="wrap">
+  <div class="win" id="win">
+    <div class="bar"><h1 id="wintitle">Picture Rounds</h1></div>
+    <div class="body">
+      <p class="intro">Every picture for the new picture rounds, drawn as 96 × 64 bitmaps in the game's 1-bit style. Flags are the only colour round. Nothing here is in the live game yet. Pick a round, switch on quiz mode to hide the answers, or tap any picture to see it as a question card.</p>
+      <div class="cats" id="cats" role="toolbar" aria-label="Picture rounds"></div>
+      <div class="tools">
+        <div class="qline" id="qline"></div>
+        <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+          <input class="search" id="search" type="search" placeholder="Find a picture…" aria-label="Find a picture">
+          <label for="quiz"><input type="checkbox" id="quiz"> Quiz mode</label>
+        </div>
+      </div>
+      <div class="grid" id="grid"></div>
+      <p class="foot" id="foot"></p>
+    </div>
+  </div>
+</div>
+<div class="modal" id="modal" hidden>
+  <div class="win card" role="dialog" aria-modal="true" aria-labelledby="cq">
+    <div class="bar"><h1>Black Box Trivia</h1></div>
+    <div class="body">
+      <div class="meta"><span id="cmeta"></span><span>⏱ 20</span></div>
+      <p class="q" id="cq"></p>
+      <img id="cimg" alt="">
+      <div class="ans hidden" id="cans"></div>
+      <div class="row"><button class="btn" id="reveal">Reveal answer</button><button class="btn" id="next">Next picture</button><button class="btn" id="close">Close</button></div>
+    </div>
+  </div>
+</div>
+<script>
+const DATA = __DATA__;
+const total = DATA.reduce((n,c)=>n+c.items.length,0);
+const $ = id => document.getElementById(id);
+let cur = DATA[0], filtered = [], open = -1;
+function pick(key){
+  cur = DATA.find(c=>c.key===key) || DATA[0];
+  [...$('cats').children].forEach(b=>b.setAttribute('aria-pressed', b.dataset.k===cur.key));
+  try{ history.replaceState(null,'','#'+cur.key) }catch(e){}
+  render();
+}
+function render(){
+  const term = $('search').value.trim().toLowerCase();
+  filtered = cur.items.filter(([n])=>!term || n.toLowerCase().includes(term));
+  $('wintitle').textContent = `Picture Rounds — ${cur.label}`;
+  $('qline').textContent = `Question: “${cur.q}” · ${filtered.length} picture${filtered.length===1?'':'s'}`;
+  const g = $('grid'); g.innerHTML = '';
+  filtered.forEach(([n,src],i)=>{
+    const b = document.createElement('button'); b.className='tile'; b.type='button';
+    b.innerHTML = `<img alt="" src="${src}"><span class="cap"><span class="n"></span></span>`;
+    b.querySelector('.n').textContent = n; b.querySelector('img').alt = $('quiz').checked ? 'Hidden answer' : n;
+    b.addEventListener('click',()=>{ if($('quiz').checked && !b.classList.contains('shown')){ b.classList.add('shown'); return; } show(i); });
+    g.appendChild(b);
+  });
+}
+function show(i){
+  open = i; const [n,src] = filtered[i];
+  $('cmeta').textContent = `${cur.label.toUpperCase()} · ${i+1} OF ${filtered.length}`;
+  $('cq').textContent = cur.q; $('cimg').src = src; $('cimg').alt = 'Picture question';
+  $('cans').textContent = n; $('cans').classList.add('hidden'); $('reveal').textContent='Reveal answer';
+  $('modal').hidden = false; $('reveal').focus();
+}
+$('reveal').onclick = ()=>{ const h=$('cans').classList.toggle('hidden'); $('reveal').textContent = h?'Reveal answer':'Hide answer'; };
+$('next').onclick = ()=> show((open+1)%filtered.length);
+$('close').onclick = ()=>{ $('modal').hidden = true; };
+$('modal').addEventListener('click',e=>{ if(e.target===$('modal')) $('modal').hidden=true; });
+document.addEventListener('keydown',e=>{ if($('modal').hidden) return; if(e.key==='Escape') $('modal').hidden=true; if(e.key==='ArrowRight') $('next').click(); });
+$('quiz').onchange = ()=>{ $('grid').classList.toggle('quiz',$('quiz').checked); render(); try{localStorage.setItem('bb-quiz',$('quiz').checked?'1':'0')}catch(e){} };
+$('search').oninput = render;
+DATA.forEach(c=>{ const b=document.createElement('button'); b.type='button'; b.dataset.k=c.key; b.innerHTML=`${c.label}<small>${c.items.length}</small>`; b.onclick=()=>pick(c.key); $('cats').appendChild(b); });
+$('foot').textContent = `${total} pictures across ${DATA.length} rounds. Country outlines and locator maps come from Natural Earth data; constellations use real star positions; flags are rendered from public flag artwork and snapped to an 18-colour palette. Landmarks, skylines, aircraft, animals and paintings are hand-drawn pixel art.`;
+try{ if(localStorage.getItem('bb-quiz')==='1'){ $('quiz').checked=true; $('grid').classList.add('quiz'); } }catch(e){}
+pick((location.hash||'').slice(1));
+</script>
