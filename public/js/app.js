@@ -46,7 +46,7 @@
   let bankPromise = null;
   function loadBank() {
     if (window.EMBEDDED_BANK) return Promise.resolve(window.EMBEDDED_BANK);
-    if (!bankPromise) bankPromise = fetch('/api/questions').then(r => { if (!r.ok) throw new Error('load'); return r.json(); });
+    if (!bankPromise) bankPromise = fetch('/api/questions?v=' + (CFG.version || '')).then(r => { if (!r.ok) throw new Error('load'); return r.json(); });
     return bankPromise;
   }
 

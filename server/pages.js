@@ -6,7 +6,7 @@ const path = require('path');
 const CATS = { geo: 'Geography', ent: 'Entertainment', his: 'History', art: 'Arts & Literature', sci: 'Science & Nature', spo: 'Sports & Leisure' };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank, pictureCount, leaderboard }) {
+module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank, pictureCount, leaderboard, version }) {
   const gaHead = gaId
     ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(gaId)}"></script>\n  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(gaId)}');</script>\n  `
     : '';
@@ -20,7 +20,8 @@ module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseC
     if (!cache.has(file)) {
       const html = fs.readFileSync(path.join(__dirname, '..', 'public', file), 'utf8')
         .replace('</head>', `  ${adHead}</head>`)
-        .replace(/privacy@example\.com/g, esc(contactEmail));
+        .replace(/privacy@example\.com/g, esc(contactEmail))
+        .replace(/(src|href)="((?:js|css)\/[\w.-]+\.(?:js|css))"/g, `$1="$2?v=${version || ''}"`);
       cache.set(file, html);
     }
     return cache.get(file);

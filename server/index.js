@@ -25,6 +25,8 @@ const ROOM_IDLE_MS = 15 * 60 * 1000;
 
 const bank = require('./questions.json');
 const LB = require('./leaderboard.js');
+// Build version: added to script/style URLs so browsers fetch fresh files after every deploy.
+const VERSION = (process.env.RENDER_GIT_COMMIT || '').slice(0, 8) || Date.now().toString(36);
 const picker = QuestionPicker(bank);
 const textCount = bank.filter(q => !q.img).length, pictureCount = bank.length - textCount;
 console.log(`Loaded ${textCount} questions and ${pictureCount} picture questions`);
@@ -37,7 +39,7 @@ app.use(helmet({ contentSecurityPolicy: false, crossOriginEmbedderPolicy: false 
 
 app.get('/config.js', (req, res) => {
   res.type('application/javascript').set('Cache-Control', 'no-cache').send(
-    `window.APP_CONFIG=${JSON.stringify({ siteName: SITE_NAME, adsenseClient: ADSENSE_CLIENT, adSlots: AD_SLOTS, contactEmail: CONTACT_EMAIL, maxPlayers: MAX_PLAYERS, questionCount: textCount, pictureCount })};`
+    `window.APP_CONFIG=${JSON.stringify({ siteName: SITE_NAME, adsenseClient: ADSENSE_CLIENT, adSlots: AD_SLOTS, contactEmail: CONTACT_EMAIL, maxPlayers: MAX_PLAYERS, questionCount: textCount, pictureCount, version: VERSION })};`
   );
 });
 app.get('/ads.txt', (req, res) => {
@@ -66,7 +68,7 @@ setInterval(() => { const now = Date.now(); for (const [ip, h] of lbHits) if (!h
 app.get('/api/questions', (req, res) => {
   res.set('Cache-Control', 'public, max-age=3600').json(bank);
 });
-require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank: bank.filter(q => !q.img), pictureCount, leaderboard: LB });
+require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank: bank.filter(q => !q.img), pictureCount, leaderboard: LB, version: VERSION });
 app.use(express.static(path.join(__dirname, '..', 'public'), { maxAge: '1h', extensions: ['html'] }));
 
 const server = http.createServer(app);
