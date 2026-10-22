@@ -140,6 +140,7 @@
         role = 'host'; code = rand6(); me = 'h' + rid(); name = (data && data.name) || 'Host';
         engine = new TriviaEngine.Room(code, { picker: TriviaEngine.QuestionPicker(bank), emit: hostEmit });
         if (data && data.settings) engine.settings = TriviaEngine.cleanSettings(data.settings);
+        if (data && data.seen) engine.addSeen(data.seen);
         const origStart = engine.start.bind(engine);
         engine.start = (by) => { const r = origStart(by); if (r.ok) { game++; lastAns.clear(); schedulePublish(); } return r; };
         await enterRoom(code);

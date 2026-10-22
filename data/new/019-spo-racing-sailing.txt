@@ -1,0 +1,80 @@
+# Racing & sailing — drivers, tracks, famous boats and sailors (real and fictional)
+# --- Formula 1 ---
+spo|2|Which two drivers share the record for most Formula 1 world titles, with seven each?|Michael Schumacher and Lewis Hamilton|Ayrton Senna and Alain Prost;Sebastian Vettel and Max Verstappen;Juan Manuel Fangio and Niki Lauda
+spo|2|Which British driver won the 2025 Formula 1 world championship with McLaren?|Lando Norris|George Russell;Lewis Hamilton;Oscar Piastri|Norris
+spo|2|Which Dutch driver won four straight F1 titles from 2021 to 2024?|Max Verstappen|Nico Rosberg;Charles Leclerc;Sebastian Vettel|Verstappen
+spo|3|Lewis Hamilton left Mercedes for which team in 2025?|Ferrari|Red Bull;McLaren;Aston Martin
+spo|2|Which Italian F1 team uses a prancing horse as its badge?|Ferrari|Lamborghini;Maserati;Alfa Romeo|Scuderia Ferrari
+spo|3|Which F1 team's cars were nicknamed the "Silver Arrows"?|Mercedes|McLaren;Williams;Audi
+spo|2|Which Canadian won the Formula 1 world championship in 1997?|Jacques Villeneuve|Gilles Villeneuve;Lance Stroll;Paul Tracy|Villeneuve
+spo|3|Montreal's Grand Prix circuit is named after which Canadian driver, who died in 1982?|Gilles Villeneuve|Jacques Villeneuve;Paul Tracy;Greg Moore|Villeneuve
+spo|3|The Canadian Grand Prix track is on an island in which city?|Montreal|Toronto;Vancouver;Quebec City
+spo|3|Which Canadian driver races in F1 for Aston Martin, the team his father owns?|Lance Stroll|Nicholas Latifi;Jacques Villeneuve;Robert Wickens|Stroll
+spo|2|Which F1 race winds through the streets of Monte Carlo?|Monaco Grand Prix|Italian Grand Prix;French Grand Prix;Singapore Grand Prix|Monaco
+spo|3|Which Brazilian F1 legend died in a crash at Imola in 1994?|Ayrton Senna|Nelson Piquet;Rubens Barrichello;Emerson Fittipaldi|Senna
+spo|3|Which Austrian driver survived a fiery 1976 crash and came back weeks later, as shown in the film "Rush"?|Niki Lauda|Gerhard Berger;Jochen Rindt;Alain Prost|Lauda
+spo|3|Which Netflix series made many new fans of Formula 1 from 2019?|Drive to Survive|Grand Prix Driver;Formula 1: Inside Track;Pit Lane
+spo|3|Which Brad Pitt movie, released in 2025, is about a veteran Formula 1 driver?|F1|Rush;Ford v Ferrari;Le Mans '66|F1 The Movie
+spo|3|In motor racing, which flag means the race is over?|Chequered flag|Red flag;Green flag;White flag|Checkered flag;Black and white checkered flag;Checkered
+spo|3|In most motor racing, what does a yellow flag mean?|Caution: slow down, no passing|Last lap;Race stopped;Go faster|Caution
+spo|3|In NASCAR and IndyCar, which flag signals the final lap?|White flag|Yellow flag;Blue flag;Green flag|White
+spo|2|What is "pole position"?|First place on the starting grid|The pit lane exit;The last lap;The fastest pit stop
+# --- NASCAR & IndyCar ---
+spo|2|Which NASCAR driver is nicknamed "The King", with 200 wins?|Richard Petty|Dale Earnhardt;Jeff Gordon;Jimmie Johnson|Petty
+spo|3|Which three NASCAR drivers share the record of seven Cup championships?|Richard Petty, Dale Earnhardt and Jimmie Johnson|Jeff Gordon, Tony Stewart and Kyle Busch;Richard Petty, Jeff Gordon and Darrell Waltrip;Dale Earnhardt, Bill Elliott and Kevin Harvick
+spo|3|Which NASCAR legend, "The Intimidator", died on the last lap of the 2001 Daytona 500?|Dale Earnhardt|Dale Earnhardt Jr.;Davey Allison;Rusty Wallace|Earnhardt
+spo|2|What is NASCAR's most famous race, held every February in Florida?|Daytona 500|Indianapolis 500;Coca-Cola 600;Southern 500|Daytona
+spo|3|Which basketball legend co-owns the 23XI team that won the 2026 Daytona 500?|Michael Jordan|LeBron James;Shaquille O'Neal;Magic Johnson|Jordan
+spo|2|What do winners of the Indianapolis 500 traditionally drink in Victory Lane?|Milk|Champagne;Lemonade;Orange juice
+spo|2|What is the nickname of the Indianapolis Motor Speedway?|The Brickyard|The Oval;The Big One;The Speedbowl|Brickyard
+spo|3|Which Swedish driver won the 2026 Indianapolis 500 in the closest finish in the race's history?|Felix Rosenqvist|Marcus Ericsson;Alex Palou;Scott Dixon|Rosenqvist
+spo|3|Which Canadian won the 1995 Indianapolis 500 two years before becoming F1 champion?|Jacques Villeneuve|Paul Tracy;Scott Goodyear;Greg Moore|Villeneuve
+spo|3|How many drivers have won the Indy 500 a record four times?|Four|One;Two;Six|4
+spo|3|Who became the first woman to win an IndyCar race, in Japan in 2008?|Danica Patrick|Sarah Fisher;Simona de Silvestro;Janet Guthrie|Patrick;Danica
+spo|3|Which Toronto street race has run on the Exhibition Place grounds since 1986?|Honda Indy Toronto|Molson Grand Prix;Toronto 500;Lakeshore Classic|Toronto Indy;Molson Indy;Indy Toronto
+spo|3|Which French race lasts a full day and night, with drivers taking turns?|24 Hours of Le Mans|Tour de France;Monaco Grand Prix;Paris–Dakar Rally|Le Mans;24 Hours of Le Mans
+spo|3|Which 2019 film tells how Ford built a car to beat Ferrari at Le Mans in 1966?|Ford v Ferrari|Rush;Le Mans;Grand Prix|Le Mans '66;Ford vs Ferrari
+spo|2|Which Tom Cruise film is about a NASCAR driver named Cole Trickle?|Days of Thunder|Top Gun;Talladega Nights;Driven
+spo|2|Which Will Ferrell comedy is about NASCAR driver Ricky Bobby?|Talladega Nights|Days of Thunder;Semi-Pro;Blades of Glory|Talladega Nights: The Ballad of Ricky Bobby
+spo|1|What is the name of the red race car in Pixar's "Cars"?|Lightning McQueen|Doc Hudson;Mater;Chick Hicks|McQueen
+spo|2|Which Mario Kart character is a green dinosaur?|Yoshi|Bowser;Koopa Troopa;Birdo
+spo|3|In which 1960s cartoon did Dick Dastardly and Muttley try to cheat in every race?|Wacky Races|Speed Racer;Pole Position;Hot Wheels|The Wacky Races
+spo|3|What is the name of Speed Racer's car?|Mach 5|Mach 1;Turbo 7;Bullet X|Mach Five
+spo|3|What was the name of the 1980s TV car "KITT" short for?|Knight Industries Two Thousand|Knight Intelligent Transport Tech;Kinetic Interceptor Turbo Trans;Knight Industries Turbo Team
+# --- Sailing ---
+spo|2|Which Canadian schooner appears on the back of the dime?|Bluenose|Hector;Marco Polo;St. Roch
+spo|3|The Bluenose was built in which Nova Scotia town?|Lunenburg|Halifax;Yarmouth;Pictou
+spo|3|Which sailing trophy, first raced in 1851, is the oldest international sporting trophy still contested?|America's Cup|Admiral's Cup;Fastnet Trophy;Volvo Cup
+spo|3|In 1983, which country ended the Americans' 132-year hold on the America's Cup?|Australia|New Zealand;Great Britain;Italy
+spo|3|Which solo, non-stop, round-the-world sailing race starts in France every four years?|Vendée Globe|The Ocean Race;Route du Rhum;Sydney to Hobart
+spo|3|Which Nova Scotia-raised sailor was the first person to sail alone around the world, in 1895–98?|Joshua Slocum|Robin Knox-Johnston;Francis Chichester;Jacques Cartier|Slocum
+spo|3|Which Canadian designed the Laser, one of the world's most popular sailing dinghies?|Bruce Kirby|Hans Fogh;Paul Henderson;George Cuthbertson|Kirby
+spo|2|On a boat, which side is "port"?|Left|Right;Front;Back|Left side
+spo|2|On a boat, which side is "starboard"?|Right|Left;Front;Back|Right side
+spo|2|What is the front of a boat called?|Bow|Stern;Hull;Keel|The bow
+spo|2|What is the back of a boat called?|Stern|Bow;Mast;Galley|The stern
+spo|2|What unit measures a boat's speed?|Knots|Miles per hour;Leagues;Fathoms|Knot
+spo|3|A nautical mile is about how long?|1,852 metres|1,000 metres;1,609 metres;2,500 metres|1852 metres;1852 m;1.852 km
+spo|3|Which sailing knot is nicknamed the "king of knots"?|Bowline|Clove hitch;Reef knot;Figure eight
+spo|3|What is the lookout platform high on a ship's mast called?|Crow's nest|Poop deck;Quarterdeck;Bridge
+spo|3|In sailor slang, where does something lost at sea go?|Davy Jones' locker|Neptune's chest;The Captain's trunk;Poseidon's cellar|Davy Jones's locker;Davy Jones locker
+spo|2|What were the names of Christopher Columbus's three ships in 1492?|Niña, Pinta and Santa María|Mayflower, Speedwell and Discovery;Victoria, Trinidad and Concepción;Golden Hind, Pelican and Swan
+spo|3|Whose expedition was the first to sail all the way around the world, 1519–22?|Ferdinand Magellan's|Vasco da Gama's;Francis Drake's;James Cook's|Magellan
+spo|3|Which captain was set adrift in the famous 1789 mutiny on the Bounty?|William Bligh|James Cook;Horatio Nelson;Fletcher Christian|Captain Bligh;Bligh
+# --- Sailors in pop culture ---
+spo|1|Which cartoon sailor eats spinach to get strong?|Popeye|Bluto;Captain Crunch;Sinbad
+spo|2|What is the name of Popeye's girlfriend?|Olive Oyl|Sweet Pea;Wimpy;Betty Boop
+spo|2|What is the name of Captain Jack Sparrow's ship in "Pirates of the Caribbean"?|The Black Pearl|The Flying Dutchman;Queen Anne's Revenge;The Jolly Roger|Black Pearl
+spo|2|Which "Peter Pan" villain lost his hand to a crocodile?|Captain Hook|Smee;Long John Silver;Captain Flint|Hook
+spo|2|Which "Moby-Dick" captain hunts the white whale?|Captain Ahab|Captain Nemo;Captain Queequeg;Captain Starbuck|Ahab
+spo|3|Which Jules Verne captain commands the submarine Nautilus?|Captain Nemo|Captain Ahab;Captain Haddock;Captain Smollett|Nemo
+spo|3|Which hot-tempered sea captain is Tintin's best friend?|Captain Haddock|Captain Nemo;Captain Birdseye;Captain Flint|Haddock
+spo|2|What was the name of the cruise ship captain on "The Love Boat"?|Captain Stubing|Captain Kirk;Captain Picard;Captain Morgan|Stubing
+spo|2|What was the Skipper's first mate called on "Gilligan's Island"?|Gilligan|Thurston;Professor;Ginger
+spo|3|Which Tom Hanks film is about a cargo ship hijacked by Somali pirates?|Captain Phillips|Cast Away;Greyhound;Sully
+spo|3|In "Life of Pi", what is the name of the tiger who shares Pi's lifeboat?|Richard Parker|Shere Khan;Rajah;Tigger
+spo|3|Which Russell Crowe film follows Captain Jack Aubrey on HMS Surprise?|Master and Commander|Gladiator;Mutiny on the Bounty;In the Heart of the Sea|Master and Commander: The Far Side of the World
+spo|3|Which Beach Boys song is about a sloop that had a bad trip?|Sloop John B|Surfin' Safari;Kokomo;Sail On, Sailor|Sloop John B.
+spo|3|Which Japanese anime features schoolgirl heroes named after planets, like Sailor Mercury?|Sailor Moon|Cardcaptor Sakura;Pokémon;Dragon Ball
+spo|2|Which cereal mascot is a cartoon sea captain?|Cap'n Crunch|Captain Morgan;Captain Highliner;Captain Birdseye|Captain Crunch
+spo|3|Which frozen-fish brand's mascot is a bearded Canadian sea captain?|High Liner|Captain Birdseye;Gorton's;Captain D's|Highliner;Captain High Liner

@@ -155,6 +155,7 @@ io.on('connection', socket => {
     const r = makeRoom();
     if (!r) return ack({ ok: false, error: 'Could not create a game code. Try again.' });
     if (data && data.settings) r.settings = require('../public/js/engine.js').cleanSettings(data.settings);
+    if (data && data.seen) r.addSeen(data.seen);
     enter(r, data && data.name, ack);
   });
 
@@ -164,6 +165,7 @@ io.on('connection', socket => {
     const r = rooms.get(code);
     if (!r) return ack({ ok: false, error: 'No game found with code ' + (code || '??????') + '.' });
     if (session && session.code === code && r.players.has(session.pid)) { r.setConnected(session.pid, true); return ack({ ok: true, code, you: session.pid }); }
+    if (data && data.seen) r.addSeen(data.seen);
     enter(r, data && data.name, ack);
   });
 

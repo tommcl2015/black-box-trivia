@@ -186,10 +186,36 @@ if (process.env.USE_OPENTDB === '1') (function loadOpenTdb() {
 })();
 
 /* ---------- write ---------- */
-out.forEach((x, i) => { x.id = i + 1; if (!x.w) delete x.w; });
-const final = out.map(({ id, c, sub, d, q, a, w, alt, fib, src }) => ({ id, c, sub, d, q, a, w, alt, fib, src }));
+// Stable IDs: a short hash of the question text, so players' "already seen" history survives rebuilds.
+function hashId(str) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 0x01000193) >>> 0; }
+  return h.toString(36);
+}
+// Question "family": the shape of the question with names, quotes and numbers blanked out,
+// e.g. "What is the capital of Kuwait?" -> "what is the capital of #". Used to stop one pattern crowding a game.
+const QWORDS = new Set('what which who whom whose where when why how in on at of the a an from for to this these that is are was were does did do name true by according'.split(' '));
+function family(q) {
+  const t = q.replace(/["“”][^"“”]*["“”]/g, ' # ').replace(/\([^)]*\)/g, ' ').replace(/\d[\d,.]*/g, ' # ')
+    .replace(/[^A-Za-z#'’ -]/g, ' ').split(/\s+/).filter(Boolean)
+    .map(w => (/^[A-Z]/.test(w) && !QWORDS.has(w.toLowerCase())) ? '#' : w.toLowerCase());
+  const out = [];
+  for (const w of t) if (!(w === '#' && out[out.length - 1] === '#')) out.push(w);
+  return out.slice(0, 8).join(' ');
+}
+const ids = new Set();
+out.forEach(x => {
+  let id = hashId(dedupeKey(x.q)), n = 0;
+  while (ids.has(id)) id = hashId(dedupeKey(x.q) + (++n));
+  ids.add(id); x.id = id;
+  x.f = family(x.q);
+  if (!x.w) delete x.w;
+});
+const final = out.map(({ id, c, sub, d, q, a, w, alt, fib, src, f }) => ({ id, c, sub, d, q, a, w, alt, fib, src, f }));
 fs.writeFileSync(path.join(ROOT, 'server', 'questions.json'), JSON.stringify(final));
 const byCat = {}; final.forEach(x => byCat[x.c] = (byCat[x.c] || 0) + 1);
 console.log('Built', final.length, 'questions', stats);
 console.log('By category', byCat);
+const fams = {}; final.forEach(x => fams[x.f] = (fams[x.f] || 0) + 1);
+console.log('Biggest question families', Object.entries(fams).sort((a, b) => b[1] - a[1]).slice(0, 12).map(([k, n]) => `${n} × "${k}"`).join(' | '));
 console.log('Multiple-choice capable', final.filter(x => x.w).length, '| fill-in capable', final.filter(x => x.fib).length);

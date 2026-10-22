@@ -10,6 +10,11 @@
     set(k, v) { try { localStorage.setItem('td_' + k, JSON.stringify(v)); } catch (e) {} },
     del(k) { try { localStorage.removeItem('td_' + k); } catch (e) {} }
   };
+  // questions this device has already been shown (kept between games so they aren't repeated soon)
+  const seenQ = {
+    list() { const l = store.get('seenQ', []); return Array.isArray(l) ? l : []; },
+    add(id) { if (id == null) return; const l = seenQ.list(); if (l[l.length - 1] === id) return; l.push(id); store.set('seenQ', l.slice(-1500)); }
+  };
   const fmtCode = c => c ? String(c).replace(/^(\d{3})(\d{3})$/, '$1 $2') : '';
   const isLocalhost = /^(localhost|127\.|0\.0\.0\.0)/.test(location.hostname);
   const adPreview = CFG.adPreview || /[?&]ads=preview/.test(location.search) || (isLocalhost && !CFG.adsenseClient);
@@ -62,6 +67,7 @@
         switch (ev) {
           case 'create':
             if (data && data.settings) room.settings = TriviaEngine.cleanSettings(data.settings);
+            if (data && data.seen) room.addSeen(data.seen);
             if (pass) {
               (data.names || []).forEach((n, i) => room.addPlayer('p' + (i + 1), n));
               me = 'p1'; ack({ ok: true, code: 'PASS', you: me });
@@ -130,6 +136,7 @@
   function onQuestion(q) {
     if (S.room && S.room.passPlay && S.turn) S.me = S.turn.id;
     S.q = q; S.myAnswer = null; S.reveal = null;
+    seenQ.add(q.qid);
     S.deadline = performance.now() + q.remainingMs;
     S.lastTick = null;
     go('question');
@@ -273,7 +280,7 @@
     const name = readName(); if (!name) return;
     const net = online(); if (!net) return;
     busy(true);
-    net.emit('join', { code, name }, res => {
+    net.emit('join', { code, name, seen: seenQ.list() }, res => {
       busy(false);
       if (!res || !res.ok) { Sounds.beep(); return alertBox('stop', (res && res.error) || 'Could not join that game.'); }
       S.me = res.you; store.set('session', { code: res.code });
@@ -311,7 +318,7 @@
       const bank = await loadBank();
       if (S.net) S.net.close();
       const net = LocalNet(bank, true); bindNet(net); S.mode = 'local';
-      net.emit('create', { names, settings: store.get('settings', null) }, res => { S.me = res.you; });
+      net.emit('create', { names, settings: store.get('settings', null), seen: seenQ.list() }, res => { S.me = res.you; });
     } catch (e) { alertBox('stop', 'Could not load questions. Check your connection.'); }
     busy(false);
   }
@@ -645,7 +652,7 @@
         if (!name) { if (S.screen !== 'home') go('home'); return; }
         const net = online(); if (!net) return;
         busy(true);
-        net.emit('create', { name, settings: store.get('settings', null) }, res => {
+        net.emit('create', { name, settings: store.get('settings', null), seen: seenQ.list() }, res => {
           busy(false);
           if (!res || !res.ok) return alertBox('stop', (res && res.error) || 'Could not create a game.');
           S.me = res.you; store.set('session', { code: res.code });
@@ -671,7 +678,7 @@
           const bank = await loadBank();
           if (S.net) S.net.close();
           const net = LocalNet(bank); bindNet(net); S.mode = 'local';
-          net.emit('create', { name, settings: store.get('settings', null) }, res => { S.me = res.you; });
+          net.emit('create', { name, settings: store.get('settings', null), seen: seenQ.list() }, res => { S.me = res.you; });
         } catch (e) { alertBox('stop', 'Could not load questions. Check your connection.'); }
         busy(false);
         break;

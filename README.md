@@ -124,3 +124,12 @@ tools/                 Question build + generator scripts
 ```
 
 Scoring: 100 for a correct multiple-choice answer, 150 for fill-in, plus up to 50 for speed, +10 per difficulty level above 1, and +25 when you're on a streak of 3 or more.
+
+## How questions are picked
+
+The picker (`QuestionPicker` in `public/js/engine.js`) aims for variety:
+
+- **No repeats in a session.** A room never re-asks a question until its pool runs out.
+- **Remembers earlier games.** Each device keeps the last 1,500 question IDs it was shown and sends them when creating or joining a game; unseen questions are used first. IDs are a hash of the question text, so history survives question-bank updates.
+- **Patterns, not just questions.** Every question has a "family" (its shape with names and numbers blanked, e.g. `what is the capital of #`). The picker chooses a family first (weighted by the square root of its size), caps each family per game, so big template sets like capitals or champions can't crowd a game.
+- **No repeated answers** in one game, **no category twice in a row**, and video-game questions stay at about a third of Sports & Leisure.

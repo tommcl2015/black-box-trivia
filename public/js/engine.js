@@ -47,40 +47,75 @@
     return {
       byCat, known,
       count(cat) { return byCat[cat] ? byCat[cat].length : 0; },
-      pick(settings, used, rnd) {
+      /* Picks a varied set of questions.
+       * used: question ids already asked in this room (never repeat within a session)
+       * seen: ids this group has seen in earlier games on their devices (avoided while fresh ones remain)
+       * Variety rules: rotate categories, choose a question *pattern* before a question so that big
+       * template families (e.g. "What is the capital of…") can't crowd a game, cap each pattern per game,
+       * never use the same answer twice, and keep video-game questions to about a third of their category. */
+      pick(settings, used, rnd, seen) {
+        seen = seen || new Set();
+        const N = settings.numQuestions, cats = settings.categories;
         const diffOk = q => settings.difficulty === 'any' ||
           (settings.difficulty === 'easy' && q.d <= 2) ||
           (settings.difficulty === 'medium' && q.d === 3) ||
           (settings.difficulty === 'hard' && q.d >= 4);
         const modeOk = q => settings.mode === 'mixed' ? (q.w || q.fib) : settings.mode === 'mc' ? !!q.w : !!q.fib;
-        const pools = {};
-        for (const c of settings.categories) {
+        const need = Math.ceil(N / cats.length) + 2;
+        const famCap = Math.max(1, Math.ceil(N / 15));
+        const famUsed = new Map(), answers = new Set(), perCat = {}, nicheCat = {};
+        const ansKey = q => Match.compact(Match.normalize(q.a));
+        const groups = {};
+        for (const c of cats) {
           const base = byCat[c].filter(modeOk);
           let p = base.filter(q => diffOk(q) && !used.has(q.id));
-          if (p.length < 3) p = base.filter(q => !used.has(q.id));           // relax difficulty
-          if (p.length < 3) { base.forEach(q => used.delete(q.id)); p = base.slice(); } // recycle
-          // keep niche sub-topics (video games) to about 1 in 3 picks of their category
-          const niche = shuffle(p.filter(q => q.sub === 'Video Games'), rnd);
-          const main = shuffle(p.filter(q => q.sub !== 'Video Games'), rnd);
-          const mixed = [];
-          while (main.length || niche.length) {
-            if (main.length) mixed.push(main.pop());
-            if (main.length) mixed.push(main.pop());
-            if (niche.length) mixed.push(niche.pop());
-          }
-          pools[c] = mixed.reverse(); // pop() takes from the end
+          if (p.length < need) p = base.filter(q => !used.has(q.id));                    // relax difficulty
+          if (p.length < need) { base.forEach(q => used.delete(q.id)); p = base.filter(diffOk); if (p.length < need) p = base.slice(); } // recycle
+          const unseen = p.filter(q => !seen.has(q.id));
+          if (unseen.length >= need) p = unseen;                                           // prefer questions nobody here has seen
+          const g = new Map();
+          for (const q of shuffle(p, rnd)) { const k = q.f || q.id; if (!g.has(k)) g.set(k, []); g.get(k).push(q); }
+          groups[c] = g; perCat[c] = 0; nicheCat[c] = 0;
         }
+        const draw = c => {
+          const g = groups[c];
+          for (let pass = 0; pass < 2; pass++) {
+            const fams = [];
+            let total = 0;
+            for (const [k, list] of g) {
+              if (!list.length) continue;
+              if (pass === 0 && (famUsed.get(k) || 0) >= famCap) continue;
+              const w = Math.sqrt(list.length); fams.push([k, list, w]); total += w;
+            }
+            for (let tries = 0; tries < 30 && fams.length && total > 0; tries++) {
+              let r = rnd() * total, pickF = fams[fams.length - 1];
+              for (const f of fams) { r -= f[2]; if (r <= 0) { pickF = f; break; } }
+              const [k, list] = pickF;
+              const q = list[list.length - 1];
+              const niche = q.sub === 'Video Games';
+              if (answers.has(ansKey(q)) || (pass === 0 && niche && (nicheCat[c] + 1) * 3 > perCat[c] + 3)) {
+                list.pop(); if (!list.length) { total -= pickF[2]; fams.splice(fams.indexOf(pickF), 1); }
+                continue;
+              }
+              list.pop();
+              famUsed.set(k, (famUsed.get(k) || 0) + 1);
+              answers.add(ansKey(q)); perCat[c]++; if (niche) nicheCat[c]++;
+              return q;
+            }
+          }
+          return null;
+        };
         const out = [];
-        let order = shuffle(settings.categories.slice(), rnd);
-        let guard = 0;
-        while (out.length < settings.numQuestions && guard++ < 1000) {
+        let order = shuffle(cats.slice(), rnd), last = null, guard = 0, dry = new Set();
+        while (out.length < N && guard++ < 2000 && dry.size < cats.length) {
+          if (order.length > 1 && order[0] === last) order.push(order.shift());            // no category twice in a row
           for (const c of order) {
-            if (out.length >= settings.numQuestions) break;
-            const q = pools[c].pop();
-            if (q) { out.push(q); used.add(q.id); }
+            if (out.length >= N) break;
+            if (dry.has(c)) continue;
+            const q = draw(c);
+            if (q) { out.push(q); used.add(q.id); last = c; } else dry.add(c);
           }
           order = shuffle(order, rnd);
-          if (settings.categories.every(c => !pools[c].length)) break;
         }
         return out;
       }
@@ -102,6 +137,7 @@
       this.settings = cleanSettings(opts.settings);
       this.state = 'lobby';
       this.used = new Set();
+      this.seen = new Set();          // question ids players saw in earlier games (from their devices)
       this.questions = [];
       this.qIndex = -1;
       this.current = null;
@@ -183,6 +219,12 @@
     }
 
     /* ---------- settings / start ---------- */
+    addSeen(ids) {
+      if (!Array.isArray(ids)) return;
+      for (const id of ids.slice(-1500)) if ((typeof id === 'string' && id.length < 12) || Number.isInteger(id)) this.seen.add(id);
+      if (this.seen.size > 6000) this.seen = new Set([...this.seen].slice(-4000));
+    }
+
     updateSettings(byId, s) {
       if (byId !== this.hostId || this.state === 'question' || this.state === 'reveal') return;
       this.settings = cleanSettings(s, this.settings);
@@ -192,7 +234,7 @@
     start(byId) {
       if (byId !== this.hostId) return { ok: false, error: 'Only the host can start the game.' };
       if (this.state === 'question' || this.state === 'reveal') return { ok: false };
-      this.questions = this.picker.pick(this.settings, this.used, this.rnd);
+      this.questions = this.picker.pick(this.settings, this.used, this.rnd, this.seen);
       if (!this.questions.length) return { ok: false, error: 'No questions match those settings.' };
       for (const p of this.players.values()) Object.assign(p, { score: 0, wedges: [], correct: 0, streak: 0, answer: null });
       this.qIndex = -1;
@@ -267,7 +309,7 @@
       const c = this.current;
       const elapsed = this.now() - c.startedAt;
       return {
-        index: this.qIndex, total: this.questions.length, type: c.type,
+        index: this.qIndex, total: this.questions.length, type: c.type, qid: c.q.id,
         category: c.q.c, categoryName: CAT_NAMES[c.q.c], difficulty: c.q.d,
         text: c.q.q, choices: c.choices, timeLimit: c.timeLimit,
         remainingMs: Math.max(0, c.timeLimit * 1000 - elapsed)
@@ -330,7 +372,7 @@
       }
       this.state = 'reveal';
       this.lastReveal = {
-        index: this.qIndex, total: this.questions.length, type: c.type,
+        index: this.qIndex, total: this.questions.length, type: c.type, qid: c.q.id,
         category: c.q.c, categoryName: CAT_NAMES[c.q.c],
         text: c.q.q, choices: c.choices, correctIndex: c.correctIndex, answer: c.q.a,
         results, players: this.publicPlayers(), last: this.qIndex >= this.questions.length - 1,
