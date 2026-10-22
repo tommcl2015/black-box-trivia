@@ -9,7 +9,15 @@ let geoip = null; try { geoip = require('geoip-country'); } catch (e) { /* optio
 const BOARDS = [10, 20, 30, 50];          // a game's length decides which board it competes on
 const KEEP = 10;
 const MAX_PER_Q = 150 + 50 + 40 + 25;    // best case per question: typed answer + full speed + hardest + streak
-const FILE = process.env.LEADERBOARD_FILE || path.join(__dirname, '..', 'data', 'runtime', 'leaderboard.json');
+// Where scores are saved: LEADERBOARD_FILE if set, otherwise a Render disk mounted at /var/data, otherwise the app folder
+// (which Render wipes on every deploy). A stray "=" or missing leading "/" in the setting is tolerated.
+const FILE = (() => {
+  let f = String(process.env.LEADERBOARD_FILE || '').trim().replace(/^=+/, '').trim();
+  if (f && !path.isAbsolute(f)) f = '/' + f;
+  if (f) return f;
+  try { fs.accessSync('/var/data', fs.constants.W_OK); return '/var/data/leaderboard.json'; } catch (e) {}
+  return path.join(__dirname, '..', 'data', 'runtime', 'leaderboard.json');
+})();
 const COUNTRIES = (() => { try { return require('../data/countries.json'); } catch (e) { return {}; } })();
 
 const matcher = new RegExpMatcher({ ...englishDataset.build(), ...englishRecommendedTransformers });
