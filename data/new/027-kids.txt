@@ -1,0 +1,149 @@
+# Kids' round — easy questions for road trips and family nights (difficulty 1)
+# --- Animals & nature ---
+sci|1|How many legs does a spider have?|8|6;10;4|Eight
+sci|1|How many legs does an insect have?|6|8;4;10|Six
+sci|1|What do caterpillars turn into?|Butterflies or moths|Bees;Beetles;Dragonflies|Butterfly;Butterflies;Moths
+sci|1|What do tadpoles grow up to be?|Frogs|Fish;Lizards;Snails|Frog;Frogs or toads
+sci|1|Which animal is known as the "King of the Jungle"?|Lion|Tiger;Elephant;Gorilla|The lion
+sci|1|What is the biggest animal in the world?|Blue whale|Elephant;Giraffe;Great white shark|Blue whales
+sci|1|Which animal has a long trunk?|Elephant|Giraffe;Rhino;Hippo|Elephants
+sci|1|Which animal has black and white stripes and looks like a horse?|Zebra|Panda;Skunk;Tapir|Zebras
+sci|1|Which bird can't fly but is the fastest runner?|Ostrich|Penguin;Emu;Chicken|Ostriches
+sci|1|Which black-and-white bird can't fly but swims very well?|Penguin|Puffin;Toucan;Magpie|Penguins
+sci|1|What do bees make?|Honey|Milk;Silk;Wax only
+sci|1|What do cows drink?|Water|Milk;Juice;Tea
+sci|1|Which animal says "moo"?|Cow|Sheep;Goat;Horse|Cows
+sci|1|Which animal hops and carries its baby in a pouch?|Kangaroo|Rabbit;Frog;Koala|Kangaroos
+sci|1|What is a baby dog called?|Puppy|Kitten;Cub;Calf|Pup
+sci|1|What is a baby cat called?|Kitten|Puppy;Cub;Foal|Kitty
+sci|1|What do pandas mostly eat?|Bamboo|Fish;Grass;Honey
+sci|1|Which animal has a shell and moves very slowly?|Tortoise|Rabbit;Squirrel;Cheetah|Turtle;Snail
+sci|1|What is the tallest animal?|Giraffe|Elephant;Camel;Ostrich|Giraffes
+sci|1|Which sea animal has eight arms?|Octopus|Starfish;Jellyfish;Crab|Octopuses
+sci|1|Which animal is famous for changing colour to blend in?|Chameleon|Iguana;Gecko;Frog|Chameleons
+sci|1|What do you call an animal that eats only plants?|Herbivore|Carnivore;Omnivore;Predator
+sci|1|What do you call an animal that eats only meat?|Carnivore|Herbivore;Omnivore;Vegetarian
+sci|1|Which season comes after winter?|Spring|Summer;Autumn;Fall
+sci|1|How many seasons are there in a year?|4|2;3;6|Four
+sci|1|What falls from clouds when it rains?|Water drops|Snowballs;Leaves;Sand|Water;Raindrops;Rain
+sci|1|What colour are most leaves in summer?|Green|Yellow;Red;Brown
+sci|1|What do plants need from the sky to grow?|Sunlight|Moonlight;Stars;Wind|Sun;Sunshine;Light
+sci|1|What part of a plant grows under the ground?|Roots|Leaves;Flowers;Petals|The roots;Root
+sci|1|Which star is closest to Earth?|The Sun|The Moon;The North Star;Sirius|Sun
+sci|1|What do we call the planet we live on?|Earth|Mars;Venus;Jupiter|The Earth
+sci|1|Which planet is famous for its big rings?|Saturn|Mars;Earth;Mercury
+sci|1|How many days are in a week?|7|5;6;10|Seven
+sci|1|How many months are in a year?|12|10;11;13|Twelve
+sci|1|How many hours are in a day?|24|12;20;60|Twenty-four
+sci|1|What do you call frozen water?|Ice|Steam;Fog;Rain
+sci|1|What do you get when water boils?|Steam|Ice;Snow;Sand|Water vapour;Water vapor;Vapour
+sci|1|Which body part do you use to smell?|Nose|Ears;Eyes;Tongue|Your nose
+sci|1|Which body part pumps blood around your body?|Heart|Lungs;Stomach;Brain|The heart
+sci|1|What do we use our lungs for?|Breathing|Eating;Thinking;Seeing|To breathe;Breathe
+sci|1|How many teeth does an adult usually have?|32|20;28;40|Thirty-two
+sci|1|What do you call the sound that bounces back to you in a cave?|Echo|Roar;Whisper;Hum|An echo
+sci|1|What colour do you get when you mix blue and yellow?|Green|Purple;Orange;Brown
+sci|1|What colour do you get when you mix red and yellow?|Orange|Purple;Green;Pink
+sci|1|What colour do you get when you mix red and blue?|Purple|Green;Orange;Brown|Violet
+sci|1|What colour do you get when you mix red and white?|Pink|Purple;Orange;Peach
+sci|1|What do magnets stick to?|Some metals, like iron|Wood;Plastic;Glass|Iron;Metal;Steel
+# --- Geography ---
+geo|1|How many continents are there?|7|5;6;8|Seven
+geo|1|Which is the biggest ocean?|Pacific|Atlantic;Indian;Arctic|Pacific Ocean
+geo|1|Which continent is the coldest?|Antarctica|Europe;Asia;North America
+geo|1|On which continent is Egypt?|Africa|Asia;Europe;South America
+geo|1|Which country is shaped like a boot?|Italy|Spain;France;Greece
+geo|1|In which country are the pyramids of Giza?|Egypt|Mexico;Peru;India
+geo|1|In which country is the Eiffel Tower?|France|Italy;Spain;Belgium
+geo|1|What is the capital of England?|London|Manchester;Liverpool;Birmingham
+geo|1|What is the capital of the United States?|Washington, D.C.|New York;Los Angeles;Chicago|Washington
+geo|1|In which country did kangaroos and koalas evolve?|Australia|Africa;India;Brazil
+geo|1|What is the name of a very big hill?|Mountain|Valley;Lake;Island|A mountain
+geo|1|What is a piece of land with water all around it?|Island|Peninsula;Desert;Valley|An island
+geo|1|Which direction does the sun rise in?|East|West;North;South|The east
+geo|1|What do you call a very dry place with little rain?|Desert|Rainforest;Swamp;Tundra|A desert
+geo|1|What is the longest river in Africa?|Nile|Congo;Niger;Zambezi|The Nile;River Nile
+geo|1|Which country has the most people?|India|China;United States;Brazil
+geo|1|On a map, which direction is usually at the top?|North|South;East;West
+geo|1|What is the largest country in the world?|Russia|Canada;China;United States
+geo|1|What is the biggest desert in Africa?|Sahara|Kalahari;Gobi;Namib|Sahara Desert
+geo|1|Which country is home to the giant panda?|China|Japan;India;Thailand
+# --- Stories, rhymes & words ---
+art|1|In the nursery rhyme, who sat on a wall and had a great fall?|Humpty Dumpty|Jack;Little Miss Muffet;Little Bo-Peep
+art|1|In the nursery rhyme, what did Jack and Jill go up the hill to fetch?|A pail of water|A bag of apples;Their lost sheep;A kite|Water;A pail of water;Pail of water
+art|1|What did Little Bo-Peep lose?|Her sheep|Her shoe;Her cat;Her hat|Sheep
+art|1|What frightened Little Miss Muffet away?|A spider|A mouse;A snake;A bee|Spider
+art|1|In "Twinkle, Twinkle", what does the little star do?|Twinkle|Sing;Dance;Fall
+art|1|In the story, how many bears did Goldilocks meet?|3|2;4;7|Three
+art|1|Whose porridge was "just right" for Goldilocks?|Baby Bear's|Mama Bear's;Papa Bear's;Nobody's|Baby Bear;Baby bear's porridge
+art|1|In "The Three Little Pigs", what was the strongest house made of?|Bricks|Straw;Sticks;Mud|Brick
+art|1|Who wore a red cape and met a wolf in the woods?|Little Red Riding Hood|Cinderella;Snow White;Goldilocks|Red Riding Hood
+art|1|Which girl lost a glass slipper at the ball?|Cinderella|Snow White;Belle;Rapunzel
+art|1|Who let down her long hair from a tower?|Rapunzel|Cinderella;Ariel;Snow White
+art|1|In "Snow White", how many dwarfs were there?|7|5;6;9|Seven
+art|1|What did Jack trade for magic beans?|A cow|A pig;A horse;A goat|Cow;His cow
+art|1|What grew from Jack's magic beans?|A beanstalk|A tree;A tower;A rainbow|Beanstalk
+art|1|In "The Ugly Duckling", what does the duckling grow up to be?|A swan|A goose;A duck;An eagle|Swan
+art|1|Which race did the tortoise win?|Against the hare|Against a dog;Against a horse;Against a fox|The hare;Hare
+art|1|What do you call the opposite of "hot"?|Cold|Warm;Wet;Big
+art|1|How many letters are in the English alphabet?|26|24;25;28|Twenty-six
+art|1|What is the first letter of the alphabet?|A|B;Z;E
+art|1|What is the last letter of the alphabet?|Z|Y;X;A
+art|1|Which word means a baby's bed?|Crib|Couch;Bench;Stool|Cot;Cradle
+# --- Cartoons, films & TV ---
+ent|1|What is the name of Mickey Mouse's girlfriend?|Minnie Mouse|Daisy Duck;Clarabelle Cow;Betty Boop|Minnie
+ent|1|What kind of animal is Donald?|Duck|Mouse;Dog;Goose|A duck
+ent|1|What kind of animal is Goofy?|Dog|Cow;Horse;Mouse|A dog
+ent|1|In "Frozen", who is Elsa's sister?|Anna|Ariel;Belle;Rapunzel
+ent|1|In "Frozen", what power does Elsa have?|Ice and snow powers|Fire powers;Super strength;Flying|Ice;Ice powers;Snow
+ent|1|In "Toy Story", what is the name of the cowboy?|Woody|Buzz;Jessie;Rex
+ent|1|What kind of fish is Nemo?|Clownfish|Goldfish;Pufferfish;Angelfish|Clown fish
+ent|1|In "The Lion King", what is the name of the lion cub who becomes king?|Simba|Nala;Mufasa;Scar
+ent|1|What colour is Shrek?|Green|Blue;Brown;Purple
+ent|1|What colour are the Smurfs?|Blue|Green;Purple;Red
+ent|1|Who lives in a pineapple under the sea?|SpongeBob SquarePants|Patrick Star;Squidward;Nemo|SpongeBob
+ent|1|What kind of animal is Peppa?|Pig|Sheep;Rabbit;Dog|A pig
+ent|1|What kind of animal is Bluey?|Dog|Cat;Fox;Koala|A dog;Blue Heeler
+ent|1|Who is Winnie-the-Pooh's bouncy tiger friend?|Tigger|Eeyore;Piglet;Rabbit
+ent|1|Which superhero is known as the "web-slinger"?|Spider-Man|Batman;Superman;Iron Man|Spiderman
+ent|1|Which hero wears a red cape and comes from the planet Krypton?|Superman|Batman;Captain America;The Flash
+ent|1|In "Paw Patrol", which pup is the police dog?|Chase|Marshall;Rubble;Skye
+ent|1|What are the little yellow helpers in "Despicable Me" called?|Minions|Smurfs;Oompa-Loompas;Trolls
+ent|1|What kind of animal is Sonic?|Hedgehog|Fox;Cat;Mouse|A hedgehog
+ent|1|What is the name of Mario's dinosaur friend?|Yoshi|Bowser;Toad;Luigi
+ent|1|Which Disney princess has a pet tiger named Rajah?|Jasmine|Ariel;Mulan;Moana
+ent|1|What is the name of the mermaid in "The Little Mermaid"?|Ariel|Ursula;Belle;Aurora
+ent|1|In "Moana", what is the name of the demigod who sings "You're Welcome"?|Maui|Kai;Tamatoa;Pua
+ent|1|What does Olaf the snowman love?|Warm hugs|Ice cream;Cold winds;Carrots|Hugs;Summer
+# --- History made simple ---
+his|1|What were the giant reptiles that lived millions of years ago called?|Dinosaurs|Dragons;Mammoths;Crocodiles|Dinosaur
+his|1|Who were the first people to walk on the Moon?|American astronauts|Russian cosmonauts;Chinese astronauts;French pilots|Americans;Neil Armstrong and Buzz Aldrin
+his|1|What did knights wear to protect themselves in battle?|Armour|Pyjamas;Raincoats;Swimsuits|Armor;Suits of armour
+his|1|What did ancient Egyptians build as tombs for their kings?|Pyramids|Castles;Igloos;Skyscrapers|The pyramids;Pyramid
+his|1|What did pirates often look for, according to stories?|Buried treasure|Lost puppies;Pizza;Dinosaurs|Treasure
+his|1|What kind of hairy elephants lived in the Ice Age?|Woolly mammoths|Pygmy elephants;Tusked hippos;Snow rhinos|Mammoths;Mammoth
+his|1|Which famous ship sank after hitting an iceberg in 1912?|Titanic|Mayflower;Queen Mary;Lusitania|The Titanic
+his|1|Who was the first President of the United States?|George Washington|Abraham Lincoln;Thomas Jefferson;John Adams|Washington
+his|1|Where did the Olympic Games begin?|Ancient Greece|Ancient Rome;Ancient Egypt;China|Greece
+his|1|Which brothers built and flew the first airplane?|The Wright brothers|The Mario brothers;The Grimm brothers;The Jonas brothers|Wright brothers;Wrights
+# --- Sports & games ---
+spo|1|In soccer, which player can use their hands?|The goalkeeper|The striker;The captain;The referee|Goalkeeper;Goalie;Keeper
+spo|1|How many players are on a soccer team on the field?|11|9;10;12|Eleven
+spo|1|In which sport do you hit a shuttlecock?|Badminton|Tennis;Squash;Golf
+spo|1|In which sport do you try to get a hole in one?|Golf|Tennis;Bowling;Basketball
+spo|1|What shape is a basketball?|Round|Oval;Square;Triangle|A sphere;Sphere;Ball-shaped
+spo|1|What colour is the middle of an archery target, the bullseye?|Gold|Red;Blue;Black|Yellow
+spo|1|How many sides does a dice have?|6|4;8;12|Six
+spo|1|In chess, which piece can only move like an "L"?|Knight|Bishop;Rook;Pawn|The knight
+spo|1|In the game Snakes and Ladders, what happens when you land on a snake?|You slide down|You climb up;You win;You skip a turn|Slide down;Go down
+spo|1|What do you need to fly a kite?|Wind|Snow;Rain;Sand
+spo|1|What sport do the Harlem Globetrotters play?|Basketball|Baseball;Soccer;Hockey
+spo|1|In which sport would you do a cartwheel on a balance beam?|Gymnastics|Swimming;Skating;Tennis
+spo|1|What fruit is used to make guacamole?|Avocado|Banana;Apple;Lime
+spo|1|What fruit do raisins come from?|Grapes|Plums;Cherries;Blueberries|Grape
+spo|1|Which nut is peanut butter made from?|Peanuts|Almonds;Walnuts;Cashews|Peanut
+spo|1|What is the main ingredient in popcorn?|Corn|Rice;Wheat;Potatoes|Corn kernels;Maize
+spo|1|What vegetable do rabbits famously love?|Carrots|Potatoes;Onions;Peas|Carrot
+spo|1|What do you call a pizza with only tomato sauce, cheese and basil?|Margherita|Hawaiian;Pepperoni;Calzone|Margarita
+spo|1|What colour is a ripe banana?|Yellow|Green;Red;Blue
+spo|1|Which fruit has its seeds on the outside?|Strawberry|Apple;Orange;Banana|Strawberries

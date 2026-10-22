@@ -1,0 +1,97 @@
+# Myth or fact? + the human body
+# --- Myths busted ---
+sci|3|Do goldfish really have a three-second memory?|No — they can remember things for months|Yes, exactly three seconds;Yes, but only in small bowls;No — they have no memory at all|No
+sci|3|Can you see the Great Wall of China from the Moon with your own eyes?|No|Yes, easily;Only at night;Only with sunglasses
+sci|3|Do we really use only 10% of our brains?|No — we use virtually all of it|Yes, just 10%;Only 50%;Only while asleep|No
+sci|3|Does lightning never strike the same place twice?|It can and often does|It never does;Only in deserts;Only during summer|No;It does
+sci|3|Do bulls get angry at the colour red?|No — they are red-green colour-blind and react to movement|Yes, red makes them angry;Only bright red;Only during bullfights|No
+sci|3|Does shaving make hair grow back thicker?|No|Yes, twice as thick;Only on the face;Only for men
+sci|3|Are bats blind?|No — all bats can see|Yes, completely;Only fruit bats;Only during the day|No
+sci|3|Do ostriches bury their heads in the sand when scared?|No — they lower their heads to the ground to tend their eggs|Yes, every time;Only the males;Only in deserts|No
+sci|3|Is a tomato a fruit or a vegetable, botanically?|A fruit|A vegetable;A nut;A grain|Fruit
+sci|3|Do camels store water in their humps?|No — the humps store fat|Yes, water;Yes, milk;No — they store air|No;Fat
+sci|3|Does sugar make children hyperactive, according to research?|No — studies have found no link|Yes, always;Only chocolate does;Only in the evening|No
+sci|3|Do you lose most of your body heat through your head?|No — only about as much as any other uncovered part|Yes, about 80%;Yes, about half;Only in winter|No
+sci|3|Will cracking your knuckles give you arthritis?|No, studies show no link|Yes, always;Only in your thumbs;Only after age 50|No
+sci|3|Do daddy longlegs have the world's deadliest venom?|No — it's a myth|Yes, but their fangs are too small;Yes, the deadliest of all;Only in Australia|No
+sci|3|Is it safe to wake a sleepwalker?|Yes — it may confuse them, but it won't harm them|No, it can kill them;No, they'll lose their memory;Only before midnight|Yes
+sci|3|Do chameleons change colour mainly to match their background?|No — mostly to show mood and control temperature|Yes, always to hide;Only at night;Only when hunting|No
+sci|3|Do touched baby birds get rejected by their mothers because of human smell?|No — most birds have a poor sense of smell|Yes, always;Only robins;Only if you touch the eggs|No
+sci|3|Did Vikings wear horned helmets in battle?|No — that idea comes from 1800s costumes|Yes, always;Only the chiefs;Only in winter|No
+sci|3|Did Napoleon have an unusually short height?|No — he was about average for his time|Yes, around 1.2 m;Yes, the shortest French leader;Nobody knows|No
+sci|3|Is Mount Everest the tallest mountain measured from base to peak?|No — Mauna Kea in Hawaii is taller from its base on the seabed|Yes;No, K2 is;No, Kilimanjaro is|No;Mauna Kea
+sci|3|Is the "dark side" of the Moon always dark?|No — it just always faces away from us|Yes, always;Only in winter;Only during eclipses|No
+sci|3|Does a penny dropped from a skyscraper become deadly?|No — air resistance slows it down too much|Yes, it can kill;Only from 100 floors;Only if it's a new coin|No
+sci|3|Do humans have only five senses?|No — we have many more, such as balance and temperature|Yes, exactly five;No, we have three;No, we have exactly seven|No
+# --- The human body ---
+sci|2|What is the strongest muscle in the body, for its size?|The jaw muscle (masseter)|The heart;The thigh muscle;The tongue|Masseter;Jaw;Jaw muscle
+sci|2|Which organ filters your blood to make urine?|Kidneys|Liver;Lungs;Spleen|Kidney;The kidneys
+sci|2|What is the largest internal organ in the human body?|The liver|The lungs;The brain;The stomach|Liver
+sci|2|What is the longest bone in the human body?|Femur (thigh bone)|Tibia;Humerus;Spine|Femur;Thigh bone
+sci|3|What is the hard outer layer of your teeth called?|Enamel|Dentine;Pulp;Plaque|Tooth enamel
+sci|2|What protein makes hair and nails?|Keratin|Collagen;Melanin;Insulin
+sci|3|Which pigment gives skin and hair their colour?|Melanin|Keratin;Chlorophyll;Haemoglobin
+sci|2|Which part of the blood carries oxygen?|Red blood cells|White blood cells;Platelets;Plasma|Red cells
+sci|3|What is the name of the iron-rich protein in red blood cells?|Haemoglobin|Insulin;Keratin;Collagen|Hemoglobin
+sci|2|Which organ produces insulin?|Pancreas|Liver;Kidneys;Stomach|The pancreas
+sci|3|What is the medical name for the windpipe?|Trachea|Oesophagus;Larynx;Bronchus|The trachea
+sci|3|What is the voice box called?|Larynx|Pharynx;Trachea;Epiglottis|The larynx
+sci|3|What is the coloured part of the eye called?|Iris|Pupil;Retina;Cornea|The iris
+sci|3|What is the black hole in the middle of your eye called?|Pupil|Iris;Lens;Retina|The pupil
+sci|3|Which blood type is called the "universal donor"?|O negative|AB positive;A positive;B negative|O-;O neg
+sci|3|Which blood type is the "universal recipient"?|AB positive|O negative;A negative;B positive|AB+
+sci|3|How many chambers does the human heart have?|4|2;3;6|Four
+sci|3|How many pairs of chromosomes do most humans have?|23|21;46;32|Twenty-three
+sci|2|Which part of the brain controls balance and coordination?|Cerebellum|Cerebrum;Medulla;Hypothalamus|The cerebellum
+sci|3|What is the scientific name for the kneecap?|Patella|Femur;Tibia;Fibula
+sci|3|What is the scientific name for the collarbone?|Clavicle|Scapula;Sternum;Patella
+sci|3|What is the common name for the scapula?|Shoulder blade|Collarbone;Breastbone;Kneecap
+sci|2|Which body part has a "funny bone", which is actually a nerve?|Elbow|Knee;Ankle;Wrist
+sci|3|About how many bones are in a human hand and wrist?|27|12;20;42
+sci|3|Which bone in the body is the only one not connected to another bone?|Hyoid|Patella;Coccyx;Stapes
+sci|3|About what percentage of the adult human body is water?|About 60%|About 30%;About 80%;About 95%|60%;60;Sixty percent
+sci|2|What do your taste buds detect besides sweet, sour, salty and bitter?|Umami|Spicy;Cold;Metallic
+sci|3|Which gas do humans breathe out that plants use?|Carbon dioxide|Oxygen;Nitrogen;Helium|CO2
+sci|2|Which vitamin do carrots famously contain a lot of (as beta-carotene)?|Vitamin A|Vitamin C;Vitamin D;Vitamin K
+sci|3|How long does it take blood to travel around the body?|About a minute|About a second;About an hour;About a day|1 minute;One minute
+sci|3|What is the name for a doctor who specialises in the heart?|Cardiologist|Neurologist;Dermatologist;Podiatrist
+sci|3|What is the name for a doctor who specialises in skin?|Dermatologist|Cardiologist;Ophthalmologist;Orthopaedist
+sci|3|What is the name for a doctor who treats feet?|Podiatrist|Dermatologist;Paediatrician;Orthodontist|Chiropodist
+sci|3|What does a paediatrician treat?|Children|Feet;Teeth;Elderly people|Kids;Babies and children
+sci|3|Which tiny bones in the ear are the smallest in the body?|The ossicles (hammer, anvil and stirrup)|The phalanges;The carpals;The tarsals|Ossicles;Hammer, anvil and stirrup
+sci|3|What reflex makes your leg kick when a doctor taps below the knee?|Knee-jerk reflex|Blink reflex;Gag reflex;Startle reflex|Patellar reflex;Knee jerk
+sci|3|Which part of the body has the most sweat glands?|The soles of the feet|The armpits;The forehead;The back|Feet;Soles of the feet
+sci|2|What do you call the involuntary spasm of the diaphragm that makes a "hic" sound?|Hiccup|Sneeze;Yawn;Burp|Hiccups;Hiccough
+sci|3|Where in the body would you find the alveoli?|Lungs|Kidneys;Liver;Brain|The lungs
+sci|3|Where in the body is the smallest muscle, the stapedius?|The ear|The eye;The nose;The finger|Ear;Middle ear
+sci|3|Which organ can regrow to full size even after much of it is removed?|The liver|The heart;The brain;The pancreas|Liver
+# --- Nature & everyday science ---
+sci|2|What gas do plants give off that we need to breathe?|Oxygen|Carbon dioxide;Nitrogen;Hydrogen|O2
+sci|2|What is the green pigment in plants called?|Chlorophyll|Melanin;Carotene;Keratin
+sci|2|What is the chemical formula for water?|H₂O|CO₂;O₂;H₂SO₄|H2O
+sci|2|What is the chemical formula for table salt?|NaCl|KCl;NaOH;CaCO₃|Sodium chloride
+sci|2|What is the most abundant gas in Earth's atmosphere?|Nitrogen|Oxygen;Carbon dioxide;Argon
+sci|2|At what temperature does water freeze in Fahrenheit?|32 °F|0 °F;100 °F;212 °F|32;32 F
+sci|2|At what temperature does water boil in Fahrenheit, at sea level?|212 °F|100 °F;180 °F;250 °F|212;212 F
+sci|3|What is the hottest layer of the Earth?|The inner core|The crust;The mantle;The outer core|Inner core;Core
+sci|3|What do you call molten rock before it erupts from a volcano?|Magma|Lava;Ash;Basalt
+sci|2|What do you call molten rock after it reaches the surface?|Lava|Magma;Pumice;Obsidian
+sci|3|What scale measures the acidity of a liquid?|pH scale|Richter scale;Beaufort scale;Mohs scale|pH
+sci|3|What is the pH of pure water?|7|0;14;1|Seven
+sci|3|What type of energy does a moving car have?|Kinetic energy|Potential energy;Nuclear energy;Chemical energy only|Kinetic
+sci|2|What force keeps us on the ground?|Gravity|Magnetism;Friction;Wind
+sci|3|What is it called when light bends as it passes into water?|Refraction|Reflection;Diffraction;Absorption
+sci|3|Which colour of the rainbow has the longest wavelength?|Red|Violet;Blue;Green
+sci|3|What is the speed of sound in air, roughly?|About 343 metres per second|About 30 metres per second;About 3,000 metres per second;About 300,000 km per second|343 m/s;343
+sci|3|Which travels faster: light or sound?|Light|Sound;They are equal;It depends on the weather
+sci|3|What is the name of the boundary where two tectonic plates slide past each other, like the San Andreas?|Transform fault|Subduction zone;Rift valley;Hot spot|Transform boundary
+sci|3|What do you call a scientist who studies earthquakes?|Seismologist|Volcanologist;Meteorologist;Geologist only
+sci|3|What is the study of fossils called?|Palaeontology|Archaeology;Anthropology;Geology|Paleontology
+sci|3|What is the study of weather called?|Meteorology|Astronomy;Seismology;Ecology
+sci|3|Which metal is the best conductor of electricity?|Silver|Copper;Gold;Aluminium
+sci|3|What is the most common element in the universe?|Hydrogen|Helium;Oxygen;Carbon
+sci|3|What is the most abundant element in Earth's crust?|Oxygen|Silicon;Iron;Aluminium
+sci|3|What metal is liquid at room temperature?|Mercury|Lead;Tin;Gallium
+sci|3|Which gas makes balloons float and voices squeaky?|Helium|Hydrogen;Neon;Nitrogen
+sci|3|What is dry ice made of?|Frozen carbon dioxide|Frozen nitrogen;Frozen oxygen;Frozen water mixed with salt|Carbon dioxide;CO2
+sci|3|Which element do all living things contain, and diamonds are made of?|Carbon|Nitrogen;Oxygen;Silicon

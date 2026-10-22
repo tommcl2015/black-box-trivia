@@ -1,0 +1,69 @@
+# Who am I? — three clues, one famous person
+his|3|Who am I? I was born in Corsica, crowned myself emperor in 1804, and died in exile on Saint Helena.|Napoleon Bonaparte|Louis XIV;Charles de Gaulle;Julius Caesar|Napoleon
+his|3|Who am I? I was a nurse in the Crimean War, carried a lamp on my rounds, and founded modern nursing.|Florence Nightingale|Mary Seacole;Clara Barton;Edith Cavell|Nightingale
+his|3|Who am I? I was a French peasant girl who heard voices, led an army at 17, and was burned at the stake in 1431.|Joan of Arc|Marie Antoinette;Catherine de' Medici;Eleanor of Aquitaine|Jeanne d'Arc
+his|3|Who am I? I escaped slavery in 1849 and led dozens of others to freedom on the Underground Railroad.|Harriet Tubman|Sojourner Truth;Rosa Parks;Frederick Douglass|Tubman
+his|3|Who am I? I was a Mongol warrior born as Temüjin, and I built the largest land empire in history.|Genghis Khan|Kublai Khan;Attila the Hun;Tamerlane|Genghis;Chinggis Khan
+his|4|Who am I? I was a Roman slave and gladiator who led a huge revolt in 73 BC.|Spartacus|Brutus;Crassus;Hannibal
+his|3|Who am I? I was Egypt's last pharaoh, spoke many languages, and died with the help of a snake.|Cleopatra|Nefertiti;Hatshepsut;Isis|Cleopatra VII
+his|3|Who am I? I ruled Britain from 1837 to 1901 and wore black for 40 years after my husband Albert died.|Queen Victoria|Elizabeth II;Queen Anne;Mary II|Victoria
+his|3|Who am I? I was a Polish-born scientist, the first woman to win a Nobel Prize, and I won a second one too.|Marie Curie|Rosalind Franklin;Lise Meitner;Ada Lovelace|Curie
+his|3|Who am I? I was a Jewish girl who hid with my family in an Amsterdam attic and kept a famous diary.|Anne Frank|Etty Hillesum;Hannah Senesh;Corrie ten Boom|Frank
+his|3|Who am I? I led India's independence movement with non-violent protest and was killed in 1948.|Mahatma Gandhi|Jawaharlal Nehru;Subhas Chandra Bose;B. R. Ambedkar|Gandhi
+his|3|Who am I? I was a Florentine politician who wrote "The Prince", a guide to holding on to power.|Niccolò Machiavelli|Lorenzo de' Medici;Dante Alighieri;Galileo Galilei|Machiavelli
+his|4|Who am I? I was a Chinese admiral whose treasure fleets reached East Africa in the 1400s.|Zheng He|Marco Polo;Kublai Khan;Sun Tzu
+his|3|Who am I? I was a Lakota leader who helped defeat Custer at the Little Bighorn in 1876.|Sitting Bull|Geronimo;Crazy Horse;Tecumseh
+his|4|Who am I? I led the Apache resistance in the American Southwest and surrendered in 1886.|Geronimo|Sitting Bull;Cochise;Red Cloud
+his|3|Who am I? I was the Soviet leader who brought in glasnost and perestroika and won the 1990 Nobel Peace Prize.|Mikhail Gorbachev|Boris Yeltsin;Leonid Brezhnev;Nikita Khrushchev|Gorbachev
+his|3|Who am I? I was a young Pakistani girl shot for going to school, and I became the youngest Nobel laureate.|Malala Yousafzai|Greta Thunberg;Benazir Bhutto;Nadia Murad|Malala
+his|4|Who am I? I was the first woman to fly solo across the Atlantic, and I vanished over the Pacific in 1937.|Amelia Earhart|Amy Johnson;Bessie Coleman;Jacqueline Cochran|Earhart
+sci|3|Who am I? I developed the theory of relativity, my hair was famously wild, and I won the 1921 Nobel Prize.|Albert Einstein|Niels Bohr;Max Planck;Stephen Hawking|Einstein
+sci|3|Who am I? I sailed on the Beagle, studied finches in the Galápagos, and wrote "On the Origin of Species".|Charles Darwin|Alfred Russel Wallace;Gregor Mendel;Thomas Huxley|Darwin
+sci|3|Who am I? I wrote down a theory of gravity, invented calculus, and supposedly watched an apple fall.|Isaac Newton|Galileo Galilei;Johannes Kepler;Robert Hooke|Newton
+sci|3|Who am I? I was Lord Byron's daughter and wrote what's often called the first computer program.|Ada Lovelace|Grace Hopper;Mary Shelley;Hedy Lamarr|Lovelace
+sci|4|Who am I? I was a Hollywood film star who also co-invented a radio technique later used in Wi-Fi and Bluetooth.|Hedy Lamarr|Marilyn Monroe;Grace Kelly;Rita Hayworth|Lamarr
+sci|3|Who am I? I used a wheelchair, spoke through a computer voice, and wrote "A Brief History of Time".|Stephen Hawking|Carl Sagan;Richard Feynman;Brian Cox|Hawking
+sci|3|Who am I? I was an English chimpanzee expert who lived with wild chimps in Tanzania from 1960.|Jane Goodall|Dian Fossey;Biruté Galdikas;Rachel Carson|Goodall
+sci|4|Who am I? I studied mountain gorillas in Rwanda and wrote "Gorillas in the Mist".|Dian Fossey|Jane Goodall;Biruté Galdikas;Joy Adamson|Fossey
+sci|3|Who am I? I was a Serbian-American inventor of alternating-current systems and a rival of Thomas Edison.|Nikola Tesla|George Westinghouse;Guglielmo Marconi;Michael Faraday|Tesla
+sci|3|Who am I? I was a Soviet cosmonaut and, in 1961, became the first person in space.|Yuri Gagarin|Alexei Leonov;Valentina Tereshkova;Gherman Titov|Gagarin
+art|3|Who am I? I painted the Sistine Chapel ceiling and carved the statue of David.|Michelangelo|Leonardo da Vinci;Raphael;Donatello
+art|3|Who am I? I painted the Mona Lisa, designed flying machines, and wrote in mirror writing.|Leonardo da Vinci|Michelangelo;Raphael;Botticelli|Leonardo;Da Vinci
+art|3|Who am I? I was a Dutch painter who sold only one or two paintings in my life and painted "Sunflowers".|Vincent van Gogh|Rembrandt;Johannes Vermeer;Piet Mondrian|Van Gogh
+art|3|Who am I? I was a Mexican painter famous for self-portraits, a unibrow, and my marriage to Diego Rivera.|Frida Kahlo|Remedios Varo;Leonora Carrington;Tina Modotti|Frida;Kahlo
+art|3|Who am I? I wrote "Romeo and Juliet", was born in Stratford-upon-Avon, and owned part of the Globe Theatre.|William Shakespeare|Christopher Marlowe;Ben Jonson;John Milton|Shakespeare
+art|3|Who am I? I wrote "Oliver Twist" and "A Christmas Carol" and worked in a boot-blacking factory as a boy.|Charles Dickens|Thomas Hardy;William Thackeray;Anthony Trollope|Dickens
+art|3|Who am I? I was a deaf German composer who wrote nine symphonies, including the "Ode to Joy".|Ludwig van Beethoven|Johann Sebastian Bach;Johannes Brahms;Richard Wagner|Beethoven
+art|3|Who am I? I was an Austrian child prodigy who wrote "The Magic Flute" and died at 35.|Wolfgang Amadeus Mozart|Franz Schubert;Joseph Haydn;Felix Mendelssohn|Mozart
+art|3|Who am I? I wrote "Pride and Prejudice" and appear on a Bank of England £10 note.|Jane Austen|Charlotte Brontë;George Eliot;Mary Shelley|Austen
+art|4|Who am I? I was a Colombian author who wrote "One Hundred Years of Solitude" and won the 1982 Nobel Prize.|Gabriel García Márquez|Mario Vargas Llosa;Pablo Neruda;Jorge Luis Borges|García Márquez;Gabriel Garcia Marquez
+art|3|Who am I? I wrote fairy tales including "The Little Mermaid" and "The Emperor's New Clothes" in Denmark.|Hans Christian Andersen|Charles Perrault;Jacob Grimm;Aesop|Andersen
+art|3|Who am I? I was a German brother who, with my brother, collected "Hansel and Gretel" and "Snow White".|Jacob Grimm|Hans Christian Andersen;Charles Perrault;E. T. A. Hoffmann|Grimm;Brothers Grimm;Wilhelm Grimm
+ent|2|Who am I? I was a Liverpool musician, married Yoko Ono, and wrote "Imagine".|John Lennon|Paul McCartney;George Harrison;Ringo Starr|Lennon
+ent|2|Who am I? I'm a singer from Barbados with hits "Umbrella" and "Diamonds", and I started the Fenty Beauty brand.|Rihanna|Beyoncé;Nicki Minaj;Cardi B
+ent|2|Who am I? I was "the King of Rock 'n' Roll", lived at Graceland, and sang "Hound Dog".|Elvis Presley|Johnny Cash;Chuck Berry;Buddy Holly|Elvis
+ent|2|Who am I? I was a silent-film star known for a bowler hat, a cane and the character "the Tramp".|Charlie Chaplin|Buster Keaton;Harold Lloyd;Stan Laurel|Chaplin
+ent|3|Who am I? I was a Hong Kong martial artist who starred in "Enter the Dragon" and died at 32.|Bruce Lee|Jackie Chan;Jet Li;Chow Yun-fat|Lee
+ent|2|Who am I? I created Mickey Mouse and opened Disneyland in 1955.|Walt Disney|Roy Disney;Ub Iwerks;Chuck Jones|Disney
+ent|3|Who am I? I'm a Japanese animator who made "Spirited Away" and co-founded Studio Ghibli.|Hayao Miyazaki|Isao Takahata;Makoto Shinkai;Satoshi Kon|Miyazaki
+ent|3|Who am I? I'm an Indian actor called "the King of Bollywood", famous for "Dilwale Dulhania Le Jayenge".|Shah Rukh Khan|Amitabh Bachchan;Salman Khan;Aamir Khan|SRK
+ent|3|Who am I? I directed "Psycho" and "The Birds" and made cameo appearances in my own films.|Alfred Hitchcock|Orson Welles;Stanley Kubrick;Billy Wilder|Hitchcock
+ent|3|Who am I? I'm a Colombian singer whose "hips don't lie", and I sang "Waka Waka" for the 2010 World Cup.|Shakira|Jennifer Lopez;Karol G;Gloria Estefan
+spo|2|Who am I? I'm an Argentine footballer, won the 2022 World Cup and a record eight Ballon d'Or awards.|Lionel Messi|Diego Maradona;Sergio Agüero;Ángel Di María|Messi
+spo|3|Who am I? I was a Brazilian footballer who won three World Cups and was called "O Rei" (the King).|Pelé|Ronaldo;Garrincha;Zico|Pele
+spo|2|Who am I? I'm a Jamaican sprinter, did a "lightning bolt" pose, and hold the 100 m and 200 m world records.|Usain Bolt|Yohan Blake;Asafa Powell;Carl Lewis|Bolt
+spo|3|Who am I? I'm an American gymnast with more world and Olympic medals than any gymnast in history.|Simone Biles|Gabby Douglas;Aly Raisman;Nadia Comăneci|Biles
+spo|3|Who am I? I was a Romanian gymnast who scored the first perfect 10 at the 1976 Olympics, aged 14.|Nadia Comăneci|Olga Korbut;Larisa Latynina;Simone Biles|Nadia Comaneci;Comăneci
+spo|3|Who am I? I'm a Serbian tennis player with the men's record for Grand Slam singles titles.|Novak Djokovic|Rafael Nadal;Roger Federer;Andy Murray|Djokovic
+spo|3|Who am I? I'm a Swiss tennis player who won Wimbledon eight times.|Roger Federer|Stan Wawrinka;Björn Borg;Pete Sampras|Federer
+spo|3|Who am I? I'm a Spanish tennis player known as the "King of Clay", with 14 French Open titles.|Rafael Nadal|Carlos Alcaraz;David Ferrer;Novak Djokovic|Nadal
+spo|3|Who am I? I was an American boxer, born Cassius Clay, and I lit the Olympic flame in 1996.|Muhammad Ali|Joe Frazier;George Foreman;Sugar Ray Leonard|Ali
+spo|4|Who am I? I won four gold medals at the 1936 Berlin Olympics in front of Adolf Hitler.|Jesse Owens|Carl Lewis;Jim Thorpe;Ralph Metcalfe|Owens
+spo|3|Who am I? I'm an Indian cricketer called "the Little Master", the first to score 100 international centuries.|Sachin Tendulkar|Virat Kohli;Sunil Gavaskar;Kapil Dev|Tendulkar
+geo|3|Where am I? I'm a city on 118 small islands, with canals instead of streets and gondolas instead of taxis.|Venice|Amsterdam;Bruges;Stockholm
+geo|3|Where am I? I'm a country of over 17,000 islands, home to Bali and the Komodo dragon.|Indonesia|Philippines;Malaysia;Japan
+geo|3|Where am I? I'm a city built on two continents, once called Byzantium and later Constantinople.|Istanbul|Athens;Cairo;Rome
+geo|3|Where am I? I'm a tiny country inside Rome, with my own post office, army and the Pope.|Vatican City|San Marino;Monaco;Malta|The Vatican
+geo|3|Where am I? I'm a country with no army, famous for coffee, and my name means "rich coast".|Costa Rica|Puerto Rico;Ecuador;Panama
+geo|4|Where am I? I'm a landlocked kingdom in the Himalayas that measures "Gross National Happiness".|Bhutan|Nepal;Tibet;Sikkim
+geo|3|Where am I? I'm an island nation where most of the plants and animals live nowhere else, including lemurs.|Madagascar|Mauritius;Sri Lanka;Borneo
