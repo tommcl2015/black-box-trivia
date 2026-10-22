@@ -61,7 +61,8 @@ module.exports = {
 2021|Will Smith|King Richard|2
 2022|Brendan Fraser|The Whale|2
 2023|Cillian Murphy|Oppenheimer|1
-2024|Adrien Brody|The Brutalist|3`,
+2024|Adrien Brody|The Brutalist|3
+2025|Michael B. Jordan|Sinners|2`,
 
   bestActress: `
 1965|Julie Christie|Darling|5
@@ -122,5 +123,6 @@ module.exports = {
 2021|Jessica Chastain|The Eyes of Tammy Faye|4
 2022|Michelle Yeoh|Everything Everywhere All at Once|2
 2023|Emma Stone|Poor Things|2
-2024|Mikey Madison|Anora|3`
+2024|Mikey Madison|Anora|3
+2025|Jessie Buckley|Hamnet|3`
 };

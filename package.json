@@ -5,7 +5,9 @@
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
-    "build:questions": "node tools/build-questions.js"
+    "build:questions": "node tools/build-questions.js",
+    "build:tables": "node tools/build-tables.js",
+    "build:all": "node tools/build-facts.js && node tools/build-tables.js && node tools/build-questions.js"
   },
   "engines": {
     "node": ">=18"

@@ -90,7 +90,8 @@ module.exports = {
 2021|CODA|4
 2022|Everything Everywhere All at Once|3
 2023|Oppenheimer|2
-2024|Anora|3`,
+2024|Anora|3
+2025|One Battle After Another|3`,
 
   summerOlympics: `
 1896|Athens|3
@@ -172,7 +173,8 @@ module.exports = {
 2010|South Africa|Spain
 2014|Brazil|Germany
 2018|Russia|France
-2022|Qatar|Argentina`,
+2022|Qatar|Argentina
+2026|Canada, Mexico and the United States|Spain`,
 
   womensWorldCup: `
 1991|United States

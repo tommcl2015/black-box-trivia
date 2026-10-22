@@ -105,24 +105,26 @@ ent|3|Which film won the Academy Award for Best Picture for 2011?|The Artist|Gre
 ent|4|"The Artist" won Best Picture for films of which year?|2011|2008;2013;2012|
 ent|3|Which film won the Academy Award for Best Picture for 2012?|Argo|Green Book;Crash;No Country for Old Men|
 ent|4|"Argo" won Best Picture for films of which year?|2012|2015;2010;2011|
-ent|3|Which film won the Academy Award for Best Picture for 2013?|12 Years a Slave|Oppenheimer;Slumdog Millionaire;Chicago|
-ent|4|"12 Years a Slave" won Best Picture for films of which year?|2013|2015;2014;2010|
-ent|3|Which film won the Academy Award for Best Picture for 2014?|Birdman|Nomadland;The Lord of the Rings: The Return of the King;The Hurt Locker|
-ent|4|"Birdman" won Best Picture for films of which year?|2014|2013;2016;2011|
-ent|4|Which film won the Academy Award for Best Picture for 2015?|Spotlight|Slumdog Millionaire;Argo;The King's Speech|
-ent|3|Which film won the Academy Award for Best Picture for 2016?|Moonlight|Oppenheimer;Spotlight;Parasite|
-ent|4|"Moonlight" won Best Picture for films of which year?|2016|2017;2015;2019|
-ent|3|Which film won the Academy Award for Best Picture for 2017?|The Shape of Water|The Hurt Locker;Everything Everywhere All at Once;Slumdog Millionaire|
-ent|4|"The Shape of Water" won Best Picture for films of which year?|2017|2015;2018;2019|
-ent|3|Which film won the Academy Award for Best Picture for 2018?|Green Book|The King's Speech;Everything Everywhere All at Once;No Country for Old Men|
-ent|4|"Green Book" won Best Picture for films of which year?|2018|2019;2021;2017|
-ent|3|Which film won the Academy Award for Best Picture for 2019?|Parasite|Nomadland;12 Years a Slave;Spotlight|
-ent|4|"Parasite" won Best Picture for films of which year?|2019|2020;2021;2022|
-ent|4|Which film won the Academy Award for Best Picture for 2020?|Nomadland|12 Years a Slave;CODA;Green Book|
-ent|4|Which film won the Academy Award for Best Picture for 2021?|CODA|12 Years a Slave;Green Book;Birdman|
-ent|3|Which film won the Academy Award for Best Picture for 2022?|Everything Everywhere All at Once|CODA;The King's Speech;The Shape of Water|
-ent|4|"Everything Everywhere All at Once" won Best Picture for films of which year?|2022|2024;2020;2025|
-ent|2|Which film won the Academy Award for Best Picture for 2023?|Oppenheimer|Nomadland;The Artist;12 Years a Slave|
-ent|3|"Oppenheimer" won Best Picture for films of which year?|2023|2026;2021;2022|
-ent|3|Which film won the Academy Award for Best Picture for 2024?|Anora|Birdman;Argo;Oppenheimer|
-ent|4|"Anora" won Best Picture for films of which year?|2024|2025;2026;2022|
+ent|3|Which film won the Academy Award for Best Picture for 2013?|12 Years a Slave|One Battle After Another;Anora;Chicago|
+ent|4|"12 Years a Slave" won Best Picture for films of which year?|2013|2012;2010;2015|
+ent|3|Which film won the Academy Award for Best Picture for 2014?|Birdman|The King's Speech;The Lord of the Rings: The Return of the King;Green Book|
+ent|4|"Birdman" won Best Picture for films of which year?|2014|2012;2016;2017|
+ent|4|Which film won the Academy Award for Best Picture for 2015?|Spotlight|The Shape of Water;Argo;The King's Speech|
+ent|3|Which film won the Academy Award for Best Picture for 2016?|Moonlight|The Shape of Water;The King's Speech;Green Book|
+ent|4|"Moonlight" won Best Picture for films of which year?|2016|2015;2013;2018|
+ent|3|Which film won the Academy Award for Best Picture for 2017?|The Shape of Water|Argo;Slumdog Millionaire;The Hurt Locker|
+ent|4|"The Shape of Water" won Best Picture for films of which year?|2017|2019;2015;2014|
+ent|3|Which film won the Academy Award for Best Picture for 2018?|Green Book|Spotlight;Anora;Nomadland|
+ent|4|"Green Book" won Best Picture for films of which year?|2018|2021;2020;2015|
+ent|3|Which film won the Academy Award for Best Picture for 2019?|Parasite|12 Years a Slave;Green Book;Anora|
+ent|4|"Parasite" won Best Picture for films of which year?|2019|2016;2021;2017|
+ent|4|Which film won the Academy Award for Best Picture for 2020?|Nomadland|Spotlight;12 Years a Slave;Parasite|
+ent|4|Which film won the Academy Award for Best Picture for 2021?|CODA|Argo;12 Years a Slave;Moonlight|
+ent|3|Which film won the Academy Award for Best Picture for 2022?|Everything Everywhere All at Once|12 Years a Slave;Argo;Parasite|
+ent|4|"Everything Everywhere All at Once" won Best Picture for films of which year?|2022|2025;2024;2019|
+ent|2|Which film won the Academy Award for Best Picture for 2023?|Oppenheimer|Green Book;12 Years a Slave;Birdman|
+ent|3|"Oppenheimer" won Best Picture for films of which year?|2023|2022;2020;2024|
+ent|3|Which film won the Academy Award for Best Picture for 2024?|Anora|12 Years a Slave;CODA;Nomadland|
+ent|4|"Anora" won Best Picture for films of which year?|2024|2022;2026;2021|
+ent|3|Which film won the Academy Award for Best Picture for 2025?|One Battle After Another|Parasite;Birdman;Moonlight|
+ent|4|"One Battle After Another" won Best Picture for films of which year?|2025|2024;2027;2026|
