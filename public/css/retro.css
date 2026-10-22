@@ -347,3 +347,5 @@ h1 { font-size: 26px; } h2 { font-size: 20px; } h3 { font-size: 16px; }
 .prose details[open] summary { text-decoration: underline; }
 .prose details p { margin: 4px 0 8px 18px; }
 .foot { flex-wrap: wrap; }
+.report-row { text-align: right; margin: 6px 0 0; font-size: 12px; }
+.report-row a { color: #000; }

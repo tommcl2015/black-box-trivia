@@ -373,7 +373,7 @@
       this.state = 'reveal';
       this.lastReveal = {
         index: this.qIndex, total: this.questions.length, type: c.type, qid: c.q.id,
-        category: c.q.c, categoryName: CAT_NAMES[c.q.c],
+        category: c.q.c, categoryName: CAT_NAMES[c.q.c], difficulty: c.q.d,
         text: c.q.q, choices: c.choices, correctIndex: c.correctIndex, answer: c.q.a,
         results, players: this.publicPlayers(), last: this.qIndex >= this.questions.length - 1,
         nextInMs: REVEAL_MS

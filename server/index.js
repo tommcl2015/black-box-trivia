@@ -35,7 +35,7 @@ app.use(helmet({ contentSecurityPolicy: false, crossOriginEmbedderPolicy: false 
 
 app.get('/config.js', (req, res) => {
   res.type('application/javascript').set('Cache-Control', 'no-cache').send(
-    `window.APP_CONFIG=${JSON.stringify({ siteName: SITE_NAME, adsenseClient: ADSENSE_CLIENT, adSlots: AD_SLOTS, maxPlayers: MAX_PLAYERS, questionCount: bank.length })};`
+    `window.APP_CONFIG=${JSON.stringify({ siteName: SITE_NAME, adsenseClient: ADSENSE_CLIENT, adSlots: AD_SLOTS, contactEmail: CONTACT_EMAIL, maxPlayers: MAX_PLAYERS, questionCount: bank.length })};`
   );
 });
 app.get('/ads.txt', (req, res) => {

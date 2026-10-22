@@ -211,6 +211,22 @@ out.forEach(x => {
   x.f = family(x.q);
   if (!x.w) delete x.w;
 });
+// Corrections learned from real play (see tools/question-stats.js): new difficulty ratings and retired questions.
+const readJson = (f, d) => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'data', f), 'utf8')); } catch (e) { return d; } };
+const diffFix = readJson('difficulty-overrides.json', {}), retired = new Set(readJson('retired.json', []));
+// Fact-check corrections keyed by question id (data/fixes.json): { "<id>": { "q"?, "a"?, "w"?, "alt"?, "d"?, "drop"?: true, "why": "..." } }
+const fixes = readJson('fixes.json', {});
+for (let i = out.length - 1; i >= 0; i--) {
+  const x = out[i];
+  const fx = fixes[x.id];
+  if (retired.has(x.id) || (fx && fx.drop)) { out.splice(i, 1); continue; }
+  if (fx) {
+    for (const k of ['q', 'a', 'w', 'alt', 'd']) if (fx[k] !== undefined) x[k] = fx[k];
+    x.fib = fibEligible(x.q, x.a, x.w && x.w.length >= 3);
+    if (fx.q) x.f = family(x.q);
+  }
+  if (diffFix[x.id]) x.d = diffFix[x.id];
+}
 const final = out.map(({ id, c, sub, d, q, a, w, alt, fib, src, f }) => ({ id, c, sub, d, q, a, w, alt, fib, src, f }));
 fs.writeFileSync(path.join(ROOT, 'server', 'questions.json'), JSON.stringify(final));
 const byCat = {}; final.forEach(x => byCat[x.c] = (byCat[x.c] || 0) + 1);

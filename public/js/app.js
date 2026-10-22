@@ -146,6 +146,9 @@
   function onReveal(rv) {
     S.reveal = rv; stopTimer();
     go('reveal');
+    // one analytics event per player per question, so we can spot questions that are wrong, too hard or too easy
+    if (S.room && S.room.passPlay) rv.results.forEach(r => track('question_answered', { qid: rv.qid, category: rv.category, difficulty: rv.difficulty, qtype: rv.type, correct: r.correct ? 1 : 0, answered: r.answered ? 1 : 0 }));
+    else { const me = rv.results.find(x => x.id === S.me); if (me) track('question_answered', { qid: rv.qid, category: rv.category, difficulty: rv.difficulty, qtype: rv.type, correct: me.correct ? 1 : 0, answered: me.answered ? 1 : 0 }); }
     const mine = (S.room && S.room.passPlay) ? (rv.results.find(x => x.correct) || rv.results[0]) : rv.results.find(x => x.id === S.me);
     if (mine && mine.correct) Sounds.correct();
     else if (mine && !mine.answered) Sounds.timeout();
@@ -518,6 +521,7 @@
         ${choices || `<div class="answer-box"><span class="lbl">The answer was</span>${esc(rv.answer)}</div>`}
         ${!pp && rv.type === 'fib' && mine.answered ? `<p class="center muted" style="margin-top:-6px">You said: “${esc(mine.text)}”</p>` : ''}
         <table class="results">${rows}</table>
+        <p class="report-row"><a href="#" data-act="report">Report a problem with this question</a></p>
         <div class="next-row">${reactions}
           <div style="display:flex;align-items:center;gap:10px"><span class="muted" id="nextIn"></span>${isHost() ? `<button class="btn default" data-act="next">${rv.last ? 'Final Scores' : 'Next'} ▸</button>` : ''}</div></div>`
     }) + (CFG.adSlots && CFG.adSlots.reveal ? ad('reveal') : (adPreview && (rv.index + 1) % 3 === 0 ? ad('reveal') : '')));
@@ -690,6 +694,15 @@
         break;
       case 'leaveConfirm': closeModal(); teardown(); go('home'); break;
       case 'closeModal': closeModal(); break;
+      case 'report': {
+        const rv = S.reveal; if (!rv) break;
+        track('question_report', { qid: rv.qid });
+        const body = `Question ID: ${rv.qid}\nQuestion: ${rv.text}\nOur answer: ${rv.answer}\n\nWhat's wrong? (wrong answer, typo, out of date, unclear...)\n\n`;
+        S.reportHref = `mailto:${CFG.contactEmail || 'blackboxtrivia@gmail.com'}?subject=${encodeURIComponent('Question report ' + rv.qid)}&body=${encodeURIComponent(body)}`;
+        alertBox('note', 'Thanks for helping! Your email app will open with the question filled in. Just tell us what looks wrong.', [{ label: 'Cancel', act: 'closeModal' }, { label: 'Write email', act: 'reportGo', def: true }]);
+        break;
+      }
+      case 'reportGo': closeModal(); if (S.reportHref) location.href = S.reportHref; break;
       case 'start': case 'again':
         if (!isHost()) return;
         store.set('settings', S.room.settings);
