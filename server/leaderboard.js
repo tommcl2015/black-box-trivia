@@ -83,7 +83,8 @@ function submit(entries, questions, ip, source) {
 function storage() {
   let writable = false;
   try { fs.mkdirSync(path.dirname(FILE), { recursive: true }); fs.accessSync(path.dirname(FILE), fs.constants.W_OK); writable = true; } catch (e) {}
-  return { file: FILE, configured: !!process.env.LEADERBOARD_FILE, writable, saved: fs.existsSync(FILE) };
+  let disk = false; try { fs.accessSync('/var/data', fs.constants.W_OK); disk = true; } catch (e) {}
+  return { file: FILE, configured: !!process.env.LEADERBOARD_FILE, writable, saved: fs.existsSync(FILE), diskAtVarData: disk };
 }
 
 function list() { const o = {}; for (const b of BOARDS) o[b] = data[b]; return o; }
