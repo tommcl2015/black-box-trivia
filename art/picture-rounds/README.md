@@ -7,4 +7,6 @@ Generators for the 96×64 one-bit picture questions (flags are 8-bit colour).
 3. Export to the game: `python3 build_pictures.py ../..` → writes `data/pictures.json` and `public/pics/`
 4. `npm run build:questions` in the repo root merges them into `server/questions.json`.
 
+Aircraft come from `aircraft3d.py` (side profiles traced from FlightGear 3D models; set FG_REPOS to a folder of FGMEMBERS clones). Paintings come from `paintings_nes.py` (NES-style 8-bit, from photos in `paintings_src/` plus hand-pixelled ones).
+
 Small island nations, planets, sports gear and instruments are drawn but not exported to the game.

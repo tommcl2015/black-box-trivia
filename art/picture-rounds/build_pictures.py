@@ -118,7 +118,7 @@ ALT_AC = {'boeing-747': ['747', 'Jumbo Jet'], 'boeing-707': ['707'], 'boeing-727
 for s in ac:
     grp = [x for x in ac if (x in AIRLINERS) == (s in AIRLINERS) and x != s]
     pool = [acn[x] for x in grp]; rnd.shuffle(pool)
-    add('aircraft', 'Famous aircraft', 'sci', s, 'aircraft', AC_D.get(s, 3), 'Name this aircraft.', acn[s], pool[:7], ALT_AC.get(s, []), True)
+    add('aircraft', 'Famous aircraft', 'sci', s, 'aircraft3d', AC_D.get(s, 3), 'Name this aircraft.', acn[s], pool[:7], ALT_AC.get(s, []), True)
 
 # ---------------- US states ----------------
 sts = json.load(open('states.json'))
@@ -152,13 +152,42 @@ for s in an:
     pool = [ann[x] for x in an if x != s]; rnd.shuffle(pool)
     add('animals', 'Animals', 'sci', s, 'animals', 2 if s == 'stegosaurus' else 1, 'Which animal is this?', ann[s], pool[:7], AN_ALT.get(s, []), True)
 
-# ---------------- paintings ----------------
-PT = {'the-starry-night-van-gogh': 'The Starry Night', 'the-scream-munch': 'The Scream', 'the-great-wave-hokusai': 'The Great Wave off Kanagawa', 'mona-lisa-da-vinci': 'Mona Lisa'}
-extra = ['The Birth of Venus', 'Girl with a Pearl Earring', 'The Night Watch', 'Sunflowers', 'The Last Supper', 'Water Lilies']
-for s, n in PT.items():
-    pool = [v for k, v in PT.items() if k != s] + extra; rnd.shuffle(pool)
-    add('paintings', 'Famous paintings', 'art', s, 'paintings', 2, 'Name this famous painting.', n, pool[:7],
-        {'the-great-wave-hokusai': ['The Great Wave', 'Great Wave'], 'mona-lisa-da-vinci': ['La Gioconda', 'The Mona Lisa'], 'the-starry-night-van-gogh': ['Starry Night'], 'the-scream-munch': ['Scream']}.get(s, []), True)
+# ---------------- paintings (NES-style 8-bit colour) ----------------
+# slug: (kind, answer, difficulty, alternatives)  kind 'name' = name the painting, 'artist' = name the painter
+PT = {
+    'mona-lisa': ('name', 'Mona Lisa', 1, ['La Gioconda', 'The Mona Lisa']),
+    'the-starry-night': ('name', 'The Starry Night', 1, ['Starry Night']),
+    'the-scream': ('name', 'The Scream', 1, ['Scream']),
+    'the-great-wave-off-kanagawa': ('name', 'The Great Wave off Kanagawa', 2, ['The Great Wave', 'Great Wave']),
+    'water-lilies-monet': ('name', 'Water Lilies', 3, ['Nympheas', 'Waterlilies']),
+    'girl-with-a-pearl-earring': ('name', 'Girl with a Pearl Earring', 2, ['The Girl with a Pearl Earring']),
+    'american-gothic': ('name', 'American Gothic', 2, []),
+    'sunflowers-van-gogh': ('name', 'Sunflowers', 2, ['The Sunflowers']),
+    'the-last-supper': ('name', 'The Last Supper', 2, ['Last Supper']),
+    'the-creation-of-adam': ('name', 'The Creation of Adam', 2, ['Creation of Adam']),
+    'whistlers-mother': ('name', "Whistler's Mother", 3, ['Arrangement in Grey and Black']),
+    'wanderer-above-the-sea-of-fog': ('name', 'Wanderer above the Sea of Fog', 4, ['Wanderer above the Sea of Mist']),
+    'the-kiss-klimt': ('name', 'The Kiss', 3, ['Kiss']),
+    'impression-sunrise-monet': ('name', 'Impression, Sunrise', 4, ['Impression Sunrise']),
+    'a-sunday-on-la-grande-jatte': ('name', 'A Sunday on La Grande Jatte', 4, ['Sunday on La Grande Jatte', 'La Grande Jatte']),
+    'liberty-leading-the-people': ('name', 'Liberty Leading the People', 3, []),
+    'woman-with-a-hat-matisse': ('artist', 'Henri Matisse', 4, ['Matisse']),
+    'composition-vii-kandinsky': ('artist', 'Wassily Kandinsky', 4, ['Kandinsky']),
+    'self-portrait-van-gogh': ('artist', 'Vincent van Gogh', 2, ['Van Gogh']),
+    'shipwreck-of-the-minotaur-turner': ('artist', 'J. M. W. Turner', 5, ['Turner', 'JMW Turner', 'William Turner']),
+    'still-life-with-apples-cezanne': ('artist', 'Paul Cezanne', 4, ['Cezanne', 'Paul Cézanne']),
+    'composition-mondrian': ('artist', 'Piet Mondrian', 3, ['Mondrian']),
+}
+NAMES = [v[1] for v in PT.values() if v[0] == 'name'] + ['The Birth of Venus', 'The Night Watch', 'The Persistence of Memory', 'Las Meninas']
+ARTISTS = ['Claude Monet', 'Pablo Picasso', 'Vincent van Gogh', 'Henri Matisse', 'Wassily Kandinsky', 'Paul Cezanne', 'J. M. W. Turner', 'Piet Mondrian',
+           'Pierre-Auguste Renoir', 'Rembrandt', 'Gustav Klimt', 'Edvard Munch', 'Salvador Dali', 'Paul Gauguin', 'Edgar Degas']
+for s, (kind, ans, d, alt) in PT.items():
+    if kind == 'name':
+        pool = [x for x in NAMES if x != ans]; q = 'Name this famous painting.'
+    else:
+        pool = [x for x in ARTISTS if x != ans]; q = "Whose self-portrait is this?" if s == 'self-portrait-van-gogh' else 'Which artist painted this?'
+    rnd.shuffle(pool)
+    add('paintings', 'Famous paintings', 'art', s, 'paintings-nes', d, q, ans, pool[:7], alt, True, True)
 
 json.dump(Q, open(os.path.join(GAME, 'data', 'pictures.json'), 'w'), indent=0, ensure_ascii=False)
 from collections import Counter

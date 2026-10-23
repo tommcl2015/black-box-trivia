@@ -10339,11 +10339,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Colossus of Rhodes",
 "w": [
-"Temple of Artemis",
 "Hanging Gardens of Babylon",
+"Mausoleum at Halicarnassus",
 "Lighthouse of Alexandria",
 "Statue of Zeus at Olympia",
-"Mausoleum at Halicarnassus",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10498,11 +10498,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Hanging Gardens of Babylon",
 "w": [
-"Temple of Artemis",
+"Mausoleum at Halicarnassus",
 "Colossus of Rhodes",
 "Lighthouse of Alexandria",
 "Statue of Zeus at Olympia",
-"Mausoleum at Halicarnassus",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10577,11 +10577,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Lighthouse of Alexandria",
 "w": [
-"Temple of Artemis",
-"Colossus of Rhodes",
 "Hanging Gardens of Babylon",
-"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
+"Colossus of Rhodes",
+"Statue of Zeus at Olympia",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10656,11 +10656,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Mausoleum at Halicarnassus",
 "w": [
-"Temple of Artemis",
-"Colossus of Rhodes",
 "Hanging Gardens of Babylon",
+"Colossus of Rhodes",
 "Lighthouse of Alexandria",
 "Statue of Zeus at Olympia",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10975,11 +10975,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Statue of Zeus at Olympia",
 "w": [
-"Temple of Artemis",
-"Colossus of Rhodes",
 "Hanging Gardens of Babylon",
-"Lighthouse of Alexandria",
 "Mausoleum at Halicarnassus",
+"Colossus of Rhodes",
+"Lighthouse of Alexandria",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -11094,11 +11094,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Temple of Artemis",
 "w": [
-"Colossus of Rhodes",
 "Hanging Gardens of Babylon",
+"Mausoleum at Halicarnassus",
+"Colossus of Rhodes",
 "Lighthouse of Alexandria",
 "Statue of Zeus at Olympia",
-"Mausoleum at Halicarnassus",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -14352,45 +14352,68 @@
 "pr": "paintings",
 "prn": "Famous paintings",
 "c": "art",
-"d": 2,
+"d": 1,
 "q": "Name this famous painting.",
-"a": "The Starry Night",
+"a": "Mona Lisa",
 "w": [
-"The Birth of Venus",
-"Mona Lisa",
+"Water Lilies",
+"The Persistence of Memory",
 "Sunflowers",
-"The Great Wave off Kanagawa",
-"The Last Supper",
-"The Night Watch",
-"The Scream"
+"A Sunday on La Grande Jatte",
+"Wanderer above the Sea of Fog",
+"The Birth of Venus",
+"Liberty Leading the People"
 ],
 "alt": [
-"Starry Night"
+"La Gioconda",
+"The Mona Lisa"
 ],
 "fib": true,
-"img": "/pics/paintings/the-starry-night-van-gogh.png"
+"img": "/pics/paintings/mona-lisa.png"
 },
 {
 "pr": "paintings",
 "prn": "Famous paintings",
 "c": "art",
-"d": 2,
+"d": 1,
+"q": "Name this famous painting.",
+"a": "The Starry Night",
+"w": [
+"The Kiss",
+"The Birth of Venus",
+"The Scream",
+"Whistler's Mother",
+"The Great Wave off Kanagawa",
+"Water Lilies",
+"Wanderer above the Sea of Fog"
+],
+"alt": [
+"Starry Night"
+],
+"fib": true,
+"img": "/pics/paintings/the-starry-night.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 1,
 "q": "Name this famous painting.",
 "a": "The Scream",
 "w": [
-"The Birth of Venus",
 "Sunflowers",
-"The Starry Night",
-"The Great Wave off Kanagawa",
-"The Night Watch",
-"Mona Lisa",
-"Water Lilies"
+"Girl with a Pearl Earring",
+"A Sunday on La Grande Jatte",
+"The Creation of Adam",
+"Wanderer above the Sea of Fog",
+"Whistler's Mother",
+"The Night Watch"
 ],
 "alt": [
 "Scream"
 ],
 "fib": true,
-"img": "/pics/paintings/the-scream-munch.png"
+"img": "/pics/paintings/the-scream.png"
 },
 {
 "pr": "paintings",
@@ -14400,20 +14423,43 @@
 "q": "Name this famous painting.",
 "a": "The Great Wave off Kanagawa",
 "w": [
-"Girl with a Pearl Earring",
-"Mona Lisa",
-"The Last Supper",
 "The Birth of Venus",
+"Girl with a Pearl Earring",
+"The Persistence of Memory",
 "Sunflowers",
+"The Night Watch",
 "The Scream",
-"The Night Watch"
+"The Starry Night"
 ],
 "alt": [
 "The Great Wave",
 "Great Wave"
 ],
 "fib": true,
-"img": "/pics/paintings/the-great-wave-hokusai.png"
+"img": "/pics/paintings/the-great-wave-off-kanagawa.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 3,
+"q": "Name this famous painting.",
+"a": "Water Lilies",
+"w": [
+"Liberty Leading the People",
+"The Birth of Venus",
+"Impression, Sunrise",
+"The Persistence of Memory",
+"Wanderer above the Sea of Fog",
+"Girl with a Pearl Earring",
+"The Night Watch"
+],
+"alt": [
+"Nympheas",
+"Waterlilies"
+],
+"fib": true,
+"img": "/pics/paintings/water-lilies-monet.png"
 },
 {
 "pr": "paintings",
@@ -14421,21 +14467,372 @@
 "c": "art",
 "d": 2,
 "q": "Name this famous painting.",
-"a": "Mona Lisa",
+"a": "Girl with a Pearl Earring",
 "w": [
-"Girl with a Pearl Earring",
-"The Scream",
+"The Night Watch",
+"Impression, Sunrise",
 "The Last Supper",
+"Las Meninas",
+"Wanderer above the Sea of Fog",
 "The Birth of Venus",
-"The Starry Night",
-"The Great Wave off Kanagawa",
-"Sunflowers"
+"The Creation of Adam"
 ],
 "alt": [
-"La Gioconda",
-"The Mona Lisa"
+"The Girl with a Pearl Earring"
 ],
 "fib": true,
-"img": "/pics/paintings/mona-lisa-da-vinci.png"
+"img": "/pics/paintings/girl-with-a-pearl-earring.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 2,
+"q": "Name this famous painting.",
+"a": "American Gothic",
+"w": [
+"The Birth of Venus",
+"The Persistence of Memory",
+"The Last Supper",
+"The Starry Night",
+"Las Meninas",
+"The Scream",
+"Wanderer above the Sea of Fog"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/paintings/american-gothic.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 2,
+"q": "Name this famous painting.",
+"a": "Sunflowers",
+"w": [
+"Liberty Leading the People",
+"Girl with a Pearl Earring",
+"Water Lilies",
+"The Scream",
+"The Last Supper",
+"A Sunday on La Grande Jatte",
+"Las Meninas"
+],
+"alt": [
+"The Sunflowers"
+],
+"fib": true,
+"img": "/pics/paintings/sunflowers-van-gogh.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 2,
+"q": "Name this famous painting.",
+"a": "The Last Supper",
+"w": [
+"Sunflowers",
+"Las Meninas",
+"Whistler's Mother",
+"American Gothic",
+"The Birth of Venus",
+"Water Lilies",
+"The Persistence of Memory"
+],
+"alt": [
+"Last Supper"
+],
+"fib": true,
+"img": "/pics/paintings/the-last-supper.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 2,
+"q": "Name this famous painting.",
+"a": "The Creation of Adam",
+"w": [
+"Water Lilies",
+"The Great Wave off Kanagawa",
+"The Starry Night",
+"American Gothic",
+"Girl with a Pearl Earring",
+"Sunflowers",
+"The Persistence of Memory"
+],
+"alt": [
+"Creation of Adam"
+],
+"fib": true,
+"img": "/pics/paintings/the-creation-of-adam.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 3,
+"q": "Name this famous painting.",
+"a": "Whistler's Mother",
+"w": [
+"The Starry Night",
+"A Sunday on La Grande Jatte",
+"The Persistence of Memory",
+"The Great Wave off Kanagawa",
+"Liberty Leading the People",
+"Girl with a Pearl Earring",
+"Wanderer above the Sea of Fog"
+],
+"alt": [
+"Arrangement in Grey and Black"
+],
+"fib": true,
+"img": "/pics/paintings/whistlers-mother.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 4,
+"q": "Name this famous painting.",
+"a": "Wanderer above the Sea of Fog",
+"w": [
+"The Great Wave off Kanagawa",
+"Impression, Sunrise",
+"The Last Supper",
+"Water Lilies",
+"Las Meninas",
+"The Kiss",
+"American Gothic"
+],
+"alt": [
+"Wanderer above the Sea of Mist"
+],
+"fib": true,
+"img": "/pics/paintings/wanderer-above-the-sea-of-fog.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 3,
+"q": "Name this famous painting.",
+"a": "The Kiss",
+"w": [
+"Wanderer above the Sea of Fog",
+"Sunflowers",
+"The Last Supper",
+"The Scream",
+"A Sunday on La Grande Jatte",
+"The Night Watch",
+"Water Lilies"
+],
+"alt": [
+"Kiss"
+],
+"fib": true,
+"img": "/pics/paintings/the-kiss-klimt.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 4,
+"q": "Name this famous painting.",
+"a": "Impression, Sunrise",
+"w": [
+"Wanderer above the Sea of Fog",
+"The Night Watch",
+"The Birth of Venus",
+"The Last Supper",
+"Sunflowers",
+"The Great Wave off Kanagawa",
+"Las Meninas"
+],
+"alt": [
+"Impression Sunrise"
+],
+"fib": true,
+"img": "/pics/paintings/impression-sunrise-monet.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 4,
+"q": "Name this famous painting.",
+"a": "A Sunday on La Grande Jatte",
+"w": [
+"The Starry Night",
+"Girl with a Pearl Earring",
+"The Night Watch",
+"Whistler's Mother",
+"The Scream",
+"The Birth of Venus",
+"Water Lilies"
+],
+"alt": [
+"Sunday on La Grande Jatte",
+"La Grande Jatte"
+],
+"fib": true,
+"img": "/pics/paintings/a-sunday-on-la-grande-jatte.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 3,
+"q": "Name this famous painting.",
+"a": "Liberty Leading the People",
+"w": [
+"A Sunday on La Grande Jatte",
+"The Great Wave off Kanagawa",
+"Sunflowers",
+"Water Lilies",
+"The Scream",
+"The Last Supper",
+"American Gothic"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/paintings/liberty-leading-the-people.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 4,
+"q": "Which artist painted this?",
+"a": "Henri Matisse",
+"w": [
+"Pablo Picasso",
+"Paul Gauguin",
+"Claude Monet",
+"Paul Cezanne",
+"J. M. W. Turner",
+"Vincent van Gogh",
+"Pierre-Auguste Renoir"
+],
+"alt": [
+"Matisse"
+],
+"fib": true,
+"img": "/pics/paintings/woman-with-a-hat-matisse.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 4,
+"q": "Which artist painted this?",
+"a": "Wassily Kandinsky",
+"w": [
+"Vincent van Gogh",
+"Pierre-Auguste Renoir",
+"J. M. W. Turner",
+"Paul Cezanne",
+"Edvard Munch",
+"Piet Mondrian",
+"Gustav Klimt"
+],
+"alt": [
+"Kandinsky"
+],
+"fib": true,
+"img": "/pics/paintings/composition-vii-kandinsky.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 2,
+"q": "Whose self-portrait is this?",
+"a": "Vincent van Gogh",
+"w": [
+"Wassily Kandinsky",
+"Pablo Picasso",
+"Paul Gauguin",
+"Paul Cezanne",
+"Salvador Dali",
+"Edvard Munch",
+"Gustav Klimt"
+],
+"alt": [
+"Van Gogh"
+],
+"fib": true,
+"img": "/pics/paintings/self-portrait-van-gogh.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 5,
+"q": "Which artist painted this?",
+"a": "J. M. W. Turner",
+"w": [
+"Salvador Dali",
+"Paul Cezanne",
+"Piet Mondrian",
+"Edgar Degas",
+"Pierre-Auguste Renoir",
+"Gustav Klimt",
+"Pablo Picasso"
+],
+"alt": [
+"Turner",
+"JMW Turner",
+"William Turner"
+],
+"fib": true,
+"img": "/pics/paintings/shipwreck-of-the-minotaur-turner.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 4,
+"q": "Which artist painted this?",
+"a": "Paul Cezanne",
+"w": [
+"J. M. W. Turner",
+"Edvard Munch",
+"Henri Matisse",
+"Piet Mondrian",
+"Paul Gauguin",
+"Gustav Klimt",
+"Rembrandt"
+],
+"alt": [
+"Cezanne",
+"Paul Cézanne"
+],
+"fib": true,
+"img": "/pics/paintings/still-life-with-apples-cezanne.png"
+},
+{
+"pr": "paintings",
+"prn": "Famous paintings",
+"c": "art",
+"d": 3,
+"q": "Which artist painted this?",
+"a": "Piet Mondrian",
+"w": [
+"Edvard Munch",
+"Vincent van Gogh",
+"Paul Gauguin",
+"Pierre-Auguste Renoir",
+"Salvador Dali",
+"Gustav Klimt",
+"Rembrandt"
+],
+"alt": [
+"Mondrian"
+],
+"fib": true,
+"img": "/pics/paintings/composition-mondrian.png"
 }
 ]
