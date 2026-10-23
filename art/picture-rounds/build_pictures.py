@@ -144,13 +144,7 @@ for s in cos:
     pool = [con[x] for x in cos if x != s]; rnd.shuffle(pool)
     add('stars', 'Constellations', 'sci', s, 'constellations', CO_D.get(s, 4), 'Name this constellation.', con[s], pool[:7], CO_ALT.get(s, []), True)
 
-# ---------------- animals ----------------
-AN_ALT = {'emperor-penguin': ['Penguin'], 'great-white-shark': ['Shark', 'Great white'], 'humpback-whale': ['Whale'], 'tyrannosaurus-rex': ['T. rex', 'T-Rex', 'T rex'],
-          'bald-eagle': ['Eagle'], 'rhinoceros': ['Rhino'], 'crocodile': ['Croc', 'Alligator']}
-an = sorted(objs.ANIM); ann = {s: nice(s, 'animals') for s in an}
-for s in an:
-    pool = [ann[x] for x in an if x != s]; rnd.shuffle(pool)
-    add('animals', 'Animals', 'sci', s, 'animals', 2 if s == 'stegosaurus' else 1, 'Which animal is this?', ann[s], pool[:7], AN_ALT.get(s, []), True)
+# Animals round removed (Oct 2026): the drawings weren't good enough.
 
 # ---------------- paintings (NES-style 8-bit colour) ----------------
 # slug: (kind, answer, difficulty, alternatives)  kind 'name' = name the painting, 'artist' = name the painter

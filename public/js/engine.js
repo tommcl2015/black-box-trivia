@@ -12,10 +12,10 @@
     art: 'Arts & Literature', sci: 'Science & Nature', spo: 'Sports & Leisure'
   };
   // Picture rounds: questions that carry a 96x64 bitmap (q.img). pr = round key.
-  const PIC_ROUNDS = ['flags', 'shapes', 'maps', 'landmarks', 'skylines', 'states', 'aircraft', 'stars', 'animals', 'paintings'];
+  const PIC_ROUNDS = ['flags', 'shapes', 'maps', 'landmarks', 'skylines', 'states', 'aircraft', 'stars', 'paintings'];
   const PIC_NAMES = {
     flags: 'Flags', shapes: 'Country shapes', maps: 'Find the country', landmarks: 'Landmarks & wonders', skylines: 'City skylines',
-    states: 'US states', aircraft: 'Famous aircraft', stars: 'Constellations', animals: 'Animals', paintings: 'Famous paintings'
+    states: 'US states', aircraft: 'Famous aircraft', stars: 'Constellations', paintings: 'Famous paintings'
   };
   const PIC_SHARE = 0.25;   // share of a mixed game that is picture questions
   const REVEAL_MS = 7000;

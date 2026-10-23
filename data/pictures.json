@@ -10339,11 +10339,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Colossus of Rhodes",
 "w": [
+"Lighthouse of Alexandria",
 "Hanging Gardens of Babylon",
 "Mausoleum at Halicarnassus",
-"Lighthouse of Alexandria",
-"Statue of Zeus at Olympia",
 "Temple of Artemis",
+"Statue of Zeus at Olympia",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10498,11 +10498,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Hanging Gardens of Babylon",
 "w": [
-"Mausoleum at Halicarnassus",
-"Colossus of Rhodes",
 "Lighthouse of Alexandria",
-"Statue of Zeus at Olympia",
+"Mausoleum at Halicarnassus",
 "Temple of Artemis",
+"Statue of Zeus at Olympia",
+"Colossus of Rhodes",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10579,9 +10579,9 @@
 "w": [
 "Hanging Gardens of Babylon",
 "Mausoleum at Halicarnassus",
-"Colossus of Rhodes",
-"Statue of Zeus at Olympia",
 "Temple of Artemis",
+"Statue of Zeus at Olympia",
+"Colossus of Rhodes",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10656,11 +10656,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Mausoleum at Halicarnassus",
 "w": [
-"Hanging Gardens of Babylon",
-"Colossus of Rhodes",
 "Lighthouse of Alexandria",
-"Statue of Zeus at Olympia",
+"Hanging Gardens of Babylon",
 "Temple of Artemis",
+"Statue of Zeus at Olympia",
+"Colossus of Rhodes",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10975,11 +10975,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Statue of Zeus at Olympia",
 "w": [
+"Lighthouse of Alexandria",
 "Hanging Gardens of Babylon",
 "Mausoleum at Halicarnassus",
-"Colossus of Rhodes",
-"Lighthouse of Alexandria",
 "Temple of Artemis",
+"Colossus of Rhodes",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -11094,11 +11094,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Temple of Artemis",
 "w": [
+"Lighthouse of Alexandria",
 "Hanging Gardens of Babylon",
 "Mausoleum at Halicarnassus",
-"Colossus of Rhodes",
-"Lighthouse of Alexandria",
 "Statue of Zeus at Olympia",
+"Colossus of Rhodes",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -14051,304 +14051,6 @@
 "img": "/pics/stars/taurus.png"
 },
 {
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Bald Eagle",
-"w": [
-"Great White Shark",
-"Crocodile",
-"Camel",
-"Rhinoceros",
-"Humpback Whale",
-"Stegosaurus",
-"Giraffe"
-],
-"alt": [
-"Eagle"
-],
-"fib": true,
-"img": "/pics/animals/bald-eagle.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Camel",
-"w": [
-"Great White Shark",
-"Rhinoceros",
-"Tyrannosaurus rex",
-"Bald Eagle",
-"Stegosaurus",
-"Crocodile",
-"Flamingo"
-],
-"alt": [],
-"fib": true,
-"img": "/pics/animals/camel.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Crocodile",
-"w": [
-"Elephant",
-"Camel",
-"Koala",
-"Stegosaurus",
-"Emperor Penguin",
-"Kangaroo",
-"Rhinoceros"
-],
-"alt": [
-"Croc",
-"Alligator"
-],
-"fib": true,
-"img": "/pics/animals/crocodile.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Elephant",
-"w": [
-"Koala",
-"Flamingo",
-"Humpback Whale",
-"Kangaroo",
-"Emperor Penguin",
-"Tyrannosaurus rex",
-"Rhinoceros"
-],
-"alt": [],
-"fib": true,
-"img": "/pics/animals/elephant.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Emperor Penguin",
-"w": [
-"Flamingo",
-"Humpback Whale",
-"Kangaroo",
-"Elephant",
-"Great White Shark",
-"Camel",
-"Koala"
-],
-"alt": [
-"Penguin"
-],
-"fib": true,
-"img": "/pics/animals/emperor-penguin.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Flamingo",
-"w": [
-"Bald Eagle",
-"Stegosaurus",
-"Giraffe",
-"Rhinoceros",
-"Koala",
-"Tyrannosaurus rex",
-"Camel"
-],
-"alt": [],
-"fib": true,
-"img": "/pics/animals/flamingo.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Giraffe",
-"w": [
-"Kangaroo",
-"Koala",
-"Great White Shark",
-"Tyrannosaurus rex",
-"Bald Eagle",
-"Camel",
-"Elephant"
-],
-"alt": [],
-"fib": true,
-"img": "/pics/animals/giraffe.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Great White Shark",
-"w": [
-"Stegosaurus",
-"Giraffe",
-"Tyrannosaurus rex",
-"Emperor Penguin",
-"Rhinoceros",
-"Elephant",
-"Humpback Whale"
-],
-"alt": [
-"Shark",
-"Great white"
-],
-"fib": true,
-"img": "/pics/animals/great-white-shark.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Humpback Whale",
-"w": [
-"Great White Shark",
-"Flamingo",
-"Camel",
-"Emperor Penguin",
-"Kangaroo",
-"Rhinoceros",
-"Koala"
-],
-"alt": [
-"Whale"
-],
-"fib": true,
-"img": "/pics/animals/humpback-whale.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Kangaroo",
-"w": [
-"Bald Eagle",
-"Emperor Penguin",
-"Elephant",
-"Crocodile",
-"Camel",
-"Great White Shark",
-"Rhinoceros"
-],
-"alt": [],
-"fib": true,
-"img": "/pics/animals/kangaroo.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Koala",
-"w": [
-"Emperor Penguin",
-"Flamingo",
-"Rhinoceros",
-"Stegosaurus",
-"Kangaroo",
-"Humpback Whale",
-"Camel"
-],
-"alt": [],
-"fib": true,
-"img": "/pics/animals/koala.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Rhinoceros",
-"w": [
-"Humpback Whale",
-"Great White Shark",
-"Crocodile",
-"Camel",
-"Bald Eagle",
-"Koala",
-"Flamingo"
-],
-"alt": [
-"Rhino"
-],
-"fib": true,
-"img": "/pics/animals/rhinoceros.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 2,
-"q": "Which animal is this?",
-"a": "Stegosaurus",
-"w": [
-"Tyrannosaurus rex",
-"Great White Shark",
-"Emperor Penguin",
-"Rhinoceros",
-"Giraffe",
-"Koala",
-"Crocodile"
-],
-"alt": [],
-"fib": true,
-"img": "/pics/animals/stegosaurus.png"
-},
-{
-"pr": "animals",
-"prn": "Animals",
-"c": "sci",
-"d": 1,
-"q": "Which animal is this?",
-"a": "Tyrannosaurus rex",
-"w": [
-"Stegosaurus",
-"Giraffe",
-"Flamingo",
-"Emperor Penguin",
-"Kangaroo",
-"Rhinoceros",
-"Bald Eagle"
-],
-"alt": [
-"T. rex",
-"T-Rex",
-"T rex"
-],
-"fib": true,
-"img": "/pics/animals/tyrannosaurus-rex.png"
-},
-{
 "pr": "paintings",
 "prn": "Famous paintings",
 "c": "art",
@@ -14356,13 +14058,13 @@
 "q": "Name this famous painting.",
 "a": "Mona Lisa",
 "w": [
-"Water Lilies",
+"The Scream",
+"The Last Supper",
+"The Night Watch",
+"The Great Wave off Kanagawa",
 "The Persistence of Memory",
-"Sunflowers",
-"A Sunday on La Grande Jatte",
-"Wanderer above the Sea of Fog",
-"The Birth of Venus",
-"Liberty Leading the People"
+"Water Lilies",
+"Impression, Sunrise"
 ],
 "alt": [
 "La Gioconda",
@@ -14380,11 +14082,11 @@
 "a": "The Starry Night",
 "w": [
 "The Kiss",
-"The Birth of Venus",
+"Sunflowers",
 "The Scream",
-"Whistler's Mother",
-"The Great Wave off Kanagawa",
-"Water Lilies",
+"The Night Watch",
+"Liberty Leading the People",
+"A Sunday on La Grande Jatte",
 "Wanderer above the Sea of Fog"
 ],
 "alt": [
@@ -14401,13 +14103,13 @@
 "q": "Name this famous painting.",
 "a": "The Scream",
 "w": [
-"Sunflowers",
-"Girl with a Pearl Earring",
-"A Sunday on La Grande Jatte",
+"The Last Supper",
+"Water Lilies",
 "The Creation of Adam",
 "Wanderer above the Sea of Fog",
-"Whistler's Mother",
-"The Night Watch"
+"The Great Wave off Kanagawa",
+"The Persistence of Memory",
+"Whistler's Mother"
 ],
 "alt": [
 "Scream"
@@ -14423,12 +14125,12 @@
 "q": "Name this famous painting.",
 "a": "The Great Wave off Kanagawa",
 "w": [
-"The Birth of Venus",
-"Girl with a Pearl Earring",
-"The Persistence of Memory",
-"Sunflowers",
+"Liberty Leading the People",
+"Las Meninas",
+"The Creation of Adam",
 "The Night Watch",
-"The Scream",
+"The Kiss",
+"Whistler's Mother",
 "The Starry Night"
 ],
 "alt": [
@@ -14446,13 +14148,13 @@
 "q": "Name this famous painting.",
 "a": "Water Lilies",
 "w": [
-"Liberty Leading the People",
-"The Birth of Venus",
-"Impression, Sunrise",
-"The Persistence of Memory",
-"Wanderer above the Sea of Fog",
-"Girl with a Pearl Earring",
-"The Night Watch"
+"Whistler's Mother",
+"Sunflowers",
+"The Kiss",
+"Las Meninas",
+"The Creation of Adam",
+"Mona Lisa",
+"The Scream"
 ],
 "alt": [
 "Nympheas",
@@ -14469,13 +14171,13 @@
 "q": "Name this famous painting.",
 "a": "Girl with a Pearl Earring",
 "w": [
-"The Night Watch",
-"Impression, Sunrise",
-"The Last Supper",
+"The Creation of Adam",
 "Las Meninas",
-"Wanderer above the Sea of Fog",
-"The Birth of Venus",
-"The Creation of Adam"
+"Whistler's Mother",
+"Water Lilies",
+"American Gothic",
+"A Sunday on La Grande Jatte",
+"Impression, Sunrise"
 ],
 "alt": [
 "The Girl with a Pearl Earring"
@@ -14491,13 +14193,13 @@
 "q": "Name this famous painting.",
 "a": "American Gothic",
 "w": [
-"The Birth of Venus",
-"The Persistence of Memory",
-"The Last Supper",
-"The Starry Night",
-"Las Meninas",
+"Girl with a Pearl Earring",
 "The Scream",
-"Wanderer above the Sea of Fog"
+"Whistler's Mother",
+"Impression, Sunrise",
+"The Creation of Adam",
+"The Starry Night",
+"Sunflowers"
 ],
 "alt": [],
 "fib": true,
@@ -14511,13 +14213,13 @@
 "q": "Name this famous painting.",
 "a": "Sunflowers",
 "w": [
-"Liberty Leading the People",
-"Girl with a Pearl Earring",
-"Water Lilies",
-"The Scream",
+"The Creation of Adam",
 "The Last Supper",
-"A Sunday on La Grande Jatte",
-"Las Meninas"
+"The Scream",
+"The Birth of Venus",
+"Mona Lisa",
+"Las Meninas",
+"Girl with a Pearl Earring"
 ],
 "alt": [
 "The Sunflowers"
@@ -14533,13 +14235,13 @@
 "q": "Name this famous painting.",
 "a": "The Last Supper",
 "w": [
-"Sunflowers",
-"Las Meninas",
 "Whistler's Mother",
+"Las Meninas",
 "American Gothic",
+"Sunflowers",
 "The Birth of Venus",
-"Water Lilies",
-"The Persistence of Memory"
+"Impression, Sunrise",
+"The Night Watch"
 ],
 "alt": [
 "Last Supper"
@@ -14555,13 +14257,13 @@
 "q": "Name this famous painting.",
 "a": "The Creation of Adam",
 "w": [
-"Water Lilies",
-"The Great Wave off Kanagawa",
-"The Starry Night",
-"American Gothic",
+"The Night Watch",
+"The Kiss",
 "Girl with a Pearl Earring",
-"Sunflowers",
-"The Persistence of Memory"
+"The Starry Night",
+"A Sunday on La Grande Jatte",
+"Mona Lisa",
+"Whistler's Mother"
 ],
 "alt": [
 "Creation of Adam"
@@ -14577,12 +14279,12 @@
 "q": "Name this famous painting.",
 "a": "Whistler's Mother",
 "w": [
-"The Starry Night",
-"A Sunday on La Grande Jatte",
-"The Persistence of Memory",
-"The Great Wave off Kanagawa",
-"Liberty Leading the People",
+"Water Lilies",
+"American Gothic",
 "Girl with a Pearl Earring",
+"Sunflowers",
+"The Creation of Adam",
+"The Starry Night",
 "Wanderer above the Sea of Fog"
 ],
 "alt": [
@@ -14599,13 +14301,13 @@
 "q": "Name this famous painting.",
 "a": "Wanderer above the Sea of Fog",
 "w": [
-"The Great Wave off Kanagawa",
-"Impression, Sunrise",
-"The Last Supper",
 "Water Lilies",
-"Las Meninas",
-"The Kiss",
-"American Gothic"
+"The Great Wave off Kanagawa",
+"Whistler's Mother",
+"The Scream",
+"The Last Supper",
+"A Sunday on La Grande Jatte",
+"The Creation of Adam"
 ],
 "alt": [
 "Wanderer above the Sea of Mist"
@@ -14621,13 +14323,13 @@
 "q": "Name this famous painting.",
 "a": "The Kiss",
 "w": [
-"Wanderer above the Sea of Fog",
+"The Creation of Adam",
+"Impression, Sunrise",
 "Sunflowers",
-"The Last Supper",
-"The Scream",
-"A Sunday on La Grande Jatte",
+"Mona Lisa",
+"The Birth of Venus",
 "The Night Watch",
-"Water Lilies"
+"A Sunday on La Grande Jatte"
 ],
 "alt": [
 "Kiss"
@@ -14643,13 +14345,13 @@
 "q": "Name this famous painting.",
 "a": "Impression, Sunrise",
 "w": [
-"Wanderer above the Sea of Fog",
-"The Night Watch",
+"Whistler's Mother",
+"The Kiss",
+"A Sunday on La Grande Jatte",
 "The Birth of Venus",
-"The Last Supper",
-"Sunflowers",
-"The Great Wave off Kanagawa",
-"Las Meninas"
+"The Scream",
+"The Night Watch",
+"The Starry Night"
 ],
 "alt": [
 "Impression Sunrise"
@@ -14665,13 +14367,13 @@
 "q": "Name this famous painting.",
 "a": "A Sunday on La Grande Jatte",
 "w": [
-"The Starry Night",
-"Girl with a Pearl Earring",
 "The Night Watch",
-"Whistler's Mother",
+"Water Lilies",
 "The Scream",
 "The Birth of Venus",
-"Water Lilies"
+"The Persistence of Memory",
+"Wanderer above the Sea of Fog",
+"The Last Supper"
 ],
 "alt": [
 "Sunday on La Grande Jatte",
@@ -14688,13 +14390,13 @@
 "q": "Name this famous painting.",
 "a": "Liberty Leading the People",
 "w": [
-"A Sunday on La Grande Jatte",
-"The Great Wave off Kanagawa",
-"Sunflowers",
-"Water Lilies",
-"The Scream",
 "The Last Supper",
-"American Gothic"
+"Whistler's Mother",
+"Water Lilies",
+"The Great Wave off Kanagawa",
+"American Gothic",
+"Wanderer above the Sea of Fog",
+"The Birth of Venus"
 ],
 "alt": [],
 "fib": true,
@@ -14708,13 +14410,13 @@
 "q": "Which artist painted this?",
 "a": "Henri Matisse",
 "w": [
-"Pablo Picasso",
-"Paul Gauguin",
-"Claude Monet",
-"Paul Cezanne",
-"J. M. W. Turner",
+"Pierre-Auguste Renoir",
 "Vincent van Gogh",
-"Pierre-Auguste Renoir"
+"Salvador Dali",
+"Claude Monet",
+"Pablo Picasso",
+"Wassily Kandinsky",
+"Rembrandt"
 ],
 "alt": [
 "Matisse"
@@ -14730,13 +14432,13 @@
 "q": "Which artist painted this?",
 "a": "Wassily Kandinsky",
 "w": [
-"Vincent van Gogh",
 "Pierre-Auguste Renoir",
+"Vincent van Gogh",
+"Paul Gauguin",
+"Henri Matisse",
 "J. M. W. Turner",
-"Paul Cezanne",
-"Edvard Munch",
-"Piet Mondrian",
-"Gustav Klimt"
+"Pablo Picasso",
+"Salvador Dali"
 ],
 "alt": [
 "Kandinsky"
@@ -14752,13 +14454,13 @@
 "q": "Whose self-portrait is this?",
 "a": "Vincent van Gogh",
 "w": [
-"Wassily Kandinsky",
-"Pablo Picasso",
-"Paul Gauguin",
-"Paul Cezanne",
 "Salvador Dali",
 "Edvard Munch",
-"Gustav Klimt"
+"Paul Cezanne",
+"Rembrandt",
+"Edgar Degas",
+"Pablo Picasso",
+"Piet Mondrian"
 ],
 "alt": [
 "Van Gogh"
@@ -14774,13 +14476,13 @@
 "q": "Which artist painted this?",
 "a": "J. M. W. Turner",
 "w": [
-"Salvador Dali",
-"Paul Cezanne",
-"Piet Mondrian",
+"Rembrandt",
 "Edgar Degas",
-"Pierre-Auguste Renoir",
+"Vincent van Gogh",
 "Gustav Klimt",
-"Pablo Picasso"
+"Pierre-Auguste Renoir",
+"Wassily Kandinsky",
+"Henri Matisse"
 ],
 "alt": [
 "Turner",
@@ -14798,13 +14500,13 @@
 "q": "Which artist painted this?",
 "a": "Paul Cezanne",
 "w": [
-"J. M. W. Turner",
 "Edvard Munch",
-"Henri Matisse",
+"Rembrandt",
 "Piet Mondrian",
-"Paul Gauguin",
-"Gustav Klimt",
-"Rembrandt"
+"Salvador Dali",
+"Henri Matisse",
+"Vincent van Gogh",
+"Edgar Degas"
 ],
 "alt": [
 "Cezanne",
@@ -14821,13 +14523,13 @@
 "q": "Which artist painted this?",
 "a": "Piet Mondrian",
 "w": [
-"Edvard Munch",
-"Vincent van Gogh",
-"Paul Gauguin",
+"Edgar Degas",
 "Pierre-Auguste Renoir",
+"Rembrandt",
+"Pablo Picasso",
+"Henri Matisse",
 "Salvador Dali",
-"Gustav Klimt",
-"Rembrandt"
+"Paul Cezanne"
 ],
 "alt": [
 "Mondrian"
