@@ -10339,11 +10339,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Colossus of Rhodes",
 "w": [
-"Lighthouse of Alexandria",
 "Hanging Gardens of Babylon",
-"Mausoleum at Halicarnassus",
-"Temple of Artemis",
 "Statue of Zeus at Olympia",
+"Mausoleum at Halicarnassus",
+"Lighthouse of Alexandria",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10498,11 +10498,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Hanging Gardens of Babylon",
 "w": [
-"Lighthouse of Alexandria",
-"Mausoleum at Halicarnassus",
-"Temple of Artemis",
-"Statue of Zeus at Olympia",
 "Colossus of Rhodes",
+"Statue of Zeus at Olympia",
+"Mausoleum at Halicarnassus",
+"Lighthouse of Alexandria",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10578,10 +10578,10 @@
 "a": "Lighthouse of Alexandria",
 "w": [
 "Hanging Gardens of Babylon",
+"Colossus of Rhodes",
+"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
 "Temple of Artemis",
-"Statue of Zeus at Olympia",
-"Colossus of Rhodes",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10656,11 +10656,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Mausoleum at Halicarnassus",
 "w": [
-"Lighthouse of Alexandria",
 "Hanging Gardens of Babylon",
-"Temple of Artemis",
-"Statue of Zeus at Olympia",
 "Colossus of Rhodes",
+"Statue of Zeus at Olympia",
+"Lighthouse of Alexandria",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10975,11 +10975,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Statue of Zeus at Olympia",
 "w": [
-"Lighthouse of Alexandria",
 "Hanging Gardens of Babylon",
-"Mausoleum at Halicarnassus",
-"Temple of Artemis",
 "Colossus of Rhodes",
+"Mausoleum at Halicarnassus",
+"Lighthouse of Alexandria",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -11094,11 +11094,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Temple of Artemis",
 "w": [
-"Lighthouse of Alexandria",
 "Hanging Gardens of Babylon",
-"Mausoleum at Halicarnassus",
-"Statue of Zeus at Olympia",
 "Colossus of Rhodes",
+"Statue of Zeus at Olympia",
+"Mausoleum at Halicarnassus",
+"Lighthouse of Alexandria",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -14536,5 +14536,2866 @@
 ],
 "fib": true,
 "img": "/pics/paintings/composition-mondrian.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 1,
+"q": "Name this famous ship.",
+"a": "RMS Titanic",
+"w": [
+"Mayflower",
+"Bismarck",
+"Mary Rose",
+"Golden Hind",
+"Queen Elizabeth 2",
+"Santa Maria",
+"Yamato"
+],
+"alt": [
+"Titanic"
+],
+"fib": true,
+"img": "/pics/ships/titanic.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 4,
+"q": "Name this famous ship.",
+"a": "RMS Queen Mary",
+"w": [
+"USS Missouri",
+"Golden Hind",
+"Yamato",
+"HMS Endeavour",
+"Santa Maria",
+"HMS Hood",
+"Queen Elizabeth 2"
+],
+"alt": [
+"Queen Mary"
+],
+"fib": true,
+"img": "/pics/ships/queen-mary.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 4,
+"q": "Name this famous ship.",
+"a": "Bismarck",
+"w": [
+"Santa Maria",
+"Queen Elizabeth 2",
+"HMS Hood",
+"RMS Queen Mary",
+"Golden Hind",
+"USS Missouri",
+"HMS Victory"
+],
+"alt": [
+"The Bismarck"
+],
+"fib": true,
+"img": "/pics/ships/bismarck.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 4,
+"q": "Name this famous ship.",
+"a": "USS Missouri",
+"w": [
+"HMS Hood",
+"RMS Queen Mary",
+"Golden Hind",
+"Mayflower",
+"Yamato",
+"HMS Victory",
+"Queen Elizabeth 2"
+],
+"alt": [
+"Missouri",
+"Mighty Mo"
+],
+"fib": true,
+"img": "/pics/ships/uss-missouri.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 3,
+"q": "Name this famous ship.",
+"a": "Mayflower",
+"w": [
+"HMS Endeavour",
+"Queen Elizabeth 2",
+"Cutty Sark",
+"USS Missouri",
+"Golden Hind",
+"HMS Hood",
+"Yamato"
+],
+"alt": [
+"The Mayflower"
+],
+"fib": true,
+"img": "/pics/ships/mayflower.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 3,
+"q": "Name this famous ship.",
+"a": "HMS Victory",
+"w": [
+"USS Missouri",
+"RMS Queen Mary",
+"Mary Rose",
+"Golden Hind",
+"Queen Elizabeth 2",
+"Santa Maria",
+"Bismarck"
+],
+"alt": [
+"Victory"
+],
+"fib": true,
+"img": "/pics/ships/hms-victory.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 3,
+"q": "Name this famous ship.",
+"a": "Cutty Sark",
+"w": [
+"Golden Hind",
+"USS Missouri",
+"Santa Maria",
+"Mayflower",
+"Bismarck",
+"Yamato",
+"Mary Rose"
+],
+"alt": [
+"The Cutty Sark"
+],
+"fib": true,
+"img": "/pics/ships/cutty-sark.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 1,
+"q": "What type of ship is this?",
+"a": "Aircraft carrier",
+"w": [
+"Viking longship",
+"Canoe",
+"U-boat",
+"Greek trireme",
+"Spanish galleon",
+"Chinese junk",
+"Clipper ship"
+],
+"alt": [
+"Carrier"
+],
+"fib": true,
+"img": "/pics/ships/aircraft-carrier.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 2,
+"q": "What type of ship is this?",
+"a": "U-boat",
+"w": [
+"Chinese junk",
+"Canoe",
+"Dhow",
+"Greek trireme",
+"Spanish galleon",
+"Clipper ship",
+"Hovercraft"
+],
+"alt": [
+"Submarine",
+"German submarine",
+"Uboat"
+],
+"fib": true,
+"img": "/pics/ships/u-boat.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 1,
+"q": "What type of ship is this?",
+"a": "Viking longship",
+"w": [
+"U-boat",
+"Destroyer",
+"Aircraft carrier",
+"Dhow",
+"Gondola",
+"Canoe",
+"Greek trireme"
+],
+"alt": [
+"Longship",
+"Viking ship"
+],
+"fib": true,
+"img": "/pics/ships/viking-longship.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 2,
+"q": "What type of ship is this?",
+"a": "Chinese junk",
+"w": [
+"Greek trireme",
+"Clipper ship",
+"Spanish galleon",
+"Canoe",
+"U-boat",
+"Dhow",
+"Viking longship"
+],
+"alt": [
+"Junk"
+],
+"fib": true,
+"img": "/pics/ships/chinese-junk.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 2,
+"q": "What type of ship is this?",
+"a": "Paddle steamer",
+"w": [
+"Spanish galleon",
+"Clipper ship",
+"Aircraft carrier",
+"Chinese junk",
+"Hovercraft",
+"U-boat",
+"Viking longship"
+],
+"alt": [
+"Riverboat",
+"Sternwheeler",
+"Paddle wheeler",
+"Steamboat"
+],
+"fib": true,
+"img": "/pics/ships/paddle-steamer.png"
+},
+{
+"pr": "ships",
+"prn": "Famous ships",
+"c": "his",
+"d": 3,
+"q": "What type of ship is this?",
+"a": "Greek trireme",
+"w": [
+"Chinese junk",
+"Paddle steamer",
+"Spanish galleon",
+"Destroyer",
+"Clipper ship",
+"Hovercraft",
+"Canoe"
+],
+"alt": [
+"Trireme"
+],
+"fib": true,
+"img": "/pics/ships/greek-trireme.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 3,
+"q": "Name this war machine.",
+"a": "Mark I tank",
+"w": [
+"Churchill tank",
+"Big Bertha",
+"Jeep",
+"Renault FT",
+"Panther tank",
+"Centurion tank",
+"M1 Abrams"
+],
+"alt": [
+"Mark I",
+"Mark 1",
+"Mark 1 tank"
+],
+"fib": true,
+"img": "/pics/tanks/mark-i-tank.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 5,
+"q": "Name this war machine.",
+"a": "Renault FT",
+"w": [
+"Sherman tank",
+"Challenger 2",
+"Churchill tank",
+"Jeep",
+"Panzer IV",
+"M1 Abrams",
+"Big Bertha"
+],
+"alt": [
+"FT-17",
+"Renault FT-17"
+],
+"fib": true,
+"img": "/pics/tanks/renault-ft.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 3,
+"q": "Name this war machine.",
+"a": "Tiger tank",
+"w": [
+"T-34",
+"Renault FT",
+"M1 Abrams",
+"Jeep",
+"Centurion tank",
+"Paris Gun",
+"Humvee"
+],
+"alt": [
+"Tiger",
+"Tiger I"
+],
+"fib": true,
+"img": "/pics/tanks/tiger-tank.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 3,
+"q": "Name this war machine.",
+"a": "T-34",
+"w": [
+"Mark I tank",
+"Renault FT",
+"Centurion tank",
+"Paris Gun",
+"Challenger 2",
+"Humvee",
+"Churchill tank"
+],
+"alt": [
+"T34",
+"T-34 tank"
+],
+"fib": true,
+"img": "/pics/tanks/t-34.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 3,
+"q": "Name this war machine.",
+"a": "Sherman tank",
+"w": [
+"Centurion tank",
+"Mark I tank",
+"Challenger 2",
+"Panther tank",
+"Renault FT",
+"Humvee",
+"Leopard 2"
+],
+"alt": [
+"Sherman",
+"M4 Sherman"
+],
+"fib": true,
+"img": "/pics/tanks/sherman-tank.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 3,
+"q": "Name this war machine.",
+"a": "M1 Abrams",
+"w": [
+"Jeep",
+"Leopard 2",
+"Mark I tank",
+"Churchill tank",
+"Centurion tank",
+"T-34",
+"Renault FT"
+],
+"alt": [
+"Abrams",
+"Abrams tank"
+],
+"fib": true,
+"img": "/pics/tanks/m1-abrams.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 1,
+"q": "Name this war machine.",
+"a": "Jeep",
+"w": [
+"Big Bertha",
+"Renault FT",
+"Mark I tank",
+"Paris Gun",
+"Panzer IV",
+"T-34",
+"Tiger tank"
+],
+"alt": [
+"Willys Jeep",
+"Willys MB"
+],
+"fib": true,
+"img": "/pics/tanks/willys-jeep.png"
+},
+{
+"pr": "tanks",
+"prn": "Tanks & war machines",
+"c": "his",
+"d": 4,
+"q": "Name this war machine.",
+"a": "Big Bertha",
+"w": [
+"T-34",
+"Panther tank",
+"Jeep",
+"Mark I tank",
+"Centurion tank",
+"M1 Abrams",
+"Churchill tank"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/tanks/big-bertha.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 1,
+"q": "Name this spacecraft.",
+"a": "Space Shuttle",
+"w": [
+"Perseverance rover",
+"New Horizons",
+"Tiangong",
+"Sputnik 1",
+"Mir",
+"Hubble Space Telescope",
+"Skylab"
+],
+"alt": [
+"Shuttle",
+"Space Shuttle orbiter"
+],
+"fib": true,
+"img": "/pics/spacecraft/space-shuttle.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 2,
+"q": "Name this spacecraft.",
+"a": "Apollo Lunar Module",
+"w": [
+"Apollo command and service module",
+"Viking lander",
+"Falcon 9",
+"International Space Station",
+"Perseverance rover",
+"Tiangong",
+"Mir"
+],
+"alt": [
+"Lunar Module",
+"LEM",
+"Lunar lander",
+"Eagle"
+],
+"fib": true,
+"img": "/pics/spacecraft/apollo-lunar-module.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 2,
+"q": "Name this spacecraft.",
+"a": "Hubble Space Telescope",
+"w": [
+"Vostok 1",
+"International Space Station",
+"Skylab",
+"Saturn V",
+"Apollo Lunar Module",
+"Viking lander",
+"Perseverance rover"
+],
+"alt": [
+"Hubble"
+],
+"fib": true,
+"img": "/pics/spacecraft/hubble-space-telescope.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 1,
+"q": "Name this spacecraft.",
+"a": "International Space Station",
+"w": [
+"Space Shuttle",
+"Apollo command and service module",
+"Voyager probe",
+"Perseverance rover",
+"Vostok 1",
+"Cassini",
+"New Horizons"
+],
+"alt": [
+"ISS",
+"Space station"
+],
+"fib": true,
+"img": "/pics/spacecraft/international-space-station.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 4,
+"q": "Name this spacecraft.",
+"a": "Skylab",
+"w": [
+"Perseverance rover",
+"Saturn V",
+"Gemini capsule",
+"Apollo command and service module",
+"International Space Station",
+"Space Shuttle",
+"Tiangong"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/spacecraft/skylab.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 3,
+"q": "Name this spacecraft.",
+"a": "Voyager probe",
+"w": [
+"Apollo Lunar Module",
+"Sputnik 1",
+"V-2 rocket",
+"Mir",
+"James Webb Space Telescope",
+"Soyuz spacecraft",
+"Space Shuttle"
+],
+"alt": [
+"Voyager",
+"Voyager 1",
+"Voyager 2"
+],
+"fib": true,
+"img": "/pics/spacecraft/voyager.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 4,
+"q": "Name this spacecraft.",
+"a": "Viking lander",
+"w": [
+"Skylab",
+"Voyager probe",
+"New Horizons",
+"Soyuz spacecraft",
+"James Webb Space Telescope",
+"Mir",
+"Gemini capsule"
+],
+"alt": [
+"Viking",
+"Viking 1"
+],
+"fib": true,
+"img": "/pics/spacecraft/viking-lander.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 3,
+"q": "Name this spacecraft.",
+"a": "Perseverance rover",
+"w": [
+"V-2 rocket",
+"Mir",
+"Sputnik 1",
+"Cassini",
+"James Webb Space Telescope",
+"Skylab",
+"Apollo Lunar Module"
+],
+"alt": [
+"Perseverance",
+"Mars rover"
+],
+"fib": true,
+"img": "/pics/spacecraft/perseverance-rover.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 2,
+"q": "Name this spacecraft.",
+"a": "Sputnik 1",
+"w": [
+"Saturn V",
+"Voyager probe",
+"Skylab",
+"Falcon 9",
+"Apollo Lunar Module",
+"Perseverance rover",
+"Tiangong"
+],
+"alt": [
+"Sputnik"
+],
+"fib": true,
+"img": "/pics/spacecraft/sputnik-1.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 2,
+"q": "Name this spacecraft.",
+"a": "Falcon 9",
+"w": [
+"James Webb Space Telescope",
+"Voyager probe",
+"Apollo Lunar Module",
+"New Horizons",
+"Sputnik 1",
+"Vostok 1",
+"V-2 rocket"
+],
+"alt": [
+"SpaceX Falcon 9",
+"Falcon 9 booster"
+],
+"fib": true,
+"img": "/pics/spacecraft/falcon-9.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 3,
+"q": "Name this spacecraft.",
+"a": "V-2 rocket",
+"w": [
+"Voyager probe",
+"Mir",
+"Space Shuttle",
+"Vostok 1",
+"Viking lander",
+"Sputnik 1",
+"Apollo command and service module"
+],
+"alt": [
+"V-2",
+"V2",
+"V2 rocket"
+],
+"fib": true,
+"img": "/pics/spacecraft/v-2-rocket.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 3,
+"q": "Name this spacecraft.",
+"a": "Apollo command and service module",
+"w": [
+"Viking lander",
+"New Horizons",
+"Vostok 1",
+"Saturn V",
+"James Webb Space Telescope",
+"Perseverance rover",
+"Skylab"
+],
+"alt": [
+"Apollo",
+"Apollo spacecraft",
+"Apollo capsule",
+"Apollo CSM",
+"Command module"
+],
+"fib": true,
+"img": "/pics/spacecraft/apollo-command-module.png"
+},
+{
+"pr": "spacecraft",
+"prn": "Rockets & spacecraft",
+"c": "sci",
+"d": 4,
+"q": "Name this spacecraft.",
+"a": "Soyuz spacecraft",
+"w": [
+"Vostok 1",
+"Saturn V",
+"Viking lander",
+"Space Shuttle",
+"Voyager probe",
+"New Horizons",
+"Mir"
+],
+"alt": [
+"Soyuz"
+],
+"fib": true,
+"img": "/pics/spacecraft/soyuz-spacecraft.png"
+},
+{
+"pr": "trains",
+"prn": "Famous trains",
+"c": "his",
+"d": 3,
+"q": "Name this famous train.",
+"a": "Stephenson's Rocket",
+"w": [
+"Flying Scotsman",
+"Maglev",
+"Shinkansen",
+"Locomotion No. 1",
+"City of Truro",
+"Big Boy",
+"Orient Express"
+],
+"alt": [
+"Rocket",
+"The Rocket",
+"Stephensons Rocket"
+],
+"fib": true,
+"img": "/pics/trains/stephensons-rocket.png"
+},
+{
+"pr": "trains",
+"prn": "Famous trains",
+"c": "his",
+"d": 2,
+"q": "Name this famous train.",
+"a": "Flying Scotsman",
+"w": [
+"The General",
+"Mallard",
+"City of Truro",
+"Eurostar",
+"Big Boy",
+"Locomotion No. 1",
+"Orient Express"
+],
+"alt": [
+"The Flying Scotsman"
+],
+"fib": true,
+"img": "/pics/trains/flying-scotsman.png"
+},
+{
+"pr": "trains",
+"prn": "Famous trains",
+"c": "his",
+"d": 3,
+"q": "Name this famous train.",
+"a": "Mallard",
+"w": [
+"City of Truro",
+"Flying Scotsman",
+"Acela",
+"Locomotion No. 1",
+"Eurostar",
+"Maglev",
+"Big Boy"
+],
+"alt": [
+"LNER Mallard",
+"The Mallard"
+],
+"fib": true,
+"img": "/pics/trains/mallard.png"
+},
+{
+"pr": "trains",
+"prn": "Famous trains",
+"c": "his",
+"d": 2,
+"q": "Name this famous train.",
+"a": "Shinkansen",
+"w": [
+"Flying Scotsman",
+"Orient Express",
+"Big Boy",
+"TGV",
+"Acela",
+"Puffing Billy",
+"Maglev"
+],
+"alt": [
+"Bullet train",
+"Japanese bullet train",
+"Shinkansen bullet train"
+],
+"fib": true,
+"img": "/pics/trains/shinkansen-bullet-train.png"
+},
+{
+"pr": "trains",
+"prn": "Famous trains",
+"c": "his",
+"d": 2,
+"q": "Name this famous train.",
+"a": "Eurostar",
+"w": [
+"Acela",
+"The General",
+"City of Truro",
+"Shinkansen",
+"Puffing Billy",
+"Maglev",
+"Big Boy"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/trains/eurostar.png"
+},
+{
+"pr": "trains",
+"prn": "Famous trains",
+"c": "his",
+"d": 4,
+"q": "Name this famous train.",
+"a": "Big Boy",
+"w": [
+"Acela",
+"Royal Scot",
+"Maglev",
+"City of Truro",
+"Eurostar",
+"The General",
+"Flying Scotsman"
+],
+"alt": [
+"Union Pacific Big Boy"
+],
+"fib": true,
+"img": "/pics/trains/big-boy.png"
+},
+{
+"pr": "trains",
+"prn": "Famous trains",
+"c": "his",
+"d": 4,
+"q": "Name this famous train.",
+"a": "The General",
+"w": [
+"Flying Scotsman",
+"Mallard",
+"Big Boy",
+"Eurostar",
+"Shinkansen",
+"TGV",
+"Stephenson's Rocket"
+],
+"alt": [
+"General"
+],
+"fib": true,
+"img": "/pics/trains/the-general.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this island.",
+"a": "Baffin Island",
+"w": [
+"Tasmania",
+"Sumatra",
+"Sardinia",
+"Long Island",
+"Borneo",
+"Honshu",
+"Kyushu"
+],
+"alt": [
+"Baffin"
+],
+"fib": true,
+"img": "/pics/islands/baffin-island.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Borneo",
+"w": [
+"Greenland",
+"Sardinia",
+"Mallorca",
+"Victoria Island",
+"Sumatra",
+"North Island (New Zealand)",
+"Hokkaido"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/borneo.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Corsica",
+"w": [
+"South Island (New Zealand)",
+"Victoria Island",
+"Hawaii (Big Island)",
+"Mallorca",
+"Sardinia",
+"Borneo",
+"Sicily"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/corsica.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Crete",
+"w": [
+"Hawaii (Big Island)",
+"North Island (New Zealand)",
+"Ellesmere Island",
+"Tasmania",
+"Mallorca",
+"Vancouver Island",
+"Long Island"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/crete.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 2,
+"q": "Name this island.",
+"a": "Great Britain",
+"w": [
+"Luzon",
+"Baffin Island",
+"Borneo",
+"Greenland",
+"Java",
+"Sardinia",
+"Sicily"
+],
+"alt": [
+"Britain"
+],
+"fib": true,
+"img": "/pics/islands/great-britain.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 1,
+"q": "Name this island.",
+"a": "Greenland",
+"w": [
+"Newfoundland",
+"Sulawesi",
+"Tasmania",
+"Sumatra",
+"Mallorca",
+"Borneo",
+"Vancouver Island"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/greenland.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this island.",
+"a": "Hawaii (Big Island)",
+"w": [
+"Ireland",
+"South Island (New Zealand)",
+"Mallorca",
+"Greenland",
+"Vancouver Island",
+"Sardinia",
+"Borneo"
+],
+"alt": [
+"Hawaii",
+"Big Island",
+"Hawaii Island"
+],
+"fib": true,
+"img": "/pics/islands/hawaii-big-island.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this island.",
+"a": "Hokkaido",
+"w": [
+"Greenland",
+"Borneo",
+"Ellesmere Island",
+"Vancouver Island",
+"Corsica",
+"Luzon",
+"Sumatra"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/hokkaido.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Honshu",
+"w": [
+"Kyushu",
+"Great Britain",
+"New Guinea",
+"Sakhalin",
+"Luzon",
+"North Island (New Zealand)",
+"South Island (New Zealand)"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/honshu.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 1,
+"q": "Name this island.",
+"a": "Ireland",
+"w": [
+"Newfoundland",
+"Corsica",
+"North Island (New Zealand)",
+"Java",
+"Greenland",
+"Tasmania",
+"Hawaii (Big Island)"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/ireland.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this island.",
+"a": "Java",
+"w": [
+"Sulawesi",
+"Honshu",
+"Ireland",
+"Greenland",
+"Ellesmere Island",
+"Hawaii (Big Island)",
+"Victoria Island"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/java.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Long Island",
+"w": [
+"Sulawesi",
+"North Island (New Zealand)",
+"Corsica",
+"Tasmania",
+"Ellesmere Island",
+"Hawaii (Big Island)",
+"Newfoundland"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/long-island.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this island.",
+"a": "New Guinea",
+"w": [
+"Newfoundland",
+"North Island (New Zealand)",
+"Long Island",
+"Sulawesi",
+"Corsica",
+"Hawaii (Big Island)",
+"Honshu"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/new-guinea.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Newfoundland",
+"w": [
+"South Island (New Zealand)",
+"Hawaii (Big Island)",
+"Greenland",
+"Sulawesi",
+"Sumatra",
+"Sicily",
+"Corsica"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/newfoundland.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "North Island (New Zealand)",
+"w": [
+"Victoria Island",
+"Ellesmere Island",
+"Java",
+"Baffin Island",
+"Honshu",
+"Tasmania",
+"Sumatra"
+],
+"alt": [
+"North Island"
+],
+"fib": true,
+"img": "/pics/islands/north-island-new-zealand.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Sardinia",
+"w": [
+"North Island (New Zealand)",
+"Sicily",
+"New Guinea",
+"Baffin Island",
+"Tasmania",
+"Luzon",
+"Ireland"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/sardinia.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 2,
+"q": "Name this island.",
+"a": "Sicily",
+"w": [
+"Long Island",
+"Newfoundland",
+"Tasmania",
+"Honshu",
+"New Guinea",
+"Baffin Island",
+"Kyushu"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/sicily.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "South Island (New Zealand)",
+"w": [
+"Crete",
+"Hokkaido",
+"Ellesmere Island",
+"Sardinia",
+"Great Britain",
+"Honshu",
+"Newfoundland"
+],
+"alt": [
+"South Island"
+],
+"fib": true,
+"img": "/pics/islands/south-island-new-zealand.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this island.",
+"a": "Sumatra",
+"w": [
+"Corsica",
+"Vancouver Island",
+"Great Britain",
+"Hawaii (Big Island)",
+"Greenland",
+"Borneo",
+"Ellesmere Island"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/sumatra.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this island.",
+"a": "Tasmania",
+"w": [
+"Greenland",
+"Honshu",
+"Hawaii (Big Island)",
+"Ireland",
+"North Island (New Zealand)",
+"Sicily",
+"Hokkaido"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/tasmania.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this island.",
+"a": "Vancouver Island",
+"w": [
+"Greenland",
+"Ellesmere Island",
+"Great Britain",
+"Ireland",
+"Sicily",
+"Baffin Island",
+"North Island (New Zealand)"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/vancouver-island.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this lake.",
+"a": "Lake Superior",
+"w": [
+"Lake Geneva",
+"Lake Lucerne",
+"Lake Tanganyika",
+"Lake Michigan",
+"Lake Malawi",
+"Lake Okeechobee",
+"Lake Baikal"
+],
+"alt": [
+"Superior"
+],
+"fib": true,
+"img": "/pics/islands/lake-superior.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this lake.",
+"a": "Lake Michigan",
+"w": [
+"Dead Sea",
+"Lake Nasser",
+"Lake Huron",
+"Lake Winnipeg",
+"Caspian Sea",
+"Lake Chad",
+"Lake Garda"
+],
+"alt": [
+"Michigan"
+],
+"fib": true,
+"img": "/pics/islands/lake-michigan.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Huron",
+"w": [
+"Great Bear Lake",
+"Lake Van",
+"Lake Geneva",
+"Lake Okeechobee",
+"Lake Garda",
+"Lake Erie",
+"Dead Sea"
+],
+"alt": [
+"Huron"
+],
+"fib": true,
+"img": "/pics/islands/lake-huron.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this lake.",
+"a": "Lake Erie",
+"w": [
+"Lake Ladoga",
+"Aral Sea",
+"Lake Baikal",
+"Great Bear Lake",
+"Lake Garda",
+"Lake Okeechobee",
+"Lake Winnipeg"
+],
+"alt": [
+"Erie"
+],
+"fib": true,
+"img": "/pics/islands/lake-erie.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this lake.",
+"a": "Lake Ontario",
+"w": [
+"Lake Turkana",
+"Great Bear Lake",
+"Lake Garda",
+"Lake Van",
+"Lake Balaton",
+"Lake Tahoe",
+"Lake Nasser"
+],
+"alt": [
+"Ontario"
+],
+"fib": true,
+"img": "/pics/islands/lake-ontario.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this lake.",
+"a": "Lake Victoria",
+"w": [
+"Lake Van",
+"Great Bear Lake",
+"Lake Tahoe",
+"Loch Ness",
+"Lake Garda",
+"Great Salt Lake",
+"Lake Tanganyika"
+],
+"alt": [
+"Victoria"
+],
+"fib": true,
+"img": "/pics/islands/lake-victoria.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 2,
+"q": "Name this lake.",
+"a": "Lake Baikal",
+"w": [
+"Lake Como",
+"Lake Nasser",
+"Aral Sea",
+"Lake Titicaca",
+"Lake Tanganyika",
+"Lake Ontario",
+"Dead Sea"
+],
+"alt": [
+"Baikal"
+],
+"fib": true,
+"img": "/pics/islands/lake-baikal.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Tanganyika",
+"w": [
+"Great Bear Lake",
+"Lake Como",
+"Lake Superior",
+"Lake Victoria",
+"Lake Turkana",
+"Sea of Galilee",
+"Great Slave Lake"
+],
+"alt": [
+"Tanganyika"
+],
+"fib": true,
+"img": "/pics/islands/lake-tanganyika.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Malawi",
+"w": [
+"Lake Van",
+"Lake Chad",
+"Lake Michigan",
+"Aral Sea",
+"Lake Geneva",
+"Lake Tahoe",
+"Lake Como"
+],
+"alt": [
+"Malawi",
+"Lake Nyasa"
+],
+"fib": true,
+"img": "/pics/islands/lake-malawi.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Titicaca",
+"w": [
+"Lake Baikal",
+"Caspian Sea",
+"Lake Erie",
+"Lake Victoria",
+"Lake Como",
+"Lake Winnipeg",
+"Lake Michigan"
+],
+"alt": [
+"Titicaca"
+],
+"fib": true,
+"img": "/pics/islands/lake-titicaca.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 5,
+"q": "Name this lake.",
+"a": "Great Bear Lake",
+"w": [
+"Lake Chad",
+"Lake Michigan",
+"Sea of Galilee",
+"Great Slave Lake",
+"Dead Sea",
+"Lake Como",
+"Great Salt Lake"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/great-bear-lake.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 5,
+"q": "Name this lake.",
+"a": "Great Slave Lake",
+"w": [
+"Lake Ontario",
+"Lake Chad",
+"Lake Turkana",
+"Sea of Galilee",
+"Lake Balaton",
+"Lake Winnipeg",
+"Lake Superior"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/great-slave-lake.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Winnipeg",
+"w": [
+"Lake Huron",
+"Lake Nasser",
+"Lake Garda",
+"Lake Balaton",
+"Lake Okeechobee",
+"Great Salt Lake",
+"Lake Lucerne"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/lake-winnipeg.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 5,
+"q": "Name this lake.",
+"a": "Lake Ladoga",
+"w": [
+"Great Slave Lake",
+"Lake Baikal",
+"Lake Lucerne",
+"Lake Titicaca",
+"Dead Sea",
+"Lake Tahoe",
+"Lake Malawi"
+],
+"alt": [
+"Ladoga"
+],
+"fib": true,
+"img": "/pics/islands/lake-ladoga.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 2,
+"q": "Name this body of water.",
+"a": "Caspian Sea",
+"w": [
+"Lake Victoria",
+"Lake Tahoe",
+"Great Bear Lake",
+"Lake Baikal",
+"Loch Ness",
+"Lake Winnipeg",
+"Lake Superior"
+],
+"alt": [
+"Caspian"
+],
+"fib": true,
+"img": "/pics/islands/caspian-sea.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this body of water.",
+"a": "Dead Sea",
+"w": [
+"Great Salt Lake",
+"Lake Chad",
+"Aral Sea",
+"Lake Ladoga",
+"Lake Okeechobee",
+"Great Bear Lake",
+"Lake Tahoe"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/dead-sea.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Great Salt Lake",
+"w": [
+"Dead Sea",
+"Great Slave Lake",
+"Lake Titicaca",
+"Lake Malawi",
+"Lake Chad",
+"Caspian Sea",
+"Lake Superior"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/great-salt-lake.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 5,
+"q": "Name this body of water.",
+"a": "Sea of Galilee",
+"w": [
+"Lake Geneva",
+"Dead Sea",
+"Lake Winnipeg",
+"Lake Superior",
+"Lake Ladoga",
+"Lake Como",
+"Lake Titicaca"
+],
+"alt": [
+"Lake Tiberias",
+"Kinneret"
+],
+"fib": true,
+"img": "/pics/islands/sea-of-galilee.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Nasser",
+"w": [
+"Lake Como",
+"Lake Okeechobee",
+"Lake Huron",
+"Lake Tahoe",
+"Dead Sea",
+"Lake Baikal",
+"Lake Turkana"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/lake-nasser.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this lake.",
+"a": "Lake Geneva",
+"w": [
+"Lake Baikal",
+"Lake Tanganyika",
+"Lake Como",
+"Lake Winnipeg",
+"Aral Sea",
+"Sea of Galilee",
+"Lake Superior"
+],
+"alt": [
+"Lac Leman",
+"Lac Léman"
+],
+"fib": true,
+"img": "/pics/islands/lake-geneva.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Como",
+"w": [
+"Lake Michigan",
+"Lake Erie",
+"Dead Sea",
+"Sea of Galilee",
+"Lake Garda",
+"Great Salt Lake",
+"Lake Lucerne"
+],
+"alt": [
+"Como"
+],
+"fib": true,
+"img": "/pics/islands/lake-como.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Garda",
+"w": [
+"Aral Sea",
+"Lake Chad",
+"Caspian Sea",
+"Lake Lucerne",
+"Lake Ladoga",
+"Lake Ontario",
+"Lake Geneva"
+],
+"alt": [
+"Garda"
+],
+"fib": true,
+"img": "/pics/islands/lake-garda.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 3,
+"q": "Name this lake.",
+"a": "Loch Ness",
+"w": [
+"Great Slave Lake",
+"Lake Erie",
+"Lake Ladoga",
+"Lake Garda",
+"Lake Tahoe",
+"Lake Como",
+"Dead Sea"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/loch-ness.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 5,
+"q": "Name this lake.",
+"a": "Lake Turkana",
+"w": [
+"Lake Huron",
+"Lake Garda",
+"Lake Malawi",
+"Great Bear Lake",
+"Lake Baikal",
+"Loch Ness",
+"Lake Geneva"
+],
+"alt": [
+"Turkana"
+],
+"fib": true,
+"img": "/pics/islands/lake-turkana.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 5,
+"q": "Name this lake.",
+"a": "Lake Van",
+"w": [
+"Sea of Galilee",
+"Dead Sea",
+"Lake Malawi",
+"Lake Balaton",
+"Loch Ness",
+"Lake Victoria",
+"Great Slave Lake"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/islands/lake-van.png"
+},
+{
+"pr": "islands",
+"prn": "Islands & lakes",
+"c": "geo",
+"d": 4,
+"q": "Name this lake.",
+"a": "Lake Balaton",
+"w": [
+"Lake Ladoga",
+"Lake Erie",
+"Lake Geneva",
+"Lake Van",
+"Lake Nasser",
+"Great Slave Lake",
+"Caspian Sea"
+],
+"alt": [
+"Balaton"
+],
+"fib": true,
+"img": "/pics/islands/lake-balaton.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 2,
+"q": "Name this famous statue.",
+"a": "The Thinker",
+"w": [
+"Statue of Liberty",
+"Venus de Milo",
+"Bust of Nefertiti",
+"Lincoln Memorial",
+"Winged Victory of Samothrace",
+"Great Buddha of Kamakura",
+"Michelangelo's David"
+],
+"alt": [
+"Thinker",
+"Le Penseur"
+],
+"fib": true,
+"img": "/pics/statues/the-thinker.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 2,
+"q": "Name this famous statue.",
+"a": "Michelangelo's David",
+"w": [
+"Leshan Giant Buddha",
+"Discobolus",
+"The Bronze Horseman",
+"Lincoln Memorial",
+"Great Buddha of Kamakura",
+"The Thinker",
+"Winged Victory of Samothrace"
+],
+"alt": [
+"David",
+"Statue of David"
+],
+"fib": true,
+"img": "/pics/statues/michelangelos-david.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 3,
+"q": "Name this famous statue.",
+"a": "Venus de Milo",
+"w": [
+"Christ the Redeemer",
+"Terracotta Army",
+"Pieta",
+"Bust of Nefertiti",
+"Lincoln Memorial",
+"Great Buddha of Kamakura",
+"The Bronze Horseman"
+],
+"alt": [
+"Aphrodite of Milos"
+],
+"fib": true,
+"img": "/pics/statues/venus-de-milo.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 3,
+"q": "Name this famous statue.",
+"a": "Bust of Nefertiti",
+"w": [
+"Great Buddha of Kamakura",
+"Winged Victory of Samothrace",
+"Terracotta Army",
+"Statue of Liberty",
+"Christ the Redeemer",
+"Manneken Pis",
+"The Thinker"
+],
+"alt": [
+"Nefertiti",
+"Nefertiti Bust"
+],
+"fib": true,
+"img": "/pics/statues/bust-of-nefertiti.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 4,
+"q": "Name this famous statue.",
+"a": "Discobolus",
+"w": [
+"Winged Victory of Samothrace",
+"Christ the Redeemer",
+"The Little Mermaid",
+"Manneken Pis",
+"Bust of Nefertiti",
+"Lincoln Memorial",
+"Terracotta Army"
+],
+"alt": [
+"Discus Thrower",
+"The Discus Thrower"
+],
+"fib": true,
+"img": "/pics/statues/discobolus.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 4,
+"q": "Name this famous statue.",
+"a": "Great Buddha of Kamakura",
+"w": [
+"Michelangelo's David",
+"Manneken Pis",
+"Venus de Milo",
+"Nelson's Column",
+"Bust of Nefertiti",
+"The Little Mermaid",
+"Leshan Giant Buddha"
+],
+"alt": [
+"Kamakura Buddha",
+"Kamakura Daibutsu"
+],
+"fib": true,
+"img": "/pics/statues/great-buddha-of-kamakura.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 3,
+"q": "Name this famous statue.",
+"a": "Lincoln Memorial",
+"w": [
+"Bust of Nefertiti",
+"Manneken Pis",
+"Terracotta Army",
+"Michelangelo's David",
+"Leshan Giant Buddha",
+"Winged Victory of Samothrace",
+"Nelson's Column"
+],
+"alt": [
+"Abraham Lincoln statue",
+"Lincoln statue",
+"Statue of Abraham Lincoln"
+],
+"fib": true,
+"img": "/pics/statues/lincoln-memorial-statue.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 4,
+"q": "Name this famous statue.",
+"a": "Manneken Pis",
+"w": [
+"Statue of Liberty",
+"Leshan Giant Buddha",
+"Great Buddha of Kamakura",
+"Winged Victory of Samothrace",
+"The Bronze Horseman",
+"The Thinker",
+"Bust of Nefertiti"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/statues/manneken-pis.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 3,
+"q": "Name this famous statue.",
+"a": "Nelson's Column",
+"w": [
+"Lincoln Memorial",
+"Winged Victory of Samothrace",
+"Discobolus",
+"The Bronze Horseman",
+"Bust of Nefertiti",
+"Statue of Liberty",
+"Great Buddha of Kamakura"
+],
+"alt": [
+"Nelsons Column"
+],
+"fib": true,
+"img": "/pics/statues/nelsons-column.png"
+},
+{
+"pr": "statues",
+"prn": "Famous statues",
+"c": "art",
+"d": 3,
+"q": "Name this famous statue.",
+"a": "Terracotta Army",
+"w": [
+"The Bronze Horseman",
+"Pieta",
+"Leshan Giant Buddha",
+"The Thinker",
+"Great Buddha of Kamakura",
+"Winged Victory of Samothrace",
+"Bust of Nefertiti"
+],
+"alt": [
+"Terracotta Warriors"
+],
+"fib": true,
+"img": "/pics/statues/terracotta-army.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 1,
+"q": "Name this invention.",
+"a": "Abacus",
+"w": [
+"Calculator",
+"Compass",
+"Telescope",
+"Penny-farthing",
+"Ford Model T",
+"Light bulb",
+"Gramophone"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/inventions/abacus.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 3,
+"q": "Name this invention.",
+"a": "Candlestick telephone",
+"w": [
+"Typewriter",
+"Sextant",
+"Camera",
+"Rotary telephone",
+"Light bulb",
+"Calculator",
+"Television"
+],
+"alt": [
+"Telephone",
+"Candlestick phone"
+],
+"fib": true,
+"img": "/pics/inventions/candlestick-telephone.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 3,
+"q": "Name this invention.",
+"a": "Enigma machine",
+"w": [
+"Radio",
+"Ford Model T",
+"Candlestick telephone",
+"Gramophone",
+"Microscope",
+"Penny-farthing",
+"Camera"
+],
+"alt": [
+"Enigma"
+],
+"fib": true,
+"img": "/pics/inventions/enigma-machine.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 2,
+"q": "Name this invention.",
+"a": "Floppy disk",
+"w": [
+"Calculator",
+"Penny-farthing",
+"Typewriter",
+"Abacus",
+"Telescope",
+"Enigma machine",
+"Camera"
+],
+"alt": [
+"Floppy",
+"Diskette"
+],
+"fib": true,
+"img": "/pics/inventions/floppy-disk.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 2,
+"q": "Name this invention.",
+"a": "Gramophone",
+"w": [
+"Telegraph",
+"Calculator",
+"Steam engine",
+"Sewing machine",
+"Barometer",
+"Penny-farthing",
+"Sextant"
+],
+"alt": [
+"Phonograph",
+"Record player"
+],
+"fib": true,
+"img": "/pics/inventions/gramophone.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 1,
+"q": "Name this invention.",
+"a": "Light bulb",
+"w": [
+"Cassette player",
+"Television",
+"Barometer",
+"Camera",
+"Penny-farthing",
+"Calculator",
+"Microscope"
+],
+"alt": [
+"Lightbulb",
+"Bulb"
+],
+"fib": true,
+"img": "/pics/inventions/light-bulb.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 1,
+"q": "Name this invention.",
+"a": "Compass",
+"w": [
+"Cassette player",
+"Ford Model T",
+"Television",
+"Calculator",
+"Telegraph",
+"Light bulb",
+"Sewing machine"
+],
+"alt": [
+"Magnetic compass"
+],
+"fib": true,
+"img": "/pics/inventions/magnetic-compass.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 1,
+"q": "Name this invention.",
+"a": "Microscope",
+"w": [
+"Candlestick telephone",
+"Penny-farthing",
+"Light bulb",
+"Ford Model T",
+"Enigma machine",
+"Barometer",
+"Steam engine"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/inventions/microscope.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 3,
+"q": "Name this invention.",
+"a": "Ford Model T",
+"w": [
+"Candlestick telephone",
+"Enigma machine",
+"Camera",
+"Printing press",
+"Telegraph",
+"Calculator",
+"Typewriter"
+],
+"alt": [
+"Model T",
+"Model T Ford"
+],
+"fib": true,
+"img": "/pics/inventions/model-t-ford.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 2,
+"q": "Name this invention.",
+"a": "Penny-farthing",
+"w": [
+"Abacus",
+"Telescope",
+"Steam engine",
+"Gramophone",
+"Light bulb",
+"Barometer",
+"Camera"
+],
+"alt": [
+"Penny farthing",
+"High wheeler"
+],
+"fib": true,
+"img": "/pics/inventions/penny-farthing.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 3,
+"q": "Name this invention.",
+"a": "Printing press",
+"w": [
+"Radio",
+"Sewing machine",
+"Penny-farthing",
+"Light bulb",
+"Candlestick telephone",
+"Floppy disk",
+"Cassette player"
+],
+"alt": [
+"Gutenberg press"
+],
+"fib": true,
+"img": "/pics/inventions/printing-press.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 2,
+"q": "Name this invention.",
+"a": "Rotary telephone",
+"w": [
+"Penny-farthing",
+"Barometer",
+"Sextant",
+"Floppy disk",
+"Camera",
+"Sewing machine",
+"Typewriter"
+],
+"alt": [
+"Rotary phone",
+"Dial telephone"
+],
+"fib": true,
+"img": "/pics/inventions/rotary-phone.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 2,
+"q": "Name this invention.",
+"a": "Sewing machine",
+"w": [
+"Telegraph",
+"Sextant",
+"Compass",
+"Light bulb",
+"Ford Model T",
+"Cassette player",
+"Radio"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/inventions/sewing-machine.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 1,
+"q": "Name this invention.",
+"a": "Telescope",
+"w": [
+"Cassette player",
+"Television",
+"Sextant",
+"Gramophone",
+"Printing press",
+"Barometer",
+"Compass"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/inventions/telescope.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 1,
+"q": "Name this invention.",
+"a": "Television",
+"w": [
+"Barometer",
+"Telegraph",
+"Penny-farthing",
+"Cassette player",
+"Radio",
+"Light bulb",
+"Microscope"
+],
+"alt": [
+"TV",
+"Television set"
+],
+"fib": true,
+"img": "/pics/inventions/television.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 1,
+"q": "Name this invention.",
+"a": "Typewriter",
+"w": [
+"Rotary telephone",
+"Penny-farthing",
+"Enigma machine",
+"Candlestick telephone",
+"Sextant",
+"Television",
+"Radio"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/inventions/typewriter.png"
+},
+{
+"pr": "inventions",
+"prn": "Famous inventions",
+"c": "sci",
+"d": 2,
+"q": "Name this invention.",
+"a": "Radio",
+"w": [
+"Barometer",
+"Penny-farthing",
+"Typewriter",
+"Cassette player",
+"Enigma machine",
+"Steam engine",
+"Television"
+],
+"alt": [
+"Valve radio",
+"Tube radio",
+"Wireless"
+],
+"fib": true,
+"img": "/pics/inventions/valve-radio.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this sign mean?",
+"a": "Stop",
+"w": [
+"Falling rocks",
+"Poison",
+"Power on/off",
+"Pedestrian crossing",
+"Peace",
+"Flammable",
+"Fire exit"
+],
+"alt": [
+"Stop sign"
+],
+"fib": true,
+"img": "/pics/signs/stop-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this sign mean?",
+"a": "Yield",
+"w": [
+"Radiation",
+"No parking",
+"Speed bump",
+"Roundabout",
+"Recycling",
+"Biohazard",
+"No entry"
+],
+"alt": [
+"Give way"
+],
+"fib": true,
+"img": "/pics/signs/yield-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 2,
+"q": "What does this sign mean?",
+"a": "No entry",
+"w": [
+"Fire exit",
+"Stop",
+"High voltage",
+"First aid",
+"Radiation",
+"Poison",
+"Pedestrian crossing"
+],
+"alt": [
+"Do not enter"
+],
+"fib": true,
+"img": "/pics/signs/no-entry-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this sign mean?",
+"a": "Railway crossing",
+"w": [
+"No entry",
+"Roundabout",
+"Stop",
+"No smoking",
+"Dead end",
+"Biohazard",
+"Yield"
+],
+"alt": [
+"Railroad crossing",
+"Level crossing"
+],
+"fib": true,
+"img": "/pics/signs/railway-crossing-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this sign mean?",
+"a": "Pedestrian crossing",
+"w": [
+"Roundabout",
+"First aid",
+"Power on/off",
+"Railway crossing",
+"Slippery road",
+"Dead end",
+"Recycling"
+],
+"alt": [
+"Crosswalk",
+"Zebra crossing"
+],
+"fib": true,
+"img": "/pics/signs/pedestrian-crossing-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 2,
+"q": "What does this sign mean?",
+"a": "Roundabout",
+"w": [
+"Falling rocks",
+"Power on/off",
+"Peace",
+"Poison",
+"Pedestrian crossing",
+"Wheelchair accessible",
+"Yield"
+],
+"alt": [
+"Traffic circle"
+],
+"fib": true,
+"img": "/pics/signs/roundabout-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 2,
+"q": "What does this sign mean?",
+"a": "Slippery road",
+"w": [
+"Roundabout",
+"First aid",
+"Dead end",
+"Yield",
+"Fire exit",
+"Radiation",
+"Pedestrian crossing"
+],
+"alt": [
+"Slippery when wet"
+],
+"fib": true,
+"img": "/pics/signs/slippery-road-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 2,
+"q": "What does this symbol mean?",
+"a": "Radiation",
+"w": [
+"Dead end",
+"No entry",
+"Peace",
+"Poison",
+"Wheelchair accessible",
+"Biohazard",
+"Flammable"
+],
+"alt": [
+"Radioactive",
+"Radiation hazard"
+],
+"fib": true,
+"img": "/pics/signs/radiation-symbol.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 2,
+"q": "What does this sign mean?",
+"a": "High voltage",
+"w": [
+"Peace",
+"Biohazard",
+"No parking",
+"Flammable",
+"Poison",
+"Stop",
+"Speed bump"
+],
+"alt": [
+"Danger high voltage",
+"Electrical hazard",
+"Electricity"
+],
+"fib": true,
+"img": "/pics/signs/high-voltage-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this symbol mean?",
+"a": "Poison",
+"w": [
+"Slippery road",
+"Fire exit",
+"Wheelchair accessible",
+"Dead end",
+"Biohazard",
+"No smoking",
+"Yield"
+],
+"alt": [
+"Toxic"
+],
+"fib": true,
+"img": "/pics/signs/poison-symbol.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this symbol mean?",
+"a": "Recycling",
+"w": [
+"No parking",
+"Peace",
+"Power on/off",
+"Speed bump",
+"Railway crossing",
+"Roundabout",
+"Biohazard"
+],
+"alt": [
+"Recycle",
+"Recyclable"
+],
+"fib": true,
+"img": "/pics/signs/recycling-symbol.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this symbol mean?",
+"a": "No smoking",
+"w": [
+"Speed bump",
+"Dead end",
+"Pedestrian crossing",
+"Slippery road",
+"Flammable",
+"No entry",
+"Falling rocks"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/signs/no-smoking-sign.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this symbol mean?",
+"a": "Peace",
+"w": [
+"Fire exit",
+"Flammable",
+"Yield",
+"Roundabout",
+"Recycling",
+"Slippery road",
+"No smoking"
+],
+"alt": [
+"Peace sign",
+"Peace symbol"
+],
+"fib": true,
+"img": "/pics/signs/peace-symbol.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 2,
+"q": "What does this symbol mean?",
+"a": "Power on/off",
+"w": [
+"Railway crossing",
+"Pedestrian crossing",
+"No smoking",
+"Stop",
+"No entry",
+"Flammable",
+"Peace"
+],
+"alt": [
+"Power",
+"Power button",
+"On/off"
+],
+"fib": true,
+"img": "/pics/signs/power-symbol.png"
+},
+{
+"pr": "signs",
+"prn": "Road signs & symbols",
+"c": "spo",
+"d": 1,
+"q": "What does this symbol mean?",
+"a": "Wheelchair accessible",
+"w": [
+"Slippery road",
+"Yield",
+"Dead end",
+"Fire exit",
+"No smoking",
+"Roundabout",
+"Recycling"
+],
+"alt": [
+"Accessible",
+"Disabled access",
+"Accessibility"
+],
+"fib": true,
+"img": "/pics/signs/wheelchair-symbol.png"
 }
 ]

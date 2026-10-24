@@ -73,12 +73,12 @@ ${body}
         <h3>The questions</h3>
         <p>The game has ${total} questions in six categories:</p>
         <ul>${catList}</ul>
-        <p>There are also ${(pictureCount || 0).toLocaleString('en-CA')} picture questions drawn in the same one-bit style: flags, country shapes, maps, landmarks and wonders, city skylines, US states, famous aircraft, constellations and famous paintings.</p>
+        <p>There are also ${(pictureCount || 0).toLocaleString('en-CA')} picture questions drawn in pixel art: flags, country shapes, maps, islands and lakes, landmarks and wonders, famous statues, city skylines, US states, famous aircraft, ships, trains, tanks and war machines, rockets and spacecraft, constellations, famous paintings, inventions, and road signs and symbols.</p>
         <p>The collection began with questions written by the game's creator, and it has grown with new questions on film, music, TV, sports, geography, history, science and plenty of odd facts. Questions are checked against reliable sources, and we fix mistakes as soon as we hear about them.</p>
         <p>Found an error, or have a question you'd like to see in the game? <a href="/contact">Let us know</a>.</p>
         <h3>Credits &amp; copyright</h3>
         <p>The questions, pixel art, design and code of ${esc(siteName)} are © ${COPY_YEARS} Black Box Trivia. All rights reserved. Please don't copy the questions or artwork without permission.</p>
-        <p>Aircraft silhouettes were traced from FlightGear aircraft models (GPL). The paintings shown are public-domain works, redrawn in pixel art. Font: ChicagoFLF (public domain).</p>`),
+        <p>Aircraft silhouettes were traced from FlightGear aircraft models (GPL). The paintings shown are public-domain works, redrawn in pixel art. Spacecraft traced from NASA 3D models. Island and lake outlines from Natural Earth (public domain). Bismarck traced from the Wikimedia Commons drawing “Bb bismarck sideview” (CC BY-SA 4.0); USS Missouri from a public-domain drawing. Train pictures digitised from Wikimedia Commons photos: Mallard by PTG Dudva (CC BY-SA 3.0), Shinkansen by Scfema (CC BY-SA 3.0), Eurostar by Bahnfrend (CC BY-SA 4.0); the others are public domain or CC0. These pixel-art adaptations are shared under the same licences. Font: ChicagoFLF (public domain).</p>`),
 
     'how-to-play': page('how-to-play', 'How to Play', `How to play ${siteName}: start a game, share the code, answer multiple-choice and fill-in-the-blank questions, and collect all six category pieces.`, `
         <h2>How to play</h2>

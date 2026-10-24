@@ -183,6 +183,89 @@ for s, (kind, ans, d, alt) in PT.items():
     rnd.shuffle(pool)
     add('paintings', 'Famous paintings', 'art', s, 'paintings-nes', d, q, ans, pool[:7], alt, True, True)
 
+
+# ---------------- new rounds (Oct 2026): ships, war machines, spacecraft, trains, islands & lakes, statues, inventions, signs ----------------
+def simple_round(round_, rname, cat, folder, items, extras, q, colour=False, qfor=None):
+    """items: slug -> (answer, difficulty, alternatives). Wrong answers come from the other answers plus extras."""
+    answers = [v[0] for v in items.values()]
+    for slug, (ans, d, alt) in items.items():
+        pool = [x for x in answers + extras if x != ans and x not in alt]; rnd.shuffle(pool)
+        add(round_, rname, cat, slug, folder, d, (qfor(slug) if qfor else q), ans, pool[:7], alt, True, colour)
+
+SHIP_NAMED = {'titanic': ('RMS Titanic', 1, ['Titanic']), 'queen-mary': ('RMS Queen Mary', 4, ['Queen Mary']), 'bismarck': ('Bismarck', 4, ['The Bismarck']),
+              'uss-missouri': ('USS Missouri', 4, ['Missouri', 'Mighty Mo']), 'mayflower': ('Mayflower', 3, ['The Mayflower']), 'hms-victory': ('HMS Victory', 3, ['Victory']),
+              'cutty-sark': ('Cutty Sark', 3, ['The Cutty Sark'])}
+SHIP_TYPES = {'aircraft-carrier': ('Aircraft carrier', 1, ['Carrier']), 'u-boat': ('U-boat', 2, ['Submarine', 'German submarine', 'Uboat']),
+              'viking-longship': ('Viking longship', 1, ['Longship', 'Viking ship']), 'chinese-junk': ('Chinese junk', 2, ['Junk']),
+              'paddle-steamer': ('Paddle steamer', 2, ['Riverboat', 'Sternwheeler', 'Paddle wheeler', 'Steamboat']), 'greek-trireme': ('Greek trireme', 3, ['Trireme'])}
+simple_round('ships', 'Famous ships', 'his', 'ships', SHIP_NAMED, ['Mary Rose', 'Santa Maria', 'Yamato', 'HMS Hood', 'Golden Hind', 'HMS Endeavour', 'Queen Elizabeth 2'], 'Name this famous ship.')
+simple_round('ships', 'Famous ships', 'his', 'ships', SHIP_TYPES, ['Spanish galleon', 'Hovercraft', 'Clipper ship', 'Destroyer', 'Dhow', 'Canoe', 'Gondola'], 'What type of ship is this?')
+
+TANKS = {'mark-i-tank': ('Mark I tank', 3, ['Mark I', 'Mark 1', 'Mark 1 tank']), 'renault-ft': ('Renault FT', 5, ['FT-17', 'Renault FT-17']),
+         'tiger-tank': ('Tiger tank', 3, ['Tiger', 'Tiger I']), 't-34': ('T-34', 3, ['T34', 'T-34 tank']), 'sherman-tank': ('Sherman tank', 3, ['Sherman', 'M4 Sherman']),
+         'm1-abrams': ('M1 Abrams', 3, ['Abrams', 'Abrams tank']), 'willys-jeep': ('Jeep', 1, ['Willys Jeep', 'Willys MB']), 'big-bertha': ('Big Bertha', 4, [])}
+simple_round('tanks', 'Tanks & war machines', 'his', 'tanks', TANKS, ['Panther tank', 'Churchill tank', 'Leopard 2', 'Challenger 2', 'Centurion tank', 'Panzer IV', 'Humvee', 'Paris Gun'], 'Name this war machine.')
+
+SPACE = {'space-shuttle': ('Space Shuttle', 1, ['Shuttle', 'Space Shuttle orbiter']), 'apollo-lunar-module': ('Apollo Lunar Module', 2, ['Lunar Module', 'LEM', 'Lunar lander', 'Eagle']),
+         'hubble-space-telescope': ('Hubble Space Telescope', 2, ['Hubble']), 'international-space-station': ('International Space Station', 1, ['ISS', 'Space station']),
+         'skylab': ('Skylab', 4, []), 'voyager': ('Voyager probe', 3, ['Voyager', 'Voyager 1', 'Voyager 2']), 'viking-lander': ('Viking lander', 4, ['Viking', 'Viking 1']),
+         'perseverance-rover': ('Perseverance rover', 3, ['Perseverance', 'Mars rover']), 'sputnik-1': ('Sputnik 1', 2, ['Sputnik']),
+         'falcon-9': ('Falcon 9', 2, ['SpaceX Falcon 9', 'Falcon 9 booster']), 'v-2-rocket': ('V-2 rocket', 3, ['V-2', 'V2', 'V2 rocket']),
+         'apollo-command-module': ('Apollo command and service module', 3, ['Apollo', 'Apollo spacecraft', 'Apollo capsule', 'Apollo CSM', 'Command module']),
+         'soyuz-spacecraft': ('Soyuz spacecraft', 4, ['Soyuz'])}
+simple_round('spacecraft', 'Rockets & spacecraft', 'sci', 'spacecraft', SPACE, ['Mir', 'Tiangong', 'James Webb Space Telescope', 'Vostok 1', 'New Horizons', 'Cassini', 'Saturn V', 'Gemini capsule'], 'Name this spacecraft.')
+
+TRAINS = {'stephensons-rocket': ("Stephenson's Rocket", 3, ['Rocket', 'The Rocket', 'Stephensons Rocket']), 'flying-scotsman': ('Flying Scotsman', 2, ['The Flying Scotsman']),
+          'mallard': ('Mallard', 3, ['LNER Mallard', 'The Mallard']), 'shinkansen-bullet-train': ('Shinkansen', 2, ['Bullet train', 'Japanese bullet train', 'Shinkansen bullet train']),
+          'eurostar': ('Eurostar', 2, []), 'big-boy': ('Big Boy', 4, ['Union Pacific Big Boy']), 'the-general': ('The General', 4, ['General'])}
+simple_round('trains', 'Famous trains', 'his', 'trains', TRAINS, ['Orient Express', 'Puffing Billy', 'TGV', 'Royal Scot', 'Locomotion No. 1', 'City of Truro', 'Acela', 'Maglev'], 'Name this famous train.', colour=True)
+
+ISL = {'baffin-island': ('Baffin Island', 4, ['Baffin']), 'borneo': ('Borneo', 3, []), 'corsica': ('Corsica', 3, []), 'crete': ('Crete', 3, []),
+       'great-britain': ('Great Britain', 2, ['Britain']), 'greenland': ('Greenland', 1, []), 'hawaii-big-island': ('Hawaii (Big Island)', 4, ['Hawaii', 'Big Island', 'Hawaii Island']),
+       'hokkaido': ('Hokkaido', 4, []), 'honshu': ('Honshu', 3, []), 'ireland': ('Ireland', 1, []), 'java': ('Java', 4, []), 'long-island': ('Long Island', 3, []),
+       'new-guinea': ('New Guinea', 4, []), 'newfoundland': ('Newfoundland', 3, []), 'north-island-new-zealand': ('North Island (New Zealand)', 3, ['North Island']),
+       'sardinia': ('Sardinia', 3, []), 'sicily': ('Sicily', 2, []), 'south-island-new-zealand': ('South Island (New Zealand)', 3, ['South Island']),
+       'sumatra': ('Sumatra', 4, []), 'tasmania': ('Tasmania', 3, []), 'vancouver-island': ('Vancouver Island', 4, [])}
+simple_round('islands', 'Islands & lakes', 'geo', 'islands', ISL, ['Sakhalin', 'Kyushu', 'Mallorca', 'Sulawesi', 'Luzon', 'Ellesmere Island', 'Victoria Island'], 'Name this island.')
+LAKES = {'lake-superior': ('Lake Superior', 3, ['Superior']), 'lake-michigan': ('Lake Michigan', 3, ['Michigan']), 'lake-huron': ('Lake Huron', 4, ['Huron']),
+         'lake-erie': ('Lake Erie', 3, ['Erie']), 'lake-ontario': ('Lake Ontario', 3, ['Ontario']), 'lake-victoria': ('Lake Victoria', 3, ['Victoria']),
+         'lake-baikal': ('Lake Baikal', 2, ['Baikal']), 'lake-tanganyika': ('Lake Tanganyika', 4, ['Tanganyika']), 'lake-malawi': ('Lake Malawi', 4, ['Malawi', 'Lake Nyasa']),
+         'lake-titicaca': ('Lake Titicaca', 4, ['Titicaca']), 'great-bear-lake': ('Great Bear Lake', 5, []), 'great-slave-lake': ('Great Slave Lake', 5, []),
+         'lake-winnipeg': ('Lake Winnipeg', 4, []), 'lake-ladoga': ('Lake Ladoga', 5, ['Ladoga']), 'caspian-sea': ('Caspian Sea', 2, ['Caspian']),
+         'dead-sea': ('Dead Sea', 4, []), 'great-salt-lake': ('Great Salt Lake', 4, []), 'sea-of-galilee': ('Sea of Galilee', 5, ['Lake Tiberias', 'Kinneret']),
+         'lake-nasser': ('Lake Nasser', 4, []), 'lake-geneva': ('Lake Geneva', 3, ['Lac Leman', 'Lac Léman']), 'lake-como': ('Lake Como', 4, ['Como']),
+         'lake-garda': ('Lake Garda', 4, ['Garda']), 'loch-ness': ('Loch Ness', 3, []), 'lake-turkana': ('Lake Turkana', 5, ['Turkana']),
+         'lake-van': ('Lake Van', 5, []), 'lake-balaton': ('Lake Balaton', 4, ['Balaton'])}
+SEAS = {'caspian-sea', 'dead-sea', 'sea-of-galilee'}
+simple_round('islands', 'Islands & lakes', 'geo', 'lakes', LAKES, ['Lake Tahoe', 'Lake Chad', 'Aral Sea', 'Lake Okeechobee', 'Lake Lucerne'], '',
+             qfor=lambda s: 'Name this body of water.' if s in SEAS else 'Name this lake.')
+
+STAT = {'the-thinker': ('The Thinker', 2, ['Thinker', 'Le Penseur']), 'michelangelos-david': ("Michelangelo's David", 2, ['David', 'Statue of David']),
+        'venus-de-milo': ('Venus de Milo', 3, ['Aphrodite of Milos']), 'bust-of-nefertiti': ('Bust of Nefertiti', 3, ['Nefertiti', 'Nefertiti Bust']),
+        'discobolus': ('Discobolus', 4, ['Discus Thrower', 'The Discus Thrower']), 'great-buddha-of-kamakura': ('Great Buddha of Kamakura', 4, ['Kamakura Buddha', 'Kamakura Daibutsu']),
+        'lincoln-memorial-statue': ('Lincoln Memorial', 3, ['Abraham Lincoln statue', 'Lincoln statue', 'Statue of Abraham Lincoln']),
+        'manneken-pis': ('Manneken Pis', 4, []), 'nelsons-column': ("Nelson's Column", 3, ['Nelsons Column']), 'terracotta-army': ('Terracotta Army', 3, ['Terracotta Warriors'])}
+simple_round('statues', 'Famous statues', 'art', 'statues', STAT, ['Statue of Liberty', 'Christ the Redeemer', 'The Little Mermaid', 'Winged Victory of Samothrace', 'Pieta', 'Leshan Giant Buddha', 'The Bronze Horseman'], 'Name this famous statue.')
+
+INV = {'abacus': ('Abacus', 1, []), 'candlestick-telephone': ('Candlestick telephone', 3, ['Telephone', 'Candlestick phone']), 'enigma-machine': ('Enigma machine', 3, ['Enigma']),
+       'floppy-disk': ('Floppy disk', 2, ['Floppy', 'Diskette']), 'gramophone': ('Gramophone', 2, ['Phonograph', 'Record player']), 'light-bulb': ('Light bulb', 1, ['Lightbulb', 'Bulb']),
+       'magnetic-compass': ('Compass', 1, ['Magnetic compass']), 'microscope': ('Microscope', 1, []), 'model-t-ford': ('Ford Model T', 3, ['Model T', 'Model T Ford']),
+       'penny-farthing': ('Penny-farthing', 2, ['Penny farthing', 'High wheeler']), 'printing-press': ('Printing press', 3, ['Gutenberg press']),
+       'rotary-phone': ('Rotary telephone', 2, ['Rotary phone', 'Dial telephone']), 'sewing-machine': ('Sewing machine', 2, []), 'telescope': ('Telescope', 1, []),
+       'television': ('Television', 1, ['TV', 'Television set']), 'typewriter': ('Typewriter', 1, []), 'valve-radio': ('Radio', 2, ['Valve radio', 'Tube radio', 'Wireless'])}
+simple_round('inventions', 'Famous inventions', 'sci', 'inventions', INV, ['Telegraph', 'Camera', 'Cassette player', 'Sextant', 'Steam engine', 'Calculator', 'Barometer'], 'Name this invention.', colour=True)
+
+SIGN = {'stop-sign': ('Stop', 1, ['Stop sign']), 'yield-sign': ('Yield', 1, ['Give way']), 'no-entry-sign': ('No entry', 2, ['Do not enter']),
+        'railway-crossing-sign': ('Railway crossing', 1, ['Railroad crossing', 'Level crossing']), 'pedestrian-crossing-sign': ('Pedestrian crossing', 1, ['Crosswalk', 'Zebra crossing']),
+        'roundabout-sign': ('Roundabout', 2, ['Traffic circle']), 'slippery-road-sign': ('Slippery road', 2, ['Slippery when wet']),
+        'radiation-symbol': ('Radiation', 2, ['Radioactive', 'Radiation hazard']), 'high-voltage-sign': ('High voltage', 2, ['Danger high voltage', 'Electrical hazard', 'Electricity']),
+        'poison-symbol': ('Poison', 1, ['Toxic']), 'recycling-symbol': ('Recycling', 1, ['Recycle', 'Recyclable']), 'no-smoking-sign': ('No smoking', 1, []),
+        'peace-symbol': ('Peace', 1, ['Peace sign', 'Peace symbol']), 'power-symbol': ('Power on/off', 2, ['Power', 'Power button', 'On/off']),
+        'wheelchair-symbol': ('Wheelchair accessible', 1, ['Accessible', 'Disabled access', 'Accessibility'])}
+ROAD = {'stop-sign', 'yield-sign', 'no-entry-sign', 'railway-crossing-sign', 'pedestrian-crossing-sign', 'roundabout-sign', 'slippery-road-sign', 'high-voltage-sign'}
+simple_round('signs', 'Road signs & symbols', 'spo', 'signs', SIGN, ['No parking', 'Falling rocks', 'Speed bump', 'Biohazard', 'Fire exit', 'Flammable', 'First aid', 'Dead end'], '',
+             colour=True, qfor=lambda s: 'What does this sign mean?' if s in ROAD else 'What does this symbol mean?')
+
 json.dump(Q, open(os.path.join(GAME, 'data', 'pictures.json'), 'w'), indent=0, ensure_ascii=False)
 from collections import Counter
 print(len(Q), Counter(q['pr'] for q in Q))
