@@ -1,0 +1,80 @@
+# The Simpsons pack
+ent|1|Who created "The Simpsons"?|Matt Groening|Seth MacFarlane;Mike Judge;Trey Parker|Groening
+ent|1|In "The Simpsons", what is the name of the family dog?|Santa's Little Helper|Snowball II;Spuds;Lucky|Santas Little Helper
+ent|2|In "The Simpsons", what is the name of the family cat?|Snowball II|Santa's Little Helper;Mr. Teeny;Fluffy|Snowball;Snowball 2
+ent|1|What is the name of the Simpsons' baby?|Maggie|Lisa;Ling;Patty|Maggie Simpson
+ent|2|Which instrument does Lisa Simpson play?|Saxophone|Trumpet;Clarinet;Violin|Sax
+ent|1|What snack makes Homer Simpson drool "Mmm..."?|Donuts|Pizza;Hot dogs;Pretzels|Doughnuts;Donut;Doughnut
+ent|2|Where does Homer Simpson work?|Springfield Nuclear Power Plant|Kwik-E-Mart;Duff Brewery;Springfield Elementary|Nuclear power plant;Power plant;The nuclear plant
+ent|3|At the power plant, which sector does Homer work in?|7G|5B;3A;9C|Sector 7G
+ent|2|What is the name of the convenience store Apu runs in "The Simpsons"?|Kwik-E-Mart|Quik Stop;Kwik Mart;Stop-N-Go|Kwik E Mart;Kwikemart
+ent|2|What is Homer Simpson's favourite brand of beer?|Duff|Fudd;Buzz;Moe's Own|Duff Beer
+ent|2|Which Simpsons character's catchphrase is a slow, finger-tapping "Excellent..."?|Mr. Burns|Smithers;Sideshow Bob;Fat Tony|Burns;Montgomery Burns;Charles Montgomery Burns
+ent|2|What is the name of Mr. Burns's devoted assistant?|Waylon Smithers|Seymour Skinner;Lenny Leonard;Carl Carlson|Smithers
+ent|4|What is the name of Mr. Burns's beloved childhood teddy bear?|Bobo|Teddy;Mr. Snuggles;Winky
+ent|3|In the two-part mystery "Who Shot Mr. Burns?", who turns out to have shot him?|Maggie Simpson|Bart Simpson;Waylon Smithers;Grampa Simpson|Maggie
+ent|2|Who is the principal of Springfield Elementary?|Seymour Skinner|Edna Krabappel;Gary Chalmers;Dewey Largo|Skinner;Principal Skinner
+ent|2|What is the name of Bart Simpson's fourth-grade teacher?|Edna Krabappel|Elizabeth Hoover;Agnes Skinner;Luann Van Houten|Krabappel;Mrs. Krabappel
+ent|3|Who drives the school bus in "The Simpsons"?|Otto Mann|Hans Moleman;Barney Gumble;Groundskeeper Willie|Otto
+ent|2|Which Scottish character looks after the grounds at Springfield Elementary?|Groundskeeper Willie|Otto Mann;Cletus;Kirk Van Houten|Willie
+ent|2|What are the names of Marge Simpson's twin sisters?|Patty and Selma|Agnes and Edna;Sherri and Terri;Mona and Jacqueline|Selma and Patty
+ent|4|What is Marge Simpson's maiden name?|Bouvier|Flanders;Gumble;Powell|Marge Bouvier
+ent|2|What is Grampa Simpson's first name?|Abraham|Herbert;Clancy;Jasper|Abe;Abraham Simpson
+ent|3|What is the name of Homer Simpson's mother?|Mona|Martha;Agnes;Jacqueline|Mona Simpson
+ent|4|What is Homer Simpson's middle name?|Jay|James;John;Joseph|J
+ent|3|What is Bart Simpson's full first name?|Bartholomew|Bartholomeus;Barton;Albert
+ent|3|The name "Bart" is an anagram of which word?|Brat|Tabs;Bark;Trap
+ent|5|According to the show, what is Lisa Simpson's IQ?|159|125;140;199
+ent|3|Matt Groening named Homer, Marge, Lisa and Maggie after whom?|His own family|The Beatles;Characters from Greek myth;His school teachers|His family;Family members
+ent|4|Matt Groening has said the Simpsons' Springfield is named after the Springfield in which US state?|Oregon|Illinois;Missouri;Massachusetts
+ent|3|Which TV show first featured "The Simpsons" as short cartoons in 1987?|The Tracey Ullman Show|Saturday Night Live;In Living Color;The Arsenio Hall Show|Tracey Ullman Show;Tracey Ullman
+ent|3|In which year did "The Simpsons" begin as a half-hour TV series?|1989|1987;1991;1993
+ent|3|The very first full episode of "The Simpsons" was a special for which holiday?|Christmas|Halloween;Thanksgiving;Valentine's Day|Xmas
+ent|2|Which TV network has aired "The Simpsons" since it began?|Fox|NBC;CBS;ABC|FOX
+ent|2|What are the Simpsons' yearly Halloween episodes called?|Treehouse of Horror|Halloween of Horror;Night of Terror;Spooky Springfield|Treehouse of Horrors
+ent|3|In which year was "The Simpsons Movie" released?|2007|2004;2009;2012
+ent|2|In "The Simpsons Movie", what does Homer sing to his new pet pig?|Spider-Pig|Pork Man;Hamtaro;Piggy Stardust|Spider Pig;Spiderpig
+ent|3|What is the Simpsons' street address?|742 Evergreen Terrace|221B Baker Street;1313 Mockingbird Lane;124 Conch Street|Evergreen Terrace;742 Evergreen
+ent|2|Which town is Springfield's bitter rival in "The Simpsons"?|Shelbyville|Capital City;Ogdenville;North Haverbrook
+ent|2|Who is Bart Simpson's TV hero, a cynical children's entertainer?|Krusty the Clown|Sideshow Bob;Gabbo;Bozo the Clown|Krusty
+ent|4|What is Krusty the Clown's real name?|Herschel Krustofsky|Morris Klownberg;Hyman Krustman;Krusty Krabowski|Krustofsky
+ent|2|Which former sidekick of Krusty keeps trying to kill Bart?|Sideshow Bob|Sideshow Mel;Snake;Fat Tony|Bob;Robert Terwilliger
+ent|3|Which "Frasier" star voices Sideshow Bob?|Kelsey Grammer|David Hyde Pierce;John Mahoney;John Lithgow|Grammer
+ent|2|What is the violent cat-and-mouse cartoon that Bart and Lisa love?|The Itchy & Scratchy Show|Tom and Jerry;The Krusty Hour;Worker and Parasite|Itchy & Scratchy;Itchy and Scratchy;The Itchy and Scratchy Show
+ent|2|In "The Itchy & Scratchy Show", which one is the mouse?|Itchy|Scratchy;Poochie;Squeaky
+ent|3|Which "rockin'" dog was added to "Itchy & Scratchy", voiced by Homer?|Poochie|Rex;Scruffy;Spot|Poochie the Rockin' Dog
+ent|3|What kind of shop does Ned Flanders open at the mall?|A shop for left-handed people|A Christian bookshop;A pretzel stand;A bowling alley|The Leftorium;Leftorium;Left-handed shop
+ent|3|What are the names of Ned Flanders's two sons?|Rod and Todd|Lenny and Carl;Sherri and Terri;Jimbo and Kearney|Todd and Rod
+ent|2|What is the first name of Springfield's police chief, Chief Wiggum?|Clancy|Lou;Eddie;Gil
+ent|2|What is the name of Chief Wiggum's son, who said "I'm learnding!"?|Ralph|Milhouse;Nelson;Martin|Ralph Wiggum
+ent|2|Which Springfield bully points and laughs "Ha-ha!"?|Nelson Muntz|Jimbo Jones;Kearney;Dolph|Nelson
+ent|2|Which Simpsons character says "Worst. Episode. Ever."?|Comic Book Guy|Professor Frink;Martin Prince;Database|Jeff Albertson
+ent|3|Which nerdy scientist in "The Simpsons" makes noises like "Glavin!"?|Professor Frink|Comic Book Guy;Martin Prince;Dr. Hibbert|Frink;John Frink
+ent|3|Which cut-price doctor greets patients with "Hi, everybody!"?|Dr. Nick Riviera|Dr. Hibbert;Dr. Marvin Monroe;Dr. Zweig|Dr. Nick;Doctor Nick
+ent|2|Which shopkeeper's catchphrase is "Thank you, come again!"?|Apu|Moe;Comic Book Guy;Jasper|Apu Nahasapeemapetilon
+ent|4|What is Moe the bartender's surname?|Szyslak|Gumble;Muntz;Van Houten|Moe Szyslak
+ent|3|Who is Springfield's TV news anchor?|Kent Brockman|Troy McClure;Arnie Pye;Scott Christian|Brockman
+ent|3|Which washed-up actor says "You may remember me from such films as..."?|Troy McClure|Lionel Hutz;Rainier Wolfcastle;Krusty the Clown|McClure
+ent|4|Which actor voiced both Troy McClure and lawyer Lionel Hutz?|Phil Hartman|Harry Shearer;Hank Azaria;Dan Castellaneta|Hartman
+ent|3|What is the name of Springfield's womanising, corrupt mayor?|Mayor Quimby|Mayor Goodwin;Mayor Hamilton;Mayor Tompkins|Quimby;Joe Quimby
+ent|3|Who provides the voice of Homer Simpson?|Dan Castellaneta|Hank Azaria;Harry Shearer;Phil Hartman|Castellaneta
+ent|4|Which actress voices Bart Simpson?|Nancy Cartwright|Yeardley Smith;Julie Kavner;Pamela Hayden|Cartwright
+ent|4|Which actress voices Lisa Simpson?|Yeardley Smith|Nancy Cartwright;Julie Kavner;Tress MacNeille
+ent|4|Which actress voices Marge Simpson?|Julie Kavner|Nancy Cartwright;Yeardley Smith;Tress MacNeille|Kavner
+ent|2|How many fingers do Simpsons characters have on each hand?|Four|Three;Five;Six|4
+ent|2|In the opening credits, where does Bart write lines as a punishment?|On a chalkboard|On the school bus;On the fridge;On his skateboard|Chalkboard;Blackboard;On the blackboard
+ent|1|What does Bart ride home in the opening credits?|A skateboard|A bike;A scooter;Roller skates|Skateboard
+ent|3|In the opening credits, what gets stuck in Homer's shirt as he leaves work?|A glowing nuclear rod|A donut;A pencil;A banana|Nuclear rod;Fuel rod;Plutonium rod;Radioactive rod
+ent|5|In the classic opening credits, what price does the checkout show when Maggie is scanned?|$847.63|$12.99;$99.99;$2.50|847.63
+ent|3|Which breed of dog is Santa's Little Helper?|Greyhound|Beagle;Whippet;Dachshund
+ent|3|What is the name of Homer's snowplough business?|Mr. Plow|Plow King;Snow Dad;Mr. Snowy|Mr Plow
+ent|4|What is the name of Homer's barbershop quartet?|The Be Sharps|The Springfield Four;The Sharp Tones;Sadgasm|Be Sharps
+ent|3|Which former US president moves in across the street from the Simpsons in "Two Bad Neighbors"?|George H. W. Bush|Ronald Reagan;Jimmy Carter;Gerald Ford|George Bush;George H.W. Bush;Bush
+ent|3|Which Beatle appears with his wife in "Lisa the Vegetarian"?|Paul McCartney|John Lennon;Ringo Starr;George Harrison|McCartney
+ent|3|What is the surname of Lisa's jazz hero "Bleeding Gums"?|Murphy|Malone;Mitchell;Jefferson|Bleeding Gums Murphy
+ent|3|In "Deep Space Homer", where does Homer go?|Into space|To Antarctica;To the bottom of the ocean;To Japan|Space;Outer space
+ent|4|Which car maker, voiced by Danny DeVito, is Homer's long-lost half-brother?|Herb Powell|Cyrus Simpson;Bill Powell;Artie Ziff|Herb
+ent|3|Which monorail salesman cons Springfield in "Marge vs. the Monorail"?|Lyle Lanley|Troy McClure;Hank Scorpio;Lionel Hutz|Lanley
+ent|4|Which friendly supervillain becomes Homer's boss in "You Only Move Twice"?|Hank Scorpio|Lyle Lanley;Fat Tony;Frank Grimes|Scorpio
+ent|3|Which hard-working new employee, nicknamed "Grimey", can't stand Homer?|Frank Grimes|Hank Scorpio;Lenny Leonard;Artie Ziff|Grimes
+ent|2|What other animated series did Matt Groening create, set in the year 3000?|Futurama|Family Guy;King of the Hill;Rick and Morty
