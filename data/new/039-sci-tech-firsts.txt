@@ -1,0 +1,52 @@
+# Technology and science firsts
+# --- Electronics ---
+sci|3|In which year was the transistor invented?|1947|1927;1957;1967
+sci|3|At which company's laboratory was the transistor invented?|Bell Labs|IBM;General Electric;Texas Instruments|Bell Telephone Laboratories;Bell Laboratories
+sci|4|Which three scientists shared the 1956 Nobel Prize for inventing the transistor?|Bardeen, Brattain and Shockley|Noyce, Moore and Kilby;Edison, Tesla and Bell;Fermi, Bohr and Heisenberg|Shockley, Bardeen and Brattain
+sci|4|Which Texas Instruments engineer built the first integrated circuit in 1958?|Jack Kilby|Robert Noyce;Gordon Moore;William Shockley|Kilby
+sci|3|What was the first commercial microprocessor, released in 1971?|Intel 4004|Intel 8086;Motorola 68000;Zilog Z80|4004
+sci|3|Which Intel co-founder predicted that the number of transistors on a chip would double about every two years?|Gordon Moore|Robert Noyce;Andy Grove;Bill Gates|Moore
+sci|2|Which California region got its nickname from the material used to make computer chips?|Silicon Valley|Copper Canyon;Carbon Coast;Germanium Gulch
+sci|3|Before transistors, which glass devices did electronics depend on?|Vacuum tubes|Light bulbs;Mercury switches;Crystal balls|Valves;Vacuum valves
+sci|3|What do the letters in "LASER" stand for?|Light Amplification by Stimulated Emission of Radiation|Long Accurate Signal Emitted by Ray;Light Active Source of Energy Rays;Linear Array of Single Energy Radiation|Light Amplification by Stimulated Emission of Radiation
+sci|4|In which year was the first working laser built?|1960|1945;1972;1981
+# --- Computers ---
+sci|2|Who is often called the first computer programmer?|Ada Lovelace|Grace Hopper;Alan Turing;Charles Babbage|Lovelace;Ada, Countess of Lovelace
+sci|3|What was the name of Charles Babbage's design for a programmable mechanical computer?|The Analytical Engine|The Difference Engine;The Turing Machine;The Jacquard Loom|Analytical Engine
+sci|3|In 1947, what was found inside the Harvard Mark II computer, giving us the term "computer bug"?|A moth|A beetle;A spider;A cockroach|Moth
+sci|4|Which US Navy computer pioneer helped create the COBOL programming language?|Grace Hopper|Ada Lovelace;Margaret Hamilton;Katherine Johnson|Hopper;Admiral Grace Hopper
+sci|2|Which test asks whether a machine can pass as human in a conversation?|The Turing test|The Asimov test;The Voight-Kampff test;The Babbage test|Turing test
+sci|2|How many bits are in a byte?|8|4;10;16|Eight
+sci|5|What was the world's first business computer, built for a British chain of tea shops?|LEO|UNIVAC;Ferranti Mark 1;EDSAC|Lyons Electronic Office;LEO I
+sci|5|Which early computer correctly predicted Eisenhower's landslide on US election night 1952?|UNIVAC I|ENIAC;IBM 701;Colossus|UNIVAC
+sci|2|Who founded Apple with Steve Jobs in 1976?|Steve Wozniak|Bill Gates;Paul Allen;Larry Ellison|Wozniak;Woz
+sci|2|Who co-founded Microsoft with Bill Gates in 1975?|Paul Allen|Steve Ballmer;Steve Wozniak;Michael Dell|Allen
+sci|3|At which university did Larry Page and Sergey Brin start Google?|Stanford|Harvard;MIT;Berkeley|Stanford University
+# --- Communications ---
+sci|4|What was the first message sent by Samuel Morse on his telegraph line in 1844?|What hath God wrought|Come here, Watson;Hello, world;Can you hear me|What hath God wrought?
+sci|3|What were the first words spoken on Alexander Graham Bell's telephone?|"Mr. Watson, come here, I want to see you."|"Hello, can you hear me?";"What hath God wrought?";"One small step for man."|Mr. Watson, come here;Mr Watson come here
+sci|4|In 1969, what were the first letters sent over ARPANET, the internet's forerunner, before it crashed?|LO|HI;OK;GO
+sci|4|Who sent the first email between computers and chose the @ sign?|Ray Tomlinson|Tim Berners-Lee;Vint Cerf;Steve Jobs|Tomlinson
+sci|2|Who invented the World Wide Web in 1989?|Tim Berners-Lee|Bill Gates;Vint Cerf;Steve Jobs|Berners-Lee;Sir Tim Berners-Lee
+sci|3|At which European research lab was the World Wide Web invented?|CERN|NASA;Bell Labs;Max Planck Institute
+sci|4|In 1973, which company made the first handheld mobile phone call?|Motorola|Nokia;Ericsson;AT&T
+sci|4|What did the first text message, sent in 1992, say?|Merry Christmas|Hello world;Happy New Year;Can you read this?
+sci|2|In which year did Apple launch the first iPhone?|2007|2004;2009;2010
+sci|3|Bluetooth is named after a king of which country?|Denmark|Norway;Sweden;Finland
+# --- Science firsts ---
+sci|3|Which German physicist discovered X-rays in 1895?|Wilhelm Röntgen|Max Planck;Heinrich Hertz;Albert Einstein|Röntgen;Roentgen;Wilhelm Roentgen
+sci|3|Which French physicist discovered radioactivity in 1896?|Henri Becquerel|Pierre Curie;Louis Pasteur;André-Marie Ampère|Becquerel
+sci|3|Which British physicist discovered the electron in 1897?|J. J. Thomson|Ernest Rutherford;James Chadwick;Michael Faraday|J.J. Thomson;Thomson
+sci|3|Which Russian chemist created the periodic table in 1869?|Dmitri Mendeleev|Ivan Pavlov;Mikhail Lomonosov;Alexander Borodin|Mendeleev
+sci|3|In which year did Einstein publish his special theory of relativity?|1905|1895;1915;1925
+sci|3|Which scientist's X-ray image "Photo 51" was key to finding DNA's double helix?|Rosalind Franklin|Marie Curie;Dorothy Hodgkin;Barbara McClintock|Franklin
+sci|2|What was the name of the first mammal cloned from an adult cell, in 1996?|Dolly the sheep|Molly the cow;Polly the goat;Daisy the pig|Dolly
+sci|3|In which year was the Human Genome Project completed?|2003|1993;2010;2015
+sci|3|Which particle, nicknamed the "God particle", was found at the Large Hadron Collider in 2012?|The Higgs boson|The neutrino;The quark;The graviton|Higgs boson;Higgs
+sci|4|Who invented Velcro after noticing burrs stuck to his dog?|George de Mestral|Spencer Silver;Percy Spencer;Earl Dickson|De Mestral
+sci|3|Which company invented the Post-it note?|3M|Xerox;Kodak;Staples
+sci|4|What was the first product ever scanned with a barcode, in 1974?|A pack of chewing gum|A can of soup;A box of cereal;A candy bar|Chewing gum;Gum;Wrigley's gum
+sci|5|Which company's engineer built the first digital camera in 1975?|Kodak|Sony;Canon;Nikon|Eastman Kodak
+sci|4|Which two companies developed the compact disc together?|Philips and Sony|Apple and IBM;Panasonic and JVC;Toshiba and Sharp|Sony and Philips
+sci|4|Which Frenchman took the oldest surviving camera photograph, around 1826?|Joseph Nicéphore Niépce|Louis Daguerre;Louis Lumière;Henri Cartier-Bresson|Niépce;Niepce
+sci|4|Which keyboard layout was designed for early typewriters in the 1870s?|QWERTY|AZERTY;Dvorak;ABCDEF

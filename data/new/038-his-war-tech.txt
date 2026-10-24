@@ -1,0 +1,45 @@
+# Technology of the World Wars
+# --- WWI: the tank and more ---
+his|3|Why were the first British armoured fighting vehicles called "tanks"?|To disguise them as water tanks|They carried fuel tanks;They were built by a tank maker;Their shape was like a fish tank|They were disguised as water tanks;To keep them secret;Disguise
+his|4|What was the name of the very first tank prototype, built in Britain in 1915?|Little Willie|Big Bertha;Mother;Iron Duke
+his|4|Which future Prime Minister backed early tank designs through the Admiralty's "Landships Committee"?|Winston Churchill|David Lloyd George;Neville Chamberlain;Clement Attlee|Churchill
+his|4|What was the name of the first tank used in battle, in 1916?|Mark I|Little Willie;Renault FT;A7V|Mark 1;The Mark I
+his|5|Early British tanks came in "male" and "female" versions. What did the "male" tanks carry?|Cannons|Only machine guns;Flamethrowers;Extra fuel|Cannon;Big guns;6-pounder guns
+his|4|At which 1917 battle were tanks first used in large numbers?|Cambrai|Verdun;Gallipoli;Ypres|Battle of Cambrai
+his|5|Where did the first battle between two tanks take place, in 1918?|Villers-Bretonneux|Cambrai;Amiens;The Somme
+his|4|Which French tank of 1917 was the first with a fully rotating turret?|Renault FT|Schneider CA1;Saint-Chamond;Mark IV|Renault FT-17;FT-17
+his|5|What was Germany's only tank to see action in World War I?|A7V|Tiger;Panzer I;Leopard
+his|4|Which American-born inventor created the first fully automatic machine gun?|Hiram Maxim|Richard Gatling;John Browning;Samuel Colt|Maxim
+his|4|Which Dutch-born aircraft designer gave his name to the gear that let pilots fire through their propeller?|Fokker|Sopwith;Albatros;Junkers
+his|5|Which ship, converted in 1918, was the first aircraft carrier with a full-length flat flight deck?|HMS Argus|HMS Furious;USS Langley;HMS Hermes
+# --- WWII: codes and computers ---
+his|3|What kind of device was the German Enigma?|A cipher machine|A radar set;A bomb sight;A jet engine|Cipher machine;Code machine;Encryption machine
+his|4|Which German engineer invented the Enigma machine after World War I?|Arthur Scherbius|Wernher von Braun;Ferdinand Porsche;Konrad Zuse|Scherbius
+his|3|Codebreakers from which country first broke the Enigma code in the 1930s?|Poland|Britain;France;Czechoslovakia|Polish
+his|5|Which Polish mathematician first cracked Enigma in 1932?|Marian Rejewski|Henryk Zygalski;Jerzy Różycki;Stefan Banach|Rejewski
+his|3|What was the name of the machine Alan Turing designed to find Enigma's daily settings?|The Bombe|Colossus;The Enigma Mark II;ENIAC|Bombe;Turing Bombe
+his|4|Which Post Office engineer built the Colossus computer at Bletchley Park?|Tommy Flowers|Alan Turing;Gordon Welchman;Bill Tutte|Flowers
+his|5|Colossus was built to break which German cipher, used by Hitler's high command?|Lorenz|Enigma;Purple;Typex|The Lorenz cipher;Tunny
+his|4|Bletchley Park recruited some codebreakers by testing how fast they could solve what?|A newspaper crossword|A Rubik's Cube;A chess problem;A jigsaw puzzle|Crossword;The Daily Telegraph crossword
+his|4|What was Bletchley Park's secret codename?|Station X|Area 51;Site Y;Room 40
+his|3|Which actor played Alan Turing in the 2014 film "The Imitation Game"?|Benedict Cumberbatch|Eddie Redmayne;Tom Hiddleston;Colin Firth|Cumberbatch
+his|4|Which room at the British Admiralty broke German naval codes in World War I?|Room 40|Station X;Hut 8;Room 101
+his|3|Completed in 1945, what was the first general-purpose electronic computer?|ENIAC|UNIVAC;Colossus;Harvard Mark I
+his|4|ENIAC was first built to calculate what for the US Army?|Artillery firing tables|Payroll;Codebreaking;Weather forecasts|Firing tables;Artillery tables
+# --- WWII: radar, jets and rockets ---
+his|3|What does the word "radar" stand for?|Radio Detection and Ranging|Range and Direction Alert Radio;Radio Distance and Range;Rapid Detection Array|Radio Detection And Ranging
+his|4|Which Scottish engineer led the development of British radar in the 1930s?|Robert Watson-Watt|John Logie Baird;Frank Whittle;Alexander Fleming|Watson-Watt
+his|4|What was the name of Britain's chain of coastal radar stations in the Battle of Britain?|Chain Home|Home Watch;Coastal Eye;Sky Fence
+his|5|Which small device, invented in Birmingham in 1940, made powerful short-wave radar possible?|The cavity magnetron|The transistor;The vacuum tube;The laser|Cavity magnetron;Magnetron
+his|4|What were the strips of foil dropped by bombers to confuse enemy radar called?|Window|Tinsel;Snow;Static|Chaff
+his|3|Which British engineer invented the jet engine?|Frank Whittle|Barnes Wallis;R. J. Mitchell;Geoffrey de Havilland|Whittle
+his|3|What was the world's first operational jet fighter?|Messerschmitt Me 262|Gloster Meteor;Bell P-59;Heinkel He 111|Me 262
+his|4|What was Britain's first operational jet fighter?|Gloster Meteor|de Havilland Vampire;Hawker Hurricane;Supermarine Spitfire|Meteor
+his|3|In 1944, a German V-2 rocket became the first human-made object to reach where?|Space|The Moon;The North Pole;America|Outer space
+his|3|Which Soviet tank was built in huge numbers and is often called the best of World War II?|T-34|Tiger;Sherman;Panther
+his|3|The American M4 Sherman tank was named after a general from which war?|The American Civil War|World War I;The War of 1812;The Mexican–American War|Civil War;American Civil War
+his|4|What was the name of the plywood landing craft that carried troops ashore on D-Day?|Higgins boat|Mulberry boat;Duck boat;Liberty boat|Higgins boats;LCVP
+his|3|Which American four-wheel-drive vehicle became the symbol of the Allied army?|The Jeep|The Land Rover;The Humvee;The Kübelwagen|Jeep;Willys Jeep
+his|3|Which tape was developed in World War II to seal ammunition boxes against water?|Duct tape|Masking tape;Scotch tape;Electrical tape|Duck tape
+his|3|Which kitchen appliance was invented after a radar engineer found his chocolate bar had melted?|The microwave oven|The toaster;The electric kettle;The dishwasher|Microwave;Microwave oven
+his|4|Which life-saving drug was mass-produced for the first time during World War II?|Penicillin|Aspirin;Insulin;Morphine
