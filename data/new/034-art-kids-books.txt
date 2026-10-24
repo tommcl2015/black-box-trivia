@@ -1,0 +1,58 @@
+# Kids' books
+art|1|In "Charlie and the Chocolate Factory", what does Charlie find in his chocolate bar?|A Golden Ticket|A silver coin;A secret map;A gold key|Golden Ticket;Golden ticket
+art|1|What are Willy Wonka's little factory workers called?|Oompa-Loompas|Munchkins;Minions;Snorks|Oompa Loompas
+art|2|In Roald Dahl's "Matilda", who is the cruel headmistress?|Miss Trunchbull|Miss Honey;Mrs. Wormwood;Aunt Spiker|Trunchbull;The Trunchbull
+art|2|In "Matilda", what is the name of Matilda's kind teacher?|Miss Honey|Miss Trunchbull;Miss Spider;Mrs. Twit|Honey
+art|2|What special power does Matilda discover she has?|Moving things with her eyes|Flying;Becoming invisible;Talking to animals|Telekinesis;Moving things with her mind
+art|1|In Roald Dahl's book, what does "BFG" stand for?|Big Friendly Giant|Big Funny Goblin;Best Friend Giant;Big Fearless Guard
+art|2|In "James and the Giant Peach", how does James travel across the ocean?|Inside a giant peach|On a whale;In a hot-air balloon;On a magic carpet|In a giant peach;A giant peach
+art|1|Which author wrote "The Cat in the Hat"?|Dr. Seuss|Roald Dahl;Maurice Sendak;Eric Carle|Dr Seuss;Theodor Geisel
+art|1|In a Dr. Seuss book, what does Sam-I-Am keep asking someone to eat?|Green eggs and ham|Red fish and chips;Blue jam and toast;Purple peas and pie|Green Eggs and Ham
+art|1|Which grumpy green Dr. Seuss character stole Christmas?|The Grinch|The Lorax;The Cat in the Hat;Horton|Grinch
+art|1|What is Winnie-the-Pooh's favourite food?|Honey|Jam;Berries;Cake|Hunny
+art|1|Which of Winnie-the-Pooh's friends is a gloomy grey donkey?|Eeyore|Tigger;Piglet;Kanga
+art|1|Which of Winnie-the-Pooh's friends loves to bounce?|Tigger|Eeyore;Roo;Rabbit
+art|2|Who wrote the "Winnie-the-Pooh" books?|A. A. Milne|Beatrix Potter;Kenneth Grahame;Lewis Carroll|A.A. Milne;Milne
+art|1|What does the Very Hungry Caterpillar turn into?|A butterfly|A moth;A dragonfly;A bee|Butterfly
+art|2|Who wrote and illustrated "The Very Hungry Caterpillar"?|Eric Carle|Dr. Seuss;Mo Willems;Maurice Sendak|Carle
+art|2|In "Where the Wild Things Are", what is the name of the boy who sails to the Wild Things?|Max|Sam;Jack;Charlie
+art|2|From which country does Paddington Bear come?|Peru|Brazil;Mexico;Canada|Darkest Peru
+art|1|What is Paddington Bear's favourite sandwich filling?|Marmalade|Peanut butter;Honey;Cheese|Marmalade sandwiches
+art|2|Who wrote "The Tale of Peter Rabbit"?|Beatrix Potter|A. A. Milne;Roald Dahl;Enid Blyton|Potter
+art|2|In "The Tale of Peter Rabbit", whose garden does Peter sneak into?|Mr. McGregor's|Farmer Brown's;Mr. Tod's;Old Brown's|Mr McGregor;McGregor
+art|1|In "The Gruffalo", which small animal outsmarts the Gruffalo?|A mouse|A snail;A fox;A squirrel|Mouse
+art|3|Who wrote "The Gruffalo"?|Julia Donaldson|Jacqueline Wilson;Cressida Cowell;Judith Kerr|Donaldson
+art|1|In "Charlotte's Web", what kind of animal is Charlotte?|A spider|A pig;A goose;A rat|Spider
+art|2|In "Charlotte's Web", what is the name of the pig Charlotte saves?|Wilbur|Babe;Templeton;Napoleon
+art|1|In "The Lion, the Witch and the Wardrobe", how do the children first get into Narnia?|Through a wardrobe|Through a mirror;Down a rabbit hole;Through a painting|A wardrobe;Wardrobe
+art|2|What is the name of the great lion in the Narnia books?|Aslan|Simba;Mufasa;Leo
+art|3|Thanks to the White Witch, Narnia is always winter but never what?|Christmas|Spring;Summer;Snowing
+art|4|What is the surname of the four children in "The Lion, the Witch and the Wardrobe"?|Pevensie|Darling;Baudelaire;Weasley
+art|1|In "Alice's Adventures in Wonderland", which animal does Alice follow down a hole?|A white rabbit|A black cat;A grey mouse;A brown hare|The White Rabbit;White Rabbit
+art|1|Which "Alice in Wonderland" character shouts "Off with their heads!"?|The Queen of Hearts|The Mad Hatter;The Cheshire Cat;The Duchess|Queen of Hearts
+art|1|What is the name of Peter Pan's fairy friend?|Tinker Bell|Silvermist;Fawn;Periwinkle|Tinkerbell
+art|1|Where does Peter Pan live?|Neverland|Wonderland;Narnia;Oz|Never Land;Never Never Land
+art|2|In "Peter Pan", what did the crocodile that chases Captain Hook swallow?|A clock|A key;A bell;A sword|An alarm clock;Clock
+art|1|What is the name of Dorothy's dog in "The Wizard of Oz"?|Toto|Rex;Spot;Benji
+art|4|In the original "Wonderful Wizard of Oz" book, what colour are Dorothy's magic shoes?|Silver|Ruby red;Gold;Emerald green
+art|2|Who is the main character of "Diary of a Wimpy Kid"?|Greg Heffley|Rowley Jefferson;Rodrick Heffley;Fregley|Greg
+art|3|Who wrote the "Captain Underpants" and "Dog Man" books?|Dav Pilkey|Jeff Kinney;Mo Willems;Tom Gates|Pilkey
+art|1|What happens to Pinocchio's nose when he tells a lie?|It grows longer|It turns red;It falls off;It sneezes|It grows
+art|1|Curious George the monkey lives with "the man in the" what?|Yellow hat|Red coat;Blue boat;Green car|The yellow hat
+art|1|What kind of animal is Clifford, the Big Red ___?|Dog|Cat;Horse;Bear
+art|2|In which city does Madeline live "in an old house covered with vines"?|Paris|London;Rome;Vienna
+art|1|What kind of animal is Stuart Little?|A mouse|A rat;A hamster;A squirrel|Mouse
+art|2|In "The Jungle Book", what is the name of the boy raised by wolves?|Mowgli|Tarzan;Baloo;Kaa
+art|2|In "The Jungle Book", which tiger is Mowgli's enemy?|Shere Khan|Bagheera;Rajah;Tigger
+art|2|In "The Jungle Book", what kind of animal is Baloo?|A bear|A panther;A snake;An elephant|Bear
+art|1|What kind of animal is Black Beauty?|A horse|A dog;A cat;A bear|Horse
+art|2|What is the name of Tintin's little white dog?|Snowy|Rex;Snoopy;Scamp|Milou
+art|3|Which number is painted on Thomas the Tank Engine?|1|2;5;7|One;Number 1
+art|3|Who wrote the "Goosebumps" books?|R. L. Stine|Roald Dahl;Lemony Snicket;Neil Gaiman|R.L. Stine;Stine
+art|3|In "Percy Jackson and the Olympians", which Greek god is Percy's father?|Poseidon|Zeus;Hades;Apollo
+art|2|Which tiny pink pig is Winnie-the-Pooh's best friend?|Piglet|Roo;Eeyore;Owl
+art|2|Who wrote "Fantastic Mr Fox" and "The Twits"?|Roald Dahl|David Walliams;Dr. Seuss;Beatrix Potter|Dahl
+art|2|What does the Lorax speak for?|The trees|The fish;The birds;The children|Trees
+art|2|In "Horton Hears a Who!", what kind of animal is Horton?|An elephant|A hippo;A whale;A bear|Elephant
+art|3|In "The Hobbit", what is the name of the dragon guarding the treasure?|Smaug|Glaurung;Toothless;Norbert
+art|3|In "How to Train Your Dragon", what is the name of Hiccup's dragon?|Toothless|Smaug;Spyro;Norbert

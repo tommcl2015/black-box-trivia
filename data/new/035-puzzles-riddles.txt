@@ -1,0 +1,65 @@
+# Easy-ish maths puzzles (sci) and riddles (spo)
+sci|3|"As I was going to St Ives, I met a man with seven wives..." In the old rhyme, how many were going to St Ives?|1|2,401;2,800;7|One;Just one;Just me
+sci|3|A bat and a ball cost $1.10 together. The bat costs $1.00 more than the ball. How much is the ball?|5 cents|10 cents;1 cent;15 cents|$0.05;5c;0.05;Five cents
+sci|3|If 5 machines make 5 widgets in 5 minutes, how long do 100 machines take to make 100 widgets?|5 minutes|100 minutes;20 minutes;1 minute|5;Five minutes
+sci|3|A patch of lily pads doubles in size every day and covers the whole pond in 48 days. On which day does it cover half the pond?|Day 47|Day 24;Day 12;Day 46|47
+sci|2|How many months of the year have 28 days?|All 12|1;2;6|12;All of them;Twelve
+sci|2|A farmer has 17 sheep. All but 9 run away. How many are left?|9|8;17;0|Nine
+sci|2|How many times can you subtract 5 from 25?|Once|5 times;4 times;6 times|1;One;One time
+sci|1|Which is heavier: a kilogram of feathers or a kilogram of bricks?|They weigh the same|The bricks;The feathers;It depends on the weather|Same;Neither;Both the same
+sci|2|In a race, you overtake the person in second place. What place are you in now?|Second|First;Third;Last|2nd;Second place
+sci|3|What do you get if you divide 30 by a half and add 10?|70|25;40;15|Seventy
+sci|3|You have 3 apples and you take away 2. How many apples do you have?|2|1;3;0|Two
+sci|2|A doctor gives you 3 pills and tells you to take one every half hour. How long until they're all gone?|1 hour|1.5 hours;2 hours;30 minutes|An hour;One hour;60 minutes
+sci|4|A snail climbs 3 m up a 10 m wall each day and slips back 2 m each night. On which day does it reach the top?|Day 8|Day 10;Day 7;Day 5|8;Eighth;8th day
+sci|3|Two fathers and two sons go fishing. Each catches one fish, and they bring home exactly 3 fish. How many people went fishing?|3|4;2;5|Three
+sci|4|How many times does the digit 9 appear when you write the numbers from 1 to 100?|20|10;11;19|Twenty
+sci|1|What is the next number: 2, 4, 8, 16, ...?|32|24;20;64|Thirty-two
+sci|2|What is the next number: 1, 1, 2, 3, 5, 8, ...?|13|11;12;16|Thirteen
+sci|2|What is the next number: 1, 4, 9, 16, 25, ...?|36|30;35;49|Thirty-six
+sci|2|What is the next number: 3, 6, 9, 12, ...?|15|14;16;18|Fifteen
+sci|3|What is the next letter: O, T, T, F, F, S, S, E, ...?|N|T;E;O
+sci|3|If you multiply all the numbers on a phone keypad together, what do you get?|0|362,880;3,628,800;45|Zero
+sci|4|What do you get if you add up all the numbers from 1 to 100?|5,050|5,000;10,000;4,950|5050
+sci|1|How many squares are on a chessboard's 8-by-8 grid?|64|32;81;100|Sixty-four
+sci|2|How many days are there in a leap year?|366|365;364;367
+sci|2|How many seconds are there in an hour?|3,600|360;600;6,000|3600
+sci|3|A clock takes 5 seconds to strike 6. How long does it take to strike 12?|11 seconds|10 seconds;12 seconds;24 seconds|11
+sci|2|I am an odd number. Take away one letter and I become even. What number am I?|Seven|Three;Five;Nine|7
+sci|2|What is the smallest prime number?|2|1;3;0|Two
+sci|2|If a dozen eggs cost $3, how much does one egg cost?|25 cents|30 cents;20 cents;3 cents|$0.25;25c;0.25
+sci|2|How many legs do 3 dogs and 2 chickens have altogether?|16|14;18;20|Sixteen
+sci|1|If there are 6 apples and you eat half, how many are left?|3|2;4;6|Three
+sci|3|A brick weighs 1 kg plus half a brick. How much does a whole brick weigh?|2 kg|1.5 kg;1 kg;3 kg|2;Two kilograms;2kg
+sci|3|A train leaves at 9:45 a.m. and the trip takes 2 hours 30 minutes. When does it arrive?|12:15 p.m.|11:45 a.m.;12:45 p.m.;11:15 a.m.|12:15;12:15pm
+sci|2|How many corners does a cube have?|8|6;12;4|Eight
+sci|2|How many edges does a cube have?|12|8;6;24|Twelve
+spo|1|What has keys but can't open locks?|A piano|A map;A janitor;A computer mouse|Piano
+spo|1|What has hands but can't clap?|A clock|A statue;A tree;A robot|Clock
+spo|1|What gets wetter the more it dries?|A towel|A sponge;A cloud;Rain|Towel
+spo|1|What has a neck but no head?|A bottle|A shirt;A guitar;A giraffe|Bottle
+spo|2|The more you take, the more you leave behind. What are they?|Footsteps|Photos;Breaths;Cookies|Footprints;Steps
+spo|1|What can you catch but not throw?|A cold|A ball;A fish;A bus|Cold
+spo|1|What has to be broken before you can use it?|An egg|A promise;A window;A record|Egg
+spo|1|What goes up but never comes down?|Your age|A balloon;Smoke;A rocket|Age
+spo|2|What walks on four legs in the morning, two at noon and three in the evening?|A human|A cat;A spider;A horse|Man;A person;Human
+spo|4|"Brothers and sisters I have none, but that man's father is my father's son." Who is "that man"?|My son|Me;My father;My brother|The speaker's son;Son
+spo|2|Mary's father has five daughters: Nana, Nene, Nini, Nono... What is the fifth daughter's name?|Mary|Nunu;Nina;Nancy
+spo|2|What comes once in a minute, twice in a moment, but never in a thousand years?|The letter M|The letter E;A second;A heartbeat|M;Letter M
+spo|2|A rooster lays an egg on the peak of a barn roof. Which way does it roll?|Roosters don't lay eggs|Left;Right;Straight down|It doesn't;Roosters can't lay eggs
+spo|3|An electric train heads north and the wind blows west. Which way does the smoke go?|There is no smoke|North;West;East|No smoke;None;Electric trains don't make smoke
+spo|3|A plane crashes right on the border between two countries. Where do they bury the survivors?|You don't bury survivors|In the first country;In the second country;At the border|Nowhere;You don't
+spo|2|How far can a dog run into the woods?|Halfway|All the way;One mile;As far as it likes|Half way
+spo|3|How many animals of each kind did Moses take on the ark?|None|Two;One;Seven|Zero;0;None, it was Noah
+spo|1|What has one eye but can't see?|A needle|A potato;A storm;A cyclops|Needle
+spo|1|What has legs but can't walk?|A table|A spider;A snake;A worm|Table;A chair
+spo|2|What can travel around the world while staying in a corner?|A stamp|A spider;A shadow;A globe|Stamp
+spo|2|What is full of holes but still holds water?|A sponge|A net;A sieve;A bucket|Sponge
+spo|2|What belongs to you, but other people use it more than you do?|Your name|Your phone;Your car;Your house|Name
+spo|1|What has many teeth but can't bite?|A comb|A shark;A saw;A zipper|Comb
+spo|2|What runs but never walks, and has a bed but never sleeps?|A river|A clock;A horse;A road|River
+spo|2|I'm tall when I'm young and short when I'm old. What am I?|A candle|A tree;A pencil;A snowman|Candle
+spo|2|What word is spelled wrong in every dictionary?|Wrong|Dictionary;Misspelled;Incorrect
+spo|3|What five-letter word becomes shorter when you add two letters to it?|Short|Small;Brief;Tiny
+spo|2|Forward I am heavy, but backward I am not. What am I?|Ton|Rock;Lead;Pound
+spo|3|What has a head and a tail but no body?|A coin|A snake;A comet;A tadpole|Coin

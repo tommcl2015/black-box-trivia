@@ -1,0 +1,118 @@
+# Music by decade: 1960s to 2010s
+# --- 1960s ---
+ent|2|Which 1969 music festival drew around 400,000 people to a farm in New York State?|Woodstock|Monterey Pop;Isle of Wight;Altamont
+ent|2|Who had a 1967 hit with "Respect", spelling it out letter by letter?|Aretha Franklin|Diana Ross;Tina Turner;Dusty Springfield|Aretha
+ent|2|Which 1960s Motown group was fronted by Diana Ross?|The Supremes|The Ronettes;The Shirelles;Martha and the Vandellas|Supremes
+ent|2|Which band had a 1965 hit with "(I Can't Get No) Satisfaction"?|The Rolling Stones|The Who;The Kinks;The Beatles|Rolling Stones;The Stones
+ent|3|Which guitarist closed Woodstock in 1969 with "The Star-Spangled Banner"?|Jimi Hendrix|Eric Clapton;Jimmy Page;Carlos Santana|Hendrix
+ent|4|Which 1966 Beach Boys album features "God Only Knows" and "Wouldn't It Be Nice"?|Pet Sounds|Surfin' Safari;Smiley Smile;Good Vibrations
+ent|3|Who wrote and sang the 1965 hit "Like a Rolling Stone"?|Bob Dylan|Bruce Springsteen;Neil Young;Paul Simon|Dylan
+ent|3|Which soul singer's "(Sittin' On) The Dock of the Bay" became a hit after his death in 1967?|Otis Redding|Sam Cooke;Marvin Gaye;Wilson Pickett|Redding
+ent|2|Which Motown group sang "My Girl" in 1964?|The Temptations|The Four Tops;The Supremes;The Jackson 5|Temptations
+ent|3|Which British band sang "My Generation" and famously smashed their guitars?|The Who|The Kinks;The Animals;The Yardbirds|Who
+ent|2|Which folk duo sang "Mrs. Robinson" and "The Sound of Silence"?|Simon & Garfunkel|Sonny & Cher;The Everly Brothers;Peter, Paul and Mary|Simon and Garfunkel
+ent|3|Who was the lead singer of The Doors?|Jim Morrison|Mick Jagger;Roger Daltrey;Eric Burdon|Morrison
+ent|3|In which year did The Beatles release "Hey Jude"?|1968|1963;1965;1970
+ent|3|Who sang "I Heard It Through the Grapevine" in 1968?|Marvin Gaye|Smokey Robinson;Stevie Wonder;Al Green|Gaye
+ent|3|Which 1960s group sang "California Dreamin'"?|The Mamas & the Papas|The Beach Boys;The Byrds;The Monkees|The Mamas and the Papas;Mamas and Papas
+ent|3|Who sang "Oh, Pretty Woman" in 1964?|Roy Orbison|Elvis Presley;Buddy Holly;Del Shannon|Orbison
+ent|4|Which girl group sang "Be My Baby" in 1963?|The Ronettes|The Supremes;The Shangri-Las;The Crystals|Ronettes
+ent|3|In which year did The Beatles release "Sgt. Pepper's Lonely Hearts Club Band"?|1967|1963;1965;1969
+# --- 1970s ---
+ent|2|Which Swedish group won Eurovision in 1974 with "Waterloo"?|ABBA|Roxette;Ace of Base;The Cardigans
+ent|2|Which band released "Bohemian Rhapsody" in 1975?|Queen|Led Zeppelin;Pink Floyd;The Who
+ent|3|Which 1973 Pink Floyd album has a prism splitting light on its cover?|The Dark Side of the Moon|The Wall;Wish You Were Here;Animals|Dark Side of the Moon
+ent|2|The Bee Gees' biggest hits came from the soundtrack of which 1977 film?|Saturday Night Fever|Grease;Footloose;Fame
+ent|2|Who sang the 1978 disco anthem "I Will Survive"?|Gloria Gaynor|Donna Summer;Diana Ross;Chaka Khan|Gaynor
+ent|3|Which 1977 Fleetwood Mac album includes "Dreams" and "Go Your Own Way"?|Rumours|Tusk;Tango in the Night;Mirage
+ent|2|Which band sang "Hotel California" in 1976?|Eagles|The Doobie Brothers;Fleetwood Mac;Lynyrd Skynyrd|The Eagles
+ent|3|Johnny Rotten was the singer of which punk band?|Sex Pistols|The Clash;The Ramones;The Damned|The Sex Pistols
+ent|2|Which band recorded "Stairway to Heaven" in 1971?|Led Zeppelin|Deep Purple;Black Sabbath;The Who
+ent|3|What was the name of David Bowie's red-haired alter ego in 1972?|Ziggy Stardust|Major Tom;Aladdin Sane;The Thin White Duke|Ziggy
+ent|3|Who released the album "Born to Run" in 1975?|Bruce Springsteen|Billy Joel;Bob Seger;Tom Petty|Springsteen
+ent|1|Which disco group sang "Y.M.C.A."?|Village People|Boney M.;Chic;KC and the Sunshine Band
+ent|2|Which singer recorded "Your Song" and "Rocket Man"?|Elton John|Rod Stewart;Billy Joel;David Bowie
+ent|4|Who released the 1976 double album "Songs in the Key of Life"?|Stevie Wonder|Marvin Gaye;Al Green;Curtis Mayfield
+ent|3|Which group's 1979 "Rapper's Delight" was one of the first hip-hop hits?|The Sugarhill Gang|Run-DMC;Grandmaster Flash;Public Enemy|Sugarhill Gang
+ent|2|Which reggae star sang "No Woman, No Cry"?|Bob Marley|Jimmy Cliff;Peter Tosh;Desmond Dekker|Marley
+ent|3|Which Australian band released "Highway to Hell" in 1979?|AC/DC|INXS;Men at Work;Midnight Oil|ACDC
+ent|2|Which former Beatle released "Imagine" in 1971?|John Lennon|Paul McCartney;George Harrison;Ringo Starr|Lennon
+ent|1|Which brothers sang "Stayin' Alive"?|The Bee Gees|The Jacksons;The Osmonds;The Everly Brothers|Bee Gees
+ent|3|Which band, fronted by Debbie Harry, had a hit with "Heart of Glass"?|Blondie|The Pretenders;The Go-Go's;Heart
+# --- 1980s ---
+ent|1|Which 1982 Michael Jackson album is the best-selling album of all time?|Thriller|Bad;Off the Wall;Dangerous
+ent|2|Who released "Like a Virgin" in 1984?|Madonna|Cyndi Lauper;Whitney Houston;Janet Jackson
+ent|3|Which 1984 charity single did Band Aid record?|Do They Know It's Christmas?|We Are the World;Feed the World;Last Christmas|Do They Know It's Christmas
+ent|2|Which 1985 charity concert was held in London and Philadelphia on the same day?|Live Aid|Band Aid;Farm Aid;Live 8
+ent|3|Which 1984 album and film starred Prince?|Purple Rain|1999;Sign o' the Times;Under the Cherry Moon
+ent|2|Which Norwegian band sang "Take On Me"?|a-ha|Europe;Roxette;Duran Duran|aha
+ent|3|Which band released "The Joshua Tree" in 1987?|U2|Simple Minds;The Police;R.E.M.
+ent|2|Which band sang "Livin' on a Prayer" in 1986?|Bon Jovi|Def Leppard;Van Halen;Journey
+ent|2|Who sang "I Wanna Dance with Somebody" in 1987?|Whitney Houston|Madonna;Janet Jackson;Paula Abdul|Whitney
+ent|3|George Michael and Andrew Ridgeley made up which 1980s duo?|Wham!|Tears for Fears;Pet Shop Boys;Soft Cell|Wham
+ent|4|What was Guns N' Roses' 1987 debut album?|Appetite for Destruction|Use Your Illusion;G N' R Lies;Chinese Democracy
+ent|4|What was the first music video played on MTV in 1981?|Video Killed the Radio Star|Thriller;Take On Me;Money for Nothing
+ent|2|Who sang "Girls Just Want to Have Fun"?|Cyndi Lauper|Madonna;Pat Benatar;Debbie Gibson|Lauper
+ent|3|Which 1984 Bruce Springsteen album has an American flag on its cover?|Born in the U.S.A.|Nebraska;The River;Tunnel of Love|Born in the USA
+ent|2|Which band sang "Sweet Child o' Mine"?|Guns N' Roses|Bon Jovi;Mötley Crüe;Aerosmith|Guns and Roses
+ent|4|Which band's "Don't You (Forget About Me)" featured in "The Breakfast Club"?|Simple Minds|Tears for Fears;The Cure;Duran Duran
+ent|2|Which 1987 Rick Astley song became the internet "Rickroll" prank?|Never Gonna Give You Up|Together Forever;Whenever You Need Somebody;Take On Me
+ent|3|Which rap group teamed up with Aerosmith on "Walk This Way" in 1986?|Run-DMC|Beastie Boys;Public Enemy;N.W.A|Run DMC
+ent|2|Which band sang "Every Breath You Take" in 1983?|The Police|U2;Duran Duran;The Cure|Police
+ent|3|Which Queen frontman stole the show at Live Aid in 1985?|Freddie Mercury|Mick Jagger;David Bowie;Elton John|Freddie
+# --- 1990s ---
+ent|2|Which 1991 Nirvana album shows a baby swimming after a dollar bill?|Nevermind|In Utero;Bleach;Ten
+ent|2|Who was the lead singer of Nirvana?|Kurt Cobain|Eddie Vedder;Chris Cornell;Dave Grohl|Cobain
+ent|1|What was the Spice Girls' first single, in 1996?|Wannabe|Spice Up Your Life;Say You'll Be There;2 Become 1
+ent|1|How many Spice Girls were there?|Five|Four;Three;Six|5
+ent|2|What was Britney Spears's 1998 debut single?|...Baby One More Time|Oops!... I Did It Again;Toxic;Lucky|Baby One More Time
+ent|1|Which Céline Dion song was the theme of "Titanic"?|My Heart Will Go On|Because You Loved Me;The Power of Love;All by Myself
+ent|2|Justin Timberlake rose to fame in which 1990s boy band?|NSYNC|Backstreet Boys;98 Degrees;Boyz II Men|N Sync;*NSYNC
+ent|2|Liam and Noel Gallagher led which band?|Oasis|Blur;Pulp;The Verve
+ent|3|Whitney Houston's "I Will Always Love You" came from which 1992 film?|The Bodyguard|Waiting to Exhale;The Preacher's Wife;Sister Act|Bodyguard
+ent|3|Which rapper and producer released "The Chronic" in 1992?|Dr. Dre|Snoop Dogg;Ice Cube;Eazy-E|Dr Dre
+ent|2|Which Spanish duo had a 1990s dance hit with "Macarena"?|Los del Río|Gipsy Kings;Las Ketchup;Enrique & Julio|Los del Rio
+ent|2|Which band sang "Wonderwall"?|Oasis|Blur;Radiohead;The Verve
+ent|2|Which band sang "Losing My Religion" in 1991?|R.E.M.|U2;The Cure;Counting Crows|REM
+ent|4|Which band released "OK Computer" in 1997?|Radiohead|Blur;Muse;Coldplay
+ent|3|In which year did Mariah Carey release "All I Want for Christmas Is You"?|1994|1989;1999;2004
+ent|2|Who sang "Livin' la Vida Loca" in 1999?|Ricky Martin|Enrique Iglesias;Marc Anthony;Shakira|Martin
+ent|3|Which rapper was also known as Biggie Smalls?|The Notorious B.I.G.|Tupac Shakur;Nas;Jay-Z|Notorious BIG;Biggie;Notorious B.I.G.
+ent|3|Which girl group sang "Waterfalls" in 1995?|TLC|Destiny's Child;En Vogue;Salt-N-Pepa
+ent|3|Which grunge band, fronted by Eddie Vedder, released "Ten" in 1991?|Pearl Jam|Soundgarden;Alice in Chains;Nirvana
+# --- 2000s ---
+ent|2|Beyoncé first found fame in which girl group?|Destiny's Child|TLC;Spice Girls;The Pussycat Dolls|Destinys Child
+ent|2|Eminem's song "Lose Yourself" came from which 2002 film?|8 Mile|Hustle & Flow;Get Rich or Die Tryin';Notorious|Eight Mile
+ent|3|Which Amy Winehouse album includes "Rehab"?|Back to Black|Frank;Lioness;19
+ent|3|What was Lady Gaga's 2008 debut album?|The Fame|Born This Way;Artpop;Chromatica
+ent|2|Which TV talent show made Kelly Clarkson a star in 2002?|American Idol|The Voice;The X Factor;Star Search
+ent|2|Which duo sang "Hey Ya!" in 2003?|OutKast|The Black Eyed Peas;Gnarls Barkley;Daft Punk|Outkast
+ent|3|Which singer's voice is heard on Gnarls Barkley's 2006 hit "Crazy"?|CeeLo Green|Pharrell Williams;Akon;Usher|Cee Lo Green;CeeLo
+ent|2|Which group sang "I Gotta Feeling" in 2009?|The Black Eyed Peas|Maroon 5;OneRepublic;LMFAO|Black Eyed Peas
+ent|2|Which band sang "Mr. Brightside"?|The Killers|The Strokes;Kings of Leon;Franz Ferdinand|Killers
+ent|2|Which rapper features on Rihanna's 2007 hit "Umbrella"?|Jay-Z|Kanye West;Drake;Lil Wayne|Jay Z
+ent|3|What was Kanye West's 2004 debut album?|The College Dropout|Late Registration;Graduation;808s & Heartbreak|College Dropout
+ent|2|Which band released "In the End" in 2001?|Linkin Park|Evanescence;Nickelback;Green Day
+ent|2|Which duo released "Seven Nation Army" in 2003?|The White Stripes|The Black Keys;The Strokes;The Kills|White Stripes
+ent|3|Which file-sharing service was shut down after music industry lawsuits in 2001?|Napster|LimeWire;Kazaa;BitTorrent
+ent|2|In which year did Apple launch the iPod?|2001|1998;2004;2007
+ent|3|Which Coldplay album includes "Viva la Vida"?|Viva la Vida or Death and All His Friends|A Rush of Blood to the Head;Parachutes;X&Y|Viva la Vida
+ent|2|Which Britney Spears hit won her first Grammy in 2005?|Toxic|Oops!... I Did It Again;Womanizer;Circus
+# --- 2010s ---
+ent|2|Which 2012 song by Psy was the first YouTube video to reach a billion views?|Gangnam Style|Gentleman;Despacito;Baby|Gangnam
+ent|2|Adele's albums "19", "21" and "25" are named after what?|Her age when she made them|Track counts;Her house numbers;Chart positions|Her age
+ent|2|Who released "Shape of You" in 2017?|Ed Sheeran|Sam Smith;Shawn Mendes;Justin Bieber|Sheeran
+ent|2|Luis Fonsi sang "Despacito" with which reggaeton star?|Daddy Yankee|J Balvin;Bad Bunny;Pitbull
+ent|2|Pharrell Williams's song "Happy" was written for which animated film?|Despicable Me 2|Minions;Frozen;The Lego Movie
+ent|2|Which singer joined Mark Ronson on "Uptown Funk"?|Bruno Mars|Pharrell Williams;Justin Timberlake;The Weeknd|Mars
+ent|1|K-pop band BTS comes from which country?|South Korea|Japan;China;Thailand|Korea
+ent|4|Lil Nas X's "Old Town Road" set a record of how many weeks at No. 1 in the US in 2019?|19|12;16;24
+ent|3|Which Belgian-Australian singer had a 2011 hit with "Somebody That I Used to Know"?|Gotye|Sia;Lorde;Kimbra
+ent|2|Which 2014 Taylor Swift album is named after the year she was born?|1989|1999;Red;Reputation
+ent|2|Which teenager released "Bad Guy" in 2019?|Billie Eilish|Olivia Rodrigo;Lorde;Halsey|Billie
+ent|3|Which TV talent show put One Direction together in 2010?|The X Factor|Britain's Got Talent;The Voice;Pop Idol|X Factor
+ent|4|Which rapper won the 2018 Pulitzer Prize for Music for "DAMN."?|Kendrick Lamar|Drake;J. Cole;Kanye West|Kendrick
+ent|3|Which French duo released "Get Lucky" in 2013?|Daft Punk|Justice;Air;Phoenix
+ent|2|Lady Gaga and Bradley Cooper sang "Shallow" in which 2018 film?|A Star Is Born|Bohemian Rhapsody;La La Land;The Greatest Showman
+ent|3|Which singer-songwriter won the 2016 Nobel Prize in Literature?|Bob Dylan|Leonard Cohen;Paul Simon;Bruce Springsteen|Dylan
+ent|3|Which 2016 Beyoncé album was released with a film?|Lemonade|Renaissance;4;Dangerously in Love

@@ -1,0 +1,89 @@
+# World War I and World War II
+# --- World War I ---
+his|1|In which year did World War I begin?|1914|1912;1916;1918
+his|1|In which year did World War I end?|1918|1916;1919;1921
+his|2|What was World War I commonly called at the time?|The Great War|The War of Nations;The Long War;The Iron War|Great War
+his|2|Whose assassination in 1914 set off World War I?|Archduke Franz Ferdinand|Kaiser Wilhelm II;Tsar Nicholas II;King Edward VII|Franz Ferdinand
+his|3|In which city was Archduke Franz Ferdinand assassinated?|Sarajevo|Vienna;Belgrade;Budapest
+his|4|Who shot Archduke Franz Ferdinand?|Gavrilo Princip|Leon Trotsky;Mata Hari;Grigori Rasputin|Princip
+his|3|Which country did Austria-Hungary declare war on first, in July 1914?|Serbia|Russia;France;Belgium
+his|3|Germany's Schlieffen Plan attacked France by marching through which neutral country?|Belgium|Switzerland;Netherlands;Luxembourg
+his|3|Which of these countries was one of the Central Powers alongside Germany?|Ottoman Empire|Italy;Russia;Japan|The Ottoman Empire;Turkey
+his|2|What name was given to the land between the opposing trenches?|No man's land|The dead zone;The front porch;The gap|No mans land
+his|2|In which year did the Christmas Truce see soldiers play football between the trenches?|1914|1915;1916;1917
+his|3|The sinking of which British liner by a German U-boat in 1915 angered the United States?|Lusitania|Titanic;Britannic;Mauretania|RMS Lusitania;The Lusitania
+his|2|In which year did the United States enter World War I?|1917|1914;1915;1918
+his|4|Which intercepted German message offered Mexico an alliance against the US?|The Zimmermann Telegram|The Ems Dispatch;The Balfour Declaration;The Kaiser Cable|Zimmermann Telegram
+his|2|Who was US President during World War I?|Woodrow Wilson|Theodore Roosevelt;William Taft;Warren Harding|Wilson
+his|2|Who was the German Kaiser during World War I?|Wilhelm II|Frederick III;Otto von Bismarck;Ludwig II|Kaiser Wilhelm II;Wilhelm
+his|4|Who was British Prime Minister when World War I ended?|David Lloyd George|H. H. Asquith;Winston Churchill;Stanley Baldwin|Lloyd George
+his|3|Which 1916 battle saw about 57,000 British casualties on its first day?|The Battle of the Somme|The Battle of Verdun;The Battle of Ypres;The Battle of Mons|Somme;Battle of the Somme
+his|4|In which battle were tanks first used in war, in 1916?|The Battle of the Somme|The Battle of Verdun;The Battle of Cambrai;The Battle of Amiens|Somme;Battle of the Somme
+his|3|Which 1916 battle between France and Germany lasted about 10 months?|Verdun|The Marne;Passchendaele;Tannenberg|Battle of Verdun
+his|3|Which 1917 battle near Ypres became famous for its deep mud?|Passchendaele|The Somme;Gallipoli;Arras|Battle of Passchendaele;Third Ypres
+his|3|Which Turkish peninsula saw a failed Allied landing in 1915?|Gallipoli|Crimea;Sinai;Peloponnese
+his|3|At Gallipoli, what did the letters ANZAC stand for?|Australian and New Zealand Army Corps|Allied Navy Zone Attack Corps;Australian National Zealand Army Command;Allied North Zone Army Corps
+his|4|Which poison gas did Germany first use on a large scale at Ypres in 1915?|Chlorine|Mustard gas;Phosgene;Sarin
+his|3|What was the real name of the German air ace known as the "Red Baron"?|Manfred von Richthofen|Hermann Göring;Max Immelmann;Ernst Udet|von Richthofen;Richthofen
+his|3|What kind of plane is the Red Baron most famous for flying?|A triplane|A jet;A seaplane;A glider|Triplane;Fokker triplane;Fokker Dr.I
+his|3|German Zeppelins that bombed Britain in World War I were what kind of aircraft?|Airships|Gliders;Seaplanes;Biplanes|Airship
+his|4|What nickname was given to Germany's giant siege guns in 1914?|Big Bertha|Fat Freddie;Long Tom;Mad Max
+his|3|Which poem made the red poppy a symbol of remembrance?|In Flanders Fields|Dulce et Decorum Est;The Soldier;For the Fallen
+his|3|At what time on 11 November 1918 did the Armistice take effect?|11 a.m.|9 a.m.;Noon;Midnight|11am;11 o'clock;Eleven o'clock
+his|4|The 1918 Armistice was signed in a railway carriage in which French forest?|Compiègne|Fontainebleau;Ardennes;Argonne|Compiegne
+his|4|Which country left World War I in 1918 after a revolution at home?|Russia|Italy;Romania;Greece
+his|2|Which treaty, signed in 1919, set the peace terms for Germany?|The Treaty of Versailles|The Treaty of Paris;The Treaty of Ghent;The Treaty of Vienna|Treaty of Versailles;Versailles
+his|3|Which international body was set up after World War I to keep the peace?|The League of Nations|The United Nations;NATO;The Council of Europe|League of Nations
+his|4|Which Dutch dancer was executed by France in 1917 as a German spy?|Mata Hari|Edith Cavell;Marie Curie;Josephine Baker
+his|5|Which British nurse was executed by the Germans in 1915 for helping Allied soldiers escape?|Edith Cavell|Florence Nightingale;Mary Seacole;Vera Brittain|Cavell
+his|4|"Lawrence of Arabia" helped lead a revolt against which empire?|The Ottoman Empire|The Persian Empire;The British Empire;The Russian Empire|Ottoman Empire;Ottomans
+his|3|What did doctors in World War I call the condition we now know as PTSD?|Shell shock|Trench fever;Battle flu;Gun deafness
+# --- World War II ---
+his|1|In which year did World War II begin?|1939|1937;1940;1941
+his|1|In which year did World War II end?|1945|1944;1946;1947
+his|2|Germany's invasion of which country started World War II?|Poland|Czechoslovakia;France;Austria
+his|2|In which year did Japan attack Pearl Harbor?|1941|1939;1942;1943
+his|4|Pearl Harbor is on which Hawaiian island?|Oahu|Maui;Kauai;Hawaii (Big Island)
+his|2|Who was the British Prime Minister for most of World War II?|Winston Churchill|Neville Chamberlain;Clement Attlee;Anthony Eden|Churchill
+his|3|Which British Prime Minister declared war on Germany in 1939?|Neville Chamberlain|Winston Churchill;Stanley Baldwin;Ramsay MacDonald|Chamberlain
+his|2|Who was US President when Pearl Harbor was attacked?|Franklin D. Roosevelt|Harry S. Truman;Herbert Hoover;Dwight D. Eisenhower|Roosevelt;FDR;Franklin Roosevelt
+his|3|Which US President took office in April 1945 after Roosevelt died?|Harry S. Truman|Dwight D. Eisenhower;Henry Wallace;John F. Kennedy|Truman;Harry Truman
+his|2|Who was the Italian dictator allied with Hitler?|Benito Mussolini|Francisco Franco;Antonio Salazar;Victor Emmanuel III|Mussolini
+his|2|Who led the Soviet Union during World War II?|Joseph Stalin|Vladimir Lenin;Leon Trotsky;Nikita Khrushchev|Stalin
+his|3|Who was Emperor of Japan during World War II?|Hirohito|Akihito;Meiji;Taisho
+his|2|Which country was one of the three main Axis powers?|Japan|China;Spain;Sweden
+his|3|Who led the Free French forces from London?|Charles de Gaulle|Philippe Pétain;Jean Moulin;Georges Clemenceau|De Gaulle
+his|2|What does the German word "Blitzkrieg" mean?|Lightning war|Total war;Iron storm;Fast march
+his|2|Which 1940 air battle saw the RAF fight off the German Luftwaffe?|The Battle of Britain|The Battle of the Atlantic;The Blitz;The Battle of France|Battle of Britain
+his|2|Along with the Hurricane, which fighter plane defended Britain in 1940?|The Supermarine Spitfire|The Mustang;The Lancaster;The Messerschmitt|Spitfire;Supermarine Spitfire
+his|2|From which French port were over 300,000 Allied troops rescued in 1940?|Dunkirk|Calais;Le Havre;Cherbourg
+his|2|Which city was most famously bombed in "the Blitz" of 1940–41?|London|Paris;Moscow;Warsaw
+his|3|What was the codename for Germany's 1941 invasion of the Soviet Union?|Operation Barbarossa|Operation Sea Lion;Operation Torch;Operation Market Garden|Barbarossa
+his|3|Which 1942–43 battle on the Volga was a turning point on the Eastern Front?|Stalingrad|Kursk;Leningrad;Moscow|Battle of Stalingrad
+his|3|Which 1942 sea battle was the turning point of the war in the Pacific?|Midway|Coral Sea;Leyte Gulf;Guadalcanal|Battle of Midway
+his|3|Which British general defeated Rommel at El Alamein in 1942?|Bernard Montgomery|Harold Alexander;Archibald Wavell;Douglas Haig|Montgomery;Monty
+his|3|What nickname was given to German general Erwin Rommel?|The Desert Fox|The Iron Fist;The Grey Wolf;The Red Baron|Desert Fox
+his|3|At which English country house did Alan Turing help break the Enigma code?|Bletchley Park|Chequers;Blenheim Palace;Highclere Castle
+his|2|On which date did the D-Day landings take place?|6 June 1944|1 May 1944;4 July 1944;11 November 1944|June 6, 1944;June 6 1944;6 June
+his|2|In which region of France did the D-Day landings take place?|Normandy|Brittany;Provence;Picardy
+his|3|What was the codename for the Allied invasion of Normandy?|Operation Overlord|Operation Torch;Operation Dynamo;Operation Husky|Overlord
+his|2|Which of these was a D-Day landing beach?|Omaha|Boston;Dakota;Houston|Omaha Beach
+his|3|Which American general was Supreme Allied Commander on D-Day?|Dwight D. Eisenhower|George Patton;Omar Bradley;Douglas MacArthur|Eisenhower;Ike
+his|3|Which American general promised the Philippines "I shall return"?|Douglas MacArthur|George Patton;Chester Nimitz;Omar Bradley|MacArthur
+his|4|In which forested region was the Battle of the Bulge fought?|The Ardennes|The Black Forest;Bavaria;Alsace|Ardennes
+his|2|In which city did Anne Frank and her family hide?|Amsterdam|Berlin;Brussels;Paris
+his|3|Which Pacific island is famous for the photo of US Marines raising the flag in 1945?|Iwo Jima|Okinawa;Guadalcanal;Saipan
+his|3|US Marines used which Native American language as an unbreakable code?|Navajo|Cherokee;Apache;Sioux|Navaho
+his|2|Which wartime poster heroine stood for women working in American factories?|Rosie the Riveter|Wendy the Welder;Molly Pitcher;Betty the Builder|Rosie
+his|2|What does "VE Day" stand for?|Victory in Europe Day|Veterans' Evening Day;Victory Ending Day;Valour in Europe Day|Victory in Europe
+his|2|Which Japanese city was hit by the first atomic bomb?|Hiroshima|Nagasaki;Tokyo;Osaka
+his|3|What was the name of the B-29 bomber that dropped the atomic bomb on Hiroshima?|Enola Gay|Bockscar;Memphis Belle;Spirit of St. Louis
+his|3|What was the codename of the atomic bomb dropped on Hiroshima?|Little Boy|Fat Man;Trinity;Thin Man
+his|3|Which scientist led the lab that built the first atomic bombs?|J. Robert Oppenheimer|Albert Einstein;Enrico Fermi;Niels Bohr|Oppenheimer
+his|4|On which US battleship did Japan formally surrender in 1945?|USS Missouri|USS Arizona;USS Enterprise;USS Iowa|Missouri
+his|4|What does the Japanese word "kamikaze" mean?|Divine wind|Falling star;Brave heart;Sudden storm
+his|4|In which Crimean resort did Churchill, Roosevelt and Stalin meet in February 1945?|Yalta|Sevastopol;Sochi;Odessa
+his|3|In which German city were leading Nazis put on trial after the war?|Nuremberg|Berlin;Munich;Hamburg|Nuremburg
+his|5|Which engineer invented the "bouncing bomb" used by the Dambusters?|Barnes Wallis|Frank Whittle;R. J. Mitchell;Guy Gibson|Wallis
+his|4|What name was given to the 1939 evacuation of British children from cities to the countryside?|Operation Pied Piper|Operation Dynamo;Operation Sea Lion;Operation Safe Harbour|Pied Piper
+his|2|Which international organization was founded in 1945 to keep world peace?|The United Nations|The League of Nations;NATO;The European Union|United Nations;UN
