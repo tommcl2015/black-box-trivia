@@ -1,0 +1,60 @@
+# More World War II: the Dambusters, D-Day and more
+# --- The Dambusters ---
+his|3|What was the codename of the 1943 "Dambusters" raid?|Operation Chastise|Operation Overlord;Operation Jericho;Operation Dynamo|Chastise
+his|3|Which RAF squadron flew the Dambusters raid?|617 Squadron|101 Squadron;303 Squadron;Eagle Squadron|617;No. 617 Squadron
+his|3|Who led the Dambusters raid and won the Victoria Cross for it?|Guy Gibson|Douglas Bader;Leonard Cheshire;Arthur Harris|Wing Commander Guy Gibson;Gibson
+his|3|The Dambusters attacked dams in which German industrial region?|The Ruhr|Bavaria;Saxony;The Rhineland|Ruhr;Ruhr valley
+his|4|Which of these German dams was breached in the Dambusters raid?|The Möhne|The Hoover;The Kariba;The Aswan|Möhne Dam;Mohne;Mohne Dam
+his|2|Which bomber did the Dambusters fly?|The Avro Lancaster|The Halifax;The B-17 Flying Fortress;The Wellington|Lancaster;Avro Lancaster
+his|3|In which year did the Dambusters raid take place?|1943|1940;1941;1944
+his|5|What was the codename of the Dambusters' bouncing bomb?|Upkeep|Highball;Tallboy;Grand Slam
+his|3|Which German battleship did RAF Lancasters sink in a Norwegian fjord in 1944?|Tirpitz|Bismarck;Scharnhorst;Graf Spee
+# --- D-Day ---
+his|2|How many beaches did the Allies land on during D-Day?|Five|Three;Four;Seven|5
+his|3|Which D-Day beach, along with Omaha, did American troops land on?|Utah|Gold;Sword;Juno|Utah Beach
+his|3|On which D-Day beach did Canadian troops land?|Juno|Gold;Sword;Utah|Juno Beach
+his|3|Which two D-Day beaches did British troops land on?|Gold and Sword|Utah and Omaha;Juno and Utah;Omaha and Gold|Sword and Gold
+his|3|Which D-Day beach saw the heaviest American losses?|Omaha|Utah;Juno;Gold|Omaha Beach
+his|4|D-Day was delayed by one day because of bad weather. On what date was it first planned?|5 June 1944|1 June 1944;8 June 1944;4 July 1944|June 5, 1944;5 June;June 5
+his|3|Which canal bridge near Caen was captured by glider troops in the first minutes of D-Day?|Pegasus Bridge|Arnhem Bridge;Remagen Bridge;London Bridge|Pegasus
+his|3|What were the giant floating harbours towed across the Channel after D-Day called?|Mulberry harbours|Tilbury docks;Neptune piers;Ark ports|Mulberry;Mulberries;Mulberry harbors
+his|5|What was PLUTO, built to support the Allies after D-Day?|A fuel pipeline under the Channel|A radar station;A floating airfield;A codebreaking machine|Pipe-Line Under The Ocean;Pipeline under the ocean;Fuel pipeline
+his|4|What was the name of the Allied plan to fool Germany into expecting a landing at Calais?|Operation Fortitude|Operation Mincemeat;Operation Torch;Operation Sea Lion|Fortitude
+his|4|In military jargon, what does the "D" in D-Day stand for?|Day|Destiny;Deliverance;Doom
+his|2|Which 1998 Steven Spielberg film opens with the landing on Omaha Beach?|Saving Private Ryan|Band of Brothers;Dunkirk;The Longest Day
+# --- War in the West ---
+his|3|What was the name of Germany's planned invasion of Britain in 1940?|Operation Sea Lion|Operation Barbarossa;Operation Eagle;Operation Overlord|Sea Lion;Sealion
+his|3|What was the name of France's line of forts along its border with Germany?|The Maginot Line|The Siegfried Line;The Hindenburg Line;The Mannerheim Line|Maginot Line
+his|3|What name was given to the quiet months after war was declared in 1939?|The Phoney War|The Cold War;The Quiet War;The Long Wait|Phoney War;Phony War
+his|3|Churchill's speech "We shall fight on the beaches" followed which 1940 evacuation?|Dunkirk|Narvik;Crete;Singapore
+his|3|Churchill said "Never was so much owed by so many to so few" about whom?|RAF pilots in the Battle of Britain|The soldiers at Dunkirk;The codebreakers;The Dambusters|RAF pilots;The Battle of Britain pilots;The pilots
+his|4|Who designed the Spitfire fighter?|R. J. Mitchell|Barnes Wallis;Sydney Camm;Frank Whittle|R.J. Mitchell;Mitchell
+his|3|What nickname did Londoners give the German V-1 flying bomb?|The doodlebug|The whizzbang;The firecracker;The screamer|Doodlebug;Buzz bomb
+his|3|Which German rocket engineer, who built the V-2, later helped NASA reach the Moon?|Wernher von Braun|Willy Ley;Hermann Oberth;Robert Goddard|Von Braun
+his|4|What was the name of the codebreaking computer built at Bletchley Park in 1944?|Colossus|ENIAC;Enigma;Bombe Mark II
+his|2|What were groups of German U-boats hunting together called?|Wolf packs|Shark schools;Iron fleets;Sea hounds|Wolfpacks;Wolf pack
+his|3|Which German battleship sank HMS Hood in 1941 before being sunk herself?|Bismarck|Tirpitz;Graf Spee;Scharnhorst
+his|4|The German battleship Graf Spee was scuttled in 1939 outside which South American city?|Montevideo|Buenos Aires;Rio de Janeiro;Valparaíso
+his|3|In which country did Operation Market Garden take place in 1944?|The Netherlands|Belgium;France;Denmark|Netherlands;Holland
+his|3|The bridge at Arnhem inspired which 1977 war film?|A Bridge Too Far|The Bridge on the River Kwai;Where Eagles Dare;The Guns of Navarone
+his|4|How many Allied prisoners escaped in the real 1944 "Great Escape"?|76|12;250;600|Seventy-six
+his|3|Which German officer led the failed plot to kill Hitler with a bomb on 20 July 1944?|Claus von Stauffenberg|Erwin Rommel;Wilhelm Canaris;Hermann Göring|Stauffenberg;Von Stauffenberg
+his|4|Oskar Schindler saved about how many Jewish workers?|1,200|120;12,000;120,000|1200
+his|4|Hitler's "Eagle's Nest" retreat sits in the mountains above which Bavarian town?|Berchtesgaden|Munich;Nuremberg;Salzburg
+his|3|Which army enlisted Wojtek, a Syrian brown bear who carried artillery shells?|The Polish army|The British army;The Free French;The Greek army|Polish;Polish army
+# --- Home front ---
+his|3|Which singer, called "the Forces' Sweetheart", sang "We'll Meet Again"?|Vera Lynn|Gracie Fields;Marlene Dietrich;Anne Shelton|Dame Vera Lynn
+his|3|Which British TV comedy is about the Home Guard?|Dad's Army|'Allo 'Allo!;Blackadder Goes Forth;M*A*S*H
+his|4|Princess Elizabeth, the future Queen, trained as a mechanic in which wartime service?|The Auxiliary Territorial Service|The Royal Air Force;The Women's Land Army;The Royal Navy|ATS;Auxiliary Territorial Service
+his|3|In which year was the "Keep Calm and Carry On" poster first printed?|1939|1914;1945;1966
+# --- East and Pacific ---
+his|3|About how long did the Siege of Leningrad last?|About 900 days|About 90 days;About 1 year;About 5 years|900 days;872 days
+his|3|Which 1943 battle in Russia is called the largest tank battle in history?|Kursk|Stalingrad;El Alamein;Moscow|Battle of Kursk
+his|4|Which country fought the Soviet Union in the Winter War of 1939–40?|Finland|Norway;Poland;Estonia
+his|3|Which city was the target of the Doolittle Raid in April 1942?|Tokyo|Hiroshima;Osaka;Kyoto
+his|3|Which 1957 film tells of prisoners building a bridge on the Burma "Death Railway"?|The Bridge on the River Kwai|A Bridge Too Far;The Great Escape;Empire of the Sun|Bridge on the River Kwai
+his|4|Which Japanese soldier kept fighting in the Philippine jungle until 1974?|Hiroo Onoda|Isoroku Yamamoto;Hideki Tojo;Saburo Sakai|Onoda
+his|3|Which sunken battleship lies under a memorial at Pearl Harbor?|USS Arizona|USS Missouri;USS Oklahoma;USS Nevada|Arizona
+his|3|Which invasion of North Africa in November 1942 was the first big US operation against Germany?|Operation Torch|Operation Husky;Operation Avalanche;Operation Dragoon|Torch
+his|3|What was the codename for the Allied invasion of Sicily in 1943?|Operation Husky|Operation Torch;Operation Shingle;Operation Avalanche|Husky
+his|3|Which hilltop abbey in Italy was the scene of fierce fighting in 1944?|Monte Cassino|Montecatini;San Gimignano;Assisi|Monte Cassino Abbey;Cassino

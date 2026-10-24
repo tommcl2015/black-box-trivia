@@ -1,0 +1,74 @@
+# The atomic age
+# --- First tests ---
+his|2|What was the codename of the world's first nuclear test, in July 1945?|Trinity|Manhattan;Little Boy;Alpha|Trinity test
+his|3|In which US state was the first atomic bomb tested in 1945?|New Mexico|Nevada;Arizona;Utah
+his|3|In which year did the Soviet Union test its first atomic bomb?|1949|1945;1953;1957
+his|4|The Soviet Union's first atomic test took place near Semipalatinsk in which present-day country?|Kazakhstan|Russia;Uzbekistan;Ukraine
+his|4|What nickname did Americans give the first Soviet atomic bomb?|Joe-1|Ivan-1;Red Star;Big Ivan|Joe 1;Joe One
+his|3|After the US and USSR, which was the third country to test an atomic bomb, in 1952?|The United Kingdom|France;China;India|UK;Britain;United Kingdom;Great Britain
+his|4|Britain's first atomic test in 1952 took place off the coast of which country?|Australia|Canada;Kenya;New Zealand
+his|4|What was the codename of Britain's first atomic test?|Operation Hurricane|Operation Grapple;Operation Tempest;Operation Mosaic|Hurricane
+his|4|In which year did France test its first atomic bomb?|1960|1952;1966;1974
+his|4|France's first atomic test in 1960 took place in the desert of which country?|Algeria|Morocco;Libya;Chad
+his|5|What was the codename of France's first atomic test, meaning "blue jerboa"?|Gerboise Bleue|Opération Mistral;Rubis;Canopus|Gerboise bleue;Blue Jerboa
+his|4|In which year did China test its first atomic bomb?|1964|1955;1959;1971
+his|5|China's first atomic test took place at which desert site?|Lop Nur|Gobi Base;Taklamakan;Ordos|Lop Nor
+his|5|India's first nuclear test in 1974 was given which codename?|Smiling Buddha|Shakti;Peaceful Tiger;Agni|Operation Smiling Buddha
+his|3|Which country carried out its first nuclear test in 2006?|North Korea|Iran;Pakistan;Israel|DPRK
+his|3|How many countries are generally believed to have nuclear weapons today?|9|5;7;12|Nine
+his|4|The first hydrogen bomb, tested by the US in 1952, had what codename?|Ivy Mike|Castle Bravo;Trinity;Upshot-Knothole|Mike
+his|3|What was the name of the largest nuclear bomb ever exploded, tested by the USSR in 1961?|Tsar Bomba|Red Giant;Stalin's Hammer;Volga Thunder|Big Ivan
+his|4|On which Arctic islands did the USSR explode the Tsar Bomba?|Novaya Zemlya|Svalbard;Franz Josef Land;Wrangel Island
+his|3|Which swimsuit was named in 1946 after a Pacific atoll used for US nuclear tests?|The bikini|The monokini;The tankini;The one-piece|Bikini
+his|4|Which scientist is known as the "father of the hydrogen bomb" in the United States?|Edward Teller|Enrico Fermi;Robert Oppenheimer;Hans Bethe|Teller
+his|4|Which Soviet physicist helped build the hydrogen bomb but later won the Nobel Peace Prize?|Andrei Sakharov|Igor Kurchatov;Lev Landau;Pyotr Kapitsa|Sakharov
+# --- The Manhattan Project ---
+his|3|What was the codename of the American project that built the first atomic bombs?|The Manhattan Project|The Brooklyn Project;Project Trinity;Operation Sunrise|Manhattan Project
+his|3|Which US Army general ran the Manhattan Project?|Leslie Groves|George Patton;Omar Bradley;Curtis LeMay|Groves;General Groves
+his|3|At which secret New Mexico laboratory were the first atomic bombs designed?|Los Alamos|Sandia;Roswell;White Sands|Los Alamos Laboratory
+his|4|Which secret Tennessee town was built to enrich uranium for the Manhattan Project?|Oak Ridge|Knoxville;Hanford;Chattanooga
+his|4|At which site in Washington State was plutonium made for the first bombs?|Hanford|Oak Ridge;Richland Flats;Yakima
+his|3|Which famous physicist signed a 1939 letter warning President Roosevelt about atomic bombs?|Albert Einstein|Niels Bohr;Max Planck;Enrico Fermi|Einstein
+his|3|Oppenheimer recalled the line "Now I am become Death, the destroyer of worlds" from which Hindu scripture?|The Bhagavad Gita|The Rig Veda;The Upanishads;The Ramayana|Bhagavad Gita
+his|4|Which two German chemists discovered nuclear fission in 1938?|Otto Hahn and Fritz Strassmann|Max Planck and Werner Heisenberg;Albert Einstein and Max Born;Pierre and Marie Curie|Hahn and Strassmann
+his|5|Which Austrian-born physicist helped explain nuclear fission and has element 109 named after her?|Lise Meitner|Marie Curie;Emmy Noether;Irène Joliot-Curie|Meitner
+his|4|Which German-born physicist at Los Alamos was later exposed as a Soviet spy?|Klaus Fuchs|Niels Bohr;Edward Teller;Hans Bethe|Fuchs
+his|4|Which American couple was executed in 1953 for passing atomic secrets to the Soviets?|Julius and Ethel Rosenberg|Alger and Priscilla Hiss;Klaus and Anna Fuchs;Harry and Ruth Gold|The Rosenbergs;Rosenbergs
+his|3|What was the name of the bomber that dropped the atomic bomb on Nagasaki?|Bockscar|Enola Gay;Memphis Belle;The Great Artiste|Bock's Car
+his|3|What was the codename of the bomb dropped on Nagasaki?|Fat Man|Little Boy;Big Ivan;Thin Man
+his|4|Who piloted the Enola Gay over Hiroshima?|Paul Tibbets|Chuck Yeager;Jimmy Doolittle;Charles Sweeney|Tibbets
+his|3|On which date was the atomic bomb dropped on Hiroshima?|6 August 1945|9 August 1945;15 August 1945;2 September 1945|August 6, 1945;6 August;August 6
+his|3|Which Hiroshima girl's folding of paper cranes became a symbol of peace?|Sadako Sasaki|Yoko Ono;Akiko Yosano;Keiko Ito|Sadako
+# --- Reactors and power ---
+his|4|In which city did the world's first nuclear reactor start up in 1942?|Chicago|New York;Los Alamos;Berkeley
+his|5|What was the name of the world's first nuclear reactor, built under a stadium's stands?|Chicago Pile-1|Fermi-1;Atomic One;Trinity Pile|Chicago Pile 1;CP-1
+his|3|Which Italian physicist led the team that built the first nuclear reactor?|Enrico Fermi|Guglielmo Marconi;Emilio Segrè;Alessandro Volta|Fermi
+his|5|In 1951, a reactor in Idaho made the first electricity from nuclear power. How many light bulbs did it light?|4|1;10;100|Four
+his|5|Which Idaho reactor first made electricity from nuclear power in 1951?|EBR-I|Shippingport;Fermi-1;Dresden-1|EBR-1;Experimental Breeder Reactor I;EBR I
+his|4|Which country opened the first nuclear power plant to supply an electric grid, in 1954?|The Soviet Union|The United States;The United Kingdom;France|USSR;Soviet Union
+his|5|What was the name of the town where the first grid-connected nuclear plant opened in 1954?|Obninsk|Chernobyl;Sarov;Dubna
+his|4|Which British plant, opened by the Queen in 1956, was the first commercial-scale nuclear power station?|Calder Hall|Dounreay;Sellafield Two;Sizewell A|Calder Hall Nuclear Power Station
+his|5|In which US state was Shippingport, the first full-scale American nuclear power plant?|Pennsylvania|Illinois;Idaho;New York
+his|3|What was the name of the world's first nuclear-powered submarine, launched in 1954?|USS Nautilus|USS Seawolf;USS Triton;USS Thresher|Nautilus
+his|4|In 1958, USS Nautilus became the first vessel to travel underwater to where?|The North Pole|The South Pole;The Mariana Trench;Antarctica|North Pole
+his|4|What was the name of the world's first nuclear-powered aircraft carrier, commissioned in 1961?|USS Enterprise|USS Nimitz;USS Forrestal;USS Ronald Reagan|Enterprise
+his|3|Which country gets the largest share of its electricity from nuclear power?|France|United States;Japan;Germany
+# --- Accidents and the Cold War ---
+his|2|In which year did the Chernobyl disaster happen?|1986|1979;1991;1982
+his|3|Chernobyl is in which present-day country?|Ukraine|Russia;Belarus;Lithuania
+his|4|Which abandoned city was built to house Chernobyl's workers?|Pripyat|Kyiv;Slavutych;Minsk
+his|3|In which US state did the 1979 Three Mile Island accident happen?|Pennsylvania|New York;Ohio;California
+his|2|A 2011 earthquake and tsunami caused a nuclear disaster at which Japanese plant?|Fukushima Daiichi|Kashiwazaki-Kariwa;Tokaimura;Hamaoka|Fukushima
+his|3|Which 1962 standoff over missiles in the Caribbean brought the world closest to nuclear war?|The Cuban Missile Crisis|The Bay of Pigs;The Berlin Crisis;The Suez Crisis|Cuban Missile Crisis
+his|3|Which 1963 treaty banned nuclear tests in the atmosphere, in space and underwater?|The Partial Test Ban Treaty|The Non-Proliferation Treaty;The SALT Treaty;The INF Treaty|Partial Test Ban Treaty;Limited Test Ban Treaty
+his|3|Which symbolic clock shows how close humanity is to global catastrophe?|The Doomsday Clock|The Atomic Clock;The Big Ben Clock;The Armageddon Clock|Doomsday Clock
+his|3|Which US President gave the "Atoms for Peace" speech in 1953?|Dwight D. Eisenhower|Harry S. Truman;John F. Kennedy;Richard Nixon|Eisenhower
+his|4|In which city is the International Atomic Energy Agency based?|Vienna|Geneva;New York;Brussels
+his|4|What was the name of the cartoon turtle in the 1950s US civil defence film "Duck and Cover"?|Bert|Tommy;Shelly;Leonardo
+# --- Atomic science ---
+his|3|Which New Zealand-born scientist is called the father of nuclear physics?|Ernest Rutherford|James Chadwick;Niels Bohr;J. J. Thomson|Rutherford
+his|4|Which British physicist discovered the neutron in 1932?|James Chadwick|Ernest Rutherford;Paul Dirac;John Cockcroft|Chadwick
+his|3|Polonium, discovered by Marie and Pierre Curie, is named after which country?|Poland|Portugal;Polynesia;Pomerania
+his|2|The element plutonium is named after what?|The dwarf planet Pluto|The god Plutus;A Greek city;Its discoverer|Pluto
+his|3|Which element is named after the leader of the first nuclear reactor team?|Fermium|Einsteinium;Curium;Bohrium
+his|2|Which device clicks to detect radiation?|A Geiger counter|A barometer;A seismograph;A spectrometer|Geiger counter;Geiger-Muller counter
