@@ -614,7 +614,8 @@
         ${lb && lb.founder ? `<table class="lb founder"><tbody><tr><td>★</td><td>${esc(lb.founder.name)} <span class="muted">${esc(lb.founder.title)}</span></td><td class="ctry">${lb.founder.country.flag ? `<img src="${esc(lb.founder.country.flag)}" alt="" width="24" height="16">` : ''}<span>${esc(lb.founder.country.name)}</span></td><td class="num"></td></tr></tbody></table>` : ''}
         ${rowsFor(LBtab)}
         <p class="muted small">Top 10 scores for each game length. Top-10 players show the country they played from.</p>
-        <div class="prose"><p class="muted">Questions written for Black Box Trivia. Thanks to the Open Trivia Database community for inspiration. Font: ChicagoFLF (public domain).</p></div>
+        <div class="prose"><p class="muted">Questions written for Black Box Trivia. Thanks to the Open Trivia Database community for inspiration. Font: ChicagoFLF (public domain). Aircraft silhouettes traced from FlightGear aircraft models (GPL). The paintings shown are public-domain works, redrawn in pixel art.</p>
+          <p class="muted">© 2026${new Date().getFullYear() > 2026 ? '–' + new Date().getFullYear() : ''} Black Box Trivia. All rights reserved.</p></div>
         <div class="btn-row"><a class="btn" href="privacy.html">Privacy</a><button class="btn default" data-act="back">OK</button></div>`
     }));
     if (!lb && !CFG.offline) fetch('/api/leaderboard').then(r => r.json()).then(d => { LBcache = d; if (S.screen === 'about') renderAbout(); }).catch(() => {});
@@ -649,7 +650,7 @@
   function setStatus(txt) { const el = $('#mbStatus'); if (el && txt) el.textContent = txt; else if (el) renderMenubar(); }
 
   function renderFoot() {
-    $('#foot').innerHTML = `<a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a>`;
+    $('#foot').innerHTML = `<a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a><div class="copy"><span>© 2026${new Date().getFullYear() > 2026 ? '–' + new Date().getFullYear() : ''} Black Box Trivia. All rights reserved.</span></div>`;
     $('#deskIcons').innerHTML = `<button class="desk-icon" data-act="help">${Art.icon('doc')}<span>Read Me</span></button>
       <button class="desk-icon" data-act="trash">${Art.icon('trash')}<span>Trash</span></button>`;
   }

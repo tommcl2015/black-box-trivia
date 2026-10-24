@@ -31,7 +31,8 @@ module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseC
   app.get(['/privacy', '/privacy.html'], send('privacy.html'));
 
   const nav = `<nav class="menubar"><div class="menu"><a class="mb-link" href="/">◀ Play ${esc(siteName)}</a></div></nav>`;
-  const foot = `<div class="foot"><a href="/">Play</a> <span>·</span> <a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a></div>`;
+  const COPY_YEARS = '2026' + (new Date().getFullYear() > 2026 ? '–' + new Date().getFullYear() : '');
+  const foot = `<div class="foot"><a href="/">Play</a> <span>·</span> <a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a><div class="copy"><span>© ${COPY_YEARS} Black Box Trivia. All rights reserved.</span></div></div>`;
   const page = (slug, title, desc, body) => `<!doctype html>
 <html lang="en">
 <head>
@@ -74,7 +75,10 @@ ${body}
         <ul>${catList}</ul>
         <p>There are also ${(pictureCount || 0).toLocaleString('en-CA')} picture questions drawn in the same one-bit style: flags, country shapes, maps, landmarks and wonders, city skylines, US states, famous aircraft, constellations and famous paintings.</p>
         <p>The collection began with questions written by the game's creator, and it has grown with new questions on film, music, TV, sports, geography, history, science and plenty of odd facts. Questions are checked against reliable sources, and we fix mistakes as soon as we hear about them.</p>
-        <p>Found an error, or have a question you'd like to see in the game? <a href="/contact">Let us know</a>.</p>`),
+        <p>Found an error, or have a question you'd like to see in the game? <a href="/contact">Let us know</a>.</p>
+        <h3>Credits &amp; copyright</h3>
+        <p>The questions, pixel art, design and code of ${esc(siteName)} are © ${COPY_YEARS} Black Box Trivia. All rights reserved. Please don't copy the questions or artwork without permission.</p>
+        <p>Aircraft silhouettes were traced from FlightGear aircraft models (GPL). The paintings shown are public-domain works, redrawn in pixel art. Font: ChicagoFLF (public domain).</p>`),
 
     'how-to-play': page('how-to-play', 'How to Play', `How to play ${siteName}: start a game, share the code, answer multiple-choice and fill-in-the-blank questions, and collect all six category pieces.`, `
         <h2>How to play</h2>
