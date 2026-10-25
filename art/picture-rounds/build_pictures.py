@@ -274,6 +274,22 @@ STAD = {'wembley-stadium': ('Wembley Stadium', 1, ['Wembley']), 'allianz-arena':
         'madison-square-garden': ('Madison Square Garden', 2, ['MSG', 'The Garden'])}
 simple_round('stadiums', 'Sports stadiums', 'spo', 'stadiums', STAD, ['Camp Nou', 'Maracana', 'Old Trafford', 'Fenway Park', 'Lambeau Field', 'Dodger Stadium', 'Eden Gardens', 'Santiago Bernabeu', 'Anfield'], 'Name this stadium.')
 
+# ---------------- air force roundels, part of the Flags round (8-bit colour) ----------------
+import roundels as RD
+rcs = {slug: c for slug, (_, c) in RD.REG.items()}
+RD_D = {'united-kingdom': 2, 'united-states': 1, 'canada': 1, 'japan': 2, 'france': 3, 'australia': 2, 'germany': 2, 'russia': 3, 'israel': 2,
+        'switzerland': 2, 'italy': 3, 'poland': 3, 'sweden': 3, 'netherlands': 4, 'india': 3, 'china': 3, 'new-zealand': 3, 'south-korea': 3,
+        'brazil': 4, 'mexico': 4, 'belgium': 4, 'spain': 4, 'denmark': 5, 'greece': 4, 'argentina': 4}
+RD_ALT = {'united-kingdom': ['UK', 'Britain', 'Great Britain'], 'united-states': ['USA', 'US', 'America'], 'south-korea': ['Korea'], 'netherlands': ['Holland']}
+extra = ['Norway', 'Finland', 'Portugal', 'Austria', 'Turkey', 'Ireland', 'Chile']
+for slug, country in rcs.items():
+    src = os.path.join(OUT, 'roundels', slug + '.png')
+    if not os.path.exists(src): continue
+    name = 'roundel-' + slug; dst = os.path.join(PICS, 'flags', name + '.png'); small_png(src, dst, True)
+    pool = [c for c in list(rcs.values()) + extra if c != country]; rnd.shuffle(pool)
+    Q.append({'pr': 'flags', 'prn': 'Flags', 'c': 'geo', 'd': RD_D.get(slug, 3), 'q': "Which country's air force uses this roundel?", 'a': country,
+              'w': pool[:7], 'alt': RD_ALT.get(slug, []), 'fib': True, 'img': f'/pics/flags/{name}.png'})
+
 json.dump(Q, open(os.path.join(GAME, 'data', 'pictures.json'), 'w'), indent=0, ensure_ascii=False)
 from collections import Counter
 print(len(Q), Counter(q['pr'] for q in Q))
