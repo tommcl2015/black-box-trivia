@@ -10339,11 +10339,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Colossus of Rhodes",
 "w": [
-"Hanging Gardens of Babylon",
-"Statue of Zeus at Olympia",
-"Mausoleum at Halicarnassus",
-"Lighthouse of Alexandria",
 "Temple of Artemis",
+"Hanging Gardens of Babylon",
+"Mausoleum at Halicarnassus",
+"Statue of Zeus at Olympia",
+"Lighthouse of Alexandria",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10498,11 +10498,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Hanging Gardens of Babylon",
 "w": [
-"Colossus of Rhodes",
-"Statue of Zeus at Olympia",
-"Mausoleum at Halicarnassus",
-"Lighthouse of Alexandria",
 "Temple of Artemis",
+"Colossus of Rhodes",
+"Mausoleum at Halicarnassus",
+"Statue of Zeus at Olympia",
+"Lighthouse of Alexandria",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10577,11 +10577,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Lighthouse of Alexandria",
 "w": [
+"Temple of Artemis",
 "Hanging Gardens of Babylon",
 "Colossus of Rhodes",
-"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
-"Temple of Artemis",
+"Statue of Zeus at Olympia",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10656,11 +10656,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Mausoleum at Halicarnassus",
 "w": [
+"Temple of Artemis",
 "Hanging Gardens of Babylon",
 "Colossus of Rhodes",
 "Statue of Zeus at Olympia",
 "Lighthouse of Alexandria",
-"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10975,11 +10975,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Statue of Zeus at Olympia",
 "w": [
+"Temple of Artemis",
 "Hanging Gardens of Babylon",
 "Colossus of Rhodes",
 "Mausoleum at Halicarnassus",
 "Lighthouse of Alexandria",
-"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -11096,8 +11096,8 @@
 "w": [
 "Hanging Gardens of Babylon",
 "Colossus of Rhodes",
-"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
+"Statue of Zeus at Olympia",
 "Lighthouse of Alexandria",
 "Great Pyramid of Giza"
 ],
@@ -17397,5 +17397,320 @@
 ],
 "fib": true,
 "img": "/pics/signs/wheelchair-symbol.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 1,
+"q": "Name this stadium.",
+"a": "Wembley Stadium",
+"w": [
+"Maracana",
+"Yankee Stadium",
+"Lambeau Field",
+"Rose Bowl",
+"Superdome",
+"Old Trafford",
+"AT&T Stadium"
+],
+"alt": [
+"Wembley"
+],
+"fib": true,
+"img": "/pics/stadiums/wembley-stadium.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 2,
+"q": "Name this stadium.",
+"a": "Allianz Arena",
+"w": [
+"Old Trafford",
+"Melbourne Cricket Ground",
+"Wrigley Field",
+"Anfield",
+"Bird's Nest",
+"San Siro",
+"Fenway Park"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/stadiums/allianz-arena.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 2,
+"q": "Name this stadium.",
+"a": "Bird's Nest",
+"w": [
+"Anfield",
+"Wembley Stadium",
+"Eden Gardens",
+"San Siro",
+"Olympic Stadium, Montreal",
+"Dodger Stadium",
+"Wrigley Field"
+],
+"alt": [
+"Beijing National Stadium",
+"Birds Nest",
+"National Stadium"
+],
+"fib": true,
+"img": "/pics/stadiums/birds-nest-beijing.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 4,
+"q": "Name this stadium.",
+"a": "San Siro",
+"w": [
+"Bird's Nest",
+"AT&T Stadium",
+"Lord's",
+"Santiago Bernabeu",
+"Lambeau Field",
+"Rogers Centre",
+"Eden Gardens"
+],
+"alt": [
+"Stadio San Siro",
+"Giuseppe Meazza",
+"Stadio Giuseppe Meazza"
+],
+"fib": true,
+"img": "/pics/stadiums/san-siro.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 3,
+"q": "Name this stadium.",
+"a": "Superdome",
+"w": [
+"Wembley Stadium",
+"Allianz Arena",
+"Bird's Nest",
+"Rogers Centre",
+"San Siro",
+"Olympic Stadium, Montreal",
+"Lambeau Field"
+],
+"alt": [
+"Caesars Superdome",
+"Louisiana Superdome"
+],
+"fib": true,
+"img": "/pics/stadiums/caesars-superdome.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 4,
+"q": "Name this stadium.",
+"a": "AT&T Stadium",
+"w": [
+"Camp Nou",
+"Old Trafford",
+"Wembley Stadium",
+"Eden Gardens",
+"Bird's Nest",
+"Lord's",
+"Madison Square Garden"
+],
+"alt": [
+"Cowboys Stadium",
+"AT and T Stadium"
+],
+"fib": true,
+"img": "/pics/stadiums/att-stadium.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 4,
+"q": "Name this stadium.",
+"a": "Rose Bowl",
+"w": [
+"Melbourne Cricket Ground",
+"Dodger Stadium",
+"Superdome",
+"Old Trafford",
+"Wrigley Field",
+"Bird's Nest",
+"Madison Square Garden"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/stadiums/rose-bowl.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 1,
+"q": "Name this stadium.",
+"a": "Rogers Centre",
+"w": [
+"Melbourne Cricket Ground",
+"Wrigley Field",
+"Superdome",
+"Lambeau Field",
+"AT&T Stadium",
+"Maracana",
+"Dodger Stadium"
+],
+"alt": [
+"SkyDome",
+"Rogers Center"
+],
+"fib": true,
+"img": "/pics/stadiums/rogers-centre.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 3,
+"q": "Name this stadium.",
+"a": "Yankee Stadium",
+"w": [
+"Superdome",
+"Fenway Park",
+"Lambeau Field",
+"Old Trafford",
+"Santiago Bernabeu",
+"Maracana",
+"Rogers Centre"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/stadiums/yankee-stadium.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 3,
+"q": "Name this stadium.",
+"a": "Wrigley Field",
+"w": [
+"Wembley Stadium",
+"Bird's Nest",
+"Superdome",
+"Olympic Stadium, Montreal",
+"Santiago Bernabeu",
+"Rogers Centre",
+"Rose Bowl"
+],
+"alt": [
+"Wrigley"
+],
+"fib": true,
+"img": "/pics/stadiums/wrigley-field.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 3,
+"q": "Name this stadium.",
+"a": "Olympic Stadium, Montreal",
+"w": [
+"Rose Bowl",
+"Rogers Centre",
+"Wembley Stadium",
+"Madison Square Garden",
+"Anfield",
+"Wrigley Field",
+"Eden Gardens"
+],
+"alt": [
+"Olympic Stadium",
+"Montreal Olympic Stadium",
+"Big O",
+"The Big O"
+],
+"fib": true,
+"img": "/pics/stadiums/montreal-olympic-stadium.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 3,
+"q": "Name this stadium.",
+"a": "Lord's",
+"w": [
+"Fenway Park",
+"Wrigley Field",
+"Bird's Nest",
+"Allianz Arena",
+"Eden Gardens",
+"Olympic Stadium, Montreal",
+"Wembley Stadium"
+],
+"alt": [
+"Lord's Cricket Ground",
+"Lords"
+],
+"fib": true,
+"img": "/pics/stadiums/lords-cricket-ground.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 3,
+"q": "Name this stadium.",
+"a": "Melbourne Cricket Ground",
+"w": [
+"Lambeau Field",
+"Santiago Bernabeu",
+"Wrigley Field",
+"Superdome",
+"Wembley Stadium",
+"Rogers Centre",
+"Dodger Stadium"
+],
+"alt": [
+"MCG",
+"The MCG"
+],
+"fib": true,
+"img": "/pics/stadiums/melbourne-cricket-ground.png"
+},
+{
+"pr": "stadiums",
+"prn": "Sports stadiums",
+"c": "spo",
+"d": 2,
+"q": "Name this stadium.",
+"a": "Madison Square Garden",
+"w": [
+"Rogers Centre",
+"Superdome",
+"Anfield",
+"Wrigley Field",
+"Yankee Stadium",
+"Lambeau Field",
+"Old Trafford"
+],
+"alt": [
+"MSG",
+"The Garden"
+],
+"fib": true,
+"img": "/pics/stadiums/madison-square-garden.png"
 }
 ]

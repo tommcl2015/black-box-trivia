@@ -266,6 +266,14 @@ ROAD = {'stop-sign', 'yield-sign', 'no-entry-sign', 'railway-crossing-sign', 'pe
 simple_round('signs', 'Road signs & symbols', 'spo', 'signs', SIGN, ['No parking', 'Falling rocks', 'Speed bump', 'Biohazard', 'Fire exit', 'Flammable', 'First aid', 'Dead end'], '',
              colour=True, qfor=lambda s: 'What does this sign mean?' if s in ROAD else 'What does this symbol mean?')
 
+STAD = {'wembley-stadium': ('Wembley Stadium', 1, ['Wembley']), 'allianz-arena': ('Allianz Arena', 2, []), 'birds-nest-beijing': ("Bird's Nest", 2, ['Beijing National Stadium', 'Birds Nest', 'National Stadium']),
+        'san-siro': ('San Siro', 4, ['Stadio San Siro', 'Giuseppe Meazza', 'Stadio Giuseppe Meazza']), 'caesars-superdome': ('Superdome', 3, ['Caesars Superdome', 'Louisiana Superdome']),
+        'att-stadium': ('AT&T Stadium', 4, ['Cowboys Stadium', 'AT and T Stadium']), 'rose-bowl': ('Rose Bowl', 4, []), 'rogers-centre': ('Rogers Centre', 1, ['SkyDome', 'Rogers Center']),
+        'yankee-stadium': ('Yankee Stadium', 3, []), 'wrigley-field': ('Wrigley Field', 3, ['Wrigley']), 'montreal-olympic-stadium': ('Olympic Stadium, Montreal', 3, ['Olympic Stadium', 'Montreal Olympic Stadium', 'Big O', 'The Big O']),
+        'lords-cricket-ground': ("Lord's", 3, ["Lord's Cricket Ground", 'Lords']), 'melbourne-cricket-ground': ('Melbourne Cricket Ground', 3, ['MCG', 'The MCG']),
+        'madison-square-garden': ('Madison Square Garden', 2, ['MSG', 'The Garden'])}
+simple_round('stadiums', 'Sports stadiums', 'spo', 'stadiums', STAD, ['Camp Nou', 'Maracana', 'Old Trafford', 'Fenway Park', 'Lambeau Field', 'Dodger Stadium', 'Eden Gardens', 'Santiago Bernabeu', 'Anfield'], 'Name this stadium.')
+
 json.dump(Q, open(os.path.join(GAME, 'data', 'pictures.json'), 'w'), indent=0, ensure_ascii=False)
 from collections import Counter
 print(len(Q), Counter(q['pr'] for q in Q))

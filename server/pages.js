@@ -73,7 +73,7 @@ ${body}
         <h3>The questions</h3>
         <p>The game has ${total} questions in six categories:</p>
         <ul>${catList}</ul>
-        <p>There are also ${(pictureCount || 0).toLocaleString('en-CA')} picture questions drawn in pixel art: flags, country shapes, maps, islands and lakes, landmarks and wonders, famous statues, city skylines, US states, famous aircraft, ships, trains, tanks and war machines, rockets and spacecraft, constellations, famous paintings, inventions, and road signs and symbols.</p>
+        <p>There are also ${(pictureCount || 0).toLocaleString('en-CA')} picture questions drawn in pixel art: flags, country shapes, maps, islands and lakes, landmarks and wonders, famous statues, city skylines, US states, famous aircraft, ships, trains, tanks and war machines, rockets and spacecraft, sports stadiums, constellations, famous paintings, inventions, and road signs and symbols.</p>
         <p>The collection began with questions written by the game's creator, and it has grown with new questions on film, music, TV, sports, geography, history, science and plenty of odd facts. Questions are checked against reliable sources, and we fix mistakes as soon as we hear about them.</p>
         <p>Found an error, or have a question you'd like to see in the game? <a href="/contact">Let us know</a>.</p>
         <h3>Credits &amp; copyright</h3>
