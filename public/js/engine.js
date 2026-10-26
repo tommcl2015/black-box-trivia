@@ -13,15 +13,19 @@
   };
   // Picture rounds: questions that carry a 96x64 bitmap (q.img). pr = round key.
   const PIC_ROUNDS = ['flags', 'shapes', 'maps', 'islands', 'landmarks', 'statues', 'skylines', 'states', 'aircraft', 'ships', 'trains', 'tanks',
-    'spacecraft', 'stadiums', 'stars', 'paintings', 'inventions', 'signs'];
+    'spacecraft', 'stadiums', 'circuits', 'mountains', 'clouds', 'scripts', 'stars', 'paintings', 'inventions', 'signs'];
   const PIC_NAMES = {
     flags: 'Flags', shapes: 'Country shapes', maps: 'Find the country', islands: 'Islands & lakes', landmarks: 'Landmarks & wonders',
     statues: 'Famous statues', skylines: 'City skylines', states: 'US states', aircraft: 'Famous aircraft', ships: 'Famous ships',
-    trains: 'Famous trains', tanks: 'Tanks & war machines', spacecraft: 'Rockets & spacecraft', stadiums: 'Sports stadiums', stars: 'Constellations',
+    trains: 'Famous trains', tanks: 'Tanks & war machines', spacecraft: 'Rockets & spacecraft', stadiums: 'Sports stadiums', circuits: 'Racing circuits',
+    mountains: 'Mountains & volcanoes', clouds: 'Cloud types', scripts: 'Writing systems', stars: 'Constellations',
     paintings: 'Famous paintings', inventions: 'Famous inventions', signs: 'Road signs & symbols'
   };
   // Rounds that existed before Oct 2026: a saved choice of exactly these means "all rounds", so returning hosts get the new ones too.
+  // Earlier full sets of rounds: a saved choice of exactly one of these means "all rounds", so returning hosts get the new ones too.
   const OLD_ROUNDS = ['flags', 'shapes', 'maps', 'landmarks', 'skylines', 'states', 'aircraft', 'stars', 'paintings'];
+  const FULL_SETS = [OLD_ROUNDS, ['flags', 'shapes', 'maps', 'islands', 'landmarks', 'statues', 'skylines', 'states', 'aircraft', 'ships', 'trains', 'tanks',
+    'spacecraft', 'stadiums', 'stars', 'paintings', 'inventions', 'signs']];
   const PIC_SHARE = 0.25;   // share of a mixed game that is picture questions
   const REVEAL_MS = 7000;
   const ICONS = ['disk', 'bomb', 'watch', 'cup', 'bug', 'rocket', 'dog', 'globe'];
@@ -48,7 +52,7 @@
     if (['off', 'mix', 'only'].includes(s.pictures)) o.pictures = s.pictures;
     if (Array.isArray(s.picRounds)) {
       const r = s.picRounds.filter(x => PIC_ROUNDS.includes(x));
-      const allOld = r.length === OLD_ROUNDS.length && OLD_ROUNDS.every(x => r.includes(x));
+      const allOld = FULL_SETS.some(set => r.length === set.length && set.every(x => r.includes(x)));
       o.picRounds = r.length && !allOld ? r : PIC_ROUNDS.slice();
     }
     return o;

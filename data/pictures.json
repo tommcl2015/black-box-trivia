@@ -10119,13 +10119,13 @@
 "q": "Name this famous landmark.",
 "a": "Angkor Wat",
 "w": [
-"Burj Khalifa",
-"US Capitol",
+"Tower Bridge",
+"Temple of Heaven",
 "Eiffel Tower",
-"Parthenon",
-"Itsukushima torii",
-"Mount Rushmore",
-"Pyramids of Giza"
+"Neuschwanstein Castle",
+"St Basil's Cathedral",
+"Stonehenge",
+"Atomium"
 ],
 "alt": [],
 "fib": false,
@@ -10139,13 +10139,13 @@
 "q": "Name this famous landmark.",
 "a": "Arc de Triomphe",
 "w": [
-"White House",
-"Colosseum",
-"St Basil's Cathedral",
-"Windmills of Kinderdijk",
-"Eiffel Tower",
-"Marina Bay Sands",
-"Uluru"
+"Pyramids of Giza",
+"Leaning Tower of Pisa",
+"Burj Al Arab",
+"Itsukushima torii",
+"Machu Picchu",
+"Petronas Towers",
+"Kremlin, Spasskaya Tower"
 ],
 "alt": [],
 "fib": false,
@@ -10159,13 +10159,13 @@
 "q": "Name this famous landmark.",
 "a": "Atomium",
 "w": [
-"Tower Bridge",
-"Golden Temple, Amritsar",
-"Chichen Itza",
-"St Peter's Basilica",
-"Mount Fuji",
-"St Basil's Cathedral",
-"Niagara Falls"
+"Pyramids of Giza",
+"Marina Bay Sands",
+"Machu Picchu",
+"Petronas Towers",
+"Taipei 101",
+"Colosseum",
+"St Peter's Basilica"
 ],
 "alt": [],
 "fib": false,
@@ -10179,13 +10179,13 @@
 "q": "Name this famous landmark.",
 "a": "Big Ben",
 "w": [
-"Table Mountain",
-"Kremlin, Spasskaya Tower",
-"Burj Al Arab",
-"Niagara Falls",
-"Sagrada Familia",
 "Mont Saint Michel",
-"Taipei 101"
+"Temple of Heaven",
+"Neuschwanstein Castle",
+"CN Tower",
+"St Basil's Cathedral",
+"Moai, Easter Island",
+"Eiffel Tower"
 ],
 "alt": [],
 "fib": false,
@@ -10199,13 +10199,13 @@
 "q": "Name this famous landmark.",
 "a": "Brandenburg Gate",
 "w": [
-"US Capitol",
-"Mount Rushmore",
 "Machu Picchu",
-"Sagrada Familia",
-"Uluru",
-"Burj Khalifa",
-"Angkor Wat"
+"Marina Bay Sands",
+"Itsukushima torii",
+"Mont Saint Michel",
+"US Capitol",
+"St Peter's Basilica",
+"Sagrada Familia"
 ],
 "alt": [],
 "fib": false,
@@ -10219,13 +10219,13 @@
 "q": "Name this famous landmark.",
 "a": "Burj Al Arab",
 "w": [
-"Stonehenge",
-"Table Mountain",
-"Christ the Redeemer",
+"Big Ben",
 "Moai, Easter Island",
-"Neuschwanstein Castle",
-"Mount Fuji",
-"Mount Rushmore"
+"Chichen Itza",
+"Mont Saint Michel",
+"Golden Gate Bridge",
+"Gateway Arch",
+"St Basil's Cathedral"
 ],
 "alt": [],
 "fib": false,
@@ -10239,13 +10239,13 @@
 "q": "Name this famous landmark.",
 "a": "Burj Khalifa",
 "w": [
-"Petronas Towers",
-"Gateway Arch",
-"Chichen Itza",
-"Mont Saint Michel",
+"Atomium",
+"Eiffel Tower",
+"Angkor Wat",
+"Pyramids of Giza",
+"St Peter's Basilica",
 "St Basil's Cathedral",
-"Taj Mahal",
-"Great Sphinx of Giza"
+"Taj Mahal"
 ],
 "alt": [],
 "fib": false,
@@ -10259,13 +10259,13 @@
 "q": "Name this famous landmark.",
 "a": "Chichen Itza",
 "w": [
-"Itsukushima torii",
-"Burj Al Arab",
-"Tower Bridge",
-"Great Sphinx of Giza",
-"Table Mountain",
-"Statue of Liberty",
-"Kremlin, Spasskaya Tower"
+"Mont Saint Michel",
+"Moai, Easter Island",
+"US Capitol",
+"Petronas Towers",
+"Hagia Sophia",
+"Eiffel Tower",
+"Tower Bridge"
 ],
 "alt": [],
 "fib": false,
@@ -10279,13 +10279,13 @@
 "q": "Name this famous landmark.",
 "a": "Christ the Redeemer",
 "w": [
-"Brandenburg Gate",
-"Petra (the Treasury)",
-"Sagrada Familia",
-"Moai, Easter Island",
-"Burj Khalifa",
-"Mont Saint Michel",
-"Windmills of Kinderdijk"
+"Taj Mahal",
+"Kremlin, Spasskaya Tower",
+"Golden Temple, Amritsar",
+"Notre-Dame de Paris",
+"Statue of Liberty",
+"St Peter's Basilica",
+"Brandenburg Gate"
 ],
 "alt": [],
 "fib": false,
@@ -10299,13 +10299,13 @@
 "q": "Name this famous landmark.",
 "a": "CN Tower",
 "w": [
-"Eiffel Tower",
-"Matterhorn",
-"Mount Fuji",
-"Sagrada Familia",
-"Mount Rushmore",
-"Petronas Towers",
-"St Basil's Cathedral"
+"Burj Khalifa",
+"Golden Gate Bridge",
+"St Basil's Cathedral",
+"Petra (the Treasury)",
+"Hagia Sophia",
+"Machu Picchu",
+"Neuschwanstein Castle"
 ],
 "alt": [],
 "fib": false,
@@ -10319,13 +10319,13 @@
 "q": "Name this famous landmark.",
 "a": "Colosseum",
 "w": [
-"Petronas Towers",
-"Table Mountain",
-"Taipei 101",
+"Statue of Liberty",
+"Hagia Sophia",
+"Kremlin, Spasskaya Tower",
+"Sydney Opera House",
+"Angkor Wat",
 "Mont Saint Michel",
-"Temple of Heaven",
-"CN Tower",
-"White House"
+"Pyramids of Giza"
 ],
 "alt": [],
 "fib": false,
@@ -10339,11 +10339,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Colossus of Rhodes",
 "w": [
-"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
 "Hanging Gardens of Babylon",
-"Temple of Artemis",
+"Statue of Zeus at Olympia",
 "Lighthouse of Alexandria",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10358,13 +10358,13 @@
 "q": "Name this famous landmark.",
 "a": "Eiffel Tower",
 "w": [
-"Gateway Arch",
-"Statue of Liberty",
-"Golden Temple, Amritsar",
-"Tower Bridge",
-"Colosseum",
-"Hagia Sophia",
-"Marina Bay Sands"
+"Windmills of Kinderdijk",
+"St Peter's Basilica",
+"Angkor Wat",
+"White House",
+"Arc de Triomphe",
+"Stonehenge",
+"US Capitol"
 ],
 "alt": [],
 "fib": false,
@@ -10378,13 +10378,13 @@
 "q": "Name this famous landmark.",
 "a": "Gateway Arch",
 "w": [
-"Windmills of Kinderdijk",
-"Marina Bay Sands",
-"St Peter's Basilica",
-"Machu Picchu",
-"Leaning Tower of Pisa",
-"CN Tower",
-"Sagrada Familia"
+"Itsukushima torii",
+"US Capitol",
+"Colosseum",
+"Eiffel Tower",
+"Sagrada Familia",
+"Temple of Heaven",
+"Pyramids of Giza"
 ],
 "alt": [],
 "fib": false,
@@ -10398,13 +10398,13 @@
 "q": "Name this famous landmark.",
 "a": "Golden Gate Bridge",
 "w": [
-"Parthenon",
-"Chichen Itza",
-"Great Sphinx of Giza",
-"Matterhorn",
+"CN Tower",
+"Colosseum",
+"Brandenburg Gate",
 "Atomium",
-"Hagia Sophia",
-"Stonehenge"
+"St Peter's Basilica",
+"Petronas Towers",
+"Sagrada Familia"
 ],
 "alt": [],
 "fib": false,
@@ -10418,13 +10418,13 @@
 "q": "Name this famous landmark.",
 "a": "Golden Temple, Amritsar",
 "w": [
-"Petronas Towers",
-"Pyramids of Giza",
-"St Basil's Cathedral",
-"Itsukushima torii",
-"Notre-Dame de Paris",
-"Colosseum",
-"White House"
+"Christ the Redeemer",
+"Stonehenge",
+"Petra (the Treasury)",
+"Angkor Wat",
+"Machu Picchu",
+"Big Ben",
+"Chichen Itza"
 ],
 "alt": [],
 "fib": false,
@@ -10438,13 +10438,13 @@
 "q": "Name this famous landmark.",
 "a": "Great Sphinx of Giza",
 "w": [
-"Neuschwanstein Castle",
-"Petra (the Treasury)",
-"US Capitol",
-"Golden Gate Bridge",
-"Brandenburg Gate",
-"Petronas Towers",
-"Parthenon"
+"Golden Temple, Amritsar",
+"Temple of Heaven",
+"Stonehenge",
+"Marina Bay Sands",
+"Hagia Sophia",
+"Sydney Opera House",
+"Eiffel Tower"
 ],
 "alt": [],
 "fib": false,
@@ -10458,13 +10458,13 @@
 "q": "Name this famous landmark.",
 "a": "Great Wall of China",
 "w": [
-"St Basil's Cathedral",
-"Matterhorn",
-"Moai, Easter Island",
+"Machu Picchu",
+"Burj Khalifa",
+"Kremlin, Spasskaya Tower",
+"US Capitol",
+"Leaning Tower of Pisa",
 "Eiffel Tower",
-"Golden Temple, Amritsar",
-"Table Mountain",
-"CN Tower"
+"Colosseum"
 ],
 "alt": [],
 "fib": false,
@@ -10478,13 +10478,13 @@
 "q": "Name this famous landmark.",
 "a": "Hagia Sophia",
 "w": [
-"Mount Fuji",
-"Mount Rushmore",
-"Kremlin, Spasskaya Tower",
-"Sagrada Familia",
-"Mont Saint Michel",
-"Sydney Opera House",
-"Great Wall of China"
+"Burj Khalifa",
+"Colosseum",
+"Windmills of Kinderdijk",
+"Itsukushima torii",
+"Golden Temple, Amritsar",
+"CN Tower",
+"Moai, Easter Island"
 ],
 "alt": [],
 "fib": false,
@@ -10498,11 +10498,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Hanging Gardens of Babylon",
 "w": [
-"Colossus of Rhodes",
-"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
-"Temple of Artemis",
+"Statue of Zeus at Olympia",
 "Lighthouse of Alexandria",
+"Colossus of Rhodes",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10517,13 +10517,13 @@
 "q": "Name this famous landmark.",
 "a": "Itsukushima torii",
 "w": [
-"Burj Al Arab",
-"US Capitol",
-"St Peter's Basilica",
-"Leaning Tower of Pisa",
-"Notre-Dame de Paris",
-"Hagia Sophia",
-"Gateway Arch"
+"Machu Picchu",
+"Windmills of Kinderdijk",
+"Niagara Falls",
+"Eiffel Tower",
+"Great Wall of China",
+"Burj Khalifa",
+"Taipei 101"
 ],
 "alt": [],
 "fib": false,
@@ -10537,13 +10537,13 @@
 "q": "Name this famous landmark.",
 "a": "Kremlin, Spasskaya Tower",
 "w": [
-"Colosseum",
 "Itsukushima torii",
-"Uluru",
-"Chichen Itza",
-"Tower Bridge",
-"Moai, Easter Island",
-"US Capitol"
+"Taj Mahal",
+"Big Ben",
+"Gateway Arch",
+"Hagia Sophia",
+"Marina Bay Sands",
+"St Peter's Basilica"
 ],
 "alt": [],
 "fib": false,
@@ -10558,12 +10558,12 @@
 "a": "Leaning Tower of Pisa",
 "w": [
 "Colosseum",
-"Table Mountain",
-"Itsukushima torii",
-"Windmills of Kinderdijk",
-"Eiffel Tower",
-"Machu Picchu",
-"Petronas Towers"
+"Sydney Opera House",
+"Sagrada Familia",
+"Hagia Sophia",
+"Parthenon",
+"Arc de Triomphe",
+"St Basil's Cathedral"
 ],
 "alt": [],
 "fib": false,
@@ -10577,10 +10577,10 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Lighthouse of Alexandria",
 "w": [
-"Colossus of Rhodes",
-"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
 "Hanging Gardens of Babylon",
+"Statue of Zeus at Olympia",
+"Colossus of Rhodes",
 "Temple of Artemis",
 "Great Pyramid of Giza"
 ],
@@ -10596,13 +10596,13 @@
 "q": "Name this famous landmark.",
 "a": "Machu Picchu",
 "w": [
-"Temple of Heaven",
-"Taipei 101",
+"Golden Temple, Amritsar",
+"Eiffel Tower",
 "Itsukushima torii",
-"Colosseum",
-"Big Ben",
-"St Peter's Basilica",
-"Burj Al Arab"
+"Petronas Towers",
+"Golden Gate Bridge",
+"Leaning Tower of Pisa",
+"Notre-Dame de Paris"
 ],
 "alt": [],
 "fib": false,
@@ -10616,37 +10616,17 @@
 "q": "Name this famous landmark.",
 "a": "Marina Bay Sands",
 "w": [
-"Sydney Opera House",
-"US Capitol",
+"Eiffel Tower",
+"White House",
+"Taj Mahal",
+"St Basil's Cathedral",
+"Itsukushima torii",
 "Big Ben",
-"Taipei 101",
-"Notre-Dame de Paris",
-"Burj Al Arab",
-"Moai, Easter Island"
+"Statue of Liberty"
 ],
 "alt": [],
 "fib": false,
 "img": "/pics/landmarks/marina-bay-sands.png"
-},
-{
-"pr": "landmarks",
-"prn": "Landmarks & wonders",
-"c": "geo",
-"d": 3,
-"q": "Name this famous landmark.",
-"a": "Matterhorn",
-"w": [
-"Gateway Arch",
-"Stonehenge",
-"Atomium",
-"Leaning Tower of Pisa",
-"Tower Bridge",
-"Moai, Easter Island",
-"Itsukushima torii"
-],
-"alt": [],
-"fib": false,
-"img": "/pics/landmarks/matterhorn.png"
 },
 {
 "pr": "landmarks",
@@ -10656,11 +10636,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Mausoleum at Halicarnassus",
 "w": [
-"Colossus of Rhodes",
-"Statue of Zeus at Olympia",
 "Hanging Gardens of Babylon",
-"Temple of Artemis",
+"Statue of Zeus at Olympia",
 "Lighthouse of Alexandria",
+"Colossus of Rhodes",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10675,13 +10655,13 @@
 "q": "Name this famous landmark.",
 "a": "Moai, Easter Island",
 "w": [
-"Leaning Tower of Pisa",
-"Taj Mahal",
-"Brandenburg Gate",
-"US Capitol",
-"Niagara Falls",
-"Table Mountain",
-"Matterhorn"
+"Atomium",
+"Stonehenge",
+"Sagrada Familia",
+"CN Tower",
+"Burj Al Arab",
+"Petronas Towers",
+"Chichen Itza"
 ],
 "alt": [],
 "fib": false,
@@ -10695,13 +10675,13 @@
 "q": "Name this famous landmark.",
 "a": "Mont Saint Michel",
 "w": [
-"CN Tower",
-"Parthenon",
-"Leaning Tower of Pisa",
 "Atomium",
-"Sagrada Familia",
 "St Basil's Cathedral",
-"Marina Bay Sands"
+"Golden Temple, Amritsar",
+"Windmills of Kinderdijk",
+"White House",
+"Angkor Wat",
+"Kremlin, Spasskaya Tower"
 ],
 "alt": [],
 "fib": false,
@@ -10713,35 +10693,15 @@
 "c": "geo",
 "d": 2,
 "q": "Name this famous landmark.",
-"a": "Mount Fuji",
-"w": [
-"Statue of Liberty",
-"Gateway Arch",
-"Niagara Falls",
-"Atomium",
-"Kremlin, Spasskaya Tower",
-"Mont Saint Michel",
-"Arc de Triomphe"
-],
-"alt": [],
-"fib": false,
-"img": "/pics/landmarks/mount-fuji.png"
-},
-{
-"pr": "landmarks",
-"prn": "Landmarks & wonders",
-"c": "geo",
-"d": 2,
-"q": "Name this famous landmark.",
 "a": "Mount Rushmore",
 "w": [
-"Itsukushima torii",
-"Windmills of Kinderdijk",
+"Stonehenge",
+"Leaning Tower of Pisa",
 "Petronas Towers",
-"Table Mountain",
-"CN Tower",
-"Great Sphinx of Giza",
-"Gateway Arch"
+"Machu Picchu",
+"Notre-Dame de Paris",
+"Sydney Opera House",
+"Petra (the Treasury)"
 ],
 "alt": [],
 "fib": false,
@@ -10755,13 +10715,13 @@
 "q": "Name this famous landmark.",
 "a": "Neuschwanstein Castle",
 "w": [
-"Petronas Towers",
-"Colosseum",
-"US Capitol",
-"Hagia Sophia",
-"Niagara Falls",
-"Angkor Wat",
-"Tower Bridge"
+"Pyramids of Giza",
+"Marina Bay Sands",
+"Stonehenge",
+"Taipei 101",
+"Petra (the Treasury)",
+"Mount Rushmore",
+"Taj Mahal"
 ],
 "alt": [],
 "fib": false,
@@ -10775,13 +10735,13 @@
 "q": "Name this famous landmark.",
 "a": "Niagara Falls",
 "w": [
-"Matterhorn",
 "Angkor Wat",
-"St Peter's Basilica",
+"Mont Saint Michel",
 "Golden Temple, Amritsar",
-"Burj Khalifa",
-"Neuschwanstein Castle",
-"Windmills of Kinderdijk"
+"Big Ben",
+"Atomium",
+"US Capitol",
+"Statue of Liberty"
 ],
 "alt": [],
 "fib": false,
@@ -10795,13 +10755,13 @@
 "q": "Name this famous landmark.",
 "a": "Notre-Dame de Paris",
 "w": [
-"St Peter's Basilica",
-"Stonehenge",
-"Golden Gate Bridge",
-"Arc de Triomphe",
-"Colosseum",
-"US Capitol",
-"Parthenon"
+"Golden Temple, Amritsar",
+"Petra (the Treasury)",
+"Moai, Easter Island",
+"Chichen Itza",
+"Christ the Redeemer",
+"Mont Saint Michel",
+"Arc de Triomphe"
 ],
 "alt": [],
 "fib": false,
@@ -10815,13 +10775,13 @@
 "q": "Name this famous landmark.",
 "a": "Parthenon",
 "w": [
-"Arc de Triomphe",
-"Petra (the Treasury)",
+"Leaning Tower of Pisa",
+"Machu Picchu",
+"US Capitol",
+"Hagia Sophia",
+"Neuschwanstein Castle",
 "Mount Rushmore",
-"Stonehenge",
-"Brandenburg Gate",
-"Mont Saint Michel",
-"Great Sphinx of Giza"
+"Taj Mahal"
 ],
 "alt": [],
 "fib": false,
@@ -10835,13 +10795,13 @@
 "q": "Name this famous landmark.",
 "a": "Petra (the Treasury)",
 "w": [
-"Taj Mahal",
-"Statue of Liberty",
-"Great Sphinx of Giza",
-"Burj Al Arab",
-"Taipei 101",
-"White House",
-"Moai, Easter Island"
+"St Peter's Basilica",
+"Golden Temple, Amritsar",
+"Colosseum",
+"St Basil's Cathedral",
+"Mont Saint Michel",
+"Angkor Wat",
+"Niagara Falls"
 ],
 "alt": [],
 "fib": false,
@@ -10855,13 +10815,13 @@
 "q": "Name this famous landmark.",
 "a": "Petronas Towers",
 "w": [
-"Kremlin, Spasskaya Tower",
-"Tower Bridge",
-"Angkor Wat",
-"St Basil's Cathedral",
-"Brandenburg Gate",
-"Statue of Liberty",
-"St Peter's Basilica"
+"Taipei 101",
+"Machu Picchu",
+"Arc de Triomphe",
+"Leaning Tower of Pisa",
+"Stonehenge",
+"St Peter's Basilica",
+"Angkor Wat"
 ],
 "alt": [],
 "fib": false,
@@ -10875,13 +10835,13 @@
 "q": "Name this famous landmark.",
 "a": "Pyramids of Giza",
 "w": [
-"Taipei 101",
+"Golden Temple, Amritsar",
+"Christ the Redeemer",
+"Gateway Arch",
+"Arc de Triomphe",
+"Parthenon",
 "Taj Mahal",
-"Leaning Tower of Pisa",
-"Great Sphinx of Giza",
-"Kremlin, Spasskaya Tower",
-"Burj Al Arab",
-"Angkor Wat"
+"Hagia Sophia"
 ],
 "alt": [],
 "fib": false,
@@ -10895,13 +10855,13 @@
 "q": "Name this famous landmark.",
 "a": "Sagrada Familia",
 "w": [
-"Parthenon",
-"Niagara Falls",
-"Petra (the Treasury)",
-"US Capitol",
-"Arc de Triomphe",
+"Big Ben",
+"St Basil's Cathedral",
+"Kremlin, Spasskaya Tower",
 "Pyramids of Giza",
-"Matterhorn"
+"Tower Bridge",
+"Mont Saint Michel",
+"Gateway Arch"
 ],
 "alt": [],
 "fib": false,
@@ -10915,13 +10875,13 @@
 "q": "Name this famous landmark.",
 "a": "St Basil's Cathedral",
 "w": [
-"St Peter's Basilica",
-"Tower Bridge",
-"Hagia Sophia",
-"Atomium",
-"Temple of Heaven",
+"Arc de Triomphe",
+"Pyramids of Giza",
+"Niagara Falls",
 "Great Sphinx of Giza",
-"Gateway Arch"
+"Brandenburg Gate",
+"Neuschwanstein Castle",
+"Taj Mahal"
 ],
 "alt": [],
 "fib": false,
@@ -10935,13 +10895,13 @@
 "q": "Name this famous landmark.",
 "a": "St Peter's Basilica",
 "w": [
-"Burj Khalifa",
-"Itsukushima torii",
-"Eiffel Tower",
+"Parthenon",
 "White House",
-"Leaning Tower of Pisa",
-"Pyramids of Giza",
-"Golden Temple, Amritsar"
+"Colosseum",
+"Golden Gate Bridge",
+"Tower Bridge",
+"Big Ben",
+"Niagara Falls"
 ],
 "alt": [],
 "fib": false,
@@ -10955,13 +10915,13 @@
 "q": "Name this famous landmark.",
 "a": "Statue of Liberty",
 "w": [
-"Atomium",
-"Mount Fuji",
-"Hagia Sophia",
-"Petronas Towers",
-"Angkor Wat",
-"Windmills of Kinderdijk",
-"Moai, Easter Island"
+"Temple of Heaven",
+"Marina Bay Sands",
+"Moai, Easter Island",
+"CN Tower",
+"Chichen Itza",
+"Colosseum",
+"Angkor Wat"
 ],
 "alt": [],
 "fib": false,
@@ -10975,11 +10935,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Statue of Zeus at Olympia",
 "w": [
-"Colossus of Rhodes",
 "Mausoleum at Halicarnassus",
 "Hanging Gardens of Babylon",
-"Temple of Artemis",
 "Lighthouse of Alexandria",
+"Colossus of Rhodes",
+"Temple of Artemis",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -10994,13 +10954,13 @@
 "q": "Name this famous landmark.",
 "a": "Stonehenge",
 "w": [
-"Tower Bridge",
-"Niagara Falls",
-"Brandenburg Gate",
-"Gateway Arch",
-"Burj Khalifa",
-"Kremlin, Spasskaya Tower",
-"Uluru"
+"Neuschwanstein Castle",
+"Burj Al Arab",
+"Marina Bay Sands",
+"Angkor Wat",
+"Hagia Sophia",
+"St Peter's Basilica",
+"Temple of Heaven"
 ],
 "alt": [],
 "fib": false,
@@ -11014,13 +10974,13 @@
 "q": "Name this famous landmark.",
 "a": "Sydney Opera House",
 "w": [
-"Mount Rushmore",
-"Mount Fuji",
-"Notre-Dame de Paris",
-"Christ the Redeemer",
-"Gateway Arch",
+"Tower Bridge",
+"Statue of Liberty",
+"Moai, Easter Island",
+"Taipei 101",
+"Pyramids of Giza",
 "CN Tower",
-"Parthenon"
+"Colosseum"
 ],
 "alt": [],
 "fib": false,
@@ -11032,35 +10992,15 @@
 "c": "geo",
 "d": 3,
 "q": "Name this famous landmark.",
-"a": "Table Mountain",
-"w": [
-"Atomium",
-"Mount Rushmore",
-"Burj Al Arab",
-"Itsukushima torii",
-"Temple of Heaven",
-"Angkor Wat",
-"Notre-Dame de Paris"
-],
-"alt": [],
-"fib": false,
-"img": "/pics/landmarks/table-mountain.png"
-},
-{
-"pr": "landmarks",
-"prn": "Landmarks & wonders",
-"c": "geo",
-"d": 3,
-"q": "Name this famous landmark.",
 "a": "Taipei 101",
 "w": [
+"CN Tower",
+"Pyramids of Giza",
+"Sydney Opera House",
+"Great Sphinx of Giza",
 "Gateway Arch",
-"US Capitol",
-"Windmills of Kinderdijk",
-"Brandenburg Gate",
-"Marina Bay Sands",
-"Taj Mahal",
-"Sydney Opera House"
+"Angkor Wat",
+"Windmills of Kinderdijk"
 ],
 "alt": [],
 "fib": false,
@@ -11074,13 +11014,13 @@
 "q": "Name this famous landmark.",
 "a": "Taj Mahal",
 "w": [
-"Stonehenge",
-"Eiffel Tower",
-"Chichen Itza",
-"CN Tower",
-"Golden Gate Bridge",
-"Atomium",
-"Mount Rushmore"
+"Notre-Dame de Paris",
+"Kremlin, Spasskaya Tower",
+"Niagara Falls",
+"Marina Bay Sands",
+"Gateway Arch",
+"Great Sphinx of Giza",
+"Golden Gate Bridge"
 ],
 "alt": [],
 "fib": false,
@@ -11094,11 +11034,11 @@
 "q": "Which ancient wonder of the world is this?",
 "a": "Temple of Artemis",
 "w": [
-"Colossus of Rhodes",
-"Statue of Zeus at Olympia",
 "Mausoleum at Halicarnassus",
 "Hanging Gardens of Babylon",
+"Statue of Zeus at Olympia",
 "Lighthouse of Alexandria",
+"Colossus of Rhodes",
 "Great Pyramid of Giza"
 ],
 "alt": [],
@@ -11113,13 +11053,13 @@
 "q": "Name this famous landmark.",
 "a": "Temple of Heaven",
 "w": [
-"Burj Al Arab",
-"Taipei 101",
-"St Basil's Cathedral",
-"Golden Temple, Amritsar",
-"Moai, Easter Island",
-"Golden Gate Bridge",
-"Uluru"
+"Angkor Wat",
+"Taj Mahal",
+"Chichen Itza",
+"White House",
+"Neuschwanstein Castle",
+"Atomium",
+"Sagrada Familia"
 ],
 "alt": [],
 "fib": false,
@@ -11133,13 +11073,13 @@
 "q": "Name this famous landmark.",
 "a": "Tower Bridge",
 "w": [
+"Itsukushima torii",
 "CN Tower",
-"Machu Picchu",
-"Neuschwanstein Castle",
-"Mont Saint Michel",
-"Table Mountain",
-"Sagrada Familia",
-"Windmills of Kinderdijk"
+"Moai, Easter Island",
+"Arc de Triomphe",
+"Petra (the Treasury)",
+"Niagara Falls",
+"Christ the Redeemer"
 ],
 "alt": [],
 "fib": false,
@@ -11149,37 +11089,17 @@
 "pr": "landmarks",
 "prn": "Landmarks & wonders",
 "c": "geo",
-"d": 2,
-"q": "Name this famous landmark.",
-"a": "Uluru",
-"w": [
-"Machu Picchu",
-"Statue of Liberty",
-"CN Tower",
-"Mont Saint Michel",
-"Mount Fuji",
-"Taipei 101",
-"Moai, Easter Island"
-],
-"alt": [],
-"fib": false,
-"img": "/pics/landmarks/uluru.png"
-},
-{
-"pr": "landmarks",
-"prn": "Landmarks & wonders",
-"c": "geo",
 "d": 3,
 "q": "Name this famous landmark.",
 "a": "US Capitol",
 "w": [
-"Hagia Sophia",
+"Mont Saint Michel",
+"Kremlin, Spasskaya Tower",
+"Sagrada Familia",
+"Temple of Heaven",
+"Burj Al Arab",
 "Petronas Towers",
-"Christ the Redeemer",
-"Arc de Triomphe",
-"Taipei 101",
-"Moai, Easter Island",
-"Stonehenge"
+"Marina Bay Sands"
 ],
 "alt": [],
 "fib": false,
@@ -11193,13 +11113,13 @@
 "q": "Name this famous landmark.",
 "a": "White House",
 "w": [
-"Angkor Wat",
-"Matterhorn",
-"Windmills of Kinderdijk",
-"Arc de Triomphe",
-"Marina Bay Sands",
-"Niagara Falls",
-"Temple of Heaven"
+"Itsukushima torii",
+"Petronas Towers",
+"Golden Temple, Amritsar",
+"Statue of Liberty",
+"Neuschwanstein Castle",
+"Mount Rushmore",
+"Stonehenge"
 ],
 "alt": [],
 "fib": false,
@@ -11213,13 +11133,13 @@
 "q": "Name this famous landmark.",
 "a": "Windmills of Kinderdijk",
 "w": [
-"Matterhorn",
-"Brandenburg Gate",
+"Arc de Triomphe",
 "Eiffel Tower",
-"Mount Fuji",
-"Taj Mahal",
-"Kremlin, Spasskaya Tower",
-"Christ the Redeemer"
+"Mount Rushmore",
+"Machu Picchu",
+"Notre-Dame de Paris",
+"St Basil's Cathedral",
+"Angkor Wat"
 ],
 "alt": [],
 "fib": false,
@@ -11233,13 +11153,13 @@
 "q": "Which city is this?",
 "a": "Amsterdam",
 "w": [
-"Buenos Aires",
-"London",
-"Mexico City",
-"Budapest",
-"Cairo",
+"Moscow",
+"Chicago",
 "Cape Town",
-"Dubai"
+"Buenos Aires",
+"Sydney",
+"Rio de Janeiro",
+"Bangkok"
 ],
 "alt": [],
 "fib": true,
@@ -11253,13 +11173,13 @@
 "q": "Which city is this?",
 "a": "Athens",
 "w": [
-"San Francisco",
-"Edinburgh",
-"Rome",
-"Venice",
+"Barcelona",
+"Bangkok",
+"Taipei",
 "Cairo",
-"Amsterdam",
-"Berlin"
+"Seattle",
+"Toronto",
+"Venice"
 ],
 "alt": [],
 "fib": true,
@@ -11273,13 +11193,13 @@
 "q": "Which city is this?",
 "a": "Bangkok",
 "w": [
-"Buenos Aires",
-"Berlin",
-"Istanbul",
-"Cairo",
-"Taipei",
+"Sydney",
+"Las Vegas",
+"New York",
+"London",
+"Mexico City",
 "Mumbai",
-"Rio de Janeiro"
+"Cairo"
 ],
 "alt": [],
 "fib": true,
@@ -11293,13 +11213,13 @@
 "q": "Which city is this?",
 "a": "Barcelona",
 "w": [
-"Amsterdam",
-"Berlin",
-"Mumbai",
-"Edinburgh",
-"Rio de Janeiro",
-"Prague",
-"Budapest"
+"Istanbul",
+"Mexico City",
+"Paris",
+"Athens",
+"Buenos Aires",
+"Kuala Lumpur",
+"Amsterdam"
 ],
 "alt": [],
 "fib": true,
@@ -11313,13 +11233,13 @@
 "q": "Which city is this?",
 "a": "Berlin",
 "w": [
-"Singapore",
-"Paris",
-"Budapest",
 "Sydney",
-"Istanbul",
-"Rio de Janeiro",
-"Buenos Aires"
+"Cape Town",
+"Venice",
+"Seattle",
+"Toronto",
+"Cairo",
+"Prague"
 ],
 "alt": [],
 "fib": true,
@@ -11333,13 +11253,13 @@
 "q": "Which city is this?",
 "a": "Budapest",
 "w": [
-"Cape Town",
-"London",
-"Singapore",
-"Venice",
-"Amsterdam",
-"New York",
-"Seattle"
+"Dubai",
+"Sydney",
+"Berlin",
+"Seoul",
+"Toronto",
+"Las Vegas",
+"Rome"
 ],
 "alt": [],
 "fib": true,
@@ -11353,13 +11273,13 @@
 "q": "Which city is this?",
 "a": "Buenos Aires",
 "w": [
-"Rio de Janeiro",
-"Edinburgh",
-"Mexico City",
-"Tokyo",
-"Istanbul",
-"Kuala Lumpur",
-"Barcelona"
+"Taipei",
+"London",
+"Dubai",
+"Sydney",
+"New York",
+"Moscow",
+"Toronto"
 ],
 "alt": [],
 "fib": true,
@@ -11373,13 +11293,13 @@
 "q": "Which city is this?",
 "a": "Cairo",
 "w": [
-"Rome",
-"Hong Kong",
-"Seattle",
-"San Francisco",
-"Seoul",
-"New York",
-"Sydney"
+"Sydney",
+"Taipei",
+"Vancouver",
+"Mexico City",
+"Istanbul",
+"Chicago",
+"Las Vegas"
 ],
 "alt": [],
 "fib": true,
@@ -11393,13 +11313,13 @@
 "q": "Which city is this?",
 "a": "Cape Town",
 "w": [
-"Las Vegas",
-"Budapest",
-"Mumbai",
-"Singapore",
 "Athens",
-"Istanbul",
-"Amsterdam"
+"Hong Kong",
+"Chicago",
+"San Francisco",
+"Cairo",
+"Barcelona",
+"Tokyo"
 ],
 "alt": [],
 "fib": true,
@@ -11413,13 +11333,13 @@
 "q": "Which city is this?",
 "a": "Chicago",
 "w": [
-"Seattle",
-"Berlin",
-"Sydney",
-"Barcelona",
-"Rome",
-"Athens",
-"Dubai"
+"Venice",
+"Amsterdam",
+"New York",
+"Bangkok",
+"Budapest",
+"Cairo",
+"Seattle"
 ],
 "alt": [],
 "fib": true,
@@ -11433,12 +11353,12 @@
 "q": "Which city is this?",
 "a": "Dubai",
 "w": [
-"Hong Kong",
-"Seattle",
-"Rio de Janeiro",
-"Sydney",
-"Las Vegas",
+"Bangkok",
+"Venice",
 "Kuala Lumpur",
+"San Francisco",
+"Singapore",
+"Buenos Aires",
 "Berlin"
 ],
 "alt": [],
@@ -11453,13 +11373,13 @@
 "q": "Which city is this?",
 "a": "Edinburgh",
 "w": [
-"Prague",
+"Chicago",
 "Barcelona",
-"Venice",
-"Amsterdam",
-"Hong Kong",
-"Seoul",
-"Rome"
+"Las Vegas",
+"Tokyo",
+"Cape Town",
+"New York",
+"Amsterdam"
 ],
 "alt": [],
 "fib": true,
@@ -11473,13 +11393,13 @@
 "q": "Which city is this?",
 "a": "Hong Kong",
 "w": [
-"Sydney",
-"Toronto",
+"Taipei",
+"Istanbul",
+"San Francisco",
+"Cairo",
+"Cape Town",
 "Berlin",
-"Vancouver",
-"Moscow",
-"Tokyo",
-"Taipei"
+"Chicago"
 ],
 "alt": [],
 "fib": true,
@@ -11493,13 +11413,13 @@
 "q": "Which city is this?",
 "a": "Istanbul",
 "w": [
-"Edinburgh",
-"Rome",
-"Seattle",
-"Mumbai",
-"Cairo",
-"Dubai",
-"Buenos Aires"
+"New York",
+"Vancouver",
+"Toronto",
+"Paris",
+"Kuala Lumpur",
+"Venice",
+"Athens"
 ],
 "alt": [],
 "fib": true,
@@ -11513,13 +11433,13 @@
 "q": "Which city is this?",
 "a": "Kuala Lumpur",
 "w": [
-"Prague",
-"Vancouver",
-"Hong Kong",
-"Chicago",
-"San Francisco",
-"Toronto",
-"Seattle"
+"Rio de Janeiro",
+"Buenos Aires",
+"New York",
+"Seattle",
+"Cairo",
+"Sydney",
+"Mumbai"
 ],
 "alt": [],
 "fib": true,
@@ -11534,12 +11454,12 @@
 "a": "Las Vegas",
 "w": [
 "Berlin",
-"Budapest",
-"Dubai",
-"Paris",
-"Cairo",
+"Amsterdam",
 "Mumbai",
-"Bangkok"
+"Athens",
+"Prague",
+"Buenos Aires",
+"Rio de Janeiro"
 ],
 "alt": [],
 "fib": true,
@@ -11553,13 +11473,13 @@
 "q": "Which city is this?",
 "a": "London",
 "w": [
-"Barcelona",
+"Singapore",
+"Berlin",
+"Budapest",
 "New York",
-"Cape Town",
-"Mexico City",
-"Prague",
-"Hong Kong",
-"Kuala Lumpur"
+"Paris",
+"Tokyo",
+"Seattle"
 ],
 "alt": [],
 "fib": true,
@@ -11573,13 +11493,13 @@
 "q": "Which city is this?",
 "a": "Mexico City",
 "w": [
-"Buenos Aires",
-"Kuala Lumpur",
-"Edinburgh",
-"Mumbai",
-"Seoul",
-"Venice",
-"Rio de Janeiro"
+"Cairo",
+"Rome",
+"Las Vegas",
+"Toronto",
+"Taipei",
+"Amsterdam",
+"Seoul"
 ],
 "alt": [],
 "fib": true,
@@ -11593,12 +11513,12 @@
 "q": "Which city is this?",
 "a": "Moscow",
 "w": [
-"Edinburgh",
-"Taipei",
-"Seattle",
-"Las Vegas",
-"San Francisco",
-"London",
+"Toronto",
+"Istanbul",
+"Seoul",
+"Budapest",
+"Venice",
+"Sydney",
 "Athens"
 ],
 "alt": [],
@@ -11613,13 +11533,13 @@
 "q": "Which city is this?",
 "a": "Mumbai",
 "w": [
-"Budapest",
-"Bangkok",
-"Istanbul",
-"Barcelona",
-"Kuala Lumpur",
-"Rio de Janeiro",
-"Sydney"
+"Rome",
+"Cape Town",
+"Taipei",
+"Paris",
+"Las Vegas",
+"Tokyo",
+"Buenos Aires"
 ],
 "alt": [],
 "fib": true,
@@ -11633,13 +11553,13 @@
 "q": "Which city is this?",
 "a": "New York",
 "w": [
-"Venice",
-"Cairo",
+"Seoul",
 "Mexico City",
-"Tokyo",
-"Budapest",
-"Paris",
-"Vancouver"
+"Moscow",
+"Venice",
+"Buenos Aires",
+"Toronto",
+"Istanbul"
 ],
 "alt": [],
 "fib": true,
@@ -11653,13 +11573,13 @@
 "q": "Which city is this?",
 "a": "Paris",
 "w": [
-"Istanbul",
-"Sydney",
-"Toronto",
-"Bangkok",
-"Rome",
-"Cairo",
-"Mexico City"
+"Singapore",
+"Berlin",
+"Tokyo",
+"Barcelona",
+"Moscow",
+"Athens",
+"Chicago"
 ],
 "alt": [],
 "fib": true,
@@ -11673,12 +11593,12 @@
 "q": "Which city is this?",
 "a": "Prague",
 "w": [
-"Dubai",
-"Vancouver",
-"Cape Town",
-"Taipei",
-"Seoul",
 "Edinburgh",
+"Seattle",
+"Rio de Janeiro",
+"Sydney",
+"Kuala Lumpur",
+"Istanbul",
 "Berlin"
 ],
 "alt": [],
@@ -11693,13 +11613,13 @@
 "q": "Which city is this?",
 "a": "Rio de Janeiro",
 "w": [
-"Cape Town",
-"Singapore",
-"Tokyo",
-"San Francisco",
 "Paris",
-"Istanbul",
-"Moscow"
+"Barcelona",
+"Venice",
+"Amsterdam",
+"Edinburgh",
+"Seoul",
+"Rome"
 ],
 "alt": [],
 "fib": true,
@@ -11713,13 +11633,13 @@
 "q": "Which city is this?",
 "a": "Rome",
 "w": [
-"Amsterdam",
-"Athens",
-"Cape Town",
-"Dubai",
-"Hong Kong",
-"Rio de Janeiro",
-"London"
+"Sydney",
+"Toronto",
+"Berlin",
+"Vancouver",
+"Mexico City",
+"Tokyo",
+"Taipei"
 ],
 "alt": [],
 "fib": true,
@@ -11733,13 +11653,13 @@
 "q": "Which city is this?",
 "a": "San Francisco",
 "w": [
-"Seattle",
-"London",
-"Cairo",
 "Edinburgh",
-"New York",
-"Prague",
-"Paris"
+"Rio de Janeiro",
+"Seattle",
+"Moscow",
+"Cairo",
+"Dubai",
+"Buenos Aires"
 ],
 "alt": [],
 "fib": true,
@@ -11753,13 +11673,13 @@
 "q": "Which city is this?",
 "a": "Seattle",
 "w": [
+"Paris",
 "Vancouver",
-"Rome",
-"Moscow",
 "Hong Kong",
-"Tokyo",
-"Istanbul",
-"Dubai"
+"Chicago",
+"Rome",
+"Toronto",
+"San Francisco"
 ],
 "alt": [],
 "fib": true,
@@ -11773,13 +11693,13 @@
 "q": "Which city is this?",
 "a": "Seoul",
 "w": [
-"London",
-"Toronto",
-"Mumbai",
-"Buenos Aires",
-"Mexico City",
+"Berlin",
 "Budapest",
-"Taipei"
+"Dubai",
+"New York",
+"Cairo",
+"Moscow",
+"Bangkok"
 ],
 "alt": [],
 "fib": true,
@@ -11793,13 +11713,13 @@
 "q": "Which city is this?",
 "a": "Singapore",
 "w": [
-"Vancouver",
-"Istanbul",
-"Toronto",
-"Bangkok",
-"Chicago",
-"Las Vegas",
-"Budapest"
+"Barcelona",
+"Mumbai",
+"Cape Town",
+"London",
+"Paris",
+"Hong Kong",
+"Kuala Lumpur"
 ],
 "alt": [],
 "fib": true,
@@ -11813,13 +11733,13 @@
 "q": "Which city is this?",
 "a": "Sydney",
 "w": [
-"Barcelona",
-"Hong Kong",
-"Mumbai",
-"San Francisco",
-"Singapore",
-"Cape Town",
-"Kuala Lumpur"
+"Buenos Aires",
+"Kuala Lumpur",
+"Edinburgh",
+"Moscow",
+"Seattle",
+"Venice",
+"Prague"
 ],
 "alt": [],
 "fib": true,
@@ -11833,13 +11753,13 @@
 "q": "Which city is this?",
 "a": "Taipei",
 "w": [
-"Hong Kong",
+"Edinburgh",
 "Sydney",
-"Dubai",
-"Vancouver",
-"Berlin",
-"Singapore",
-"Seoul"
+"San Francisco",
+"Las Vegas",
+"Rome",
+"London",
+"Athens"
 ],
 "alt": [],
 "fib": true,
@@ -11853,13 +11773,13 @@
 "q": "Which city is this?",
 "a": "Tokyo",
 "w": [
-"Edinburgh",
-"San Francisco",
-"Buenos Aires",
-"Sydney",
+"Budapest",
+"Bangkok",
 "Istanbul",
-"Athens",
-"Cairo"
+"Barcelona",
+"Kuala Lumpur",
+"Prague",
+"Singapore"
 ],
 "alt": [],
 "fib": true,
@@ -11873,13 +11793,13 @@
 "q": "Which city is this?",
 "a": "Toronto",
 "w": [
-"San Francisco",
-"Dubai",
-"Mumbai",
-"London",
-"Rome",
-"Istanbul",
-"Chicago"
+"Venice",
+"Cairo",
+"Mexico City",
+"Taipei",
+"Budapest",
+"New York",
+"Vancouver"
 ],
 "alt": [],
 "fib": true,
@@ -11893,13 +11813,13 @@
 "q": "Which city is this?",
 "a": "Vancouver",
 "w": [
-"Rome",
-"Venice",
-"Athens",
+"Istanbul",
+"Singapore",
+"Tokyo",
+"Bangkok",
+"Rio de Janeiro",
 "Cairo",
-"Las Vegas",
-"Buenos Aires",
-"Seoul"
+"Mexico City"
 ],
 "alt": [],
 "fib": true,
@@ -11913,13 +11833,13 @@
 "q": "Which city is this?",
 "a": "Venice",
 "w": [
-"Moscow",
-"Cape Town",
 "Dubai",
-"Istanbul",
-"Las Vegas",
-"Taipei",
-"Singapore"
+"Toronto",
+"Cape Town",
+"Sydney",
+"Seattle",
+"Edinburgh",
+"Berlin"
 ],
 "alt": [],
 "fib": true,
@@ -11933,13 +11853,13 @@
 "q": "Which Chinese city is this?",
 "a": "Beijing",
 "w": [
+"Shenyang",
+"Zhengzhou",
+"Nanjing",
+"Shanghai",
 "Suzhou",
-"Chongqing",
-"Tianjin",
-"Harbin",
-"Guangzhou",
 "Qingdao",
-"Wuhan"
+"Hangzhou"
 ],
 "alt": [],
 "fib": true,
@@ -11953,13 +11873,13 @@
 "q": "Which Chinese city is this?",
 "a": "Chengdu",
 "w": [
-"Chongqing",
-"Shenyang",
-"Beijing",
+"Shenzhen",
+"Nanjing",
+"Harbin",
 "Qingdao",
-"Tianjin",
-"Suzhou",
-"Xi'an"
+"Shanghai",
+"Guangzhou",
+"Zhengzhou"
 ],
 "alt": [],
 "fib": true,
@@ -11974,12 +11894,12 @@
 "a": "Chongqing",
 "w": [
 "Zhengzhou",
+"Chengdu",
+"Guangzhou",
 "Nanjing",
-"Shanghai",
 "Wuhan",
-"Hangzhou",
-"Shenyang",
-"Xi'an"
+"Suzhou",
+"Harbin"
 ],
 "alt": [],
 "fib": true,
@@ -11993,13 +11913,13 @@
 "q": "Which Chinese city is this?",
 "a": "Guangzhou",
 "w": [
-"Hangzhou",
 "Suzhou",
 "Xi'an",
-"Wuhan",
-"Tianjin",
+"Shenzhen",
+"Beijing",
 "Shenyang",
-"Chengdu"
+"Wuhan",
+"Nanjing"
 ],
 "alt": [],
 "fib": true,
@@ -12013,13 +11933,13 @@
 "q": "Which Chinese city is this?",
 "a": "Hangzhou",
 "w": [
-"Chengdu",
+"Zhengzhou",
 "Tianjin",
+"Chengdu",
 "Beijing",
-"Shanghai",
-"Shenzhen",
 "Suzhou",
-"Xi'an"
+"Shenyang",
+"Chongqing"
 ],
 "alt": [],
 "fib": true,
@@ -12033,13 +11953,13 @@
 "q": "Which Chinese city is this?",
 "a": "Harbin",
 "w": [
-"Beijing",
 "Qingdao",
-"Chengdu",
-"Suzhou",
+"Guangzhou",
+"Tianjin",
+"Shenyang",
+"Wuhan",
 "Nanjing",
-"Shanghai",
-"Shenyang"
+"Shanghai"
 ],
 "alt": [],
 "fib": true,
@@ -12053,11 +11973,11 @@
 "q": "Which Chinese city is this?",
 "a": "Nanjing",
 "w": [
-"Shenzhen",
-"Chongqing",
-"Beijing",
-"Wuhan",
 "Zhengzhou",
+"Shanghai",
+"Tianjin",
+"Beijing",
+"Qingdao",
 "Chengdu",
 "Guangzhou"
 ],
@@ -12073,12 +11993,12 @@
 "q": "Which Chinese city is this?",
 "a": "Qingdao",
 "w": [
-"Harbin",
-"Beijing",
+"Chongqing",
 "Shanghai",
-"Tianjin",
 "Guangzhou",
-"Chengdu",
+"Shenzhen",
+"Suzhou",
+"Shenyang",
 "Nanjing"
 ],
 "alt": [],
@@ -12093,13 +12013,13 @@
 "q": "Which Chinese city is this?",
 "a": "Shanghai",
 "w": [
+"Hangzhou",
+"Shenzhen",
+"Qingdao",
 "Zhengzhou",
-"Suzhou",
-"Chengdu",
-"Shenyang",
 "Nanjing",
-"Tianjin",
-"Harbin"
+"Harbin",
+"Guangzhou"
 ],
 "alt": [],
 "fib": true,
@@ -12113,13 +12033,13 @@
 "q": "Which Chinese city is this?",
 "a": "Shenyang",
 "w": [
-"Tianjin",
+"Qingdao",
+"Hangzhou",
 "Wuhan",
-"Guangzhou",
-"Shenzhen",
-"Harbin",
-"Zhengzhou",
-"Xi'an"
+"Suzhou",
+"Chengdu",
+"Chongqing",
+"Shanghai"
 ],
 "alt": [],
 "fib": true,
@@ -12134,12 +12054,12 @@
 "a": "Shenzhen",
 "w": [
 "Tianjin",
-"Chengdu",
-"Qingdao",
 "Wuhan",
+"Shanghai",
+"Chongqing",
+"Qingdao",
 "Guangzhou",
-"Beijing",
-"Harbin"
+"Suzhou"
 ],
 "alt": [],
 "fib": true,
@@ -12154,12 +12074,12 @@
 "a": "Suzhou",
 "w": [
 "Xi'an",
+"Shenyang",
+"Nanjing",
 "Tianjin",
-"Chengdu",
-"Wuhan",
-"Shanghai",
-"Harbin",
-"Hangzhou"
+"Guangzhou",
+"Beijing",
+"Harbin"
 ],
 "alt": [],
 "fib": true,
@@ -12173,13 +12093,13 @@
 "q": "Which Chinese city is this?",
 "a": "Tianjin",
 "w": [
-"Nanjing",
+"Qingdao",
+"Zhengzhou",
 "Chengdu",
 "Xi'an",
 "Shenzhen",
-"Beijing",
-"Guangzhou",
-"Shanghai"
+"Harbin",
+"Beijing"
 ],
 "alt": [],
 "fib": true,
@@ -12193,13 +12113,13 @@
 "q": "Which Chinese city is this?",
 "a": "Wuhan",
 "w": [
+"Chengdu",
+"Hangzhou",
 "Tianjin",
-"Suzhou",
 "Qingdao",
-"Shenzhen",
-"Chongqing",
-"Shenyang",
-"Shanghai"
+"Zhengzhou",
+"Harbin",
+"Chongqing"
 ],
 "alt": [],
 "fib": true,
@@ -12213,13 +12133,13 @@
 "q": "Which Chinese city is this?",
 "a": "Xi'an",
 "w": [
-"Wuhan",
+"Hangzhou",
+"Beijing",
 "Chongqing",
 "Chengdu",
-"Shanghai",
-"Tianjin",
-"Zhengzhou",
-"Nanjing"
+"Suzhou",
+"Nanjing",
+"Shenzhen"
 ],
 "alt": [],
 "fib": true,
@@ -12234,12 +12154,12 @@
 "a": "Zhengzhou",
 "w": [
 "Guangzhou",
-"Xi'an",
-"Hangzhou",
-"Suzhou",
+"Tianjin",
 "Wuhan",
-"Chongqing",
-"Shanghai"
+"Shenzhen",
+"Nanjing",
+"Shanghai",
+"Xi'an"
 ],
 "alt": [],
 "fib": true,
@@ -12253,13 +12173,13 @@
 "q": "Name this aircraft.",
 "a": "A-10 Warthog",
 "w": [
-"Avro Lancaster",
-"F-14 Tomcat",
 "MiG-21",
-"F-22 Raptor",
+"B-52 Stratofortress",
 "SR-71 Blackbird",
-"Avro Arrow",
-"Supermarine Spitfire"
+"F-14 Tomcat",
+"Eurofighter Typhoon",
+"MiG-29",
+"F-22 Raptor"
 ],
 "alt": [
 "A-10",
@@ -12277,13 +12197,13 @@
 "q": "Name this aircraft.",
 "a": "Airbus A380",
 "w": [
-"Wright Flyer",
 "Boeing 747",
+"Wright Flyer",
+"Boeing 737",
 "Douglas DC-3",
-"McDonnell Douglas DC-10",
-"Boeing 727",
 "Concorde",
-"Lockheed L-1011 TriStar"
+"Lockheed L-1011 TriStar",
+"McDonnell Douglas DC-10"
 ],
 "alt": [
 "A380"
@@ -12299,13 +12219,13 @@
 "q": "Name this aircraft.",
 "a": "Avro Arrow",
 "w": [
-"B-52 Stratofortress",
-"Eurofighter Typhoon",
-"F-16 Fighting Falcon",
-"B-2 Spirit",
+"SR-71 Blackbird",
+"A-10 Warthog",
 "Supermarine Spitfire",
-"MiG-21",
-"SR-71 Blackbird"
+"F-22 Raptor",
+"B-2 Spirit",
+"P-51 Mustang",
+"F-14 Tomcat"
 ],
 "alt": [
 "Arrow",
@@ -12322,12 +12242,12 @@
 "q": "Name this aircraft.",
 "a": "Avro Lancaster",
 "w": [
+"B-52 Stratofortress",
 "Supermarine Spitfire",
+"Avro Arrow",
+"F-14 Tomcat",
 "F-22 Raptor",
-"F-16 Fighting Falcon",
 "A-10 Warthog",
-"B-2 Spirit",
-"SR-71 Blackbird",
 "MiG-29"
 ],
 "alt": [
@@ -12345,12 +12265,12 @@
 "a": "B-2 Spirit",
 "w": [
 "B-52 Stratofortress",
-"F-16 Fighting Falcon",
+"Avro Lancaster",
+"A-10 Warthog",
 "Avro Arrow",
 "P-51 Mustang",
-"MiG-21",
-"Supermarine Spitfire",
-"Eurofighter Typhoon"
+"MiG-29",
+"F-16 Fighting Falcon"
 ],
 "alt": [
 "B-2",
@@ -12367,13 +12287,13 @@
 "q": "Name this aircraft.",
 "a": "B-52 Stratofortress",
 "w": [
-"P-51 Mustang",
 "SR-71 Blackbird",
+"Supermarine Spitfire",
 "MiG-21",
-"MiG-29",
-"B-2 Spirit",
 "F-16 Fighting Falcon",
-"A-10 Warthog"
+"A-10 Warthog",
+"F-22 Raptor",
+"Eurofighter Typhoon"
 ],
 "alt": [
 "B-52"
@@ -12390,12 +12310,12 @@
 "a": "Boeing 707",
 "w": [
 "Douglas DC-3",
-"Boeing 727",
-"Concorde",
-"Boeing 737",
 "Airbus A380",
 "Boeing 747",
-"Wright Flyer"
+"Concorde",
+"Lockheed L-1011 TriStar",
+"Boeing 737",
+"McDonnell Douglas DC-10"
 ],
 "alt": [
 "707"
@@ -12411,13 +12331,13 @@
 "q": "Name this aircraft.",
 "a": "Boeing 727",
 "w": [
+"Boeing 707",
+"Lockheed L-1011 TriStar",
+"Boeing 747",
+"Douglas DC-3",
 "Concorde",
 "Wright Flyer",
-"Boeing 747",
-"Boeing 737",
-"Boeing 707",
-"Airbus A380",
-"Lockheed L-1011 TriStar"
+"Boeing 737"
 ],
 "alt": [
 "727"
@@ -12433,13 +12353,13 @@
 "q": "Name this aircraft.",
 "a": "Boeing 737",
 "w": [
-"McDonnell Douglas DC-10",
-"Boeing 707",
 "Boeing 747",
+"Boeing 707",
 "Concorde",
-"Airbus A380",
-"Lockheed L-1011 TriStar",
-"Boeing 727"
+"Wright Flyer",
+"Douglas DC-3",
+"Boeing 727",
+"Lockheed L-1011 TriStar"
 ],
 "alt": [
 "737"
@@ -12455,12 +12375,12 @@
 "q": "Name this aircraft.",
 "a": "Boeing 747",
 "w": [
-"Airbus A380",
 "McDonnell Douglas DC-10",
+"Boeing 727",
 "Boeing 707",
 "Boeing 737",
-"Wright Flyer",
-"Boeing 727",
+"Airbus A380",
+"Douglas DC-3",
 "Lockheed L-1011 TriStar"
 ],
 "alt": [
@@ -12478,13 +12398,13 @@
 "q": "Name this aircraft.",
 "a": "Concorde",
 "w": [
-"McDonnell Douglas DC-10",
-"Boeing 737",
 "Boeing 707",
+"Airbus A380",
 "Boeing 747",
-"Lockheed L-1011 TriStar",
+"Boeing 737",
 "Boeing 727",
-"Douglas DC-3"
+"Douglas DC-3",
+"Lockheed L-1011 TriStar"
 ],
 "alt": [],
 "fib": true,
@@ -12498,13 +12418,13 @@
 "q": "Name this aircraft.",
 "a": "Douglas DC-3",
 "w": [
-"Lockheed L-1011 TriStar",
-"Boeing 707",
 "Boeing 737",
 "Wright Flyer",
+"Lockheed L-1011 TriStar",
 "Concorde",
-"Airbus A380",
-"Boeing 747"
+"Boeing 747",
+"McDonnell Douglas DC-10",
+"Airbus A380"
 ],
 "alt": [
 "DC-3",
@@ -12521,13 +12441,13 @@
 "q": "Name this aircraft.",
 "a": "Eurofighter Typhoon",
 "w": [
+"F-14 Tomcat",
 "Supermarine Spitfire",
-"Avro Lancaster",
-"MiG-21",
-"MiG-29",
-"B-2 Spirit",
-"P-51 Mustang",
-"B-52 Stratofortress"
+"Avro Arrow",
+"F-22 Raptor",
+"SR-71 Blackbird",
+"F-16 Fighting Falcon",
+"MiG-21"
 ],
 "alt": [
 "Typhoon",
@@ -12544,12 +12464,12 @@
 "q": "Name this aircraft.",
 "a": "F-14 Tomcat",
 "w": [
-"A-10 Warthog",
+"B-52 Stratofortress",
+"Avro Lancaster",
 "MiG-29",
-"Avro Arrow",
-"SR-71 Blackbird",
 "MiG-21",
-"F-22 Raptor",
+"P-51 Mustang",
+"A-10 Warthog",
 "Eurofighter Typhoon"
 ],
 "alt": [
@@ -12567,13 +12487,13 @@
 "q": "Name this aircraft.",
 "a": "F-16 Fighting Falcon",
 "w": [
-"F-22 Raptor",
-"Supermarine Spitfire",
-"B-2 Spirit",
+"MiG-29",
 "B-52 Stratofortress",
+"SR-71 Blackbird",
 "P-51 Mustang",
-"MiG-21",
-"A-10 Warthog"
+"F-14 Tomcat",
+"Supermarine Spitfire",
+"Avro Arrow"
 ],
 "alt": [
 "F-16",
@@ -12590,13 +12510,13 @@
 "q": "Name this aircraft.",
 "a": "F-22 Raptor",
 "w": [
-"P-51 Mustang",
-"F-16 Fighting Falcon",
-"A-10 Warthog",
+"Avro Arrow",
 "Supermarine Spitfire",
+"F-14 Tomcat",
 "Eurofighter Typhoon",
-"Avro Lancaster",
-"MiG-21"
+"F-16 Fighting Falcon",
+"B-2 Spirit",
+"MiG-29"
 ],
 "alt": [
 "Raptor",
@@ -12613,13 +12533,13 @@
 "q": "Name this aircraft.",
 "a": "Lockheed L-1011 TriStar",
 "w": [
-"Wright Flyer",
-"Airbus A380",
-"Boeing 747",
 "Douglas DC-3",
-"Concorde",
-"McDonnell Douglas DC-10",
-"Boeing 707"
+"Boeing 747",
+"Boeing 737",
+"Boeing 707",
+"Wright Flyer",
+"Boeing 727",
+"McDonnell Douglas DC-10"
 ],
 "alt": [
 "L-1011",
@@ -12637,13 +12557,13 @@
 "q": "Name this aircraft.",
 "a": "McDonnell Douglas DC-10",
 "w": [
-"Lockheed L-1011 TriStar",
-"Douglas DC-3",
-"Wright Flyer",
-"Concorde",
 "Airbus A380",
-"Boeing 747",
-"Boeing 727"
+"Douglas DC-3",
+"Boeing 737",
+"Boeing 727",
+"Wright Flyer",
+"Boeing 707",
+"Boeing 747"
 ],
 "alt": [
 "DC-10",
@@ -12660,13 +12580,13 @@
 "q": "Name this aircraft.",
 "a": "MiG-21",
 "w": [
-"MiG-29",
-"A-10 Warthog",
 "Eurofighter Typhoon",
-"B-2 Spirit",
+"P-51 Mustang",
 "B-52 Stratofortress",
-"Avro Lancaster",
-"F-14 Tomcat"
+"Avro Arrow",
+"Supermarine Spitfire",
+"SR-71 Blackbird",
+"B-2 Spirit"
 ],
 "alt": [
 "MiG 21"
@@ -12682,13 +12602,13 @@
 "q": "Name this aircraft.",
 "a": "MiG-29",
 "w": [
-"A-10 Warthog",
-"Avro Lancaster",
+"Eurofighter Typhoon",
 "P-51 Mustang",
-"Supermarine Spitfire",
-"F-16 Fighting Falcon",
 "Avro Arrow",
-"F-22 Raptor"
+"Avro Lancaster",
+"F-22 Raptor",
+"SR-71 Blackbird",
+"F-16 Fighting Falcon"
 ],
 "alt": [
 "MiG 29",
@@ -12705,13 +12625,13 @@
 "q": "Name this aircraft.",
 "a": "P-51 Mustang",
 "w": [
-"A-10 Warthog",
+"Supermarine Spitfire",
+"MiG-29",
 "F-22 Raptor",
-"F-16 Fighting Falcon",
+"Eurofighter Typhoon",
+"F-14 Tomcat",
 "MiG-21",
-"Avro Arrow",
-"B-52 Stratofortress",
-"MiG-29"
+"SR-71 Blackbird"
 ],
 "alt": [
 "Mustang",
@@ -12728,13 +12648,13 @@
 "q": "Name this aircraft.",
 "a": "SR-71 Blackbird",
 "w": [
-"B-52 Stratofortress",
 "B-2 Spirit",
-"MiG-21",
-"Eurofighter Typhoon",
-"Avro Lancaster",
 "F-14 Tomcat",
-"P-51 Mustang"
+"Avro Lancaster",
+"Avro Arrow",
+"F-16 Fighting Falcon",
+"MiG-29",
+"A-10 Warthog"
 ],
 "alt": [
 "SR-71",
@@ -12752,12 +12672,12 @@
 "a": "Supermarine Spitfire",
 "w": [
 "A-10 Warthog",
-"F-22 Raptor",
-"B-2 Spirit",
-"MiG-29",
+"Eurofighter Typhoon",
 "Avro Arrow",
-"B-52 Stratofortress",
-"MiG-21"
+"MiG-29",
+"F-16 Fighting Falcon",
+"F-22 Raptor",
+"SR-71 Blackbird"
 ],
 "alt": [
 "Spitfire"
@@ -12773,13 +12693,13 @@
 "q": "Name this aircraft.",
 "a": "Wright Flyer",
 "w": [
+"McDonnell Douglas DC-10",
+"Airbus A380",
 "Lockheed L-1011 TriStar",
-"Boeing 727",
 "Concorde",
 "Boeing 707",
-"McDonnell Douglas DC-10",
-"Douglas DC-3",
-"Airbus A380"
+"Boeing 737",
+"Boeing 727"
 ],
 "alt": [
 "Wright Flyer",
@@ -13796,13 +13716,13 @@
 "q": "Name this constellation.",
 "a": "Big Dipper",
 "w": [
-"Gemini",
-"Southern Cross",
-"Orion",
-"Lyra",
+"Leo",
 "Cassiopeia",
-"Scorpius",
-"Little Dipper"
+"Taurus",
+"Lyra",
+"Orion",
+"Southern Cross",
+"Pegasus"
 ],
 "alt": [
 "The Plough",
@@ -13820,11 +13740,11 @@
 "q": "Name this constellation.",
 "a": "Cassiopeia",
 "w": [
+"Lyra",
 "Scorpius",
-"Big Dipper",
-"Gemini",
-"Orion",
-"Southern Cross",
+"Little Dipper",
+"Cygnus",
+"Pegasus",
 "Taurus",
 "Leo"
 ],
@@ -13840,13 +13760,13 @@
 "q": "Name this constellation.",
 "a": "Cygnus",
 "w": [
-"Taurus",
-"Gemini",
-"Leo",
+"Scorpius",
+"Orion",
 "Cassiopeia",
-"Big Dipper",
+"Taurus",
 "Pegasus",
-"Scorpius"
+"Leo",
+"Gemini"
 ],
 "alt": [
 "Northern Cross",
@@ -13863,13 +13783,13 @@
 "q": "Name this constellation.",
 "a": "Gemini",
 "w": [
+"Orion",
 "Little Dipper",
-"Pegasus",
-"Scorpius",
-"Taurus",
+"Leo",
 "Southern Cross",
 "Lyra",
-"Cassiopeia"
+"Scorpius",
+"Big Dipper"
 ],
 "alt": [
 "The Twins"
@@ -13885,13 +13805,13 @@
 "q": "Name this constellation.",
 "a": "Leo",
 "w": [
+"Pegasus",
 "Big Dipper",
+"Cygnus",
 "Lyra",
-"Little Dipper",
-"Taurus",
-"Orion",
+"Scorpius",
 "Cassiopeia",
-"Southern Cross"
+"Gemini"
 ],
 "alt": [
 "The Lion"
@@ -13908,12 +13828,12 @@
 "a": "Little Dipper",
 "w": [
 "Taurus",
+"Cygnus",
+"Big Dipper",
+"Southern Cross",
 "Lyra",
 "Orion",
-"Big Dipper",
-"Cygnus",
-"Scorpius",
-"Cassiopeia"
+"Gemini"
 ],
 "alt": [
 "Ursa Minor"
@@ -13929,13 +13849,13 @@
 "q": "Name this constellation.",
 "a": "Lyra",
 "w": [
-"Little Dipper",
-"Cygnus",
-"Southern Cross",
-"Taurus",
 "Leo",
-"Pegasus",
-"Scorpius"
+"Southern Cross",
+"Big Dipper",
+"Taurus",
+"Little Dipper",
+"Orion",
+"Cygnus"
 ],
 "alt": [],
 "fib": true,
@@ -13949,13 +13869,13 @@
 "q": "Name this constellation.",
 "a": "Orion",
 "w": [
+"Lyra",
+"Cassiopeia",
 "Gemini",
-"Big Dipper",
+"Cygnus",
 "Southern Cross",
-"Little Dipper",
-"Scorpius",
-"Leo",
-"Cassiopeia"
+"Taurus",
+"Big Dipper"
 ],
 "alt": [
 "The Hunter"
@@ -13972,12 +13892,12 @@
 "a": "Pegasus",
 "w": [
 "Scorpius",
-"Little Dipper",
-"Southern Cross",
-"Gemini",
 "Orion",
+"Lyra",
+"Cygnus",
 "Taurus",
-"Leo"
+"Southern Cross",
+"Little Dipper"
 ],
 "alt": [],
 "fib": true,
@@ -13991,13 +13911,13 @@
 "q": "Name this constellation.",
 "a": "Scorpius",
 "w": [
-"Gemini",
-"Pegasus",
+"Orion",
+"Southern Cross",
 "Cassiopeia",
 "Lyra",
 "Taurus",
-"Southern Cross",
-"Leo"
+"Little Dipper",
+"Cygnus"
 ],
 "alt": [
 "Scorpio",
@@ -14014,13 +13934,13 @@
 "q": "Name this constellation.",
 "a": "Southern Cross",
 "w": [
+"Orion",
+"Scorpius",
 "Lyra",
-"Pegasus",
-"Big Dipper",
 "Little Dipper",
-"Leo",
-"Taurus",
-"Scorpius"
+"Gemini",
+"Big Dipper",
+"Cygnus"
 ],
 "alt": [
 "Crux"
@@ -14036,13 +13956,13 @@
 "q": "Name this constellation.",
 "a": "Taurus",
 "w": [
+"Gemini",
+"Scorpius",
 "Cassiopeia",
 "Orion",
-"Little Dipper",
-"Big Dipper",
 "Cygnus",
 "Lyra",
-"Scorpius"
+"Pegasus"
 ],
 "alt": [
 "The Bull"
@@ -14058,13 +13978,13 @@
 "q": "Name this famous painting.",
 "a": "Mona Lisa",
 "w": [
+"A Sunday on La Grande Jatte",
+"Wanderer above the Sea of Fog",
 "The Scream",
-"The Last Supper",
-"The Night Watch",
-"The Great Wave off Kanagawa",
 "The Persistence of Memory",
-"Water Lilies",
-"Impression, Sunrise"
+"Girl with a Pearl Earring",
+"The Kiss",
+"The Night Watch"
 ],
 "alt": [
 "La Gioconda",
@@ -14081,13 +14001,13 @@
 "q": "Name this famous painting.",
 "a": "The Starry Night",
 "w": [
-"The Kiss",
-"Sunflowers",
+"Whistler's Mother",
 "The Scream",
-"The Night Watch",
-"Liberty Leading the People",
-"A Sunday on La Grande Jatte",
-"Wanderer above the Sea of Fog"
+"The Creation of Adam",
+"The Great Wave off Kanagawa",
+"The Birth of Venus",
+"Sunflowers",
+"A Sunday on La Grande Jatte"
 ],
 "alt": [
 "Starry Night"
@@ -14103,13 +14023,13 @@
 "q": "Name this famous painting.",
 "a": "The Scream",
 "w": [
-"The Last Supper",
-"Water Lilies",
+"Whistler's Mother",
+"The Starry Night",
 "The Creation of Adam",
-"Wanderer above the Sea of Fog",
-"The Great Wave off Kanagawa",
+"Liberty Leading the People",
+"The Birth of Venus",
 "The Persistence of Memory",
-"Whistler's Mother"
+"Girl with a Pearl Earring"
 ],
 "alt": [
 "Scream"
@@ -14125,13 +14045,13 @@
 "q": "Name this famous painting.",
 "a": "The Great Wave off Kanagawa",
 "w": [
+"Impression, Sunrise",
 "Liberty Leading the People",
-"Las Meninas",
-"The Creation of Adam",
 "The Night Watch",
-"The Kiss",
-"Whistler's Mother",
-"The Starry Night"
+"Wanderer above the Sea of Fog",
+"Water Lilies",
+"Mona Lisa",
+"Sunflowers"
 ],
 "alt": [
 "The Great Wave",
@@ -14148,13 +14068,13 @@
 "q": "Name this famous painting.",
 "a": "Water Lilies",
 "w": [
-"Whistler's Mother",
-"Sunflowers",
-"The Kiss",
-"Las Meninas",
 "The Creation of Adam",
-"Mona Lisa",
-"The Scream"
+"The Great Wave off Kanagawa",
+"The Night Watch",
+"The Starry Night",
+"Wanderer above the Sea of Fog",
+"The Kiss",
+"Liberty Leading the People"
 ],
 "alt": [
 "Nympheas",
@@ -14171,13 +14091,13 @@
 "q": "Name this famous painting.",
 "a": "Girl with a Pearl Earring",
 "w": [
-"The Creation of Adam",
-"Las Meninas",
-"Whistler's Mother",
-"Water Lilies",
-"American Gothic",
+"Sunflowers",
+"The Birth of Venus",
 "A Sunday on La Grande Jatte",
-"Impression, Sunrise"
+"The Night Watch",
+"Liberty Leading the People",
+"Las Meninas",
+"The Great Wave off Kanagawa"
 ],
 "alt": [
 "The Girl with a Pearl Earring"
@@ -14193,13 +14113,13 @@
 "q": "Name this famous painting.",
 "a": "American Gothic",
 "w": [
-"Girl with a Pearl Earring",
-"The Scream",
-"Whistler's Mother",
-"Impression, Sunrise",
+"A Sunday on La Grande Jatte",
 "The Creation of Adam",
-"The Starry Night",
-"Sunflowers"
+"Liberty Leading the People",
+"Sunflowers",
+"Mona Lisa",
+"The Great Wave off Kanagawa",
+"Girl with a Pearl Earring"
 ],
 "alt": [],
 "fib": true,
@@ -14213,13 +14133,13 @@
 "q": "Name this famous painting.",
 "a": "Sunflowers",
 "w": [
-"The Creation of Adam",
-"The Last Supper",
-"The Scream",
-"The Birth of Venus",
 "Mona Lisa",
+"A Sunday on La Grande Jatte",
+"The Last Supper",
+"Whistler's Mother",
 "Las Meninas",
-"Girl with a Pearl Earring"
+"The Night Watch",
+"The Starry Night"
 ],
 "alt": [
 "The Sunflowers"
@@ -14235,13 +14155,13 @@
 "q": "Name this famous painting.",
 "a": "The Last Supper",
 "w": [
-"Whistler's Mother",
 "Las Meninas",
-"American Gothic",
-"Sunflowers",
+"Mona Lisa",
+"Girl with a Pearl Earring",
+"Whistler's Mother",
 "The Birth of Venus",
-"Impression, Sunrise",
-"The Night Watch"
+"Sunflowers",
+"Impression, Sunrise"
 ],
 "alt": [
 "Last Supper"
@@ -14258,12 +14178,12 @@
 "a": "The Creation of Adam",
 "w": [
 "The Night Watch",
-"The Kiss",
-"Girl with a Pearl Earring",
-"The Starry Night",
-"A Sunday on La Grande Jatte",
+"The Birth of Venus",
+"Wanderer above the Sea of Fog",
+"Liberty Leading the People",
 "Mona Lisa",
-"Whistler's Mother"
+"A Sunday on La Grande Jatte",
+"American Gothic"
 ],
 "alt": [
 "Creation of Adam"
@@ -14279,13 +14199,13 @@
 "q": "Name this famous painting.",
 "a": "Whistler's Mother",
 "w": [
+"The Last Supper",
+"A Sunday on La Grande Jatte",
 "Water Lilies",
-"American Gothic",
 "Girl with a Pearl Earring",
-"Sunflowers",
-"The Creation of Adam",
-"The Starry Night",
-"Wanderer above the Sea of Fog"
+"The Scream",
+"The Great Wave off Kanagawa",
+"American Gothic"
 ],
 "alt": [
 "Arrangement in Grey and Black"
@@ -14301,13 +14221,13 @@
 "q": "Name this famous painting.",
 "a": "Wanderer above the Sea of Fog",
 "w": [
+"Sunflowers",
+"Mona Lisa",
+"The Starry Night",
 "Water Lilies",
-"The Great Wave off Kanagawa",
 "Whistler's Mother",
-"The Scream",
-"The Last Supper",
-"A Sunday on La Grande Jatte",
-"The Creation of Adam"
+"The Persistence of Memory",
+"A Sunday on La Grande Jatte"
 ],
 "alt": [
 "Wanderer above the Sea of Mist"
@@ -14323,13 +14243,13 @@
 "q": "Name this famous painting.",
 "a": "The Kiss",
 "w": [
-"The Creation of Adam",
+"The Persistence of Memory",
 "Impression, Sunrise",
-"Sunflowers",
-"Mona Lisa",
-"The Birth of Venus",
-"The Night Watch",
-"A Sunday on La Grande Jatte"
+"Liberty Leading the People",
+"The Scream",
+"Girl with a Pearl Earring",
+"Whistler's Mother",
+"The Great Wave off Kanagawa"
 ],
 "alt": [
 "Kiss"
@@ -14345,13 +14265,13 @@
 "q": "Name this famous painting.",
 "a": "Impression, Sunrise",
 "w": [
-"Whistler's Mother",
-"The Kiss",
-"A Sunday on La Grande Jatte",
-"The Birth of Venus",
-"The Scream",
-"The Night Watch",
-"The Starry Night"
+"Sunflowers",
+"Mona Lisa",
+"The Creation of Adam",
+"The Starry Night",
+"Water Lilies",
+"The Persistence of Memory",
+"Wanderer above the Sea of Fog"
 ],
 "alt": [
 "Impression Sunrise"
@@ -14367,13 +14287,13 @@
 "q": "Name this famous painting.",
 "a": "A Sunday on La Grande Jatte",
 "w": [
-"The Night Watch",
-"Water Lilies",
-"The Scream",
-"The Birth of Venus",
-"The Persistence of Memory",
 "Wanderer above the Sea of Fog",
-"The Last Supper"
+"The Kiss",
+"Girl with a Pearl Earring",
+"The Creation of Adam",
+"The Birth of Venus",
+"Mona Lisa",
+"The Night Watch"
 ],
 "alt": [
 "Sunday on La Grande Jatte",
@@ -14390,13 +14310,13 @@
 "q": "Name this famous painting.",
 "a": "Liberty Leading the People",
 "w": [
-"The Last Supper",
-"Whistler's Mother",
 "Water Lilies",
+"The Starry Night",
+"The Last Supper",
+"Mona Lisa",
+"The Night Watch",
 "The Great Wave off Kanagawa",
-"American Gothic",
-"Wanderer above the Sea of Fog",
-"The Birth of Venus"
+"Sunflowers"
 ],
 "alt": [],
 "fib": true,
@@ -14410,13 +14330,13 @@
 "q": "Which artist painted this?",
 "a": "Henri Matisse",
 "w": [
-"Pierre-Auguste Renoir",
-"Vincent van Gogh",
-"Salvador Dali",
-"Claude Monet",
+"Rembrandt",
 "Pablo Picasso",
-"Wassily Kandinsky",
-"Rembrandt"
+"Pierre-Auguste Renoir",
+"Gustav Klimt",
+"Paul Gauguin",
+"Edgar Degas",
+"J. M. W. Turner"
 ],
 "alt": [
 "Matisse"
@@ -14432,13 +14352,13 @@
 "q": "Which artist painted this?",
 "a": "Wassily Kandinsky",
 "w": [
-"Pierre-Auguste Renoir",
-"Vincent van Gogh",
-"Paul Gauguin",
-"Henri Matisse",
-"J. M. W. Turner",
+"Edvard Munch",
+"Claude Monet",
+"Edgar Degas",
 "Pablo Picasso",
-"Salvador Dali"
+"Henri Matisse",
+"Paul Cezanne",
+"Gustav Klimt"
 ],
 "alt": [
 "Kandinsky"
@@ -14454,13 +14374,13 @@
 "q": "Whose self-portrait is this?",
 "a": "Vincent van Gogh",
 "w": [
-"Salvador Dali",
-"Edvard Munch",
-"Paul Cezanne",
+"Henri Matisse",
 "Rembrandt",
+"J. M. W. Turner",
+"Wassily Kandinsky",
 "Edgar Degas",
-"Pablo Picasso",
-"Piet Mondrian"
+"Edvard Munch",
+"Salvador Dali"
 ],
 "alt": [
 "Van Gogh"
@@ -14476,13 +14396,13 @@
 "q": "Which artist painted this?",
 "a": "J. M. W. Turner",
 "w": [
-"Rembrandt",
-"Edgar Degas",
-"Vincent van Gogh",
+"Henri Matisse",
+"Claude Monet",
 "Gustav Klimt",
-"Pierre-Auguste Renoir",
+"Paul Cezanne",
+"Rembrandt",
 "Wassily Kandinsky",
-"Henri Matisse"
+"Edgar Degas"
 ],
 "alt": [
 "Turner",
@@ -14500,13 +14420,13 @@
 "q": "Which artist painted this?",
 "a": "Paul Cezanne",
 "w": [
-"Edvard Munch",
-"Rembrandt",
-"Piet Mondrian",
+"Wassily Kandinsky",
+"J. M. W. Turner",
+"Paul Gauguin",
+"Pierre-Auguste Renoir",
 "Salvador Dali",
 "Henri Matisse",
-"Vincent van Gogh",
-"Edgar Degas"
+"Gustav Klimt"
 ],
 "alt": [
 "Cezanne",
@@ -14523,13 +14443,13 @@
 "q": "Which artist painted this?",
 "a": "Piet Mondrian",
 "w": [
-"Edgar Degas",
-"Pierre-Auguste Renoir",
-"Rembrandt",
-"Pablo Picasso",
-"Henri Matisse",
+"Paul Cezanne",
 "Salvador Dali",
-"Paul Cezanne"
+"Henri Matisse",
+"Edvard Munch",
+"J. M. W. Turner",
+"Wassily Kandinsky",
+"Edgar Degas"
 ],
 "alt": [
 "Mondrian"
@@ -14545,13 +14465,13 @@
 "q": "Name this famous ship.",
 "a": "RMS Titanic",
 "w": [
-"Mayflower",
-"Bismarck",
-"Mary Rose",
-"Golden Hind",
-"Queen Elizabeth 2",
 "Santa Maria",
-"Yamato"
+"RMS Queen Mary",
+"Queen Elizabeth 2",
+"Mayflower",
+"HMS Endeavour",
+"HMS Hood",
+"Cutty Sark"
 ],
 "alt": [
 "Titanic"
@@ -14567,13 +14487,13 @@
 "q": "Name this famous ship.",
 "a": "RMS Queen Mary",
 "w": [
-"USS Missouri",
-"Golden Hind",
-"Yamato",
-"HMS Endeavour",
-"Santa Maria",
 "HMS Hood",
-"Queen Elizabeth 2"
+"Mayflower",
+"Golden Hind",
+"HMS Endeavour",
+"USS Missouri",
+"Queen Elizabeth 2",
+"Yamato"
 ],
 "alt": [
 "Queen Mary"
@@ -14589,12 +14509,12 @@
 "q": "Name this famous ship.",
 "a": "Bismarck",
 "w": [
-"Santa Maria",
+"Mayflower",
 "Queen Elizabeth 2",
+"USS Missouri",
+"Yamato",
 "HMS Hood",
 "RMS Queen Mary",
-"Golden Hind",
-"USS Missouri",
 "HMS Victory"
 ],
 "alt": [
@@ -14611,13 +14531,13 @@
 "q": "Name this famous ship.",
 "a": "USS Missouri",
 "w": [
-"HMS Hood",
+"Cutty Sark",
 "RMS Queen Mary",
-"Golden Hind",
-"Mayflower",
-"Yamato",
+"Santa Maria",
 "HMS Victory",
-"Queen Elizabeth 2"
+"HMS Endeavour",
+"Queen Elizabeth 2",
+"Mary Rose"
 ],
 "alt": [
 "Missouri",
@@ -14634,13 +14554,13 @@
 "q": "Name this famous ship.",
 "a": "Mayflower",
 "w": [
-"HMS Endeavour",
+"Bismarck",
 "Queen Elizabeth 2",
+"HMS Victory",
 "Cutty Sark",
-"USS Missouri",
-"Golden Hind",
-"HMS Hood",
-"Yamato"
+"Yamato",
+"RMS Titanic",
+"HMS Endeavour"
 ],
 "alt": [
 "The Mayflower"
@@ -14656,13 +14576,13 @@
 "q": "Name this famous ship.",
 "a": "HMS Victory",
 "w": [
+"Yamato",
 "USS Missouri",
-"RMS Queen Mary",
-"Mary Rose",
+"HMS Endeavour",
+"Bismarck",
 "Golden Hind",
-"Queen Elizabeth 2",
 "Santa Maria",
-"Bismarck"
+"RMS Titanic"
 ],
 "alt": [
 "Victory"
@@ -14678,13 +14598,13 @@
 "q": "Name this famous ship.",
 "a": "Cutty Sark",
 "w": [
-"Golden Hind",
-"USS Missouri",
-"Santa Maria",
+"HMS Hood",
 "Mayflower",
-"Bismarck",
+"HMS Endeavour",
 "Yamato",
-"Mary Rose"
+"Bismarck",
+"RMS Queen Mary",
+"Queen Elizabeth 2"
 ],
 "alt": [
 "The Cutty Sark"
@@ -14701,11 +14621,11 @@
 "a": "Aircraft carrier",
 "w": [
 "Viking longship",
-"Canoe",
-"U-boat",
 "Greek trireme",
-"Spanish galleon",
-"Chinese junk",
+"U-boat",
+"Gondola",
+"Destroyer",
+"Paddle steamer",
 "Clipper ship"
 ],
 "alt": [
@@ -14722,13 +14642,13 @@
 "q": "What type of ship is this?",
 "a": "U-boat",
 "w": [
+"Hovercraft",
 "Chinese junk",
-"Canoe",
-"Dhow",
-"Greek trireme",
-"Spanish galleon",
+"Paddle steamer",
+"Destroyer",
 "Clipper ship",
-"Hovercraft"
+"Canoe",
+"Aircraft carrier"
 ],
 "alt": [
 "Submarine",
@@ -14746,13 +14666,13 @@
 "q": "What type of ship is this?",
 "a": "Viking longship",
 "w": [
-"U-boat",
+"Chinese junk",
 "Destroyer",
-"Aircraft carrier",
+"Greek trireme",
+"Hovercraft",
+"Paddle steamer",
 "Dhow",
-"Gondola",
-"Canoe",
-"Greek trireme"
+"Canoe"
 ],
 "alt": [
 "Longship",
@@ -14769,13 +14689,13 @@
 "q": "What type of ship is this?",
 "a": "Chinese junk",
 "w": [
-"Greek trireme",
-"Clipper ship",
-"Spanish galleon",
-"Canoe",
 "U-boat",
-"Dhow",
-"Viking longship"
+"Aircraft carrier",
+"Canoe",
+"Spanish galleon",
+"Viking longship",
+"Greek trireme",
+"Destroyer"
 ],
 "alt": [
 "Junk"
@@ -14792,12 +14712,12 @@
 "a": "Paddle steamer",
 "w": [
 "Spanish galleon",
-"Clipper ship",
-"Aircraft carrier",
-"Chinese junk",
-"Hovercraft",
+"Viking longship",
+"Dhow",
+"Gondola",
+"Destroyer",
 "U-boat",
-"Viking longship"
+"Hovercraft"
 ],
 "alt": [
 "Riverboat",
@@ -14816,13 +14736,13 @@
 "q": "What type of ship is this?",
 "a": "Greek trireme",
 "w": [
-"Chinese junk",
-"Paddle steamer",
-"Spanish galleon",
-"Destroyer",
-"Clipper ship",
 "Hovercraft",
-"Canoe"
+"Gondola",
+"U-boat",
+"Canoe",
+"Paddle steamer",
+"Viking longship",
+"Spanish galleon"
 ],
 "alt": [
 "Trireme"
@@ -14838,13 +14758,13 @@
 "q": "Name this war machine.",
 "a": "Mark I tank",
 "w": [
-"Churchill tank",
-"Big Bertha",
+"Leopard 2",
+"Challenger 2",
 "Jeep",
-"Renault FT",
-"Panther tank",
-"Centurion tank",
-"M1 Abrams"
+"Panzer IV",
+"T-34",
+"M1 Abrams",
+"Big Bertha"
 ],
 "alt": [
 "Mark I",
@@ -14862,13 +14782,13 @@
 "q": "Name this war machine.",
 "a": "Renault FT",
 "w": [
-"Sherman tank",
-"Challenger 2",
-"Churchill tank",
-"Jeep",
+"T-34",
+"Centurion tank",
 "Panzer IV",
-"M1 Abrams",
-"Big Bertha"
+"Panther tank",
+"Big Bertha",
+"Leopard 2",
+"Tiger tank"
 ],
 "alt": [
 "FT-17",
@@ -14885,13 +14805,13 @@
 "q": "Name this war machine.",
 "a": "Tiger tank",
 "w": [
-"T-34",
 "Renault FT",
-"M1 Abrams",
-"Jeep",
-"Centurion tank",
 "Paris Gun",
-"Humvee"
+"Humvee",
+"Mark I tank",
+"Jeep",
+"Panzer IV",
+"Leopard 2"
 ],
 "alt": [
 "Tiger",
@@ -14908,13 +14828,13 @@
 "q": "Name this war machine.",
 "a": "T-34",
 "w": [
-"Mark I tank",
-"Renault FT",
-"Centurion tank",
-"Paris Gun",
+"Sherman tank",
+"Leopard 2",
+"Big Bertha",
 "Challenger 2",
-"Humvee",
-"Churchill tank"
+"Panzer IV",
+"Renault FT",
+"Paris Gun"
 ],
 "alt": [
 "T34",
@@ -14931,13 +14851,13 @@
 "q": "Name this war machine.",
 "a": "Sherman tank",
 "w": [
-"Centurion tank",
-"Mark I tank",
-"Challenger 2",
-"Panther tank",
+"M1 Abrams",
 "Renault FT",
-"Humvee",
-"Leopard 2"
+"Panther tank",
+"Paris Gun",
+"Leopard 2",
+"Panzer IV",
+"Centurion tank"
 ],
 "alt": [
 "Sherman",
@@ -14954,13 +14874,13 @@
 "q": "Name this war machine.",
 "a": "M1 Abrams",
 "w": [
-"Jeep",
-"Leopard 2",
-"Mark I tank",
-"Churchill tank",
-"Centurion tank",
+"Sherman tank",
 "T-34",
-"Renault FT"
+"Challenger 2",
+"Tiger tank",
+"Churchill tank",
+"Humvee",
+"Leopard 2"
 ],
 "alt": [
 "Abrams",
@@ -14977,13 +14897,13 @@
 "q": "Name this war machine.",
 "a": "Jeep",
 "w": [
-"Big Bertha",
-"Renault FT",
-"Mark I tank",
-"Paris Gun",
+"M1 Abrams",
+"Churchill tank",
+"Leopard 2",
 "Panzer IV",
-"T-34",
-"Tiger tank"
+"Challenger 2",
+"Mark I tank",
+"T-34"
 ],
 "alt": [
 "Willys Jeep",
@@ -15000,13 +14920,13 @@
 "q": "Name this war machine.",
 "a": "Big Bertha",
 "w": [
+"Leopard 2",
 "T-34",
-"Panther tank",
+"Paris Gun",
+"Sherman tank",
 "Jeep",
-"Mark I tank",
-"Centurion tank",
-"M1 Abrams",
-"Churchill tank"
+"Renault FT",
+"Challenger 2"
 ],
 "alt": [],
 "fib": true,
@@ -15020,13 +14940,13 @@
 "q": "Name this spacecraft.",
 "a": "Space Shuttle",
 "w": [
-"Perseverance rover",
+"Saturn V",
+"V-2 rocket",
 "New Horizons",
-"Tiangong",
-"Sputnik 1",
-"Mir",
-"Hubble Space Telescope",
-"Skylab"
+"Cassini",
+"Gemini capsule",
+"Viking lander",
+"James Webb Space Telescope"
 ],
 "alt": [
 "Shuttle",
@@ -15043,13 +14963,13 @@
 "q": "Name this spacecraft.",
 "a": "Apollo Lunar Module",
 "w": [
+"New Horizons",
+"Skylab",
+"James Webb Space Telescope",
+"Mir",
+"Gemini capsule",
 "Apollo command and service module",
-"Viking lander",
-"Falcon 9",
-"International Space Station",
-"Perseverance rover",
-"Tiangong",
-"Mir"
+"Falcon 9"
 ],
 "alt": [
 "Lunar Module",
@@ -15068,13 +14988,13 @@
 "q": "Name this spacecraft.",
 "a": "Hubble Space Telescope",
 "w": [
-"Vostok 1",
-"International Space Station",
+"New Horizons",
 "Skylab",
+"Apollo command and service module",
+"International Space Station",
+"Space Shuttle",
 "Saturn V",
-"Apollo Lunar Module",
-"Viking lander",
-"Perseverance rover"
+"Apollo Lunar Module"
 ],
 "alt": [
 "Hubble"
@@ -15090,13 +15010,13 @@
 "q": "Name this spacecraft.",
 "a": "International Space Station",
 "w": [
+"James Webb Space Telescope",
+"Gemini capsule",
+"Perseverance rover",
 "Space Shuttle",
 "Apollo command and service module",
-"Voyager probe",
-"Perseverance rover",
-"Vostok 1",
-"Cassini",
-"New Horizons"
+"V-2 rocket",
+"Tiangong"
 ],
 "alt": [
 "ISS",
@@ -15113,13 +15033,13 @@
 "q": "Name this spacecraft.",
 "a": "Skylab",
 "w": [
-"Perseverance rover",
-"Saturn V",
-"Gemini capsule",
+"V-2 rocket",
+"Cassini",
+"Hubble Space Telescope",
 "Apollo command and service module",
-"International Space Station",
-"Space Shuttle",
-"Tiangong"
+"Falcon 9",
+"Voyager probe",
+"Sputnik 1"
 ],
 "alt": [],
 "fib": true,
@@ -15133,13 +15053,13 @@
 "q": "Name this spacecraft.",
 "a": "Voyager probe",
 "w": [
-"Apollo Lunar Module",
-"Sputnik 1",
-"V-2 rocket",
-"Mir",
-"James Webb Space Telescope",
+"Vostok 1",
 "Soyuz spacecraft",
-"Space Shuttle"
+"Mir",
+"Space Shuttle",
+"Skylab",
+"Saturn V",
+"Cassini"
 ],
 "alt": [
 "Voyager",
@@ -15157,13 +15077,13 @@
 "q": "Name this spacecraft.",
 "a": "Viking lander",
 "w": [
-"Skylab",
-"Voyager probe",
-"New Horizons",
-"Soyuz spacecraft",
-"James Webb Space Telescope",
+"International Space Station",
+"Apollo Lunar Module",
 "Mir",
-"Gemini capsule"
+"New Horizons",
+"Gemini capsule",
+"Sputnik 1",
+"Falcon 9"
 ],
 "alt": [
 "Viking",
@@ -15180,13 +15100,13 @@
 "q": "Name this spacecraft.",
 "a": "Perseverance rover",
 "w": [
-"V-2 rocket",
-"Mir",
-"Sputnik 1",
-"Cassini",
+"Voyager probe",
+"Saturn V",
+"Gemini capsule",
+"International Space Station",
 "James Webb Space Telescope",
-"Skylab",
-"Apollo Lunar Module"
+"Cassini",
+"Skylab"
 ],
 "alt": [
 "Perseverance",
@@ -15203,13 +15123,13 @@
 "q": "Name this spacecraft.",
 "a": "Sputnik 1",
 "w": [
-"Saturn V",
-"Voyager probe",
+"Vostok 1",
 "Skylab",
-"Falcon 9",
+"James Webb Space Telescope",
+"Tiangong",
 "Apollo Lunar Module",
-"Perseverance rover",
-"Tiangong"
+"Mir",
+"Viking lander"
 ],
 "alt": [
 "Sputnik"
@@ -15225,12 +15145,12 @@
 "q": "Name this spacecraft.",
 "a": "Falcon 9",
 "w": [
-"James Webb Space Telescope",
+"Perseverance rover",
+"Hubble Space Telescope",
 "Voyager probe",
-"Apollo Lunar Module",
-"New Horizons",
-"Sputnik 1",
-"Vostok 1",
+"International Space Station",
+"Cassini",
+"Soyuz spacecraft",
 "V-2 rocket"
 ],
 "alt": [
@@ -15248,13 +15168,13 @@
 "q": "Name this spacecraft.",
 "a": "V-2 rocket",
 "w": [
-"Voyager probe",
-"Mir",
-"Space Shuttle",
-"Vostok 1",
+"Hubble Space Telescope",
+"Apollo Lunar Module",
+"International Space Station",
+"James Webb Space Telescope",
 "Viking lander",
-"Sputnik 1",
-"Apollo command and service module"
+"Cassini",
+"Perseverance rover"
 ],
 "alt": [
 "V-2",
@@ -15272,13 +15192,13 @@
 "q": "Name this spacecraft.",
 "a": "Apollo command and service module",
 "w": [
-"Viking lander",
 "New Horizons",
-"Vostok 1",
-"Saturn V",
-"James Webb Space Telescope",
-"Perseverance rover",
-"Skylab"
+"Tiangong",
+"Space Shuttle",
+"Skylab",
+"Gemini capsule",
+"Voyager probe",
+"Hubble Space Telescope"
 ],
 "alt": [
 "Apollo",
@@ -15298,13 +15218,13 @@
 "q": "Name this spacecraft.",
 "a": "Soyuz spacecraft",
 "w": [
-"Vostok 1",
-"Saturn V",
-"Viking lander",
-"Space Shuttle",
+"V-2 rocket",
 "Voyager probe",
-"New Horizons",
-"Mir"
+"Skylab",
+"Sputnik 1",
+"Saturn V",
+"Apollo command and service module",
+"Falcon 9"
 ],
 "alt": [
 "Soyuz"
@@ -15320,13 +15240,13 @@
 "q": "Name this famous train.",
 "a": "Stephenson's Rocket",
 "w": [
-"Flying Scotsman",
-"Maglev",
+"The General",
+"Eurostar",
+"Royal Scot",
 "Shinkansen",
-"Locomotion No. 1",
 "City of Truro",
 "Big Boy",
-"Orient Express"
+"Puffing Billy"
 ],
 "alt": [
 "Rocket",
@@ -15345,12 +15265,12 @@
 "a": "Flying Scotsman",
 "w": [
 "The General",
-"Mallard",
+"Puffing Billy",
+"Stephenson's Rocket",
 "City of Truro",
-"Eurostar",
-"Big Boy",
+"Orient Express",
 "Locomotion No. 1",
-"Orient Express"
+"Shinkansen"
 ],
 "alt": [
 "The Flying Scotsman"
@@ -15366,13 +15286,13 @@
 "q": "Name this famous train.",
 "a": "Mallard",
 "w": [
-"City of Truro",
-"Flying Scotsman",
-"Acela",
-"Locomotion No. 1",
 "Eurostar",
-"Maglev",
-"Big Boy"
+"Big Boy",
+"The General",
+"TGV",
+"Puffing Billy",
+"Orient Express",
+"Acela"
 ],
 "alt": [
 "LNER Mallard",
@@ -15389,13 +15309,13 @@
 "q": "Name this famous train.",
 "a": "Shinkansen",
 "w": [
-"Flying Scotsman",
-"Orient Express",
-"Big Boy",
-"TGV",
-"Acela",
+"City of Truro",
 "Puffing Billy",
-"Maglev"
+"Orient Express",
+"TGV",
+"Big Boy",
+"Stephenson's Rocket",
+"The General"
 ],
 "alt": [
 "Bullet train",
@@ -15413,13 +15333,13 @@
 "q": "Name this famous train.",
 "a": "Eurostar",
 "w": [
-"Acela",
+"Orient Express",
+"Big Boy",
+"Mallard",
+"TGV",
 "The General",
-"City of Truro",
-"Shinkansen",
-"Puffing Billy",
 "Maglev",
-"Big Boy"
+"Flying Scotsman"
 ],
 "alt": [],
 "fib": true,
@@ -15433,13 +15353,13 @@
 "q": "Name this famous train.",
 "a": "Big Boy",
 "w": [
-"Acela",
+"Mallard",
 "Royal Scot",
-"Maglev",
-"City of Truro",
+"TGV",
+"Flying Scotsman",
+"Locomotion No. 1",
 "Eurostar",
-"The General",
-"Flying Scotsman"
+"City of Truro"
 ],
 "alt": [
 "Union Pacific Big Boy"
@@ -15455,13 +15375,13 @@
 "q": "Name this famous train.",
 "a": "The General",
 "w": [
-"Flying Scotsman",
-"Mallard",
-"Big Boy",
+"Stephenson's Rocket",
+"Royal Scot",
 "Eurostar",
 "Shinkansen",
-"TGV",
-"Stephenson's Rocket"
+"Locomotion No. 1",
+"Acela",
+"TGV"
 ],
 "alt": [
 "General"
@@ -15477,13 +15397,13 @@
 "q": "Name this island.",
 "a": "Baffin Island",
 "w": [
+"Borneo",
+"Greenland",
 "Tasmania",
-"Sumatra",
+"Luzon",
 "Sardinia",
 "Long Island",
-"Borneo",
-"Honshu",
-"Kyushu"
+"Corsica"
 ],
 "alt": [
 "Baffin"
@@ -15499,13 +15419,13 @@
 "q": "Name this island.",
 "a": "Borneo",
 "w": [
-"Greenland",
-"Sardinia",
-"Mallorca",
-"Victoria Island",
-"Sumatra",
-"North Island (New Zealand)",
-"Hokkaido"
+"Great Britain",
+"Java",
+"Sakhalin",
+"Crete",
+"Luzon",
+"Newfoundland",
+"Baffin Island"
 ],
 "alt": [],
 "fib": true,
@@ -15519,13 +15439,13 @@
 "q": "Name this island.",
 "a": "Corsica",
 "w": [
-"South Island (New Zealand)",
-"Victoria Island",
-"Hawaii (Big Island)",
-"Mallorca",
-"Sardinia",
+"Java",
+"Sicily",
+"Great Britain",
+"Hokkaido",
 "Borneo",
-"Sicily"
+"Ellesmere Island",
+"South Island (New Zealand)"
 ],
 "alt": [],
 "fib": true,
@@ -15539,13 +15459,13 @@
 "q": "Name this island.",
 "a": "Crete",
 "w": [
+"Luzon",
 "Hawaii (Big Island)",
-"North Island (New Zealand)",
+"New Guinea",
 "Ellesmere Island",
-"Tasmania",
-"Mallorca",
-"Vancouver Island",
-"Long Island"
+"Victoria Island",
+"Ireland",
+"Sardinia"
 ],
 "alt": [],
 "fib": true,
@@ -15559,13 +15479,13 @@
 "q": "Name this island.",
 "a": "Great Britain",
 "w": [
-"Luzon",
+"Sicily",
+"Mallorca",
 "Baffin Island",
-"Borneo",
-"Greenland",
-"Java",
-"Sardinia",
-"Sicily"
+"Tasmania",
+"Victoria Island",
+"Sulawesi",
+"Newfoundland"
 ],
 "alt": [
 "Britain"
@@ -15581,13 +15501,13 @@
 "q": "Name this island.",
 "a": "Greenland",
 "w": [
-"Newfoundland",
-"Sulawesi",
-"Tasmania",
-"Sumatra",
-"Mallorca",
 "Borneo",
-"Vancouver Island"
+"Crete",
+"Java",
+"Baffin Island",
+"Newfoundland",
+"Ellesmere Island",
+"Long Island"
 ],
 "alt": [],
 "fib": true,
@@ -15601,13 +15521,13 @@
 "q": "Name this island.",
 "a": "Hawaii (Big Island)",
 "w": [
-"Ireland",
-"South Island (New Zealand)",
+"Hokkaido",
+"New Guinea",
 "Mallorca",
-"Greenland",
-"Vancouver Island",
-"Sardinia",
-"Borneo"
+"Sicily",
+"Luzon",
+"South Island (New Zealand)",
+"Crete"
 ],
 "alt": [
 "Hawaii",
@@ -15625,13 +15545,13 @@
 "q": "Name this island.",
 "a": "Hokkaido",
 "w": [
-"Greenland",
-"Borneo",
-"Ellesmere Island",
-"Vancouver Island",
-"Corsica",
+"Great Britain",
 "Luzon",
-"Sumatra"
+"South Island (New Zealand)",
+"Sicily",
+"Victoria Island",
+"New Guinea",
+"North Island (New Zealand)"
 ],
 "alt": [],
 "fib": true,
@@ -15645,13 +15565,13 @@
 "q": "Name this island.",
 "a": "Honshu",
 "w": [
-"Kyushu",
-"Great Britain",
-"New Guinea",
-"Sakhalin",
 "Luzon",
-"North Island (New Zealand)",
-"South Island (New Zealand)"
+"Sicily",
+"Baffin Island",
+"Ellesmere Island",
+"Newfoundland",
+"Tasmania",
+"Long Island"
 ],
 "alt": [],
 "fib": true,
@@ -15665,13 +15585,13 @@
 "q": "Name this island.",
 "a": "Ireland",
 "w": [
-"Newfoundland",
-"Corsica",
-"North Island (New Zealand)",
-"Java",
-"Greenland",
-"Tasmania",
-"Hawaii (Big Island)"
+"Kyushu",
+"Great Britain",
+"Sakhalin",
+"Ellesmere Island",
+"Sicily",
+"Baffin Island",
+"Tasmania"
 ],
 "alt": [],
 "fib": true,
@@ -15685,13 +15605,13 @@
 "q": "Name this island.",
 "a": "Java",
 "w": [
-"Sulawesi",
-"Honshu",
-"Ireland",
 "Greenland",
-"Ellesmere Island",
+"Luzon",
+"Baffin Island",
+"Sicily",
 "Hawaii (Big Island)",
-"Victoria Island"
+"Victoria Island",
+"Long Island"
 ],
 "alt": [],
 "fib": true,
@@ -15705,11 +15625,11 @@
 "q": "Name this island.",
 "a": "Long Island",
 "w": [
-"Sulawesi",
-"North Island (New Zealand)",
-"Corsica",
-"Tasmania",
-"Ellesmere Island",
+"Vancouver Island",
+"Sicily",
+"Sumatra",
+"Baffin Island",
+"South Island (New Zealand)",
 "Hawaii (Big Island)",
 "Newfoundland"
 ],
@@ -15725,13 +15645,13 @@
 "q": "Name this island.",
 "a": "New Guinea",
 "w": [
-"Newfoundland",
-"North Island (New Zealand)",
-"Long Island",
-"Sulawesi",
-"Corsica",
 "Hawaii (Big Island)",
-"Honshu"
+"Borneo",
+"Sardinia",
+"Java",
+"Long Island",
+"Great Britain",
+"Victoria Island"
 ],
 "alt": [],
 "fib": true,
@@ -15745,13 +15665,13 @@
 "q": "Name this island.",
 "a": "Newfoundland",
 "w": [
-"South Island (New Zealand)",
-"Hawaii (Big Island)",
-"Greenland",
-"Sulawesi",
+"Vancouver Island",
+"Crete",
+"Ellesmere Island",
 "Sumatra",
-"Sicily",
-"Corsica"
+"North Island (New Zealand)",
+"Luzon",
+"Long Island"
 ],
 "alt": [],
 "fib": true,
@@ -15765,13 +15685,13 @@
 "q": "Name this island.",
 "a": "North Island (New Zealand)",
 "w": [
-"Victoria Island",
-"Ellesmere Island",
-"Java",
-"Baffin Island",
-"Honshu",
-"Tasmania",
-"Sumatra"
+"Hokkaido",
+"Sardinia",
+"Sumatra",
+"Newfoundland",
+"Sicily",
+"Great Britain",
+"Victoria Island"
 ],
 "alt": [
 "North Island"
@@ -15787,13 +15707,13 @@
 "q": "Name this island.",
 "a": "Sardinia",
 "w": [
-"North Island (New Zealand)",
-"Sicily",
-"New Guinea",
-"Baffin Island",
-"Tasmania",
-"Luzon",
-"Ireland"
+"Borneo",
+"Corsica",
+"Ellesmere Island",
+"Greenland",
+"Kyushu",
+"Crete",
+"North Island (New Zealand)"
 ],
 "alt": [],
 "fib": true,
@@ -15807,12 +15727,12 @@
 "q": "Name this island.",
 "a": "Sicily",
 "w": [
-"Long Island",
-"Newfoundland",
 "Tasmania",
-"Honshu",
-"New Guinea",
+"Sumatra",
+"North Island (New Zealand)",
+"Java",
 "Baffin Island",
+"Hokkaido",
 "Kyushu"
 ],
 "alt": [],
@@ -15827,13 +15747,13 @@
 "q": "Name this island.",
 "a": "South Island (New Zealand)",
 "w": [
-"Crete",
-"Hokkaido",
-"Ellesmere Island",
-"Sardinia",
 "Great Britain",
-"Honshu",
-"Newfoundland"
+"North Island (New Zealand)",
+"Mallorca",
+"Victoria Island",
+"Sumatra",
+"Newfoundland",
+"Hawaii (Big Island)"
 ],
 "alt": [
 "South Island"
@@ -15849,13 +15769,13 @@
 "q": "Name this island.",
 "a": "Sumatra",
 "w": [
-"Corsica",
-"Vancouver Island",
-"Great Britain",
-"Hawaii (Big Island)",
+"Sicily",
+"Victoria Island",
 "Greenland",
+"Mallorca",
+"North Island (New Zealand)",
 "Borneo",
-"Ellesmere Island"
+"Sardinia"
 ],
 "alt": [],
 "fib": true,
@@ -15870,12 +15790,12 @@
 "a": "Tasmania",
 "w": [
 "Greenland",
-"Honshu",
-"Hawaii (Big Island)",
-"Ireland",
-"North Island (New Zealand)",
-"Sicily",
-"Hokkaido"
+"Newfoundland",
+"Ellesmere Island",
+"Sumatra",
+"Mallorca",
+"Vancouver Island",
+"Java"
 ],
 "alt": [],
 "fib": true,
@@ -15889,13 +15809,13 @@
 "q": "Name this island.",
 "a": "Vancouver Island",
 "w": [
-"Greenland",
-"Ellesmere Island",
+"Luzon",
+"Baffin Island",
+"Borneo",
 "Great Britain",
 "Ireland",
-"Sicily",
-"Baffin Island",
-"North Island (New Zealand)"
+"North Island (New Zealand)",
+"Sardinia"
 ],
 "alt": [],
 "fib": true,
@@ -15909,13 +15829,13 @@
 "q": "Name this lake.",
 "a": "Lake Superior",
 "w": [
-"Lake Geneva",
-"Lake Lucerne",
-"Lake Tanganyika",
-"Lake Michigan",
-"Lake Malawi",
-"Lake Okeechobee",
-"Lake Baikal"
+"Lake Balaton",
+"Great Salt Lake",
+"Sea of Galilee",
+"Lake Como",
+"Great Slave Lake",
+"Lake Huron",
+"Lake Tanganyika"
 ],
 "alt": [
 "Superior"
@@ -15931,13 +15851,13 @@
 "q": "Name this lake.",
 "a": "Lake Michigan",
 "w": [
-"Dead Sea",
+"Sea of Galilee",
+"Lake Baikal",
 "Lake Nasser",
-"Lake Huron",
-"Lake Winnipeg",
-"Caspian Sea",
-"Lake Chad",
-"Lake Garda"
+"Lake Ladoga",
+"Lake Titicaca",
+"Lake Okeechobee",
+"Lake Superior"
 ],
 "alt": [
 "Michigan"
@@ -15953,13 +15873,13 @@
 "q": "Name this lake.",
 "a": "Lake Huron",
 "w": [
-"Great Bear Lake",
-"Lake Van",
-"Lake Geneva",
+"Aral Sea",
 "Lake Okeechobee",
-"Lake Garda",
+"Lake Winnipeg",
+"Lake Michigan",
 "Lake Erie",
-"Dead Sea"
+"Lake Garda",
+"Lake Como"
 ],
 "alt": [
 "Huron"
@@ -15975,13 +15895,13 @@
 "q": "Name this lake.",
 "a": "Lake Erie",
 "w": [
-"Lake Ladoga",
-"Aral Sea",
-"Lake Baikal",
+"Sea of Galilee",
+"Lake Winnipeg",
 "Great Bear Lake",
-"Lake Garda",
-"Lake Okeechobee",
-"Lake Winnipeg"
+"Loch Ness",
+"Lake Turkana",
+"Lake Titicaca",
+"Lake Ladoga"
 ],
 "alt": [
 "Erie"
@@ -15997,13 +15917,13 @@
 "q": "Name this lake.",
 "a": "Lake Ontario",
 "w": [
-"Lake Turkana",
-"Great Bear Lake",
-"Lake Garda",
 "Lake Van",
-"Lake Balaton",
-"Lake Tahoe",
-"Lake Nasser"
+"Lake Chad",
+"Great Bear Lake",
+"Lake Turkana",
+"Lake Victoria",
+"Caspian Sea",
+"Loch Ness"
 ],
 "alt": [
 "Ontario"
@@ -16019,13 +15939,13 @@
 "q": "Name this lake.",
 "a": "Lake Victoria",
 "w": [
-"Lake Van",
 "Great Bear Lake",
-"Lake Tahoe",
-"Loch Ness",
-"Lake Garda",
+"Dead Sea",
 "Great Salt Lake",
-"Lake Tanganyika"
+"Aral Sea",
+"Lake Ladoga",
+"Lake Winnipeg",
+"Lake Chad"
 ],
 "alt": [
 "Victoria"
@@ -16041,13 +15961,13 @@
 "q": "Name this lake.",
 "a": "Lake Baikal",
 "w": [
-"Lake Como",
-"Lake Nasser",
-"Aral Sea",
-"Lake Titicaca",
-"Lake Tanganyika",
+"Lake Winnipeg",
 "Lake Ontario",
-"Dead Sea"
+"Lake Michigan",
+"Lake Tahoe",
+"Lake Tanganyika",
+"Great Bear Lake",
+"Lake Okeechobee"
 ],
 "alt": [
 "Baikal"
@@ -16063,13 +15983,13 @@
 "q": "Name this lake.",
 "a": "Lake Tanganyika",
 "w": [
-"Great Bear Lake",
-"Lake Como",
-"Lake Superior",
-"Lake Victoria",
-"Lake Turkana",
-"Sea of Galilee",
-"Great Slave Lake"
+"Lake Okeechobee",
+"Lake Van",
+"Lake Ontario",
+"Great Slave Lake",
+"Lake Chad",
+"Lake Michigan",
+"Lake Superior"
 ],
 "alt": [
 "Tanganyika"
@@ -16085,13 +16005,13 @@
 "q": "Name this lake.",
 "a": "Lake Malawi",
 "w": [
-"Lake Van",
-"Lake Chad",
-"Lake Michigan",
-"Aral Sea",
-"Lake Geneva",
-"Lake Tahoe",
-"Lake Como"
+"Lake Nasser",
+"Lake Victoria",
+"Great Salt Lake",
+"Lake Ladoga",
+"Lake Winnipeg",
+"Lake Titicaca",
+"Dead Sea"
 ],
 "alt": [
 "Malawi",
@@ -16108,13 +16028,13 @@
 "q": "Name this lake.",
 "a": "Lake Titicaca",
 "w": [
-"Lake Baikal",
-"Caspian Sea",
-"Lake Erie",
-"Lake Victoria",
-"Lake Como",
 "Lake Winnipeg",
-"Lake Michigan"
+"Lake Superior",
+"Lake Tanganyika",
+"Lake Van",
+"Lake Como",
+"Lake Ontario",
+"Lake Lucerne"
 ],
 "alt": [
 "Titicaca"
@@ -16130,13 +16050,13 @@
 "q": "Name this lake.",
 "a": "Great Bear Lake",
 "w": [
+"Aral Sea",
 "Lake Chad",
-"Lake Michigan",
-"Sea of Galilee",
-"Great Slave Lake",
+"Lake Baikal",
 "Dead Sea",
-"Lake Como",
-"Great Salt Lake"
+"Lake Van",
+"Lake Ladoga",
+"Lake Victoria"
 ],
 "alt": [],
 "fib": true,
@@ -16150,13 +16070,13 @@
 "q": "Name this lake.",
 "a": "Great Slave Lake",
 "w": [
-"Lake Ontario",
-"Lake Chad",
+"Lake Geneva",
+"Lake Lucerne",
 "Lake Turkana",
-"Sea of Galilee",
-"Lake Balaton",
-"Lake Winnipeg",
-"Lake Superior"
+"Aral Sea",
+"Lake Nasser",
+"Lake Chad",
+"Lake Victoria"
 ],
 "alt": [],
 "fib": true,
@@ -16170,13 +16090,13 @@
 "q": "Name this lake.",
 "a": "Lake Winnipeg",
 "w": [
-"Lake Huron",
-"Lake Nasser",
-"Lake Garda",
-"Lake Balaton",
-"Lake Okeechobee",
-"Great Salt Lake",
-"Lake Lucerne"
+"Lake Michigan",
+"Lake Tahoe",
+"Lake Turkana",
+"Lake Victoria",
+"Great Slave Lake",
+"Lake Lucerne",
+"Dead Sea"
 ],
 "alt": [],
 "fib": true,
@@ -16190,13 +16110,13 @@
 "q": "Name this lake.",
 "a": "Lake Ladoga",
 "w": [
-"Great Slave Lake",
 "Lake Baikal",
-"Lake Lucerne",
 "Lake Titicaca",
+"Lake Winnipeg",
+"Lake Tanganyika",
+"Lake Chad",
 "Dead Sea",
-"Lake Tahoe",
-"Lake Malawi"
+"Lake Victoria"
 ],
 "alt": [
 "Ladoga"
@@ -16212,13 +16132,13 @@
 "q": "Name this body of water.",
 "a": "Caspian Sea",
 "w": [
-"Lake Victoria",
-"Lake Tahoe",
-"Great Bear Lake",
-"Lake Baikal",
-"Loch Ness",
-"Lake Winnipeg",
-"Lake Superior"
+"Lake Okeechobee",
+"Lake Balaton",
+"Lake Chad",
+"Lake Titicaca",
+"Sea of Galilee",
+"Lake Superior",
+"Dead Sea"
 ],
 "alt": [
 "Caspian"
@@ -16234,13 +16154,13 @@
 "q": "Name this body of water.",
 "a": "Dead Sea",
 "w": [
-"Great Salt Lake",
-"Lake Chad",
-"Aral Sea",
-"Lake Ladoga",
+"Lake Geneva",
+"Lake Lucerne",
+"Lake Baikal",
+"Lake Superior",
+"Lake Tanganyika",
 "Lake Okeechobee",
-"Great Bear Lake",
-"Lake Tahoe"
+"Lake Victoria"
 ],
 "alt": [],
 "fib": true,
@@ -16254,13 +16174,13 @@
 "q": "Name this lake.",
 "a": "Great Salt Lake",
 "w": [
-"Dead Sea",
-"Great Slave Lake",
-"Lake Titicaca",
-"Lake Malawi",
-"Lake Chad",
 "Caspian Sea",
-"Lake Superior"
+"Lake Nasser",
+"Lake Michigan",
+"Great Slave Lake",
+"Lake Ladoga",
+"Lake Chad",
+"Lake Garda"
 ],
 "alt": [],
 "fib": true,
@@ -16274,13 +16194,13 @@
 "q": "Name this body of water.",
 "a": "Sea of Galilee",
 "w": [
+"Lake Titicaca",
+"Lake Van",
 "Lake Geneva",
-"Dead Sea",
-"Lake Winnipeg",
-"Lake Superior",
-"Lake Ladoga",
-"Lake Como",
-"Lake Titicaca"
+"Lake Okeechobee",
+"Lake Garda",
+"Lake Huron",
+"Caspian Sea"
 ],
 "alt": [
 "Lake Tiberias",
@@ -16297,13 +16217,13 @@
 "q": "Name this lake.",
 "a": "Lake Nasser",
 "w": [
-"Lake Como",
+"Lake Winnipeg",
+"Aral Sea",
+"Lake Victoria",
+"Lake Titicaca",
+"Lake Garda",
 "Lake Okeechobee",
-"Lake Huron",
-"Lake Tahoe",
-"Dead Sea",
-"Lake Baikal",
-"Lake Turkana"
+"Great Slave Lake"
 ],
 "alt": [],
 "fib": true,
@@ -16317,13 +16237,13 @@
 "q": "Name this lake.",
 "a": "Lake Geneva",
 "w": [
-"Lake Baikal",
-"Lake Tanganyika",
-"Lake Como",
-"Lake Winnipeg",
-"Aral Sea",
-"Sea of Galilee",
-"Lake Superior"
+"Lake Turkana",
+"Lake Titicaca",
+"Lake Garda",
+"Lake Van",
+"Lake Balaton",
+"Lake Tahoe",
+"Sea of Galilee"
 ],
 "alt": [
 "Lac Leman",
@@ -16340,13 +16260,13 @@
 "q": "Name this lake.",
 "a": "Lake Como",
 "w": [
-"Lake Michigan",
-"Lake Erie",
-"Dead Sea",
-"Sea of Galilee",
+"Lake Van",
+"Lake Titicaca",
+"Lake Tahoe",
+"Loch Ness",
 "Lake Garda",
-"Great Salt Lake",
-"Lake Lucerne"
+"Dead Sea",
+"Lake Baikal"
 ],
 "alt": [
 "Como"
@@ -16362,13 +16282,13 @@
 "q": "Name this lake.",
 "a": "Lake Garda",
 "w": [
+"Lake Geneva",
+"Sea of Galilee",
 "Aral Sea",
-"Lake Chad",
-"Caspian Sea",
-"Lake Lucerne",
-"Lake Ladoga",
+"Lake Malawi",
+"Lake Baikal",
 "Lake Ontario",
-"Lake Geneva"
+"Caspian Sea"
 ],
 "alt": [
 "Garda"
@@ -16384,13 +16304,13 @@
 "q": "Name this lake.",
 "a": "Loch Ness",
 "w": [
-"Great Slave Lake",
-"Lake Erie",
-"Lake Ladoga",
-"Lake Garda",
-"Lake Tahoe",
-"Lake Como",
-"Dead Sea"
+"Lake Titicaca",
+"Lake Geneva",
+"Lake Superior",
+"Lake Victoria",
+"Lake Turkana",
+"Great Salt Lake",
+"Great Bear Lake"
 ],
 "alt": [],
 "fib": true,
@@ -16404,12 +16324,12 @@
 "q": "Name this lake.",
 "a": "Lake Turkana",
 "w": [
-"Lake Huron",
-"Lake Garda",
-"Lake Malawi",
-"Great Bear Lake",
-"Lake Baikal",
-"Loch Ness",
+"Lake Van",
+"Lake Chad",
+"Lake Michigan",
+"Aral Sea",
+"Lake Nasser",
+"Lake Tahoe",
 "Lake Geneva"
 ],
 "alt": [
@@ -16426,13 +16346,13 @@
 "q": "Name this lake.",
 "a": "Lake Van",
 "w": [
-"Sea of Galilee",
-"Dead Sea",
-"Lake Malawi",
-"Lake Balaton",
-"Loch Ness",
+"Lake Baikal",
+"Lake Ladoga",
+"Lake Erie",
 "Lake Victoria",
-"Great Slave Lake"
+"Lake Geneva",
+"Great Slave Lake",
+"Lake Michigan"
 ],
 "alt": [],
 "fib": true,
@@ -16446,13 +16366,13 @@
 "q": "Name this lake.",
 "a": "Lake Balaton",
 "w": [
-"Lake Ladoga",
-"Lake Erie",
+"Lake Chad",
+"Lake Michigan",
+"Great Salt Lake",
+"Great Bear Lake",
+"Caspian Sea",
 "Lake Geneva",
-"Lake Van",
-"Lake Nasser",
-"Great Slave Lake",
-"Caspian Sea"
+"Dead Sea"
 ],
 "alt": [
 "Balaton"
@@ -16468,13 +16388,13 @@
 "q": "Name this famous statue.",
 "a": "The Thinker",
 "w": [
-"Statue of Liberty",
-"Venus de Milo",
-"Bust of Nefertiti",
+"The Little Mermaid",
+"Christ the Redeemer",
+"Manneken Pis",
+"Michelangelo's David",
 "Lincoln Memorial",
 "Winged Victory of Samothrace",
-"Great Buddha of Kamakura",
-"Michelangelo's David"
+"Leshan Giant Buddha"
 ],
 "alt": [
 "Thinker",
@@ -16491,13 +16411,13 @@
 "q": "Name this famous statue.",
 "a": "Michelangelo's David",
 "w": [
-"Leshan Giant Buddha",
-"Discobolus",
-"The Bronze Horseman",
-"Lincoln Memorial",
 "Great Buddha of Kamakura",
-"The Thinker",
-"Winged Victory of Samothrace"
+"Leshan Giant Buddha",
+"Statue of Liberty",
+"Venus de Milo",
+"Nelson's Column",
+"The Little Mermaid",
+"The Thinker"
 ],
 "alt": [
 "David",
@@ -16514,13 +16434,13 @@
 "q": "Name this famous statue.",
 "a": "Venus de Milo",
 "w": [
-"Christ the Redeemer",
-"Terracotta Army",
-"Pieta",
-"Bust of Nefertiti",
-"Lincoln Memorial",
 "Great Buddha of Kamakura",
-"The Bronze Horseman"
+"Manneken Pis",
+"Discobolus",
+"Christ the Redeemer",
+"The Little Mermaid",
+"Michelangelo's David",
+"Winged Victory of Samothrace"
 ],
 "alt": [
 "Aphrodite of Milos"
@@ -16536,13 +16456,13 @@
 "q": "Name this famous statue.",
 "a": "Bust of Nefertiti",
 "w": [
-"Great Buddha of Kamakura",
 "Winged Victory of Samothrace",
-"Terracotta Army",
 "Statue of Liberty",
-"Christ the Redeemer",
-"Manneken Pis",
-"The Thinker"
+"Leshan Giant Buddha",
+"Lincoln Memorial",
+"The Thinker",
+"Great Buddha of Kamakura",
+"The Bronze Horseman"
 ],
 "alt": [
 "Nefertiti",
@@ -16559,10 +16479,10 @@
 "q": "Name this famous statue.",
 "a": "Discobolus",
 "w": [
-"Winged Victory of Samothrace",
+"Great Buddha of Kamakura",
 "Christ the Redeemer",
-"The Little Mermaid",
-"Manneken Pis",
+"Nelson's Column",
+"Venus de Milo",
 "Bust of Nefertiti",
 "Lincoln Memorial",
 "Terracotta Army"
@@ -16583,12 +16503,12 @@
 "a": "Great Buddha of Kamakura",
 "w": [
 "Michelangelo's David",
-"Manneken Pis",
-"Venus de Milo",
+"Christ the Redeemer",
 "Nelson's Column",
-"Bust of Nefertiti",
-"The Little Mermaid",
-"Leshan Giant Buddha"
+"Lincoln Memorial",
+"Leshan Giant Buddha",
+"Manneken Pis",
+"The Bronze Horseman"
 ],
 "alt": [
 "Kamakura Buddha",
@@ -16605,13 +16525,13 @@
 "q": "Name this famous statue.",
 "a": "Lincoln Memorial",
 "w": [
-"Bust of Nefertiti",
+"Venus de Milo",
 "Manneken Pis",
-"Terracotta Army",
+"Christ the Redeemer",
 "Michelangelo's David",
-"Leshan Giant Buddha",
-"Winged Victory of Samothrace",
-"Nelson's Column"
+"Discobolus",
+"Nelson's Column",
+"Terracotta Army"
 ],
 "alt": [
 "Abraham Lincoln statue",
@@ -16629,13 +16549,13 @@
 "q": "Name this famous statue.",
 "a": "Manneken Pis",
 "w": [
-"Statue of Liberty",
 "Leshan Giant Buddha",
+"Statue of Liberty",
+"Lincoln Memorial",
+"Christ the Redeemer",
 "Great Buddha of Kamakura",
-"Winged Victory of Samothrace",
-"The Bronze Horseman",
-"The Thinker",
-"Bust of Nefertiti"
+"Discobolus",
+"Terracotta Army"
 ],
 "alt": [],
 "fib": true,
@@ -16649,13 +16569,13 @@
 "q": "Name this famous statue.",
 "a": "Nelson's Column",
 "w": [
-"Lincoln Memorial",
-"Winged Victory of Samothrace",
-"Discobolus",
 "The Bronze Horseman",
-"Bust of Nefertiti",
-"Statue of Liberty",
-"Great Buddha of Kamakura"
+"Manneken Pis",
+"Leshan Giant Buddha",
+"Great Buddha of Kamakura",
+"Lincoln Memorial",
+"Venus de Milo",
+"Bust of Nefertiti"
 ],
 "alt": [
 "Nelsons Column"
@@ -16671,13 +16591,13 @@
 "q": "Name this famous statue.",
 "a": "Terracotta Army",
 "w": [
-"The Bronze Horseman",
-"Pieta",
-"Leshan Giant Buddha",
+"Discobolus",
+"Nelson's Column",
+"Venus de Milo",
 "The Thinker",
-"Great Buddha of Kamakura",
 "Winged Victory of Samothrace",
-"Bust of Nefertiti"
+"The Little Mermaid",
+"Great Buddha of Kamakura"
 ],
 "alt": [
 "Terracotta Warriors"
@@ -16693,13 +16613,13 @@
 "q": "Name this invention.",
 "a": "Abacus",
 "w": [
-"Calculator",
-"Compass",
-"Telescope",
-"Penny-farthing",
-"Ford Model T",
+"Telegraph",
+"Barometer",
 "Light bulb",
-"Gramophone"
+"Ford Model T",
+"Camera",
+"Television",
+"Calculator"
 ],
 "alt": [],
 "fib": true,
@@ -16713,13 +16633,13 @@
 "q": "Name this invention.",
 "a": "Candlestick telephone",
 "w": [
-"Typewriter",
-"Sextant",
+"Steam engine",
+"Abacus",
+"Printing press",
 "Camera",
-"Rotary telephone",
 "Light bulb",
-"Calculator",
-"Television"
+"Sextant",
+"Penny-farthing"
 ],
 "alt": [
 "Telephone",
@@ -16736,13 +16656,13 @@
 "q": "Name this invention.",
 "a": "Enigma machine",
 "w": [
-"Radio",
-"Ford Model T",
+"Rotary telephone",
+"Telescope",
+"Printing press",
+"Typewriter",
 "Candlestick telephone",
-"Gramophone",
-"Microscope",
-"Penny-farthing",
-"Camera"
+"Light bulb",
+"Calculator"
 ],
 "alt": [
 "Enigma"
@@ -16758,13 +16678,13 @@
 "q": "Name this invention.",
 "a": "Floppy disk",
 "w": [
-"Calculator",
-"Penny-farthing",
+"Printing press",
+"Microscope",
+"Gramophone",
+"Cassette player",
 "Typewriter",
-"Abacus",
 "Telescope",
-"Enigma machine",
-"Camera"
+"Light bulb"
 ],
 "alt": [
 "Floppy",
@@ -16781,13 +16701,13 @@
 "q": "Name this invention.",
 "a": "Gramophone",
 "w": [
-"Telegraph",
+"Abacus",
 "Calculator",
-"Steam engine",
-"Sewing machine",
-"Barometer",
-"Penny-farthing",
-"Sextant"
+"Rotary telephone",
+"Telescope",
+"Candlestick telephone",
+"Ford Model T",
+"Compass"
 ],
 "alt": [
 "Phonograph",
@@ -16804,13 +16724,13 @@
 "q": "Name this invention.",
 "a": "Light bulb",
 "w": [
-"Cassette player",
-"Television",
-"Barometer",
-"Camera",
+"Enigma machine",
+"Microscope",
+"Floppy disk",
 "Penny-farthing",
-"Calculator",
-"Microscope"
+"Ford Model T",
+"Telegraph",
+"Barometer"
 ],
 "alt": [
 "Lightbulb",
@@ -16827,13 +16747,13 @@
 "q": "Name this invention.",
 "a": "Compass",
 "w": [
+"Abacus",
+"Camera",
+"Typewriter",
 "Cassette player",
-"Ford Model T",
 "Television",
-"Calculator",
-"Telegraph",
-"Light bulb",
-"Sewing machine"
+"Gramophone",
+"Sextant"
 ],
 "alt": [
 "Magnetic compass"
@@ -16850,12 +16770,12 @@
 "a": "Microscope",
 "w": [
 "Candlestick telephone",
-"Penny-farthing",
-"Light bulb",
-"Ford Model T",
-"Enigma machine",
-"Barometer",
-"Steam engine"
+"Compass",
+"Radio",
+"Floppy disk",
+"Sewing machine",
+"Gramophone",
+"Telescope"
 ],
 "alt": [],
 "fib": true,
@@ -16869,13 +16789,13 @@
 "q": "Name this invention.",
 "a": "Ford Model T",
 "w": [
-"Candlestick telephone",
-"Enigma machine",
-"Camera",
-"Printing press",
-"Telegraph",
-"Calculator",
-"Typewriter"
+"Barometer",
+"Telescope",
+"Typewriter",
+"Floppy disk",
+"Compass",
+"Light bulb",
+"Penny-farthing"
 ],
 "alt": [
 "Model T",
@@ -16892,13 +16812,13 @@
 "q": "Name this invention.",
 "a": "Penny-farthing",
 "w": [
-"Abacus",
-"Telescope",
-"Steam engine",
 "Gramophone",
+"Camera",
+"Sextant",
+"Floppy disk",
 "Light bulb",
-"Barometer",
-"Camera"
+"Typewriter",
+"Sewing machine"
 ],
 "alt": [
 "Penny farthing",
@@ -16915,13 +16835,13 @@
 "q": "Name this invention.",
 "a": "Printing press",
 "w": [
-"Radio",
-"Sewing machine",
-"Penny-farthing",
-"Light bulb",
+"Compass",
+"Camera",
+"Typewriter",
 "Candlestick telephone",
-"Floppy disk",
-"Cassette player"
+"Cassette player",
+"Light bulb",
+"Ford Model T"
 ],
 "alt": [
 "Gutenberg press"
@@ -16937,13 +16857,13 @@
 "q": "Name this invention.",
 "a": "Rotary telephone",
 "w": [
-"Penny-farthing",
-"Barometer",
-"Sextant",
+"Television",
 "Floppy disk",
-"Camera",
+"Steam engine",
+"Microscope",
+"Radio",
 "Sewing machine",
-"Typewriter"
+"Abacus"
 ],
 "alt": [
 "Rotary phone",
@@ -16960,13 +16880,13 @@
 "q": "Name this invention.",
 "a": "Sewing machine",
 "w": [
-"Telegraph",
-"Sextant",
-"Compass",
+"Radio",
+"Candlestick telephone",
+"Penny-farthing",
 "Light bulb",
-"Ford Model T",
-"Cassette player",
-"Radio"
+"Gramophone",
+"Floppy disk",
+"Compass"
 ],
 "alt": [],
 "fib": true,
@@ -16980,13 +16900,13 @@
 "q": "Name this invention.",
 "a": "Telescope",
 "w": [
-"Cassette player",
-"Television",
-"Sextant",
-"Gramophone",
 "Printing press",
-"Barometer",
-"Compass"
+"Ford Model T",
+"Television",
+"Cassette player",
+"Light bulb",
+"Gramophone",
+"Calculator"
 ],
 "alt": [],
 "fib": true,
@@ -17000,13 +16920,13 @@
 "q": "Name this invention.",
 "a": "Television",
 "w": [
-"Barometer",
-"Telegraph",
 "Penny-farthing",
-"Cassette player",
-"Radio",
+"Steam engine",
+"Printing press",
+"Enigma machine",
 "Light bulb",
-"Microscope"
+"Ford Model T",
+"Radio"
 ],
 "alt": [
 "TV",
@@ -17023,13 +16943,13 @@
 "q": "Name this invention.",
 "a": "Typewriter",
 "w": [
-"Rotary telephone",
-"Penny-farthing",
+"Telegraph",
+"Compass",
 "Enigma machine",
-"Candlestick telephone",
-"Sextant",
-"Television",
-"Radio"
+"Microscope",
+"Floppy disk",
+"Rotary telephone",
+"Barometer"
 ],
 "alt": [],
 "fib": true,
@@ -17043,13 +16963,13 @@
 "q": "Name this invention.",
 "a": "Radio",
 "w": [
-"Barometer",
-"Penny-farthing",
-"Typewriter",
-"Cassette player",
-"Enigma machine",
-"Steam engine",
-"Television"
+"Compass",
+"Microscope",
+"Television",
+"Telescope",
+"Rotary telephone",
+"Light bulb",
+"Ford Model T"
 ],
 "alt": [
 "Valve radio",
@@ -17067,13 +16987,13 @@
 "q": "What does this sign mean?",
 "a": "Stop",
 "w": [
-"Falling rocks",
-"Poison",
+"Radiation",
 "Power on/off",
-"Pedestrian crossing",
-"Peace",
+"Fire exit",
 "Flammable",
-"Fire exit"
+"Biohazard",
+"Recycling",
+"Slippery road"
 ],
 "alt": [
 "Stop sign"
@@ -17089,13 +17009,13 @@
 "q": "What does this sign mean?",
 "a": "Yield",
 "w": [
-"Radiation",
-"No parking",
 "Speed bump",
 "Roundabout",
-"Recycling",
 "Biohazard",
-"No entry"
+"Fire exit",
+"High voltage",
+"Stop",
+"Peace"
 ],
 "alt": [
 "Give way"
@@ -17111,13 +17031,13 @@
 "q": "What does this sign mean?",
 "a": "No entry",
 "w": [
-"Fire exit",
-"Stop",
+"Slippery road",
+"Falling rocks",
 "High voltage",
-"First aid",
-"Radiation",
-"Poison",
-"Pedestrian crossing"
+"Yield",
+"Dead end",
+"Pedestrian crossing",
+"Roundabout"
 ],
 "alt": [
 "Do not enter"
@@ -17133,13 +17053,13 @@
 "q": "What does this sign mean?",
 "a": "Railway crossing",
 "w": [
-"No entry",
-"Roundabout",
-"Stop",
+"Radiation",
+"Falling rocks",
+"Fire exit",
 "No smoking",
-"Dead end",
+"Roundabout",
 "Biohazard",
-"Yield"
+"No parking"
 ],
 "alt": [
 "Railroad crossing",
@@ -17156,13 +17076,13 @@
 "q": "What does this sign mean?",
 "a": "Pedestrian crossing",
 "w": [
-"Roundabout",
-"First aid",
-"Power on/off",
+"Falling rocks",
+"High voltage",
+"Yield",
 "Railway crossing",
-"Slippery road",
-"Dead end",
-"Recycling"
+"Radiation",
+"Poison",
+"Speed bump"
 ],
 "alt": [
 "Crosswalk",
@@ -17179,13 +17099,13 @@
 "q": "What does this sign mean?",
 "a": "Roundabout",
 "w": [
-"Falling rocks",
+"First aid",
+"High voltage",
+"Stop",
 "Power on/off",
-"Peace",
+"No entry",
 "Poison",
-"Pedestrian crossing",
-"Wheelchair accessible",
-"Yield"
+"Recycling"
 ],
 "alt": [
 "Traffic circle"
@@ -17201,13 +17121,13 @@
 "q": "What does this sign mean?",
 "a": "Slippery road",
 "w": [
-"Roundabout",
-"First aid",
 "Dead end",
-"Yield",
+"Poison",
+"Railway crossing",
+"Speed bump",
 "Fire exit",
-"Radiation",
-"Pedestrian crossing"
+"Peace",
+"First aid"
 ],
 "alt": [
 "Slippery when wet"
@@ -17223,13 +17143,13 @@
 "q": "What does this symbol mean?",
 "a": "Radiation",
 "w": [
-"Dead end",
-"No entry",
-"Peace",
-"Poison",
-"Wheelchair accessible",
-"Biohazard",
-"Flammable"
+"High voltage",
+"Railway crossing",
+"Roundabout",
+"Power on/off",
+"No smoking",
+"First aid",
+"Recycling"
 ],
 "alt": [
 "Radioactive",
@@ -17246,13 +17166,13 @@
 "q": "What does this sign mean?",
 "a": "High voltage",
 "w": [
-"Peace",
-"Biohazard",
-"No parking",
-"Flammable",
-"Poison",
-"Stop",
-"Speed bump"
+"Slippery road",
+"Wheelchair accessible",
+"Recycling",
+"Fire exit",
+"No smoking",
+"Pedestrian crossing",
+"Power on/off"
 ],
 "alt": [
 "Danger high voltage",
@@ -17270,13 +17190,13 @@
 "q": "What does this symbol mean?",
 "a": "Poison",
 "w": [
-"Slippery road",
-"Fire exit",
-"Wheelchair accessible",
-"Dead end",
-"Biohazard",
+"No entry",
 "No smoking",
-"Yield"
+"Speed bump",
+"No parking",
+"High voltage",
+"Slippery road",
+"Fire exit"
 ],
 "alt": [
 "Toxic"
@@ -17292,13 +17212,13 @@
 "q": "What does this symbol mean?",
 "a": "Recycling",
 "w": [
-"No parking",
-"Peace",
-"Power on/off",
-"Speed bump",
-"Railway crossing",
-"Roundabout",
-"Biohazard"
+"High voltage",
+"Slippery road",
+"Falling rocks",
+"No smoking",
+"Radiation",
+"Flammable",
+"Pedestrian crossing"
 ],
 "alt": [
 "Recycle",
@@ -17315,13 +17235,13 @@
 "q": "What does this symbol mean?",
 "a": "No smoking",
 "w": [
-"Speed bump",
-"Dead end",
-"Pedestrian crossing",
+"Peace",
 "Slippery road",
-"Flammable",
 "No entry",
-"Falling rocks"
+"Power on/off",
+"First aid",
+"Falling rocks",
+"Flammable"
 ],
 "alt": [],
 "fib": true,
@@ -17335,13 +17255,13 @@
 "q": "What does this symbol mean?",
 "a": "Peace",
 "w": [
-"Fire exit",
-"Flammable",
+"High voltage",
 "Yield",
-"Roundabout",
 "Recycling",
-"Slippery road",
-"No smoking"
+"No entry",
+"Stop",
+"Power on/off",
+"Dead end"
 ],
 "alt": [
 "Peace sign",
@@ -17358,13 +17278,13 @@
 "q": "What does this symbol mean?",
 "a": "Power on/off",
 "w": [
-"Railway crossing",
 "Pedestrian crossing",
-"No smoking",
-"Stop",
-"No entry",
-"Flammable",
-"Peace"
+"Radiation",
+"Speed bump",
+"Biohazard",
+"Poison",
+"Dead end",
+"Stop"
 ],
 "alt": [
 "Power",
@@ -17382,13 +17302,13 @@
 "q": "What does this symbol mean?",
 "a": "Wheelchair accessible",
 "w": [
-"Slippery road",
-"Yield",
-"Dead end",
-"Fire exit",
+"Flammable",
 "No smoking",
-"Roundabout",
-"Recycling"
+"Pedestrian crossing",
+"Fire exit",
+"First aid",
+"High voltage",
+"Radiation"
 ],
 "alt": [
 "Accessible",
@@ -17406,13 +17326,13 @@
 "q": "Name this stadium.",
 "a": "Wembley Stadium",
 "w": [
+"Rogers Centre",
+"Anfield",
+"Madison Square Garden",
+"Melbourne Cricket Ground",
+"San Siro",
 "Maracana",
-"Yankee Stadium",
-"Lambeau Field",
-"Rose Bowl",
-"Superdome",
-"Old Trafford",
-"AT&T Stadium"
+"Lambeau Field"
 ],
 "alt": [
 "Wembley"
@@ -17428,13 +17348,13 @@
 "q": "Name this stadium.",
 "a": "Allianz Arena",
 "w": [
-"Old Trafford",
-"Melbourne Cricket Ground",
-"Wrigley Field",
-"Anfield",
+"Madison Square Garden",
+"Olympic Stadium, Montreal",
 "Bird's Nest",
-"San Siro",
-"Fenway Park"
+"Lambeau Field",
+"Wembley Stadium",
+"Old Trafford",
+"San Siro"
 ],
 "alt": [],
 "fib": true,
@@ -17448,13 +17368,13 @@
 "q": "Name this stadium.",
 "a": "Bird's Nest",
 "w": [
-"Anfield",
-"Wembley Stadium",
-"Eden Gardens",
-"San Siro",
+"Allianz Arena",
+"Rose Bowl",
+"Yankee Stadium",
 "Olympic Stadium, Montreal",
-"Dodger Stadium",
-"Wrigley Field"
+"San Siro",
+"Maracana",
+"Old Trafford"
 ],
 "alt": [
 "Beijing National Stadium",
@@ -17472,13 +17392,13 @@
 "q": "Name this stadium.",
 "a": "San Siro",
 "w": [
-"Bird's Nest",
-"AT&T Stadium",
-"Lord's",
-"Santiago Bernabeu",
-"Lambeau Field",
+"Fenway Park",
 "Rogers Centre",
-"Eden Gardens"
+"AT&T Stadium",
+"Santiago Bernabeu",
+"Anfield",
+"Wembley Stadium",
+"Dodger Stadium"
 ],
 "alt": [
 "Stadio San Siro",
@@ -17496,13 +17416,13 @@
 "q": "Name this stadium.",
 "a": "Superdome",
 "w": [
-"Wembley Stadium",
-"Allianz Arena",
-"Bird's Nest",
+"Maracana",
 "Rogers Centre",
-"San Siro",
-"Olympic Stadium, Montreal",
-"Lambeau Field"
+"Melbourne Cricket Ground",
+"Rose Bowl",
+"Dodger Stadium",
+"Allianz Arena",
+"San Siro"
 ],
 "alt": [
 "Caesars Superdome",
@@ -17519,12 +17439,12 @@
 "q": "Name this stadium.",
 "a": "AT&T Stadium",
 "w": [
-"Camp Nou",
+"Yankee Stadium",
+"Rose Bowl",
+"Olympic Stadium, Montreal",
+"Melbourne Cricket Ground",
 "Old Trafford",
-"Wembley Stadium",
-"Eden Gardens",
-"Bird's Nest",
-"Lord's",
+"Wrigley Field",
 "Madison Square Garden"
 ],
 "alt": [
@@ -17542,13 +17462,13 @@
 "q": "Name this stadium.",
 "a": "Rose Bowl",
 "w": [
-"Melbourne Cricket Ground",
-"Dodger Stadium",
-"Superdome",
-"Old Trafford",
 "Wrigley Field",
-"Bird's Nest",
-"Madison Square Garden"
+"San Siro",
+"Madison Square Garden",
+"Old Trafford",
+"Olympic Stadium, Montreal",
+"Maracana",
+"Superdome"
 ],
 "alt": [],
 "fib": true,
@@ -17562,13 +17482,13 @@
 "q": "Name this stadium.",
 "a": "Rogers Centre",
 "w": [
-"Melbourne Cricket Ground",
+"Dodger Stadium",
+"Camp Nou",
 "Wrigley Field",
-"Superdome",
-"Lambeau Field",
+"Yankee Stadium",
+"Allianz Arena",
 "AT&T Stadium",
-"Maracana",
-"Dodger Stadium"
+"Melbourne Cricket Ground"
 ],
 "alt": [
 "SkyDome",
@@ -17585,13 +17505,13 @@
 "q": "Name this stadium.",
 "a": "Yankee Stadium",
 "w": [
-"Superdome",
-"Fenway Park",
 "Lambeau Field",
-"Old Trafford",
+"Bird's Nest",
+"Fenway Park",
 "Santiago Bernabeu",
-"Maracana",
-"Rogers Centre"
+"Anfield",
+"Camp Nou",
+"Old Trafford"
 ],
 "alt": [],
 "fib": true,
@@ -17605,13 +17525,13 @@
 "q": "Name this stadium.",
 "a": "Wrigley Field",
 "w": [
-"Wembley Stadium",
-"Bird's Nest",
+"Eden Gardens",
 "Superdome",
 "Olympic Stadium, Montreal",
-"Santiago Bernabeu",
-"Rogers Centre",
-"Rose Bowl"
+"Wembley Stadium",
+"Bird's Nest",
+"Rose Bowl",
+"San Siro"
 ],
 "alt": [
 "Wrigley"
@@ -17627,13 +17547,13 @@
 "q": "Name this stadium.",
 "a": "Olympic Stadium, Montreal",
 "w": [
-"Rose Bowl",
-"Rogers Centre",
-"Wembley Stadium",
 "Madison Square Garden",
-"Anfield",
-"Wrigley Field",
-"Eden Gardens"
+"Maracana",
+"Melbourne Cricket Ground",
+"Lambeau Field",
+"Lord's",
+"Yankee Stadium",
+"Wembley Stadium"
 ],
 "alt": [
 "Olympic Stadium",
@@ -17652,13 +17572,13 @@
 "q": "Name this stadium.",
 "a": "Lord's",
 "w": [
-"Fenway Park",
+"Camp Nou",
+"Wembley Stadium",
+"Yankee Stadium",
 "Wrigley Field",
-"Bird's Nest",
-"Allianz Arena",
-"Eden Gardens",
-"Olympic Stadium, Montreal",
-"Wembley Stadium"
+"Melbourne Cricket Ground",
+"Old Trafford",
+"Olympic Stadium, Montreal"
 ],
 "alt": [
 "Lord's Cricket Ground",
@@ -17675,12 +17595,12 @@
 "q": "Name this stadium.",
 "a": "Melbourne Cricket Ground",
 "w": [
-"Lambeau Field",
-"Santiago Bernabeu",
+"Camp Nou",
 "Wrigley Field",
-"Superdome",
-"Wembley Stadium",
-"Rogers Centre",
+"San Siro",
+"Madison Square Garden",
+"Maracana",
+"Yankee Stadium",
 "Dodger Stadium"
 ],
 "alt": [
@@ -17698,13 +17618,13 @@
 "q": "Name this stadium.",
 "a": "Madison Square Garden",
 "w": [
-"Rogers Centre",
-"Superdome",
-"Anfield",
-"Wrigley Field",
+"Melbourne Cricket Ground",
 "Yankee Stadium",
+"Santiago Bernabeu",
+"Lord's",
+"Anfield",
 "Lambeau Field",
-"Old Trafford"
+"Wembley Stadium"
 ],
 "alt": [
 "MSG",
@@ -17714,6 +17634,1796 @@
 "img": "/pics/stadiums/madison-square-garden.png"
 },
 {
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 2,
+"q": "Name this racing circuit.",
+"a": "Circuit de Monaco",
+"w": [
+"Indianapolis Motor Speedway",
+"Spa-Francorchamps",
+"Red Bull Ring",
+"Las Vegas Strip Circuit",
+"Bahrain International Circuit",
+"Yas Marina",
+"Circuit Gilles Villeneuve"
+],
+"alt": [
+"Monaco",
+"Monte Carlo"
+],
+"fib": true,
+"img": "/pics/circuits/monaco.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 2,
+"q": "Name this racing circuit.",
+"a": "Silverstone",
+"w": [
+"Interlagos",
+"Circuit of the Americas",
+"Las Vegas Strip Circuit",
+"Paul Ricard",
+"Shanghai International Circuit",
+"Kyalami",
+"Sepang"
+],
+"alt": [
+"Silverstone Circuit"
+],
+"fib": true,
+"img": "/pics/circuits/silverstone.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 3,
+"q": "Name this racing circuit.",
+"a": "Monza",
+"w": [
+"Jeddah Corniche Circuit",
+"Silverstone",
+"Hockenheim",
+"Estoril",
+"Red Bull Ring",
+"Indianapolis Motor Speedway",
+"Baku City Circuit"
+],
+"alt": [
+"Autodromo Nazionale Monza"
+],
+"fib": true,
+"img": "/pics/circuits/monza.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 3,
+"q": "Name this racing circuit.",
+"a": "Spa-Francorchamps",
+"w": [
+"Circuit Gilles Villeneuve",
+"Zandvoort",
+"Monza",
+"Kyalami",
+"Silverstone",
+"Red Bull Ring",
+"Circuit of the Americas"
+],
+"alt": [
+"Spa",
+"Spa Francorchamps"
+],
+"fib": true,
+"img": "/pics/circuits/spa-francorchamps.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 3,
+"q": "Name this racing circuit.",
+"a": "Suzuka",
+"w": [
+"Nurburgring",
+"Albert Park",
+"Yas Marina",
+"Circuit Gilles Villeneuve",
+"Spa-Francorchamps",
+"Bahrain International Circuit",
+"Interlagos"
+],
+"alt": [
+"Suzuka Circuit"
+],
+"fib": true,
+"img": "/pics/circuits/suzuka.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Interlagos",
+"w": [
+"Yas Marina",
+"Marina Bay",
+"Indianapolis Motor Speedway",
+"Silverstone",
+"Nurburgring",
+"Hockenheim",
+"Kyalami"
+],
+"alt": [
+"Autodromo Jose Carlos Pace"
+],
+"fib": true,
+"img": "/pics/circuits/interlagos.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 3,
+"q": "Name this racing circuit.",
+"a": "Circuit Gilles Villeneuve",
+"w": [
+"Nurburgring",
+"Brands Hatch",
+"Hockenheim",
+"Monza",
+"Spa-Francorchamps",
+"Las Vegas Strip Circuit",
+"Silverstone"
+],
+"alt": [
+"Gilles Villeneuve",
+"Montreal"
+],
+"fib": true,
+"img": "/pics/circuits/circuit-gilles-villeneuve.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 3,
+"q": "Name this racing circuit.",
+"a": "Circuit of the Americas",
+"w": [
+"Circuit de Monaco",
+"Circuit Gilles Villeneuve",
+"Sepang",
+"Las Vegas Strip Circuit",
+"Spa-Francorchamps",
+"Jeddah Corniche Circuit",
+"Suzuka"
+],
+"alt": [
+"COTA",
+"Austin"
+],
+"fib": true,
+"img": "/pics/circuits/circuit-of-the-americas.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Albert Park",
+"w": [
+"Kyalami",
+"Bahrain International Circuit",
+"Circuit de Monaco",
+"Sepang",
+"Monza",
+"Shanghai International Circuit",
+"Las Vegas Strip Circuit"
+],
+"alt": [
+"Melbourne",
+"Albert Park Circuit"
+],
+"fib": true,
+"img": "/pics/circuits/albert-park.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Marina Bay",
+"w": [
+"Estoril",
+"Bahrain International Circuit",
+"Suzuka",
+"Hockenheim",
+"Baku City Circuit",
+"Monza",
+"Circuit of the Americas"
+],
+"alt": [
+"Marina Bay Street Circuit",
+"Singapore"
+],
+"fib": true,
+"img": "/pics/circuits/marina-bay.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Hungaroring",
+"w": [
+"Las Vegas Strip Circuit",
+"Albert Park",
+"Bahrain International Circuit",
+"Brands Hatch",
+"Interlagos",
+"Monza",
+"Nurburgring"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/circuits/hungaroring.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Zandvoort",
+"w": [
+"Red Bull Ring",
+"Bahrain International Circuit",
+"Circuit of the Americas",
+"Jeddah Corniche Circuit",
+"Nurburgring",
+"Circuit de Monaco",
+"Estoril"
+],
+"alt": [
+"Circuit Zandvoort"
+],
+"fib": true,
+"img": "/pics/circuits/zandvoort.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Baku City Circuit",
+"w": [
+"Kyalami",
+"Las Vegas Strip Circuit",
+"Imola",
+"Suzuka",
+"Hockenheim",
+"Marina Bay",
+"Spa-Francorchamps"
+],
+"alt": [
+"Baku"
+],
+"fib": true,
+"img": "/pics/circuits/baku.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Las Vegas Strip Circuit",
+"w": [
+"Red Bull Ring",
+"Marina Bay",
+"Paul Ricard",
+"Shanghai International Circuit",
+"Suzuka",
+"Hungaroring",
+"Indianapolis Motor Speedway"
+],
+"alt": [
+"Las Vegas",
+"Las Vegas Street Circuit"
+],
+"fib": true,
+"img": "/pics/circuits/las-vegas.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Indianapolis Motor Speedway",
+"w": [
+"Estoril",
+"Albert Park",
+"Hungaroring",
+"Paul Ricard",
+"Nurburgring",
+"Baku City Circuit",
+"Jeddah Corniche Circuit"
+],
+"alt": [
+"Indianapolis",
+"Indy",
+"The Brickyard"
+],
+"fib": true,
+"img": "/pics/circuits/indianapolis.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Nurburgring",
+"w": [
+"Yas Marina",
+"Suzuka",
+"Circuit of the Americas",
+"Hockenheim",
+"Hungaroring",
+"Shanghai International Circuit",
+"Red Bull Ring"
+],
+"alt": [
+"Nürburgring"
+],
+"fib": true,
+"img": "/pics/circuits/nurburgring.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Bahrain International Circuit",
+"w": [
+"Brands Hatch",
+"Las Vegas Strip Circuit",
+"Estoril",
+"Baku City Circuit",
+"Sepang",
+"Imola",
+"Spa-Francorchamps"
+],
+"alt": [
+"Bahrain",
+"Sakhir"
+],
+"fib": true,
+"img": "/pics/circuits/bahrain.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Yas Marina",
+"w": [
+"Silverstone",
+"Jeddah Corniche Circuit",
+"Paul Ricard",
+"Circuit of the Americas",
+"Bahrain International Circuit",
+"Monza",
+"Red Bull Ring"
+],
+"alt": [
+"Yas Marina Circuit",
+"Abu Dhabi"
+],
+"fib": true,
+"img": "/pics/circuits/yas-marina.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Imola",
+"w": [
+"Kyalami",
+"Jeddah Corniche Circuit",
+"Yas Marina",
+"Silverstone",
+"Albert Park",
+"Suzuka",
+"Red Bull Ring"
+],
+"alt": [
+"Autodromo Enzo e Dino Ferrari"
+],
+"fib": true,
+"img": "/pics/circuits/imola.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this racing circuit.",
+"a": "Red Bull Ring",
+"w": [
+"Estoril",
+"Silverstone",
+"Indianapolis Motor Speedway",
+"Bahrain International Circuit",
+"Circuit de Monaco",
+"Sepang",
+"Spa-Francorchamps"
+],
+"alt": [
+"Spielberg",
+"Austria"
+],
+"fib": true,
+"img": "/pics/circuits/red-bull-ring.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 3,
+"q": "Name this NASCAR track.",
+"a": "Daytona International Speedway",
+"w": [
+"Martinsville Speedway",
+"Darlington Raceway",
+"Pocono Raceway",
+"Charlotte Motor Speedway",
+"Talladega Superspeedway",
+"Phoenix Raceway",
+"Atlanta Motor Speedway"
+],
+"alt": [
+"Daytona"
+],
+"fib": true,
+"img": "/pics/circuits/nascar-daytona.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this NASCAR track.",
+"a": "Martinsville Speedway",
+"w": [
+"Bristol Motor Speedway",
+"Talladega Superspeedway",
+"Darlington Raceway",
+"Atlanta Motor Speedway",
+"Pocono Raceway",
+"Phoenix Raceway",
+"Richmond Raceway"
+],
+"alt": [
+"Martinsville"
+],
+"fib": true,
+"img": "/pics/circuits/nascar-martinsville.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 5,
+"q": "Name this NASCAR track.",
+"a": "Bristol Motor Speedway",
+"w": [
+"Martinsville Speedway",
+"Kansas Speedway",
+"Charlotte Motor Speedway",
+"Daytona International Speedway",
+"Pocono Raceway",
+"Richmond Raceway",
+"Darlington Raceway"
+],
+"alt": [
+"Bristol"
+],
+"fib": true,
+"img": "/pics/circuits/nascar-bristol.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 5,
+"q": "Name this NASCAR track.",
+"a": "Darlington Raceway",
+"w": [
+"Bristol Motor Speedway",
+"Phoenix Raceway",
+"Daytona International Speedway",
+"Atlanta Motor Speedway",
+"Martinsville Speedway",
+"Richmond Raceway",
+"Charlotte Motor Speedway"
+],
+"alt": [
+"Darlington"
+],
+"fib": true,
+"img": "/pics/circuits/nascar-darlington.png"
+},
+{
+"pr": "circuits",
+"prn": "Racing circuits",
+"c": "spo",
+"d": 4,
+"q": "Name this NASCAR track.",
+"a": "Pocono Raceway",
+"w": [
+"Phoenix Raceway",
+"Charlotte Motor Speedway",
+"Atlanta Motor Speedway",
+"Darlington Raceway",
+"Richmond Raceway",
+"Martinsville Speedway",
+"Talladega Superspeedway"
+],
+"alt": [
+"Pocono"
+],
+"fib": true,
+"img": "/pics/circuits/nascar-pocono.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 2,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Greek",
+"w": [
+"Japanese (hiragana)",
+"Bengali",
+"Arabic",
+"Ge'ez (Ethiopic)",
+"Khmer",
+"Tamil",
+"Hebrew"
+],
+"alt": [
+"Greek alphabet"
+],
+"fib": true,
+"img": "/pics/scripts/greek.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 2,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Cyrillic",
+"w": [
+"Georgian",
+"Thai",
+"Khmer",
+"Arabic",
+"Mongolian",
+"Sinhala",
+"Hebrew"
+],
+"alt": [
+"Russian"
+],
+"fib": true,
+"img": "/pics/scripts/cyrillic.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 3,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Hebrew",
+"w": [
+"Chinese characters",
+"Hangul (Korean)",
+"Sinhala",
+"Ge'ez (Ethiopic)",
+"Khmer",
+"Tibetan",
+"Mongolian"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/scripts/hebrew.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 2,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Arabic",
+"w": [
+"Latin",
+"Greek",
+"Cyrillic",
+"Georgian",
+"Devanagari",
+"Thai",
+"Tibetan"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/scripts/arabic.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 4,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Devanagari",
+"w": [
+"Tamil",
+"Sinhala",
+"Cyrillic",
+"Khmer",
+"Tibetan",
+"Arabic",
+"Japanese (hiragana)"
+],
+"alt": [
+"Hindi"
+],
+"fib": true,
+"img": "/pics/scripts/devanagari.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 3,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Hangul (Korean)",
+"w": [
+"Armenian",
+"Greek",
+"Tibetan",
+"Georgian",
+"Ge'ez (Ethiopic)",
+"Japanese (hiragana)",
+"Latin"
+],
+"alt": [
+"Hangul",
+"Korean",
+"Hangeul"
+],
+"fib": true,
+"img": "/pics/scripts/hangul.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 3,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Japanese (hiragana)",
+"w": [
+"Hebrew",
+"Ge'ez (Ethiopic)",
+"Thai",
+"Devanagari",
+"Hangul (Korean)",
+"Bengali",
+"Tibetan"
+],
+"alt": [
+"Japanese",
+"Hiragana",
+"Kana"
+],
+"fib": true,
+"img": "/pics/scripts/japanese-hiragana.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 2,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Chinese characters",
+"w": [
+"Ge'ez (Ethiopic)",
+"Khmer",
+"Sinhala",
+"Tamil",
+"Hangul (Korean)",
+"Greek",
+"Bengali"
+],
+"alt": [
+"Chinese",
+"Hanzi",
+"Mandarin"
+],
+"fib": true,
+"img": "/pics/scripts/chinese-characters.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 4,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Thai",
+"w": [
+"Sinhala",
+"Cyrillic",
+"Mongolian",
+"Georgian",
+"Japanese (hiragana)",
+"Ge'ez (Ethiopic)",
+"Hebrew"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/scripts/thai.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 5,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Georgian",
+"w": [
+"Bengali",
+"Japanese (hiragana)",
+"Arabic",
+"Hebrew",
+"Cyrillic",
+"Mongolian",
+"Ge'ez (Ethiopic)"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/scripts/georgian.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 5,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Armenian",
+"w": [
+"Chinese characters",
+"Hebrew",
+"Ge'ez (Ethiopic)",
+"Latin",
+"Cyrillic",
+"Hangul (Korean)",
+"Tibetan"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/scripts/armenian.png"
+},
+{
+"pr": "scripts",
+"prn": "Writing systems",
+"c": "art",
+"d": 5,
+"q": "This word means \"hello\". Which writing system is it written in?",
+"a": "Ge'ez (Ethiopic)",
+"w": [
+"Thai",
+"Chinese characters",
+"Georgian",
+"Mongolian",
+"Arabic",
+"Hebrew",
+"Bengali"
+],
+"alt": [
+"Geez",
+"Ge'ez",
+"Ethiopic",
+"Amharic"
+],
+"fib": true,
+"img": "/pics/scripts/geez-ethiopic.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 2,
+"q": "Name this mountain.",
+"a": "Matterhorn",
+"w": [
+"Uluru",
+"Devils Tower",
+"Denali",
+"Sugarloaf Mountain",
+"Mount St. Helens",
+"Mont Blanc",
+"Mount Kilimanjaro"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/mountains/matterhorn.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 1,
+"q": "Name this mountain.",
+"a": "Mount Fuji",
+"w": [
+"Mont Blanc",
+"Mount St. Helens",
+"Half Dome",
+"Devils Tower",
+"Table Mountain",
+"El Capitan",
+"Ben Nevis"
+],
+"alt": [
+"Fuji",
+"Fujisan",
+"Fuji-san"
+],
+"fib": true,
+"img": "/pics/mountains/mount-fuji.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 2,
+"q": "Name this mountain.",
+"a": "Mount Kilimanjaro",
+"w": [
+"Mount Etna",
+"Table Mountain",
+"Mount St. Helens",
+"Half Dome",
+"El Capitan",
+"Denali",
+"Mount Fuji"
+],
+"alt": [
+"Kilimanjaro"
+],
+"fib": true,
+"img": "/pics/mountains/kilimanjaro.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 3,
+"q": "Name this mountain.",
+"a": "Table Mountain",
+"w": [
+"Ben Nevis",
+"Matterhorn",
+"Devils Tower",
+"Mount Kilimanjaro",
+"Mount Everest",
+"K2",
+"Half Dome"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/mountains/table-mountain.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 3,
+"q": "Name this mountain.",
+"a": "Sugarloaf Mountain",
+"w": [
+"Denali",
+"Half Dome",
+"Mount Etna",
+"Mount Everest",
+"K2",
+"Mount Vesuvius",
+"Uluru"
+],
+"alt": [
+"Sugarloaf",
+"Sugar Loaf",
+"Pao de Acucar"
+],
+"fib": true,
+"img": "/pics/mountains/sugarloaf-mountain.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 3,
+"q": "Name this famous rock formation.",
+"a": "Half Dome",
+"w": [
+"Mount St. Helens",
+"Uluru",
+"Mont Blanc",
+"El Capitan",
+"Mount Rainier",
+"Mount Fuji",
+"Mount Etna"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/mountains/half-dome.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 2,
+"q": "Name this famous rock formation.",
+"a": "Uluru",
+"w": [
+"Mount Vesuvius",
+"El Capitan",
+"Mount Everest",
+"Ben Nevis",
+"K2",
+"Matterhorn",
+"Mount Kilimanjaro"
+],
+"alt": [
+"Ayers Rock"
+],
+"fib": true,
+"img": "/pics/mountains/uluru.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 3,
+"q": "Name this famous rock formation.",
+"a": "Devils Tower",
+"w": [
+"Sugarloaf Mountain",
+"Mount Fuji",
+"Mount Rainier",
+"Ben Nevis",
+"Uluru",
+"Matterhorn",
+"K2"
+],
+"alt": [
+"Devil's Tower"
+],
+"fib": true,
+"img": "/pics/mountains/devils-tower.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 3,
+"q": "Name this mountain.",
+"a": "Mount Vesuvius",
+"w": [
+"K2",
+"Sugarloaf Mountain",
+"Denali",
+"Mount Fuji",
+"Devils Tower",
+"Half Dome",
+"Mount Rainier"
+],
+"alt": [
+"Vesuvius"
+],
+"fib": true,
+"img": "/pics/mountains/vesuvius.png"
+},
+{
+"pr": "mountains",
+"prn": "Mountains & volcanoes",
+"c": "geo",
+"d": 3,
+"q": "Name this mountain.",
+"a": "Mount St. Helens",
+"w": [
+"Mount Kilimanjaro",
+"Mount Rainier",
+"Uluru",
+"Denali",
+"Mount Fuji",
+"Ben Nevis",
+"Half Dome"
+],
+"alt": [
+"Mount St Helens",
+"St Helens",
+"Mt St Helens"
+],
+"fib": true,
+"img": "/pics/mountains/mount-st-helens.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 1,
+"q": "What type of cloud is this?",
+"a": "Cumulus",
+"w": [
+"Cirrus",
+"Cumulonimbus",
+"Cirrostratus",
+"Stratocumulus",
+"Fog",
+"Lenticular cloud",
+"Nimbostratus"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/clouds/cumulus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 2,
+"q": "What type of cloud is this?",
+"a": "Cumulonimbus",
+"w": [
+"Stratocumulus",
+"Stratus",
+"Mammatus",
+"Contrail",
+"Cirrostratus",
+"Cirrus",
+"Altostratus"
+],
+"alt": [
+"Thunderstorm cloud",
+"Thunderhead"
+],
+"fib": true,
+"img": "/pics/clouds/cumulonimbus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 2,
+"q": "What type of cloud is this?",
+"a": "Cirrus",
+"w": [
+"Nimbostratus",
+"Cirrocumulus",
+"Fog",
+"Cumulus",
+"Altostratus",
+"Mammatus",
+"Cumulonimbus"
+],
+"alt": [
+"Mare's tails"
+],
+"fib": true,
+"img": "/pics/clouds/cirrus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 3,
+"q": "What type of cloud is this?",
+"a": "Stratus",
+"w": [
+"Nimbostratus",
+"Lenticular cloud",
+"Fog",
+"Cirrostratus",
+"Altostratus",
+"Stratocumulus",
+"Cirrocumulus"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/clouds/stratus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 4,
+"q": "What type of cloud is this?",
+"a": "Nimbostratus",
+"w": [
+"Cirrostratus",
+"Altostratus",
+"Stratocumulus",
+"Cumulonimbus",
+"Cumulus",
+"Fog",
+"Contrail"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/clouds/nimbostratus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 4,
+"q": "What type of cloud is this?",
+"a": "Altocumulus",
+"w": [
+"Altostratus",
+"Cirrus",
+"Cirrocumulus",
+"Nimbostratus",
+"Cumulonimbus",
+"Stratus",
+"Mammatus"
+],
+"alt": [],
+"fib": true,
+"img": "/pics/clouds/altocumulus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 5,
+"q": "What type of cloud is this?",
+"a": "Cirrocumulus",
+"w": [
+"Cirrostratus",
+"Altocumulus",
+"Stratus",
+"Mammatus",
+"Nimbostratus",
+"Fog",
+"Cirrus"
+],
+"alt": [
+"Mackerel sky"
+],
+"fib": true,
+"img": "/pics/clouds/cirrocumulus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 4,
+"q": "What type of cloud is this?",
+"a": "Mammatus",
+"w": [
+"Stratus",
+"Altostratus",
+"Cumulus",
+"Altocumulus",
+"Stratocumulus",
+"Nimbostratus",
+"Cirrostratus"
+],
+"alt": [
+"Mammatus clouds"
+],
+"fib": true,
+"img": "/pics/clouds/mammatus.png"
+},
+{
+"pr": "clouds",
+"prn": "Cloud types",
+"c": "sci",
+"d": 4,
+"q": "What type of cloud is this?",
+"a": "Lenticular cloud",
+"w": [
+"Nimbostratus",
+"Stratocumulus",
+"Cirrus",
+"Mammatus",
+"Cumulonimbus",
+"Cirrostratus",
+"Altocumulus"
+],
+"alt": [
+"Lenticular",
+"Altocumulus lenticularis"
+],
+"fib": true,
+"img": "/pics/clouds/lenticular.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 3,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "A (Alfa)",
+"w": [
+"T (Tango)",
+"J (Juliett)",
+"U (Uniform)",
+"S (Sierra)",
+"Z (Zulu)",
+"X (X-ray)",
+"E (Echo)"
+],
+"alt": [
+"A",
+"Alfa",
+"Alpha"
+],
+"fib": true,
+"img": "/pics/flags/signal-a.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 3,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "B (Bravo)",
+"w": [
+"S (Sierra)",
+"X (X-ray)",
+"U (Uniform)",
+"T (Tango)",
+"W (Whiskey)",
+"V (Victor)",
+"Q (Quebec)"
+],
+"alt": [
+"B",
+"Bravo"
+],
+"fib": true,
+"img": "/pics/flags/signal-b.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "C (Charlie)",
+"w": [
+"I (India)",
+"F (Foxtrot)",
+"D (Delta)",
+"N (November)",
+"W (Whiskey)",
+"E (Echo)",
+"L (Lima)"
+],
+"alt": [
+"C",
+"Charlie"
+],
+"fib": true,
+"img": "/pics/flags/signal-c.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "D (Delta)",
+"w": [
+"S (Sierra)",
+"X (X-ray)",
+"U (Uniform)",
+"T (Tango)",
+"B (Bravo)",
+"M (Mike)",
+"J (Juliett)"
+],
+"alt": [
+"D",
+"Delta"
+],
+"fib": true,
+"img": "/pics/flags/signal-d.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "E (Echo)",
+"w": [
+"L (Lima)",
+"W (Whiskey)",
+"U (Uniform)",
+"S (Sierra)",
+"A (Alfa)",
+"I (India)",
+"B (Bravo)"
+],
+"alt": [
+"E",
+"Echo"
+],
+"fib": true,
+"img": "/pics/flags/signal-e.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "F (Foxtrot)",
+"w": [
+"B (Bravo)",
+"K (Kilo)",
+"P (Papa)",
+"X (X-ray)",
+"N (November)",
+"Z (Zulu)",
+"U (Uniform)"
+],
+"alt": [
+"F",
+"Foxtrot"
+],
+"fib": true,
+"img": "/pics/flags/signal-f.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "G (Golf)",
+"w": [
+"Z (Zulu)",
+"F (Foxtrot)",
+"V (Victor)",
+"E (Echo)",
+"B (Bravo)",
+"A (Alfa)",
+"X (X-ray)"
+],
+"alt": [
+"G",
+"Golf"
+],
+"fib": true,
+"img": "/pics/flags/signal-g.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "H (Hotel)",
+"w": [
+"X (X-ray)",
+"K (Kilo)",
+"M (Mike)",
+"I (India)",
+"V (Victor)",
+"R (Romeo)",
+"Q (Quebec)"
+],
+"alt": [
+"H",
+"Hotel"
+],
+"fib": true,
+"img": "/pics/flags/signal-h.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "I (India)",
+"w": [
+"S (Sierra)",
+"B (Bravo)",
+"J (Juliett)",
+"K (Kilo)",
+"A (Alfa)",
+"Q (Quebec)",
+"U (Uniform)"
+],
+"alt": [
+"I",
+"India"
+],
+"fib": true,
+"img": "/pics/flags/signal-i.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "J (Juliett)",
+"w": [
+"G (Golf)",
+"H (Hotel)",
+"N (November)",
+"I (India)",
+"L (Lima)",
+"X (X-ray)",
+"V (Victor)"
+],
+"alt": [
+"J",
+"Juliett",
+"Juliet"
+],
+"fib": true,
+"img": "/pics/flags/signal-j.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "K (Kilo)",
+"w": [
+"C (Charlie)",
+"I (India)",
+"J (Juliett)",
+"S (Sierra)",
+"H (Hotel)",
+"M (Mike)",
+"G (Golf)"
+],
+"alt": [
+"K",
+"Kilo"
+],
+"fib": true,
+"img": "/pics/flags/signal-k.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "L (Lima)",
+"w": [
+"D (Delta)",
+"R (Romeo)",
+"M (Mike)",
+"W (Whiskey)",
+"V (Victor)",
+"K (Kilo)",
+"S (Sierra)"
+],
+"alt": [
+"L",
+"Lima"
+],
+"fib": true,
+"img": "/pics/flags/signal-l.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "M (Mike)",
+"w": [
+"C (Charlie)",
+"H (Hotel)",
+"D (Delta)",
+"G (Golf)",
+"Z (Zulu)",
+"S (Sierra)",
+"P (Papa)"
+],
+"alt": [
+"M",
+"Mike"
+],
+"fib": true,
+"img": "/pics/flags/signal-m.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "N (November)",
+"w": [
+"D (Delta)",
+"M (Mike)",
+"R (Romeo)",
+"P (Papa)",
+"L (Lima)",
+"B (Bravo)",
+"T (Tango)"
+],
+"alt": [
+"N",
+"November"
+],
+"fib": true,
+"img": "/pics/flags/signal-n.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 3,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "P (Papa)",
+"w": [
+"R (Romeo)",
+"U (Uniform)",
+"D (Delta)",
+"C (Charlie)",
+"Q (Quebec)",
+"M (Mike)",
+"X (X-ray)"
+],
+"alt": [
+"P",
+"Papa"
+],
+"fib": true,
+"img": "/pics/flags/signal-p.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 3,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "Q (Quebec)",
+"w": [
+"W (Whiskey)",
+"Z (Zulu)",
+"L (Lima)",
+"N (November)",
+"I (India)",
+"H (Hotel)",
+"E (Echo)"
+],
+"alt": [
+"Q",
+"Quebec"
+],
+"fib": true,
+"img": "/pics/flags/signal-q.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "R (Romeo)",
+"w": [
+"T (Tango)",
+"F (Foxtrot)",
+"E (Echo)",
+"S (Sierra)",
+"G (Golf)",
+"P (Papa)",
+"I (India)"
+],
+"alt": [
+"R",
+"Romeo"
+],
+"fib": true,
+"img": "/pics/flags/signal-r.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "S (Sierra)",
+"w": [
+"T (Tango)",
+"V (Victor)",
+"W (Whiskey)",
+"G (Golf)",
+"I (India)",
+"M (Mike)",
+"L (Lima)"
+],
+"alt": [
+"S",
+"Sierra"
+],
+"fib": true,
+"img": "/pics/flags/signal-s.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "T (Tango)",
+"w": [
+"W (Whiskey)",
+"N (November)",
+"I (India)",
+"V (Victor)",
+"K (Kilo)",
+"H (Hotel)",
+"C (Charlie)"
+],
+"alt": [
+"T",
+"Tango"
+],
+"fib": true,
+"img": "/pics/flags/signal-t.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "U (Uniform)",
+"w": [
+"N (November)",
+"P (Papa)",
+"S (Sierra)",
+"H (Hotel)",
+"M (Mike)",
+"J (Juliett)",
+"Q (Quebec)"
+],
+"alt": [
+"U",
+"Uniform"
+],
+"fib": true,
+"img": "/pics/flags/signal-u.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "V (Victor)",
+"w": [
+"G (Golf)",
+"R (Romeo)",
+"F (Foxtrot)",
+"E (Echo)",
+"A (Alfa)",
+"N (November)",
+"C (Charlie)"
+],
+"alt": [
+"V",
+"Victor"
+],
+"fib": true,
+"img": "/pics/flags/signal-v.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "W (Whiskey)",
+"w": [
+"E (Echo)",
+"V (Victor)",
+"J (Juliett)",
+"H (Hotel)",
+"F (Foxtrot)",
+"M (Mike)",
+"Z (Zulu)"
+],
+"alt": [
+"W",
+"Whiskey",
+"Whisky"
+],
+"fib": true,
+"img": "/pics/flags/signal-w.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "X (X-ray)",
+"w": [
+"Q (Quebec)",
+"L (Lima)",
+"E (Echo)",
+"I (India)",
+"F (Foxtrot)",
+"G (Golf)",
+"C (Charlie)"
+],
+"alt": [
+"X",
+"X-ray"
+],
+"fib": true,
+"img": "/pics/flags/signal-x.png"
+},
+{
+"pr": "flags",
+"prn": "Flags",
+"c": "geo",
+"d": 4,
+"q": "Which letter does this maritime signal flag stand for?",
+"a": "Z (Zulu)",
+"w": [
+"M (Mike)",
+"F (Foxtrot)",
+"G (Golf)",
+"W (Whiskey)",
+"P (Papa)",
+"B (Bravo)",
+"E (Echo)"
+],
+"alt": [
+"Z",
+"Zulu"
+],
+"fib": true,
+"img": "/pics/flags/signal-z.png"
+},
+{
 "pr": "flags",
 "prn": "Flags",
 "c": "geo",
@@ -17721,13 +19431,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "United Kingdom",
 "w": [
-"Portugal",
+"Poland",
+"Italy",
+"Greece",
+"Turkey",
+"Ireland",
 "Austria",
-"China",
-"Finland",
-"Brazil",
-"Mexico",
-"Chile"
+"China"
 ],
 "alt": [
 "UK",
@@ -17745,13 +19455,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "France",
 "w": [
-"Mexico",
-"United States",
+"India",
+"Canada",
 "Belgium",
-"Denmark",
-"Chile",
+"Poland",
+"United Kingdom",
 "Switzerland",
-"Greece"
+"Italy"
 ],
 "alt": [],
 "fib": true,
@@ -17765,13 +19475,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Italy",
 "w": [
-"Israel",
-"Mexico",
-"Sweden",
+"Canada",
 "Russia",
-"France",
-"Portugal",
-"Spain"
+"Brazil",
+"Ireland",
+"Sweden",
+"New Zealand",
+"Denmark"
 ],
 "alt": [],
 "fib": true,
@@ -17785,13 +19495,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Belgium",
 "w": [
-"New Zealand",
-"Italy",
-"India",
-"Chile",
-"Poland",
-"Finland",
-"Norway"
+"Sweden",
+"Netherlands",
+"Turkey",
+"Israel",
+"Portugal",
+"France",
+"Chile"
 ],
 "alt": [],
 "fib": true,
@@ -17805,13 +19515,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "India",
 "w": [
-"New Zealand",
-"Canada",
-"Germany",
-"Austria",
 "Ireland",
-"Chile",
-"Switzerland"
+"Finland",
+"Norway",
+"Netherlands",
+"Switzerland",
+"Italy",
+"Mexico"
 ],
 "alt": [],
 "fib": true,
@@ -17825,13 +19535,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Greece",
 "w": [
-"Switzerland",
+"France",
 "Japan",
-"Italy",
-"Finland",
-"Chile",
+"Israel",
+"Portugal",
 "New Zealand",
-"Ireland"
+"Chile",
+"Belgium"
 ],
 "alt": [],
 "fib": true,
@@ -17845,13 +19555,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Argentina",
 "w": [
-"Poland",
 "Russia",
+"Mexico",
+"Poland",
+"Australia",
 "Chile",
-"Italy",
-"China",
 "Canada",
-"South Korea"
+"Portugal"
 ],
 "alt": [],
 "fib": true,
@@ -17865,13 +19575,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Denmark",
 "w": [
+"France",
+"India",
+"Russia",
+"Greece",
+"Japan",
 "Poland",
-"United Kingdom",
-"Mexico",
-"Austria",
-"Norway",
-"Belgium",
-"Spain"
+"Germany"
 ],
 "alt": [],
 "fib": true,
@@ -17885,13 +19595,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Spain",
 "w": [
-"Chile",
 "Mexico",
-"Argentina",
-"Ireland",
-"Portugal",
+"Brazil",
+"Austria",
 "United Kingdom",
-"Italy"
+"Russia",
+"China",
+"Greece"
 ],
 "alt": [],
 "fib": true,
@@ -17905,13 +19615,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Netherlands",
 "w": [
-"Australia",
+"Poland",
+"Japan",
+"Brazil",
+"United Kingdom",
 "Chile",
-"Germany",
-"Russia",
-"Sweden",
-"Norway",
-"Portugal"
+"Austria",
+"Norway"
 ],
 "alt": [
 "Holland"
@@ -17927,13 +19637,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Canada",
 "w": [
-"Denmark",
-"Sweden",
-"Israel",
 "Australia",
+"Finland",
+"Norway",
+"Japan",
 "India",
-"Italy",
-"Norway"
+"Russia",
+"Argentina"
 ],
 "alt": [],
 "fib": true,
@@ -17947,12 +19657,12 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Australia",
 "w": [
-"Greece",
-"Poland",
-"Denmark",
-"Germany",
-"New Zealand",
-"Russia",
+"France",
+"Switzerland",
+"China",
+"Turkey",
+"Finland",
+"Spain",
 "Japan"
 ],
 "alt": [],
@@ -17967,13 +19677,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Germany",
 "w": [
-"Poland",
-"Ireland",
-"Belgium",
-"Argentina",
-"Portugal",
-"Brazil",
-"Switzerland"
+"Finland",
+"South Korea",
+"Italy",
+"China",
+"Japan",
+"Russia",
+"Ireland"
 ],
 "alt": [],
 "fib": true,
@@ -17987,13 +19697,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "New Zealand",
 "w": [
-"Turkey",
-"Israel",
-"Germany",
-"Japan",
-"Greece",
+"Australia",
 "China",
-"Ireland"
+"Argentina",
+"Belgium",
+"Poland",
+"Ireland",
+"India"
 ],
 "alt": [],
 "fib": true,
@@ -18007,13 +19717,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Japan",
 "w": [
-"Israel",
-"Mexico",
-"Denmark",
-"New Zealand",
-"Greece",
+"China",
+"Spain",
+"United States",
+"Germany",
+"Belgium",
 "United Kingdom",
-"Belgium"
+"France"
 ],
 "alt": [],
 "fib": true,
@@ -18027,13 +19737,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "United States",
 "w": [
-"South Korea",
-"Greece",
-"Poland",
 "China",
-"New Zealand",
-"France",
-"Turkey"
+"Belgium",
+"United Kingdom",
+"Ireland",
+"Germany",
+"Poland",
+"Austria"
 ],
 "alt": [
 "USA",
@@ -18051,13 +19761,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Russia",
 "w": [
-"Argentina",
-"Japan",
-"Finland",
+"Ireland",
+"United States",
 "Greece",
-"Poland",
+"Japan",
 "Canada",
-"United Kingdom"
+"Portugal",
+"Mexico"
 ],
 "alt": [],
 "fib": true,
@@ -18071,13 +19781,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "China",
 "w": [
+"France",
+"Austria",
+"Switzerland",
 "New Zealand",
-"Denmark",
-"Mexico",
-"Belgium",
-"Finland",
+"Israel",
 "Netherlands",
-"Greece"
+"Chile"
 ],
 "alt": [],
 "fib": true,
@@ -18091,13 +19801,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Israel",
 "w": [
-"Norway",
-"Chile",
-"South Korea",
-"Sweden",
+"Austria",
+"United Kingdom",
+"Ireland",
+"Russia",
 "Belgium",
-"Australia",
-"Ireland"
+"Sweden",
+"Italy"
 ],
 "alt": [],
 "fib": true,
@@ -18111,13 +19821,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Poland",
 "w": [
-"Sweden",
-"Brazil",
-"China",
-"Mexico",
-"Finland",
-"United States",
-"Austria"
+"France",
+"Russia",
+"Argentina",
+"Austria",
+"South Korea",
+"Denmark",
+"Australia"
 ],
 "alt": [],
 "fib": true,
@@ -18131,13 +19841,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Sweden",
 "w": [
+"Greece",
+"New Zealand",
 "Turkey",
-"Japan",
-"India",
-"South Korea",
-"Australia",
-"Mexico",
-"New Zealand"
+"Belgium",
+"Italy",
+"Austria",
+"France"
 ],
 "alt": [],
 "fib": true,
@@ -18151,13 +19861,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Brazil",
 "w": [
-"Belgium",
-"South Korea",
-"Israel",
-"New Zealand",
 "Switzerland",
-"Germany",
-"India"
+"Belgium",
+"United Kingdom",
+"Argentina",
+"Canada",
+"France",
+"Italy"
 ],
 "alt": [],
 "fib": true,
@@ -18171,13 +19881,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Mexico",
 "w": [
-"India",
+"Israel",
+"Canada",
 "Russia",
-"Sweden",
-"Italy",
-"Spain",
-"Denmark",
-"United States"
+"Norway",
+"Finland",
+"France",
+"Sweden"
 ],
 "alt": [],
 "fib": true,
@@ -18192,12 +19902,12 @@
 "a": "South Korea",
 "w": [
 "China",
-"Portugal",
-"Turkey",
-"Israel",
-"Mexico",
-"Sweden",
-"France"
+"Spain",
+"Poland",
+"Greece",
+"Austria",
+"New Zealand",
+"Turkey"
 ],
 "alt": [
 "Korea"
@@ -18213,13 +19923,13 @@
 "q": "Which country's air force uses this roundel?",
 "a": "Switzerland",
 "w": [
-"Spain",
-"Mexico",
+"Greece",
+"Japan",
+"Norway",
 "India",
-"Turkey",
-"Netherlands",
-"Portugal",
-"Brazil"
+"Spain",
+"Sweden",
+"Mexico"
 ],
 "alt": [],
 "fib": true,

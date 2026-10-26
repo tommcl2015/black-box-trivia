@@ -77,7 +77,8 @@ LM_D = {'eiffel-tower': 1, 'statue-of-liberty': 1, 'big-ben': 1, 'taj-mahal': 1,
         'windmills-of-kinderdijk': 3, 'itsukushima-torii': 3, 'temple-of-heaven': 4, 'table-mountain': 3, 'atomium': 4, 'st-peters-basilica': 3,
         'mont-saint-michel': 3, 'golden-temple-amritsar': 4, 'kremlin-spasskaya-tower': 3, 'taipei-101': 3}
 ANCIENT = {'hanging-gardens-of-babylon', 'colossus-of-rhodes', 'lighthouse-of-alexandria', 'temple-of-artemis', 'statue-of-zeus-at-olympia', 'mausoleum-at-halicarnassus'}
-lm = sorted(set(landmarks1.REG) | set(landmarks2.REG))
+MOVED_TO_MOUNTAINS = {'matterhorn', 'mount-fuji', 'table-mountain', 'uluru'}
+lm = sorted((set(landmarks1.REG) | set(landmarks2.REG)) - MOVED_TO_MOUNTAINS)
 lm_names = {s: nice(s, 'landmarks') for s in lm}
 for s in lm:
     if s in ANCIENT:
@@ -273,6 +274,53 @@ STAD = {'wembley-stadium': ('Wembley Stadium', 1, ['Wembley']), 'allianz-arena':
         'lords-cricket-ground': ("Lord's", 3, ["Lord's Cricket Ground", 'Lords']), 'melbourne-cricket-ground': ('Melbourne Cricket Ground', 3, ['MCG', 'The MCG']),
         'madison-square-garden': ('Madison Square Garden', 2, ['MSG', 'The Garden'])}
 simple_round('stadiums', 'Sports stadiums', 'spo', 'stadiums', STAD, ['Camp Nou', 'Maracana', 'Old Trafford', 'Fenway Park', 'Lambeau Field', 'Dodger Stadium', 'Eden Gardens', 'Santiago Bernabeu', 'Anfield'], 'Name this stadium.')
+
+# ---------------- Oct 2026 batch 2: racing circuits, writing systems, mountains, cloud types, signal flags ----------------
+F1 = {'monaco': ('Circuit de Monaco', 2, ['Monaco', 'Monte Carlo']), 'silverstone': ('Silverstone', 2, ['Silverstone Circuit']),
+      'monza': ('Monza', 3, ['Autodromo Nazionale Monza']), 'spa-francorchamps': ('Spa-Francorchamps', 3, ['Spa', 'Spa Francorchamps']),
+      'suzuka': ('Suzuka', 3, ['Suzuka Circuit']), 'interlagos': ('Interlagos', 4, ['Autodromo Jose Carlos Pace']),
+      'circuit-gilles-villeneuve': ('Circuit Gilles Villeneuve', 3, ['Gilles Villeneuve', 'Montreal']), 'circuit-of-the-americas': ('Circuit of the Americas', 3, ['COTA', 'Austin']),
+      'albert-park': ('Albert Park', 4, ['Melbourne', 'Albert Park Circuit']), 'marina-bay': ('Marina Bay', 4, ['Marina Bay Street Circuit', 'Singapore']),
+      'hungaroring': ('Hungaroring', 4, []), 'zandvoort': ('Zandvoort', 4, ['Circuit Zandvoort']), 'baku': ('Baku City Circuit', 4, ['Baku']),
+      'las-vegas': ('Las Vegas Strip Circuit', 4, ['Las Vegas', 'Las Vegas Street Circuit']), 'indianapolis': ('Indianapolis Motor Speedway', 4, ['Indianapolis', 'Indy', 'The Brickyard']),
+      'nurburgring': ('Nurburgring', 4, ['Nürburgring']), 'bahrain': ('Bahrain International Circuit', 4, ['Bahrain', 'Sakhir']),
+      'yas-marina': ('Yas Marina', 4, ['Yas Marina Circuit', 'Abu Dhabi']), 'imola': ('Imola', 4, ['Autodromo Enzo e Dino Ferrari']), 'red-bull-ring': ('Red Bull Ring', 4, ['Spielberg', 'Austria'])}
+simple_round('circuits', 'Racing circuits', 'spo', 'circuits', F1, ['Hockenheim', 'Paul Ricard', 'Jeddah Corniche Circuit', 'Shanghai International Circuit', 'Sepang', 'Brands Hatch', 'Kyalami', 'Estoril'], 'Name this racing circuit.')
+NASCAR = {'nascar-daytona': ('Daytona International Speedway', 3, ['Daytona']), 'nascar-martinsville': ('Martinsville Speedway', 4, ['Martinsville']),
+          'nascar-bristol': ('Bristol Motor Speedway', 5, ['Bristol']), 'nascar-darlington': ('Darlington Raceway', 5, ['Darlington']),
+          'nascar-pocono': ('Pocono Raceway', 4, ['Pocono'])}
+simple_round('circuits', 'Racing circuits', 'spo', 'circuits', NASCAR, ['Talladega Superspeedway', 'Charlotte Motor Speedway', 'Phoenix Raceway', 'Richmond Raceway', 'Kansas Speedway', 'Atlanta Motor Speedway'], 'Name this NASCAR track.')
+
+SCRIPTS = {'greek': ('Greek', 2, ['Greek alphabet']), 'cyrillic': ('Cyrillic', 2, ['Russian']), 'hebrew': ('Hebrew', 3, []), 'arabic': ('Arabic', 2, []),
+           'devanagari': ('Devanagari', 4, ['Hindi']), 'hangul': ('Hangul (Korean)', 3, ['Hangul', 'Korean', 'Hangeul']), 'japanese-hiragana': ('Japanese (hiragana)', 3, ['Japanese', 'Hiragana', 'Kana']),
+           'chinese-characters': ('Chinese characters', 2, ['Chinese', 'Hanzi', 'Mandarin']), 'thai': ('Thai', 4, []), 'georgian': ('Georgian', 5, []),
+           'armenian': ('Armenian', 5, []), 'geez-ethiopic': ("Ge'ez (Ethiopic)", 5, ['Geez', "Ge'ez", 'Ethiopic', 'Amharic'])}
+simple_round('scripts', 'Writing systems', 'art', 'scripts', SCRIPTS, ['Latin', 'Tamil', 'Bengali', 'Mongolian', 'Tibetan', 'Khmer', 'Sinhala'], 'This word means "hello". Which writing system is it written in?')
+
+MTN = {'matterhorn': ('Matterhorn', 2, []), 'mount-fuji': ('Mount Fuji', 1, ['Fuji', 'Fujisan', 'Fuji-san']), 'kilimanjaro': ('Mount Kilimanjaro', 2, ['Kilimanjaro']),
+       'table-mountain': ('Table Mountain', 3, []), 'sugarloaf-mountain': ('Sugarloaf Mountain', 3, ['Sugarloaf', 'Sugar Loaf', 'Pao de Acucar']),
+       'half-dome': ('Half Dome', 3, []), 'uluru': ('Uluru', 2, ['Ayers Rock']), 'devils-tower': ('Devils Tower', 3, ["Devil's Tower"]),
+       'vesuvius': ('Mount Vesuvius', 3, ['Vesuvius']), 'mount-st-helens': ('Mount St. Helens', 3, ['Mount St Helens', 'St Helens', 'Mt St Helens'])}
+ROCKS = {'uluru', 'devils-tower', 'half-dome'}
+simple_round('mountains', 'Mountains & volcanoes', 'geo', 'mountains', MTN, ['Mount Everest', 'K2', 'Mont Blanc', 'Mount Etna', 'Mount Rainier', 'Denali', 'Ben Nevis', 'El Capitan'], '',
+             qfor=lambda s: 'Name this famous rock formation.' if s in ROCKS else 'Name this mountain.')
+
+CLOUDS = {'cumulus': ('Cumulus', 1, []), 'cumulonimbus': ('Cumulonimbus', 2, ['Thunderstorm cloud', 'Thunderhead']), 'cirrus': ('Cirrus', 2, ["Mare's tails"]),
+          'stratus': ('Stratus', 3, []), 'nimbostratus': ('Nimbostratus', 4, []), 'altocumulus': ('Altocumulus', 4, []), 'cirrocumulus': ('Cirrocumulus', 5, ['Mackerel sky']),
+          'mammatus': ('Mammatus', 4, ['Mammatus clouds']), 'lenticular': ('Lenticular cloud', 4, ['Lenticular', 'Altocumulus lenticularis'])}
+simple_round('clouds', 'Cloud types', 'sci', 'clouds', CLOUDS, ['Stratocumulus', 'Cirrostratus', 'Altostratus', 'Contrail', 'Fog'], 'What type of cloud is this?', colour=True)
+
+PHON = dict(a='Alfa', b='Bravo', c='Charlie', d='Delta', e='Echo', f='Foxtrot', g='Golf', h='Hotel', i='India', j='Juliett', k='Kilo', l='Lima', m='Mike',
+            n='November', o='Oscar', p='Papa', q='Quebec', r='Romeo', s='Sierra', t='Tango', u='Uniform', v='Victor', w='Whiskey', x='X-ray', y='Yankee', z='Zulu')
+SF_D = dict(a=3, b=3, p=3, q=3)
+sf_label = lambda L: f'{L.upper()} ({PHON[L]})'
+sf = sorted(f[:-4] for f in os.listdir(os.path.join(OUT, 'signalflags')))
+for L in sf:
+    name = 'signal-' + L; small_png(os.path.join(OUT, 'signalflags', L + '.png'), os.path.join(PICS, 'flags', name + '.png'), True)
+    pool = [sf_label(x) for x in sf if x != L]; rnd.shuffle(pool)
+    alt = [L.upper(), PHON[L]] + (['Alpha'] if L == 'a' else ['Juliet'] if L == 'j' else ['Whisky'] if L == 'w' else [])
+    Q.append({'pr': 'flags', 'prn': 'Flags', 'c': 'geo', 'd': SF_D.get(L, 4), 'q': 'Which letter does this maritime signal flag stand for?', 'a': sf_label(L),
+              'w': pool[:7], 'alt': alt, 'fib': True, 'img': f'/pics/flags/{name}.png'})
 
 # ---------------- air force roundels, part of the Flags round (8-bit colour) ----------------
 import roundels as RD
