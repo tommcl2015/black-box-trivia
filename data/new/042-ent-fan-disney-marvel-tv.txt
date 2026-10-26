@@ -1,0 +1,68 @@
+# Big fan packs: Disney & Pixar, Marvel, Game of Thrones, Breaking Bad, Star Trek, Doctor Who
+# --- Disney & Pixar ---
+ent|1|What was the first Pixar feature film, released in 1995?|Toy Story|A Bug's Life;Monsters, Inc.;Finding Nemo
+ent|1|In "Toy Story", what is the name of the space ranger toy?|Buzz Lightyear|Woody;Zurg;Rex|Buzz
+ent|2|In "Toy Story", what is Buzz Lightyear's catchphrase?|"To infinity and beyond!"|"Reach for the sky!";"Up, up and away!";"Blast off!"|To infinity and beyond
+ent|1|In "Finding Nemo", what kind of fish is Dory?|A blue tang|A clownfish;A pufferfish;An angelfish|Blue tang;Regal tang
+ent|2|In "Up", what lifts Carl's house into the sky?|Balloons|A hot-air balloon;A tornado;A giant kite|Helium balloons
+ent|2|In "The Lion King", what is the name of Simba's evil uncle?|Scar|Mufasa;Zazu;Rafiki
+ent|2|In "The Lion King", what phrase means "no worries"?|Hakuna Matata|Asante Sana;Circle of Life;Jambo Bwana
+ent|2|In "Frozen", what is the name of the snowman?|Olaf|Sven;Kristoff;Hans
+ent|2|In "Frozen", which sister has ice powers?|Elsa|Anna;Merida;Rapunzel
+ent|2|In "Aladdin", who voiced the Genie in the 1992 film?|Robin Williams|Eddie Murphy;Will Smith;Jim Carrey|Williams
+ent|2|What was Walt Disney's first full-length animated film, in 1937?|Snow White and the Seven Dwarfs|Pinocchio;Fantasia;Cinderella|Snow White
+ent|2|In "Snow White", how many dwarfs are there?|Seven|Five;Six;Eight|7
+ent|2|In "Monsters, Inc.", what is the name of the little girl?|Boo|Mary;Dot;Lilo
+ent|2|In "Cars", what is the name of the red race car hero?|Lightning McQueen|Mater;Doc Hudson;Chick Hicks|McQueen
+ent|2|In "WALL-E", what is the robot's job on Earth?|Compacting trash|Building houses;Watering plants;Delivering mail|Cleaning up rubbish;Trash compactor
+ent|3|In "Ratatouille", what is the name of the cooking rat?|Remy|Emile;Linguini;Gusteau
+ent|2|In "Beauty and the Beast", what is the name of the singing candlestick?|Lumière|Cogsworth;Chip;Gaston|Lumiere
+ent|2|In "The Little Mermaid", what is Ariel's crab friend called?|Sebastian|Flounder;Scuttle;Ursula
+ent|3|In "Inside Out", which emotion is coloured blue?|Sadness|Fear;Disgust;Anger
+ent|3|In "Coco", in which country is the film set?|Mexico|Spain;Brazil;Argentina
+ent|3|In "Moana", which demigod does Moana sail with?|Maui|Tamatoa;Te Kā;Heihei
+ent|2|What is the name of Disney's famous mouse's girlfriend?|Minnie Mouse|Daisy Duck;Clarabelle Cow;Molly Mouse|Minnie
+ent|3|In "Encanto", which character "we don't talk about"?|Bruno|Mirabel;Camilo;Isabela
+# --- Marvel ---
+ent|2|What is Spider-Man's real name?|Peter Parker|Bruce Wayne;Clark Kent;Tony Stark|Peter
+ent|1|What is Iron Man's real name?|Tony Stark|Steve Rogers;Bruce Banner;Peter Quill|Tony;Anthony Stark
+ent|2|What is Captain America's real name?|Steve Rogers|Bucky Barnes;Sam Wilson;Nick Fury|Steve;Steven Rogers
+ent|2|What is the name of Thor's hammer?|Mjölnir|Stormbreaker;Gungnir;Jarnbjorn|Mjolnir
+ent|2|What is the Hulk's real name?|Bruce Banner|Bruce Wayne;Ben Grimm;Hank Pym|Banner
+ent|2|Which Avenger is known as "Black Widow"?|Natasha Romanoff|Wanda Maximoff;Carol Danvers;Maria Hill|Natasha;Natasha Romanova
+ent|2|Which purple villain collects the Infinity Stones?|Thanos|Ultron;Loki;Galactus
+ent|2|Which fictional African nation is Black Panther's home?|Wakanda|Zamunda;Genovia;Latveria
+ent|3|What metal is Captain America's shield made of?|Vibranium|Adamantium;Uru;Titanium
+ent|3|What metal is bonded to Wolverine's skeleton?|Adamantium|Vibranium;Uru;Carbonadium
+ent|2|Who co-created Spider-Man and appeared in cameos in many Marvel films?|Stan Lee|Jack Kirby;Steve Ditko;Kevin Feige|Lee
+ent|3|What was the first film in the Marvel Cinematic Universe, in 2008?|Iron Man|The Incredible Hulk;Thor;Captain America: The First Avenger
+ent|3|Who is Thor's mischievous adopted brother?|Loki|Odin;Heimdall;Balder
+ent|3|What is the name of the tree-like Guardian of the Galaxy who says "I am Groot"?|Groot|Rocket;Drax;Yondu
+# --- Game of Thrones ---
+ent|2|What is the name of the fictional continent in "Game of Thrones"?|Westeros|Essos;Middle-earth;Narnia
+ent|2|In "Game of Thrones", what is the family motto of House Stark?|"Winter is Coming"|"Fire and Blood";"Hear Me Roar";"We Do Not Sow"|Winter is coming
+ent|2|What is the name of the iron chair the kings of Westeros sit on?|The Iron Throne|The Dragon Seat;The Stone Throne;The Crown Chair|Iron Throne
+ent|3|In "Game of Thrones", who is known as the "Mother of Dragons"?|Daenerys Targaryen|Cersei Lannister;Sansa Stark;Margaery Tyrell|Daenerys;Dany
+ent|3|Who wrote the books that "Game of Thrones" is based on?|George R. R. Martin|J. R. R. Tolkien;Robert Jordan;Patrick Rothfuss|George RR Martin;George Martin
+ent|3|In "Game of Thrones", what is Jon Snow told he knows?|Nothing|Everything;The truth;Too much|You know nothing Jon Snow
+ent|3|In "Game of Thrones", who is Tyrion's sister?|Cersei Lannister|Arya Stark;Brienne of Tarth;Lysa Arryn|Cersei
+# --- Breaking Bad ---
+ent|2|In "Breaking Bad", what is Walter White's job at the start of the series?|High school chemistry teacher|Pharmacist;Car wash owner;Doctor|Chemistry teacher;Teacher
+ent|2|In "Breaking Bad", what alias does Walter White use?|Heisenberg|Gus;Saul;Los Pollos|The Heisenberg
+ent|3|In which US city is "Breaking Bad" set?|Albuquerque|Phoenix;El Paso;Las Vegas
+ent|3|In "Breaking Bad", what is the name of the fried-chicken chain run by Gus Fring?|Los Pollos Hermanos|Chicken Brothers;El Pollo Loco;Pollos Fritos|Pollos Hermanos
+ent|3|Which spin-off series follows the lawyer Saul Goodman?|Better Call Saul|El Camino;Call Saul;Goodman & Partners
+# --- Star Trek ---
+ent|2|What is the name of Captain Kirk's starship in "Star Trek"?|USS Enterprise|USS Voyager;Millennium Falcon;Serenity|Enterprise
+ent|2|Which half-Vulcan science officer serves with Captain Kirk?|Spock|Sulu;Data;Worf
+ent|2|What is the Vulcan greeting in "Star Trek"?|"Live long and prosper"|"May the Force be with you";"Engage";"Make it so"|Live long and prosper
+ent|3|Who plays Captain Jean-Luc Picard?|Patrick Stewart|William Shatner;Ian McKellen;Ben Kingsley|Stewart
+ent|3|What does Captain Picard say when giving an order to proceed?|"Make it so"|"Engage the warp";"Beam me up";"Fire at will"|Make it so
+ent|3|Which warrior race is Worf from in "Star Trek"?|Klingon|Romulan;Vulcan;Ferengi
+# --- Doctor Who ---
+ent|2|What is the name of the Doctor's time machine in "Doctor Who"?|The TARDIS|The DeLorean;The Time Ball;The Phone Box|TARDIS
+ent|2|What does the TARDIS look like from the outside?|A blue police box|A red phone box;A wooden shed;A London bus|Police box;Blue police box
+ent|3|What are the Doctor's robot-shelled enemies that cry "Exterminate!"?|Daleks|Cybermen;Sontarans;Weeping Angels
+ent|3|What is the Doctor's handy multi-purpose tool?|Sonic screwdriver|Laser pen;Time key;Psychic paper|The sonic screwdriver
+ent|3|From which planet does the Doctor come?|Gallifrey|Skaro;Mondas;Trenzalore
+ent|3|How many hearts does the Doctor have?|Two|One;Three;Four|2

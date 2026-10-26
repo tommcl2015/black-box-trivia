@@ -1,0 +1,88 @@
+# Big fan packs: Harry Potter, Star Wars, The Lord of the Rings / The Hobbit
+# --- Harry Potter ---
+art|1|What is the name of Harry Potter's pet owl?|Hedwig|Errol;Pigwidgeon;Hermes
+art|1|Which Hogwarts house is Harry Potter sorted into?|Gryffindor|Slytherin;Ravenclaw;Hufflepuff
+art|2|What are the four Hogwarts houses?|Gryffindor, Hufflepuff, Ravenclaw and Slytherin|Gryffindor, Hufflepuff, Ravenclaw and Durmstrang;Gryffindor, Beauxbatons, Ravenclaw and Slytherin;Gryffindor, Hufflepuff, Hogsmeade and Slytherin
+art|1|What sport do wizards play on broomsticks in Harry Potter?|Quidditch|Quodpot;Gobstones;Broomball
+art|2|In Quidditch, which small golden ball ends the game when caught?|The Golden Snitch|The Quaffle;The Bludger;The Golden Egg|Snitch;Golden Snitch
+art|2|What position does Harry play on the Gryffindor Quidditch team?|Seeker|Keeper;Chaser;Beater
+art|2|From which London station platform does the Hogwarts Express leave?|Platform 9¾|Platform 7½;Platform 10¼;Platform 13|9 3/4;Nine and three-quarters;Platform 9 3/4
+art|2|What shape is the scar on Harry Potter's forehead?|A lightning bolt|A star;A crescent moon;A cross|Lightning bolt;Lightning
+art|2|Who is the headmaster of Hogwarts for most of the series?|Albus Dumbledore|Severus Snape;Minerva McGonagall;Horace Slughorn|Dumbledore
+art|3|What is Lord Voldemort's real name?|Tom Marvolo Riddle|Tom Gaunt Riddle;Marvolo Gaunt;Tom Salazar Riddle|Tom Riddle
+art|2|What do wizards call people with no magical ability in Harry Potter?|Muggles|Squibs;Mudbloods;Normies
+art|3|What is a wizard born to magical parents but with no magic called?|A Squib|A Muggle;A Mudblood;A Half-blood|Squib
+art|2|Which spell is used to disarm an opponent?|Expelliarmus|Expecto Patronum;Stupefy;Wingardium Leviosa
+art|2|Which spell makes objects float, as Ron famously mispronounced?|Wingardium Leviosa|Accio;Lumos;Alohomora
+art|3|Which spell conjures a Patronus?|Expecto Patronum|Expelliarmus;Riddikulus;Protego
+art|2|What are the creatures that guard Azkaban prison?|Dementors|Inferi;Thestrals;Boggarts
+art|3|What form does Harry's Patronus take?|A stag|A doe;An otter;A phoenix|Stag
+art|2|What is the name of the Weasley family home?|The Burrow|Shell Cottage;Grimmauld Place;The Den|Burrow
+art|3|What is the address of the Black family home and Order of the Phoenix headquarters?|12 Grimmauld Place|4 Privet Drive;10 Downing Street;Spinner's End|Grimmauld Place
+art|1|On which street do the Dursleys live?|Privet Drive|Grimmauld Place;Diagon Alley;Spinner's End|4 Privet Drive
+art|2|What is the name of the wizarding bank run by goblins?|Gringotts|Gringles;Borgin and Burkes;Ollivanders
+art|2|Who is Harry Potter's godfather?|Sirius Black|Remus Lupin;Arthur Weasley;Rubeus Hagrid|Sirius
+art|3|What is Hermione's middle name?|Jean|Rose;Anne;Marie
+art|2|Which Harry Potter book introduces the Triwizard Tournament?|Harry Potter and the Goblet of Fire|Harry Potter and the Order of the Phoenix;Harry Potter and the Prisoner of Azkaban;Harry Potter and the Half-Blood Prince|Goblet of Fire
+art|3|Who is the "Half-Blood Prince"?|Severus Snape|Tom Riddle;Harry Potter;Draco Malfoy|Snape
+art|2|What is the name of Hagrid's three-headed dog?|Fluffy|Fang;Norbert;Buckbeak
+art|3|What kind of creature is Buckbeak?|A Hippogriff|A Thestral;A Griffin;A Phoenix|Hippogriff
+art|2|What is the name of Dumbledore's phoenix?|Fawkes|Hedwig;Errol;Norbert
+art|3|Which object does Harry inherit that makes him invisible?|The Invisibility Cloak|The Marauder's Map;The Elder Wand;The Time-Turner|Invisibility Cloak;Cloak of Invisibility
+art|3|What are the three Deathly Hallows?|Elder Wand, Resurrection Stone, Invisibility Cloak|Elder Wand, Philosopher's Stone, Time-Turner;Sorting Hat, Sword, Locket;Horcrux, Pensieve, Cloak
+art|2|What did Voldemort split his soul into, to hide in objects?|Horcruxes|Portkeys;Pensieves;Hallows|Horcrux
+art|3|Which magical map shows everyone's location at Hogwarts?|The Marauder's Map|The Hogwarts Map;The Weasley Map;The Phoenix Map|Marauder's Map
+art|2|What sweet do the Hogwarts Express trolley sell that hop away?|Chocolate Frogs|Fizzing Whizzbees;Jelly Slugs;Pepper Imps
+art|2|What does the Sorting Hat do?|Sorts students into houses|Picks team captains;Grants three wishes;Chooses the head boy
+art|3|Who killed Dumbledore?|Severus Snape|Draco Malfoy;Bellatrix Lestrange;Lord Voldemort|Snape
+art|2|What is the name of the Malfoys' house-elf whom Harry frees?|Dobby|Kreacher;Winky;Hokey
+# --- Star Wars ---
+ent|1|What is the name of Han Solo's ship?|Millennium Falcon|Star Destroyer;Slave I;X-wing|The Millennium Falcon;Falcon
+ent|1|Who is Luke Skywalker's father?|Darth Vader|Obi-Wan Kenobi;Emperor Palpatine;Han Solo|Anakin Skywalker;Vader
+ent|2|What is the name of Darth Vader's original Jedi identity?|Anakin Skywalker|Ben Kenobi;Mace Windu;Qui-Gon Jinn|Anakin
+ent|1|What kind of creature is Chewbacca?|A Wookiee|An Ewok;A Jawa;A Hutt|Wookiee;Wookie
+ent|2|Which small green Jedi Master trains Luke on Dagobah?|Yoda|Mace Windu;Qui-Gon Jinn;Plo Koon
+ent|2|What is Princess Leia's home planet, destroyed by the Death Star?|Alderaan|Tatooine;Naboo;Hoth
+ent|2|On which desert planet does Luke Skywalker grow up?|Tatooine|Jakku;Geonosis;Dagobah
+ent|2|On which ice planet is the Rebel base in "The Empire Strikes Back"?|Hoth|Endor;Bespin;Ilum
+ent|2|What are the small furry creatures on the forest moon of Endor?|Ewoks|Jawas;Porgs;Wookiees
+ent|3|Which bounty hunter delivers the frozen Han Solo to Jabba the Hutt?|Boba Fett|Jango Fett;Bossk;Greedo|Boba
+ent|2|What is the famous line Darth Vader says to Luke in "The Empire Strikes Back"?|"No, I am your father."|"Luke, I am your father.";"Join me, Luke.";"You are my son."|No I am your father;I am your father
+ent|2|Which droid speaks over six million forms of communication?|C-3PO|R2-D2;BB-8;K-2SO|C3PO;See-Threepio
+ent|3|In which year was the first "Star Wars" film released?|1977|1975;1979;1981
+ent|2|Who created "Star Wars"?|George Lucas|Steven Spielberg;J.J. Abrams;Ridley Scott|Lucas
+ent|2|Who composed the music for the "Star Wars" films?|John Williams|Hans Zimmer;Danny Elfman;James Horner|Williams
+ent|3|What is the name of the Sith Lord who becomes the Emperor?|Darth Sidious|Darth Maul;Darth Tyranus;Darth Plagueis|Palpatine;Sheev Palpatine;Emperor Palpatine
+ent|2|What colour is Darth Vader's lightsaber?|Red|Blue;Green;Purple
+ent|3|What colour is Mace Windu's lightsaber?|Purple|Green;Yellow;Blue|Violet
+ent|2|Who plays Han Solo in the original "Star Wars" films?|Harrison Ford|Mark Hamill;Kurt Russell;Christopher Walken|Ford
+ent|3|What is the name of the little green alien popularly called "Baby Yoda" in "The Mandalorian"?|Grogu|Gizmo;Yaddle;Dash
+ent|3|In "The Force Awakens", what is the name of the scavenger heroine?|Rey|Jyn;Padmé;Ahsoka
+ent|2|What is the phrase Jedi say as a blessing?|"May the Force be with you"|"Live long and prosper";"Use the Force, Luke";"The Force is strong"|May the Force be with you
+ent|3|Who killed Obi-Wan Kenobi in "A New Hope"?|Darth Vader|Emperor Palpatine;Boba Fett;Grand Moff Tarkin|Vader
+ent|3|What is Yoda's famous backwards sentence about trying?|"Do or do not. There is no try."|"Try or do not. There is no do.";"Fear leads to anger.";"Judge me by my size, do you?"|Do or do not there is no try
+ent|3|Who was Anakin Skywalker's secret wife?|Padmé Amidala|Leia Organa;Mon Mothma;Ahsoka Tano|Padme;Padmé
+# --- The Lord of the Rings / The Hobbit ---
+art|1|Who wrote "The Lord of the Rings"?|J. R. R. Tolkien|C. S. Lewis;George R. R. Martin;Terry Pratchett|Tolkien;JRR Tolkien
+art|2|Into which volcano must the One Ring be thrown?|Mount Doom|Mount Fuji;Erebor;Caradhras|Orodruin
+art|2|What is the name of Frodo's loyal gardener and friend?|Samwise Gamgee|Peregrin Took;Meriadoc Brandybuck;Fredegar Bolger|Sam;Samwise;Sam Gamgee
+art|2|What is the name of the wizard who leads the Fellowship?|Gandalf|Saruman;Radagast;Alatar
+art|2|What does Gandalf shout at the Balrog on the bridge in the film?|"You shall not pass!"|"Run, you fools!";"Fly, you fools!";"Begone, demon!"|You shall not pass
+art|2|Which creature calls the One Ring "my precious"?|Gollum|Sauron;Shelob;Bilbo|Smeagol;Sméagol
+art|3|What was Gollum's name before he was corrupted by the Ring?|Sméagol|Déagol;Gríma;Bilbo|Smeagol
+art|2|What is the name of the hobbits' home region?|The Shire|Rivendell;Rohan;Gondor|Shire
+art|3|How many members are in the Fellowship of the Ring?|Nine|Seven;Eight;Twelve|9
+art|2|What is the name of the dragon in "The Hobbit"?|Smaug|Glaurung;Ancalagon;Scatha
+art|3|What is the name of Bilbo Baggins's house?|Bag End|Bree;Brandy Hall;Crickhollow
+art|3|Which Dwarf king leads the company in "The Hobbit"?|Thorin Oakenshield|Gimli;Balin;Dáin Ironfoot|Thorin
+art|3|What is the name of Aragorn's sword, reforged from Narsil?|Andúril|Sting;Glamdring;Orcrist|Anduril
+art|3|What is the name of Frodo's sword?|Sting|Glamdring;Andúril;Narsil
+art|3|Which elf is a member of the Fellowship?|Legolas|Elrond;Haldir;Glorfindel
+art|2|Which Dwarf is a member of the Fellowship?|Gimli|Thorin;Balin;Bombur
+art|2|Who directed "The Lord of the Rings" film trilogy?|Peter Jackson|Guillermo del Toro;Ridley Scott;James Cameron|Jackson
+art|3|In which country were "The Lord of the Rings" films shot?|New Zealand|Ireland;Iceland;Canada
+art|3|What are the giant tree-shepherds in "The Lord of the Rings"?|Ents|Huorns;Wargs;Elves
+art|3|What is the name of Sauron's tower in Mordor?|Barad-dûr|Minas Tirith;Orthanc;Minas Morgul|Barad-dur;Barad dur
+art|3|Which tower in Isengard belongs to Saruman?|Orthanc|Barad-dûr;Minas Tirith;Cirith Ungol
+art|4|What is the name of the giant spider that attacks Frodo?|Shelob|Ungoliant;Aragog;Mirkwood
+art|2|Which actor plays Gandalf in the films?|Ian McKellen|Christopher Lee;Patrick Stewart;Michael Gambon|McKellen;Sir Ian McKellen

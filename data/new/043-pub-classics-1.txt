@@ -1,0 +1,77 @@
+# Classic pub trivia: famous movie quotes, board & card games, game shows, Bible stories
+# --- Famous movie quotes ---
+ent|2|Which film features the line "Here's looking at you, kid"?|Casablanca|Gone with the Wind;The Maltese Falcon;Citizen Kane
+ent|2|"I'll be back" is a famous line from which film?|The Terminator|Predator;Total Recall;RoboCop|Terminator
+ent|2|Which film features the line "You're gonna need a bigger boat"?|Jaws|Titanic;The Abyss;Moby Dick
+ent|2|"May the Force be with you" comes from which film series?|Star Wars|Star Trek;Dune;Battlestar Galactica
+ent|2|"There's no place like home" is said in which film?|The Wizard of Oz|Home Alone;E.T. the Extra-Terrestrial;Peter Pan|Wizard of Oz
+ent|2|"Houston, we have a problem" is a line from which 1995 film?|Apollo 13|Armageddon;The Right Stuff;Gravity
+ent|2|Which film features the line "Life is like a box of chocolates"?|Forrest Gump|Big;Rain Man;The Green Mile
+ent|3|"I'm going to make him an offer he can't refuse" comes from which film?|The Godfather|Goodfellas;Scarface;The Untouchables|Godfather
+ent|3|"Frankly, my dear, I don't give a damn" is from which film?|Gone with the Wind|Casablanca;Citizen Kane;Rebecca
+ent|3|Which film features the line "You can't handle the truth!"?|A Few Good Men|Top Gun;Jerry Maguire;The Firm
+ent|3|"Show me the money!" is shouted in which film?|Jerry Maguire|Wall Street;The Wolf of Wall Street;Moneyball
+ent|3|Which film features the line "I see dead people"?|The Sixth Sense|The Others;Ghost;Poltergeist|Sixth Sense
+ent|3|"Why so serious?" is asked by which villain?|The Joker|The Riddler;Bane;Two-Face|Joker
+ent|3|"Hasta la vista, baby" is said in which film?|Terminator 2: Judgment Day|The Terminator;Total Recall;True Lies|Terminator 2;T2
+ent|3|"To infinity and beyond!" is the catchphrase of which character?|Buzz Lightyear|Woody;Mr. Incredible;Lightning McQueen|Buzz
+ent|3|"E.T. phone home" comes from a 1982 film by which director?|Steven Spielberg|George Lucas;Ron Howard;Robert Zemeckis|Spielberg
+ent|4|"Nobody puts Baby in a corner" is from which film?|Dirty Dancing|Grease;Footloose;Flashdance
+ent|4|"I feel the need... the need for speed!" comes from which film?|Top Gun|Days of Thunder;Speed;Fast & Furious
+ent|4|"Here's Johnny!" is shouted through a broken door in which film?|The Shining|Psycho;Misery;Halloween|Shining
+ent|4|"Keep the change, ya filthy animal" is from which Christmas film?|Home Alone|Elf;Jingle All the Way;The Santa Clause
+# --- Board & card games ---
+spo|1|In Monopoly, how much money do you collect for passing GO?|$200|$100;$500;$150|200
+spo|2|What is the most expensive property on the US Monopoly board?|Boardwalk|Park Place;Mayfair;Pennsylvania Avenue
+spo|2|What is the most expensive property on the UK Monopoly board?|Mayfair|Park Lane;Oxford Street;Bond Street
+spo|2|In chess, which piece can only move diagonally?|The bishop|The rook;The knight;The queen|Bishop
+spo|2|In chess, which piece moves in an L shape?|The knight|The bishop;The rook;The king|Knight
+spo|2|In chess, what is the term for a king that is attacked and cannot escape?|Checkmate|Stalemate;Check;Castling
+spo|3|In chess, what is the special move in which the king and a rook move at the same time?|Castling|En passant;Promotion;Fianchetto
+spo|2|How many squares are on a Scrabble board?|225|144;196;256
+spo|3|In Scrabble, how many points is the letter Q worth?|10|8;5;12
+spo|2|In poker, which hand is the best possible?|Royal flush|Straight flush;Four of a kind;Full house
+spo|2|In poker, what is three of a kind plus a pair called?|Full house|Flush;Two pair;Straight
+spo|2|In which game do you shout "Uno!" when you have one card left?|Uno|Crazy Eights;Go Fish;Old Maid
+spo|2|In the board game Clue (Cluedo), what colour is Colonel Mustard?|Yellow|Red;Green;Purple
+spo|3|In Clue (Cluedo), what is the name of the murder victim in the original game?|Dr. Black|Mr. Boddy;Professor Plum;Colonel Mustard|Mr Boddy;Dr Black
+spo|3|How many cards are in a standard deck, not counting jokers?|52|54;48;50|Fifty-two
+spo|3|What is the highest-scoring hand in the card game cribbage?|29|24;31;28
+spo|3|In which game do players buy railways, utilities and streets?|Monopoly|Risk;The Game of Life;Ticket to Ride
+spo|3|In which board game do you try to conquer the world with armies?|Risk|Diplomacy;Stratego;Axis & Allies
+spo|3|In backgammon, how many checkers does each player start with?|15|12;16;10|Fifteen
+spo|4|In which board game is your goal to be the first to get all your pieces "Home", with a "Sorry!" card to bump others back?|Sorry!|Ludo;Trouble;Parcheesi|Sorry
+# --- Game shows & reality TV ---
+ent|2|In which game show do contestants give answers in the form of a question?|Jeopardy!|Wheel of Fortune;Family Feud;The Price Is Right|Jeopardy
+ent|2|Who hosted "Jeopardy!" from 1984 until 2020?|Alex Trebek|Pat Sajak;Bob Barker;Ken Jennings|Trebek
+ent|2|In which game show do contestants spin a wheel and solve word puzzles?|Wheel of Fortune|Jeopardy!;Family Feud;Deal or No Deal
+ent|2|Which game show asks contestants to guess the prices of products?|The Price Is Right|Supermarket Sweep;Deal or No Deal;Let's Make a Deal|Price Is Right
+ent|2|Which show has the catchphrase "Survey says!"?|Family Feud|Jeopardy!;The Price Is Right;Match Game|Family Fortunes
+ent|2|Which reality show has the motto "Outwit, Outplay, Outlast"?|Survivor|Big Brother;The Amazing Race;The Apprentice
+ent|3|In "Who Wants to Be a Millionaire?", what are the original three lifelines?|50:50, Phone a Friend and Ask the Audience|Skip, Double Dip and Swap;Hint, Pass and Freeze;Ask the Host, Swap and 50:50|50/50, Phone a Friend, Ask the Audience
+ent|3|Who has won the most consecutive games on "Jeopardy!", with 74 wins?|Ken Jennings|James Holzhauer;Brad Rutter;Amy Schneider|Jennings
+ent|3|Which British talent show made Susan Boyle famous in 2009?|Britain's Got Talent|The X Factor;Pop Idol;The Voice UK
+ent|3|Which reality show sends contestants racing around the world for $1 million?|The Amazing Race|Survivor;Race Around the World;Fear Factor|Amazing Race
+ent|3|In "Deal or No Deal", what does a contestant open to reveal amounts of money?|Briefcases|Doors;Envelopes;Boxes|Cases;Suitcases;Boxes
+ent|4|Which long-running British quiz show has the catchphrase "I've started, so I'll finish"?|Mastermind|University Challenge;The Chase;Countdown
+# --- Bible stories ---
+art|1|In the Bible, who built an ark to survive the great flood?|Noah|Moses;Abraham;David
+art|1|In the Bible, who killed the giant Goliath?|David|Samson;Saul;Solomon
+art|2|In the Bible, who parted the Red Sea?|Moses|Joshua;Elijah;Aaron
+art|2|In the Bible, who was swallowed by a great fish?|Jonah|Job;Noah;Daniel
+art|2|In the Bible, which man lost his strength when his hair was cut?|Samson|Goliath;Absalom;Gideon
+art|2|In the Bible, who was thrown into the lions' den?|Daniel|Joseph;Elijah;Peter
+art|2|In the Bible, what was the name of the garden where Adam and Eve lived?|The Garden of Eden|The Garden of Gethsemane;The Garden of Babylon;The Garden of Sharon|Eden;Garden of Eden
+art|2|In the Bible, who received a coat of many colours from his father?|Joseph|Jacob;Benjamin;Esau
+art|2|How many plagues struck Egypt in the Book of Exodus?|Ten|Seven;Twelve;Five|10
+art|2|How many commandments did Moses receive?|Ten|Seven;Twelve;Twenty|10
+art|2|What is the first book of the Bible?|Genesis|Exodus;Psalms;Matthew
+art|3|What is the last book of the Bible?|Revelation|Acts;Malachi;Jude|Book of Revelation;Revelations
+art|2|In the Bible, who betrayed Jesus for 30 pieces of silver?|Judas Iscariot|Peter;Thomas;Pontius Pilate|Judas
+art|3|Which of Jesus's disciples denied him three times?|Peter|Judas;John;Thomas|Simon Peter
+art|2|In which town was Jesus born, according to the Gospels?|Bethlehem|Nazareth;Jerusalem;Jericho
+art|3|In the Bible, who was the brother of Abel who killed him?|Cain|Seth;Esau;Enoch
+art|3|In the Bible, whose walls came tumbling down after trumpets were blown?|Jericho|Babylon;Nineveh;Jerusalem|The walls of Jericho
+art|3|In the Bible, which tower was built to reach the heavens?|The Tower of Babel|The Tower of David;The Tower of Jericho;The Tower of Zion|Tower of Babel;Babel
+art|3|In the Bible, who was the wise king who suggested cutting a baby in half?|Solomon|David;Saul;Herod|King Solomon
+art|3|In the Bible, what turned into a pillar of salt?|Lot's wife|Noah's ark;Jonah's whale;Moses' staff

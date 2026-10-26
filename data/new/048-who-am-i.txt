@@ -1,0 +1,33 @@
+# Who am I? Three clues, hardest first
+his|2|Who am I? 1. I was born in Corsica. 2. I crowned myself Emperor of the French. 3. I lost at Waterloo.|Napoleon Bonaparte|Louis XIV;Charles de Gaulle;Julius Caesar|Napoleon
+his|2|Who am I? 1. I was a nurse in the Crimean War. 2. I was called "The Lady with the Lamp". 3. My birthday is International Nurses Day.|Florence Nightingale|Mary Seacole;Edith Cavell;Clara Barton|Nightingale
+his|2|Who am I? 1. I was a lawyer in South Africa. 2. I led India's struggle for independence. 3. I believed in non-violent protest.|Mahatma Gandhi|Jawaharlal Nehru;Nelson Mandela;Martin Luther King Jr.|Gandhi;Mohandas Gandhi
+his|2|Who am I? 1. I was born in Kentucky in a log cabin. 2. I gave the Gettysburg Address. 3. I was the 16th US President.|Abraham Lincoln|George Washington;Ulysses S. Grant;Andrew Jackson|Lincoln
+his|3|Who am I? 1. My father was Philip II of Macedon. 2. Aristotle was my tutor. 3. I built an empire stretching to India.|Alexander the Great|Julius Caesar;Philip II;Darius III|Alexander
+his|3|Who am I? 1. I was Queen of Egypt. 2. I was the last active Ptolemaic ruler. 3. I fell in love with Mark Antony.|Cleopatra|Nefertiti;Hatshepsut;Boudicca|Cleopatra VII
+his|3|Who am I? 1. I was born in 1412. 2. I heard voices telling me to save France. 3. I was burned at the stake in Rouen.|Joan of Arc|Marie Antoinette;Catherine de' Medici;Eleanor of Aquitaine|Jeanne d'Arc
+his|3|Who am I? 1. I was a Polish-born scientist. 2. I discovered polonium and radium. 3. I won Nobel Prizes in two different sciences.|Marie Curie|Lise Meitner;Rosalind Franklin;Ada Lovelace|Curie;Maria Sklodowska-Curie
+his|2|Who am I? 1. I spent 27 years in prison. 2. I won the Nobel Peace Prize in 1993. 3. I became South Africa's first Black president.|Nelson Mandela|Desmond Tutu;Steve Biko;Thabo Mbeki|Mandela
+his|3|Who am I? 1. I was an Englishman who sailed around the world in the Golden Hind. 2. Queen Elizabeth I knighted me. 3. I helped defeat the Spanish Armada.|Francis Drake|Walter Raleigh;James Cook;Horatio Nelson|Sir Francis Drake;Drake
+sci|2|Who am I? 1. I was born in Germany in 1879. 2. I worked in a Swiss patent office. 3. I came up with E = mc².|Albert Einstein|Max Planck;Niels Bohr;Isaac Newton|Einstein
+sci|2|Who am I? 1. I was born on Christmas Day 1642. 2. I wrote the "Principia". 3. An apple is said to have inspired my law of gravity.|Isaac Newton|Galileo Galilei;Johannes Kepler;Robert Hooke|Newton
+sci|3|Who am I? 1. I sailed on HMS Beagle. 2. I studied finches on the Galápagos. 3. I wrote "On the Origin of Species".|Charles Darwin|Alfred Russel Wallace;Gregor Mendel;Thomas Huxley|Darwin
+sci|3|Who am I? 1. I was born in Pisa. 2. I improved the telescope and saw Jupiter's moons. 3. The Church put me on trial for saying the Earth moves.|Galileo Galilei|Nicolaus Copernicus;Johannes Kepler;Tycho Brahe|Galileo
+sci|3|Who am I? 1. I was born in Scotland in 1847. 2. I moved to Canada, then the US. 3. I'm credited with inventing the telephone.|Alexander Graham Bell|Thomas Edison;Guglielmo Marconi;Samuel Morse|Graham Bell;Bell
+art|2|Who am I? 1. I was born in Stratford-upon-Avon. 2. My theatre was the Globe. 3. I wrote "Romeo and Juliet".|William Shakespeare|Christopher Marlowe;Ben Jonson;Charles Dickens|Shakespeare
+art|2|Who am I? 1. I was Dutch. 2. I cut off part of my own ear. 3. I painted "The Starry Night".|Vincent van Gogh|Rembrandt;Paul Gauguin;Johannes Vermeer|Van Gogh
+art|3|Who am I? 1. I was born in Vinci. 2. I designed flying machines in my notebooks. 3. I painted the "Mona Lisa".|Leonardo da Vinci|Michelangelo;Raphael;Botticelli|Leonardo;Da Vinci
+art|3|Who am I? 1. I was a Spanish painter. 2. I co-founded Cubism. 3. I painted "Guernica".|Pablo Picasso|Salvador Dalí;Joan Miró;Diego Velázquez|Picasso
+art|3|Who am I? 1. I became deaf. 2. I wrote nine symphonies. 3. My Fifth Symphony starts "da-da-da-DUM".|Ludwig van Beethoven|Wolfgang Amadeus Mozart;Johann Sebastian Bach;Franz Schubert|Beethoven
+art|3|Who am I? 1. I was born in Portsmouth in 1812. 2. I worked in a blacking factory as a boy. 3. I wrote "Oliver Twist".|Charles Dickens|Thomas Hardy;William Thackeray;Anthony Trollope|Dickens
+ent|2|Who am I? 1. I was born in Tupelo, Mississippi. 2. I lived at Graceland. 3. I'm called the King of Rock and Roll.|Elvis Presley|Johnny Cash;Jerry Lee Lewis;Buddy Holly|Elvis
+ent|2|Who am I? 1. I was born in Gary, Indiana. 2. I started out in a group with my brothers. 3. I moonwalked to "Billie Jean".|Michael Jackson|Prince;Stevie Wonder;Lionel Richie|Jackson
+ent|3|Who am I? 1. I was born Stefani Germanotta. 2. I once wore a meat dress. 3. I starred in "A Star Is Born" in 2018.|Lady Gaga|Madonna;Katy Perry;Christina Aguilera|Gaga
+ent|3|Who am I? 1. I was born in Reading, Pennsylvania. 2. My fans are called Swifties. 3. My Eras Tour broke box-office records.|Taylor Swift|Katy Perry;Selena Gomez;Olivia Rodrigo|Swift
+ent|3|Who am I? 1. I was born in London in 1889. 2. I was a silent film star. 3. I played "the Little Tramp" with a bowler hat and cane.|Charlie Chaplin|Buster Keaton;Harold Lloyd;Stan Laurel|Chaplin
+spo|2|Who am I? 1. I'm from Brantford, Ontario. 2. My shirt number 99 is retired across the NHL. 3. I'm called "The Great One".|Wayne Gretzky|Mario Lemieux;Bobby Orr;Gordie Howe|Gretzky
+spo|2|Who am I? 1. I was born Cassius Clay. 2. I fought the "Rumble in the Jungle". 3. I said I "float like a butterfly, sting like a bee".|Muhammad Ali|Joe Frazier;George Foreman;Sugar Ray Leonard|Ali
+spo|2|Who am I? 1. I'm a Jamaican sprinter. 2. I hold the 100 m world record of 9.58 seconds. 3. My nickname is "Lightning Bolt".|Usain Bolt|Yohan Blake;Asafa Powell;Carl Lewis|Bolt
+spo|3|Who am I? 1. I was born in Rosario, Argentina. 2. I spent most of my career at Barcelona. 3. I won the 2022 World Cup.|Lionel Messi|Diego Maradona;Sergio Agüero;Ángel Di María|Messi
+spo|3|Who am I? 1. I won six NBA titles with Chicago. 2. I wore number 23. 3. I starred in "Space Jam".|Michael Jordan|LeBron James;Kobe Bryant;Scottie Pippen|Jordan
+spo|3|Who am I? 1. I have won 23 tennis Grand Slam singles titles. 2. My sister is also a champion. 3. I retired in 2022.|Serena Williams|Venus Williams;Steffi Graf;Martina Navratilova|Serena

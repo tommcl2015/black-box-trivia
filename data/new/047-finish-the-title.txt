@@ -1,0 +1,44 @@
+# Finish the title
+ent|1|Finish the film title: "The Good, the Bad and the ___"|Ugly|Lonely;Brave;Wicked|The Ugly
+ent|1|Finish the film title: "Harry Potter and the Philosopher's ___"|Stone|Ring;Chamber;Crown|The Philosopher's Stone
+ent|1|Finish the film title: "Honey, I Shrunk the ___"|Kids|Dog;House;Car|The Kids
+ent|1|Finish the film title: "Snow White and the Seven ___"|Dwarfs|Sisters;Giants;Brothers|Dwarves
+ent|2|Finish the film title: "Indiana Jones and the Temple of ___"|Doom|Gold;Death;Fire
+ent|2|Finish the film title: "Pirates of the Caribbean: The Curse of the Black ___"|Pearl|Flag;Sail;Ship
+ent|2|Finish the film title: "Raiders of the Lost ___"|Ark|Tomb;City;Temple
+ent|2|Finish the film title: "The Silence of the ___"|Lambs|Sheep;Night;Wolves
+ent|2|Finish the film title: "One Flew Over the Cuckoo's ___"|Nest|Clock;House;Tree
+ent|2|Finish the film title: "Eternal Sunshine of the Spotless ___"|Mind|Heart;Soul;Sky
+ent|2|Finish the film title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the ___"|Bomb|War;Atom;Rocket|The Bomb
+ent|2|Finish the film title: "Charlie and the Chocolate ___"|Factory|Shop;Kingdom;River
+ent|2|Finish the film title: "Four Weddings and a ___"|Funeral|Wedding;Divorce;Christening
+ent|2|Finish the film title: "Planes, Trains and ___"|Automobiles|Boats;Rockets;Bicycles
+ent|2|Finish the film title: "Sex, Lies, and ___"|Videotape|Money;Murder;Secrets
+ent|3|Finish the film title: "Crouching Tiger, Hidden ___"|Dragon|Panther;Snake;Eagle
+ent|3|Finish the film title: "The Curious Case of Benjamin ___"|Button|Franklin;Bunny;Brown
+ent|3|Finish the film title: "Everything Everywhere All at ___"|Once|Last;Home;Sea
+ent|3|Finish the film title: "Lock, Stock and Two Smoking ___"|Barrels|Guns;Pistols;Cigars
+ent|3|Finish the film title: "The Man Who Shot Liberty ___"|Valance|Valentine;Bell;Jones
+art|1|Finish the book title: "The Lion, the Witch and the ___"|Wardrobe|Wizard;Dragon;Castle|The Wardrobe
+art|2|Finish the book title: "Pride and ___"|Prejudice|Passion;Prudence;Punishment
+art|2|Finish the book title: "Of Mice and ___"|Men|Monsters;Kings;Cats
+art|2|Finish the book title: "To Kill a ___"|Mockingbird|Blackbird;Kingfisher;Dragon
+art|2|Finish the book title: "War and ___"|Peace|Glory;Love;Honour
+art|2|Finish the book title: "Crime and ___"|Punishment|Prejudice;Passion;Justice
+art|2|Finish the book title: "The Old Man and the ___"|Sea|Boy;River;Mountain|The Sea
+art|3|Finish the book title: "Twenty Thousand Leagues Under the ___"|Sea|Sand;Ice;Earth|Seas
+art|3|Finish the book title: "One Hundred Years of ___"|Solitude|Silence;Sorrow;Sunshine
+art|3|Finish the book title: "The Curious Incident of the Dog in the ___"|Night-Time|Night;Garden;Fog|Night Time;Nighttime
+art|3|Finish the book title: "Do Androids Dream of Electric ___?"|Sheep|Dreams;Cats;Stars
+art|3|Finish the book title: "The Hitchhiker's Guide to the ___"|Galaxy|Universe;Stars;Planet
+ent|1|Finish the song title: "Bohemian ___" (Queen)|Rhapsody|Dream;Symphony;Holiday
+ent|2|Finish the song title: "Smells Like Teen ___" (Nirvana)|Spirit|Angst;Rebel;Dream
+ent|2|Finish the song title: "Sweet Child o' ___" (Guns N' Roses)|Mine|Love;Fire;Time
+ent|2|Finish the song title: "Hotel ___" (Eagles)|California|Paradise;Hollywood;Memphis
+ent|2|Finish the song title: "Stairway to ___" (Led Zeppelin)|Heaven|Paradise;Glory;The Stars
+ent|2|Finish the song title: "I Wanna Dance with ___" (Whitney Houston)|Somebody|You;Someone;Everybody
+ent|3|Finish the song title: "Don't Stop ___" (Journey)|Believin'|Dreamin';Movin';Rockin'|Believin;Believing
+ent|3|Finish the song title: "Livin' on a ___" (Bon Jovi)|Prayer|Dream;Highway;Wish
+ent|3|Finish the TV title: "The Fresh Prince of ___"|Bel-Air|Beverly Hills;Malibu;Brooklyn|Bel Air
+ent|3|Finish the TV title: "Buffy the Vampire ___"|Slayer|Hunter;Killer;Queen
+ent|3|Finish the TV title: "Curb Your ___"|Enthusiasm|Dog;Temper;Ego

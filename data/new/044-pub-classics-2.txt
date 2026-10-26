@@ -1,0 +1,77 @@
+# Classic pub trivia: golf, food & drink, cars, dinosaurs, Norse mythology
+# --- Golf ---
+spo|2|What is a score of one under par on a golf hole called?|Birdie|Eagle;Bogey;Albatross
+spo|2|What is a score of two under par on a golf hole called?|Eagle|Birdie;Albatross;Condor
+spo|2|What is a score of one over par on a golf hole called?|Bogey|Birdie;Double eagle;Par
+spo|3|What is a score of three under par on a hole called?|Albatross|Condor;Eagle;Ostrich|Double eagle
+spo|2|What colour jacket does the winner of the Masters receive?|Green|Red;Blue;Gold
+spo|2|At which Georgia golf club is the Masters played?|Augusta National|Pebble Beach;Pinehurst;St Andrews|Augusta;Augusta National Golf Club
+spo|2|Which Scottish town is known as "the Home of Golf"?|St Andrews|Gleneagles;Troon;Carnoustie
+spo|2|Which golfer has won the most major championships, with 18?|Jack Nicklaus|Tiger Woods;Arnold Palmer;Gary Player|Nicklaus
+spo|2|What is the name of the golf competition between Europe and the United States?|The Ryder Cup|The Walker Cup;The Presidents Cup;The Solheim Cup|Ryder Cup
+spo|3|How many holes are on a standard golf course?|18|9;12;24|Eighteen
+spo|3|What do golfers shout to warn others of a flying ball?|"Fore!"|"Heads!";"Duck!";"Ball!"|Fore
+spo|3|What is the name of the oldest golf major, first played in 1860?|The Open Championship|The Masters;The US Open;The PGA Championship|The Open;British Open
+spo|3|What is the maximum number of clubs a golfer may carry in a round?|14|12;16;18|Fourteen
+# --- Food & drink ---
+spo|2|Which country is the origin of the cheese Parmesan (Parmigiano-Reggiano)?|Italy|France;Switzerland;Spain
+spo|2|What are the main ingredients of guacamole?|Avocados|Chickpeas;Tomatoes;Peas|Avocado
+spo|2|What is the main ingredient of hummus?|Chickpeas|Lentils;Avocados;Peas|Chick peas;Garbanzo beans
+spo|2|Which country is famous for the dish paella?|Spain|Italy;Mexico;Portugal
+spo|2|Which Japanese dish is raw fish served without rice?|Sashimi|Sushi;Tempura;Ramen
+spo|2|Which cocktail is made with rum, mint, lime, sugar and soda?|Mojito|Daiquiri;Margarita;Piña colada
+spo|2|Which spirit is the base of a margarita?|Tequila|Rum;Gin;Vodka
+spo|2|Which spirit is the base of a martini?|Gin|Rum;Whisky;Brandy
+spo|3|Which cocktail is made with vodka, tomato juice and spices?|Bloody Mary|Moscow Mule;Screwdriver;Cosmopolitan
+spo|3|What is the main ingredient in a traditional Greek tzatziki besides yogurt?|Cucumber|Spinach;Aubergine;Pepper
+spo|3|Which French dish is a stew of beef braised in red wine?|Boeuf bourguignon|Coq au vin;Ratatouille;Cassoulet|Beef bourguignon;Bourguignon
+spo|3|Which country is the home of the dish pierogi?|Poland|Hungary;Ukraine;Austria
+spo|3|What kind of nut is used to make marzipan?|Almond|Hazelnut;Walnut;Pistachio|Almonds
+spo|3|Which grape is used to make champagne alongside Pinot Noir and Pinot Meunier?|Chardonnay|Merlot;Riesling;Sauvignon Blanc
+spo|3|What is the national dish of Scotland?|Haggis|Shepherd's pie;Cullen skink;Black pudding
+spo|3|What is the hottest chili pepper on this list?|Carolina Reaper|Jalapeño;Habanero;Cayenne
+spo|4|What does the Italian word "al dente" mean when cooking pasta?|To the tooth|Very soft;With sauce;In the pot
+# --- Cars ---
+spo|2|Which car maker uses a prancing horse logo?|Ferrari|Lamborghini;Porsche;Maserati
+spo|2|Which car maker uses a raging bull logo?|Lamborghini|Ferrari;Dodge;Bugatti
+spo|2|Which electric car company is named after the inventor Nikola Tesla?|Tesla|Rivian;Lucid;Polestar
+spo|2|Which German car maker's name means "people's car"?|Volkswagen|Mercedes-Benz;Audi;Opel|VW
+spo|2|Which car maker's logo has four interlocking rings?|Audi|Volkswagen;Opel;Toyota
+spo|2|Which Japanese car maker builds the Corolla?|Toyota|Honda;Nissan;Mazda
+spo|2|Which car maker builds the Mustang?|Ford|Chevrolet;Dodge;Pontiac
+spo|3|Which car maker builds the 911?|Porsche|BMW;Mercedes-Benz;Audi
+spo|3|Which country is the car maker Volvo from?|Sweden|Norway;Germany;Denmark
+spo|3|Which Italian car maker builds the 500 ("Cinquecento")?|Fiat|Alfa Romeo;Lancia;Ferrari
+spo|3|What does BMW stand for (in English)?|Bavarian Motor Works|British Motor Works;Berlin Motor Works;Bayer Motor Wagons
+spo|3|In which DeLorean model did Marty McFly travel in time?|DMC-12|DMC-10;DMC-24;DMC-88|DMC 12
+spo|4|Which car maker's logo is a three-pointed star?|Mercedes-Benz|BMW;Chrysler;Lexus|Mercedes
+# --- Dinosaurs ---
+sci|1|Which huge meat-eating dinosaur had tiny arms?|Tyrannosaurus rex|Brachiosaurus;Triceratops;Stegosaurus|T. rex;T rex;Tyrannosaurus
+sci|2|Which dinosaur had three horns on its face?|Triceratops|Stegosaurus;Ankylosaurus;Parasaurolophus
+sci|2|Which dinosaur had large bony plates along its back?|Stegosaurus|Triceratops;Velociraptor;Diplodocus
+sci|2|Which plant-eating dinosaur was armoured like a tank with a club tail?|Ankylosaurus|Stegosaurus;Iguanodon;Pachycephalosaurus
+sci|2|What does the word "dinosaur" mean?|Terrible lizard|Ancient beast;Giant reptile;Thunder lizard
+sci|3|In which period did Tyrannosaurus rex live?|Cretaceous|Jurassic;Triassic;Permian
+sci|3|About how many million years ago did the non-bird dinosaurs die out?|66 million|6 million;250 million;1 billion|66;66 million years ago
+sci|3|What is the name of the crater linked to the dinosaurs' extinction?|Chicxulub|Barringer;Vredefort;Sudbury
+sci|3|Which living animals are the closest relatives of dinosaurs?|Birds|Crocodiles;Lizards;Turtles
+sci|3|Which flying reptile, often mistaken for a dinosaur, had a long head crest?|Pteranodon|Archaeopteryx;Velociraptor;Plesiosaurus
+sci|3|Which long-necked dinosaur's name means "arm lizard"?|Brachiosaurus|Diplodocus;Apatosaurus;Brontosaurus
+sci|3|Which 1993 Steven Spielberg film brought dinosaurs back to life?|Jurassic Park|The Lost World;Land of the Lost;King Kong
+sci|4|What were Velociraptors in real life about the size of?|A turkey|A horse;A lion;An elephant
+sci|4|Which marine reptile from the Jurassic had a long neck and flippers?|Plesiosaurus|Ichthyosaurus;Mosasaurus;Pteranodon|Plesiosaur
+# --- Norse mythology ---
+art|2|Who is the one-eyed chief god in Norse mythology?|Odin|Thor;Loki;Tyr
+art|2|Which Norse god wields the hammer Mjölnir?|Thor|Odin;Freyr;Baldur
+art|2|What is the hall of slain warriors in Norse mythology?|Valhalla|Asgard;Midgard;Helheim
+art|2|What is the home of the Norse gods?|Asgard|Midgard;Jotunheim;Alfheim
+art|3|What do the Norse call the world of humans?|Midgard|Asgard;Vanaheim;Niflheim
+art|3|What is the name of the great tree that connects the nine worlds?|Yggdrasil|Bifröst;Ginnungagap;Mímir
+art|3|What is the rainbow bridge to Asgard called?|Bifröst|Yggdrasil;Gjallarbrú;Valhalla|Bifrost
+art|3|What is the Norse name for the end of the world?|Ragnarök|Valhalla;Fimbulwinter;Götterdämmerung|Ragnarok
+art|3|Which day of the week is named after Thor?|Thursday|Tuesday;Friday;Wednesday
+art|3|Which day of the week is named after Odin (Woden)?|Wednesday|Thursday;Monday;Saturday
+art|3|Which trickster god is a shape-shifter in Norse myth?|Loki|Heimdall;Tyr;Freyr
+art|4|Which god guards the rainbow bridge and blows the horn Gjallarhorn?|Heimdall|Tyr;Bragi;Vidar
+art|4|What were the female figures who chose which warriors died in battle?|Valkyries|Norns;Dísir;Völvas|Valkyrie
+art|4|How many legs does Odin's horse Sleipnir have?|Eight|Four;Six;Twelve|8

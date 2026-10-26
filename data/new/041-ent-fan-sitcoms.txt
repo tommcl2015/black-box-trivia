@@ -1,0 +1,44 @@
+# Big fan packs: Friends, The Office (US), Seinfeld
+# --- Friends ---
+ent|1|What is the name of the coffee shop in "Friends"?|Central Perk|Monk's Café;The Coffee Bean;Java Joe's|Central Perk Café
+ent|2|In "Friends", what is the name of Ross's pet monkey?|Marcel|Bubbles;Mr. Heckles;Hugsy
+ent|2|In "Friends", what is Joey's famous pickup line?|"How you doin'?"|"Hey there, gorgeous.";"Come here often?";"What's up, baby?"|How you doin;How you doing
+ent|2|In "Friends", what is the name of Phoebe's most famous song?|"Smelly Cat"|"Stinky Dog";"Grumpy Cat";"Silly Cat"|Smelly Cat
+ent|2|In "Friends", what is Chandler's last name?|Bing|Geller;Tribbiani;Buffay
+ent|2|In "Friends", what is Rachel's last name?|Green|Geller;Bing;Buffay
+ent|3|In "Friends", what is Joey's last name?|Tribbiani|Buffay;Gunther;Bing
+ent|3|In "Friends", what is Phoebe's last name?|Buffay|Green;Hannigan;Bing
+ent|2|In "Friends", which two characters are brother and sister?|Ross and Monica|Joey and Phoebe;Chandler and Rachel;Ross and Rachel|Monica and Ross
+ent|2|In "Friends", what does Ross shout while moving a couch up the stairs?|"Pivot!"|"Lift!";"Push!";"Turn!"|Pivot
+ent|3|In "Friends", what is the name of Joey's stuffed penguin?|Hugsy|Waddles;Pingu;Mr. Flippers
+ent|2|In "Friends", what is Ross's job?|Paleontologist|Archaeologist;Chef;Lawyer|Palaeontologist
+ent|2|In "Friends", what is Monica's job?|Chef|Waitress;Masseuse;Fashion buyer|Cook
+ent|3|In "Friends", Ross insists he and Rachel were "on a ..." what?|Break|Holiday;Pause;Timeout|A break;We were on a break
+ent|3|In "Friends", Chandler and Joey keep a duck and which other bird as pets?|A chick|A rooster;A goose;A parrot|Chick;The chick;Chicken
+ent|2|What was Jennifer Aniston's famous 1990s "Friends" hairstyle called?|The Rachel|The Monica;The Jen;The Bob|Rachel
+ent|3|In "Friends", which actress played Phoebe?|Lisa Kudrow|Courteney Cox;Jennifer Aniston;Helen Hunt|Kudrow
+ent|3|In "Friends", in which city do the friends live?|New York City|Chicago;Boston;Los Angeles|New York;NYC;Manhattan
+ent|3|In "Friends", what is Chandler's middle name?|Muriel|Matthew;Michael;Morris
+# --- The Office (US) ---
+ent|2|In "The Office" (US), what is the name of the paper company?|Dunder Mifflin|Wernham Hogg;Staples;Sabre Paper|Dunder Mifflin Paper Company
+ent|2|In which Pennsylvania city is "The Office" (US) set?|Scranton|Pittsburgh;Philadelphia;Allentown
+ent|1|Who plays Michael Scott in "The Office" (US)?|Steve Carell|Ricky Gervais;Will Ferrell;Rainn Wilson|Carell
+ent|2|In "The Office", what does Michael say after a sentence that could have a double meaning?|"That's what she said!"|"Bears. Beets. Battlestar Galactica.";"I declare bankruptcy!";"Boom, roasted!"|That's what she said
+ent|2|In "The Office", what kind of farm does Dwight Schrute own?|A beet farm|A potato farm;A dairy farm;A turkey farm|Beet farm;Beets
+ent|2|In "The Office", who does Jim Halpert marry?|Pam Beesly|Angela Martin;Karen Filippelli;Kelly Kapoor|Pam;Pam Beesly
+ent|3|In "The Office", what does Jim put Dwight's stapler in?|Jell-O|A drawer of rice;A fish tank;A bucket of sand|Jelly;Jello
+ent|3|What is the name of the annual awards Michael hosts for his staff in "The Office"?|The Dundies|The Mifflins;The Scrantys;The Paperies|Dundies
+ent|3|In "The Office", what is the name of Angela's favourite cat that Dwight freezes?|Sprinkles|Bandit;Garbage;Princess Lady
+ent|3|In "The Office", what does Kevin famously spill all over the office floor?|His chili|His soup;His coffee;His paint|Chili;Chilli
+ent|3|"The Office" (US) is a remake of a British series created by which comedian?|Ricky Gervais|Steve Coogan;Rowan Atkinson;Simon Pegg|Gervais
+ent|3|In "The Office", what is Dwight's role at Dunder Mifflin for most of the show?|Assistant to the Regional Manager|Assistant Regional Manager;Head of Sales;Office Manager
+ent|4|In "The Office", what does Michael name his self-made film?|Threat Level Midnight|Agent Scarn;Code Red;Danger Zone
+# --- Seinfeld ---
+ent|2|"Seinfeld" was famously described as a show about what?|Nothing|Friendship;New York;Comedy|Nothing at all
+ent|2|In "Seinfeld", what is the name of Jerry's wacky neighbour?|Kramer|Newman;George;Puddy|Cosmo Kramer
+ent|2|In "Seinfeld", which character is Jerry's postal-worker enemy?|Newman|Kramer;Puddy;Banya
+ent|3|In "Seinfeld", what is the nickname of the strict soup seller?|The Soup Nazi|The Soup Man;The Soup King;The Soup Boss
+ent|3|In "Seinfeld", what holiday does Frank Costanza invent?|Festivus|Kwanzaa;Chrismukkah;Feats of Strength Day
+ent|3|What is the name of the diner where the "Seinfeld" friends meet?|Monk's Café|Central Perk;Tom's Diner;Arnold's|Monk's;Monks Cafe
+ent|3|In "Seinfeld", what is George's last name?|Costanza|Benes;Kramer;Peterman
+ent|3|In "Seinfeld", what is Elaine's last name?|Benes|Costanza;Bania;Peterman

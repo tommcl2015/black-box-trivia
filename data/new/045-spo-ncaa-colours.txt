@@ -1,0 +1,32 @@
+# NCAA schools and teams with a colour in their name
+spo|1|Which university's teams are called the Crimson Tide?|Alabama|Auburn;Georgia;Oklahoma|University of Alabama
+spo|2|Which Ivy League university's teams are simply called the Crimson?|Harvard|Yale;Princeton;Brown|Harvard University
+spo|2|Which university's teams are called the Orange?|Syracuse|Clemson;Tennessee;Oklahoma State|Syracuse University
+spo|2|Which Ivy League school's teams are called the Big Green?|Dartmouth|Cornell;Columbia;Penn|Dartmouth College
+spo|2|Which Ivy League school's teams are called the Big Red?|Cornell|Harvard;Brown;Dartmouth|Cornell University
+spo|2|Which university's teams are called the Cardinal (the colour, not the bird)?|Stanford|Louisville;Ball State;Iowa State|Stanford University
+spo|2|What is the nickname of Duke University's teams?|Blue Devils|Blue Demons;Red Devils;Blue Raiders|Duke Blue Devils
+spo|3|What is the nickname of DePaul University's teams?|Blue Demons|Blue Devils;Blue Jays;Red Storm
+spo|3|What is the nickname of the University of Delaware's teams?|Blue Hens|Blue Jays;Bluebirds;Red Hens|Fightin' Blue Hens;Fighting Blue Hens
+spo|3|Which Omaha university's teams are the Bluejays?|Creighton|Nebraska;Drake;Marquette|Creighton University
+spo|4|What is the nickname of Middle Tennessee State's teams?|Blue Raiders|Blue Devils;Red Raiders;Volunteers
+spo|2|What is the nickname of the University of Minnesota's teams?|Golden Gophers|Golden Bears;Badgers;Golden Eagles|Gophers
+spo|3|What is the nickname of the University of California, Berkeley's teams?|Golden Bears|Golden Gophers;Bruins;Golden Eagles|Cal Golden Bears;Bears
+spo|3|Which Milwaukee university's teams are the Golden Eagles?|Marquette|Milwaukee;Wisconsin;Loyola Chicago|Marquette University
+spo|3|What is the nickname of the University of Tulsa's teams?|Golden Hurricane|Golden Eagles;Sooners;Cowboys
+spo|4|Which Ohio university's teams are the Golden Flashes?|Kent State|Ohio State;Akron;Bowling Green
+spo|2|What is the nickname of Texas Tech's teams?|Red Raiders|Red Storm;Longhorns;Mustangs
+spo|3|Which New York university's basketball teams are the Red Storm?|St. John's|Syracuse;Fordham;Seton Hall|St Johns;St. John's University
+spo|3|Which Ohio university's teams are the RedHawks?|Miami (Ohio)|Ohio;Toledo;Cincinnati|Miami;Miami University;Miami of Ohio
+spo|2|What is the nickname of Rutgers University's teams?|Scarlet Knights|Black Knights;Golden Knights;Red Knights
+spo|3|What is the nickname of the US Military Academy's teams?|Black Knights|Scarlet Knights;Midshipmen;Falcons|Army Black Knights
+spo|2|What is the nickname of Tulane University's teams?|Green Wave|Mean Green;Big Green;Green Hornets
+spo|3|What is the nickname of the University of North Texas's teams?|Mean Green|Green Wave;Big Green;Longhorns
+spo|4|What is the nickname of the University of Evansville's teams?|Purple Aces|Purple Eagles;Purple Knights;Golden Aces
+spo|4|What is the nickname of the University of Maine's teams?|Black Bears|Golden Bears;Brown Bears;Huskies
+spo|1|The US Naval Academy's teams play under which colour-word name?|Navy|Army;Air Force;Coast Guard
+spo|2|Which Alabama university shares its name with a reddish-brown colour?|Auburn|Samford;Troy;Jacksonville State|Auburn University
+spo|2|Which Ivy League university's name is also a colour?|Brown|Columbia;Cornell;Penn|Brown University
+spo|3|What is the nickname of Brown University's teams?|Bears|Bruins;Brownies;Lions|Brown Bears
+spo|3|In college football, the "Iron Bowl" is the rivalry between Alabama and which school?|Auburn|LSU;Tennessee;Georgia
+spo|3|The Army–Navy Game is played between Army and which team?|Navy|Air Force;Marines;Coast Guard
