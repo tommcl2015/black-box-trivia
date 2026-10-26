@@ -1,0 +1,57 @@
+# Who am I? Real historical figures, tricky clues first
+# --- Lincoln and the people around him ---
+his|3|Who am I? 1. I'm the only US President to hold a patent, for lifting boats over shoals. 2. I'm in the National Wrestling Hall of Fame. 3. I was shot at Ford's Theatre.|Abraham Lincoln|Andrew Johnson;Ulysses S. Grant;James Garfield|Lincoln;Abe Lincoln
+his|4|Who am I? 1. I was a famous stage actor, like my father and brother Edwin. 2. I broke my leg leaping onto a stage. 3. I assassinated Abraham Lincoln.|John Wilkes Booth|Charles Guiteau;Leon Czolgosz;Edwin Booth|Booth;Wilkes Booth
+his|4|Who am I? 1. I was born in Lexington, Kentucky. 2. My son Robert had me committed to an asylum in 1875. 3. My husband was shot beside me at Ford's Theatre.|Mary Todd Lincoln|Martha Washington;Dolley Madison;Julia Grant|Mary Lincoln
+his|5|Who am I? 1. Edwin Booth once saved me from falling under a train. 2. I was close by when Presidents Garfield and McKinley were shot. 3. I was Abraham Lincoln's eldest son.|Robert Todd Lincoln|Tad Lincoln;Willie Lincoln;Edwin Stanton|Robert Lincoln
+# --- JFK and the people around him ---
+his|3|Who am I? 1. I won a Pulitzer Prize for "Profiles in Courage". 2. I commanded the patrol boat PT-109. 3. I was shot in Dallas in 1963.|John F. Kennedy|Robert F. Kennedy;Lyndon B. Johnson;Richard Nixon|JFK;John Kennedy;Kennedy
+his|4|Who am I? 1. I won an Emmy award for a televised tour of the White House. 2. I later married the Greek shipping tycoon Aristotle Onassis. 3. My pink suit became famous in Dallas in 1963.|Jacqueline Kennedy|Marilyn Monroe;Ethel Kennedy;Lady Bird Johnson|Jackie Kennedy;Jackie O;Jacqueline Kennedy Onassis;Jackie Onassis
+his|4|Who am I? 1. I defected to the Soviet Union in 1959. 2. I worked at the Texas School Book Depository. 3. Jack Ruby shot me two days after the assassination.|Lee Harvey Oswald|Jack Ruby;James Earl Ray;Sirhan Sirhan|Oswald
+his|5|Who am I? 1. I owned a Dallas nightclub. 2. I was born Jacob Rubenstein. 3. I shot Lee Harvey Oswald on live television.|Jack Ruby|J. D. Tippit;Jim Garrison;Sirhan Sirhan|Ruby
+his|4|Who am I? 1. I was US Attorney General under my brother. 2. I was shot at the Ambassador Hotel in Los Angeles in 1968. 3. I was JFK's younger brother.|Robert F. Kennedy|Ted Kennedy;Joseph P. Kennedy;Sargent Shriver|Bobby Kennedy;RFK;Robert Kennedy
+his|3|Who am I? 1. I was sworn in as President aboard Air Force One. 2. I signed the Civil Rights Act of 1964. 3. I took over after JFK was killed.|Lyndon B. Johnson|Hubert Humphrey;Richard Nixon;Gerald Ford|LBJ;Lyndon Johnson
+# --- Napoleon and his world ---
+his|3|Who am I? 1. I sold Louisiana to the United States. 2. I was painted crossing the Alps on a rearing horse. 3. I died in exile on Saint Helena.|Napoleon Bonaparte|Louis XVI;Charles de Gaulle;Duke of Wellington|Napoleon
+his|4|Who am I? 1. I was born on the island of Martinique. 2. My first husband was guillotined during the Terror. 3. I was Napoleon's first wife and Empress of the French.|Joséphine de Beauharnais|Marie Antoinette;Marie Louise;Madame de Pompadour|Josephine;Empress Josephine
+his|4|Who am I? 1. I was born in Dublin. 2. A rubber boot is named after me. 3. I defeated Napoleon at Waterloo.|The Duke of Wellington|Lord Nelson;Gebhard von Blücher;Lord Raglan|Wellington;Arthur Wellesley;Duke of Wellington
+his|4|Who am I? 1. I lost my right arm at Santa Cruz de Tenerife. 2. My great love was Emma Hamilton. 3. I died winning the Battle of Trafalgar.|Horatio Nelson|The Duke of Wellington;Francis Drake;James Cook|Nelson;Lord Nelson;Admiral Nelson
+his|3|Who am I? 1. I was born an Austrian archduchess. 2. I probably never said "Let them eat cake". 3. I was guillotined in 1793.|Marie Antoinette|Catherine the Great;Joséphine;Maria Theresa
+# --- Tudors and royals ---
+his|3|Who am I? 1. The Pope named me "Defender of the Faith" before I broke with Rome. 2. I founded the Church of England to end my first marriage. 3. I had six wives.|Henry VIII|Henry VII;Edward VI;Charles I|Henry the Eighth;King Henry VIII
+his|4|Who am I? 1. I was crowned queen in 1533. 2. My daughter became Elizabeth I. 3. I was beheaded at the Tower of London in 1536.|Anne Boleyn|Catherine of Aragon;Jane Seymour;Catherine Howard|Boleyn
+his|3|Who am I? 1. I rallied my troops at Tilbury against the Spanish Armada. 2. I never married and was called the Virgin Queen. 3. My mother was Anne Boleyn.|Elizabeth I|Mary I;Victoria;Mary, Queen of Scots|Queen Elizabeth I;Elizabeth the First
+his|3|Who am I? 1. I became queen at 18. 2. I wore black for 40 years after my husband Albert died. 3. A whole British era is named after me.|Queen Victoria|Queen Anne;Elizabeth I;Queen Mary|Victoria
+his|4|Who am I? 1. I was born a German princess named Sophie. 2. I took the throne from my husband Peter III. 3. I'm Russia's longest-ruling empress.|Catherine the Great|Elizabeth of Russia;Anna Ivanovna;Alexandra Feodorovna|Catherine II
+his|4|Who am I? 1. I worked in disguise in a Dutch shipyard. 2. I put a tax on beards. 3. I founded St Petersburg.|Peter the Great|Ivan the Terrible;Nicholas II;Alexander I|Peter I
+# --- Leaders ---
+his|3|Who am I? 1. I won the Nobel Prize in Literature. 2. I escaped from a Boer prisoner-of-war camp. 3. I was Britain's Prime Minister in World War II.|Winston Churchill|Clement Attlee;Neville Chamberlain;Lord Kitchener|Churchill
+his|3|Who am I? 1. I trained as a land surveyor. 2. I crossed the icy Delaware River on Christmas night 1776. 3. I was the first US President.|George Washington|John Adams;Thomas Jefferson;Alexander Hamilton|Washington
+his|3|Who am I? 1. I invented bifocal glasses. 2. I flew a kite in a thunderstorm. 3. My face is on the US $100 bill.|Benjamin Franklin|Thomas Jefferson;Alexander Hamilton;John Hancock|Ben Franklin;Franklin
+his|4|Who am I? 1. I founded the University of Virginia. 2. I died on the same day as John Adams, 4 July 1826. 3. I wrote the Declaration of Independence.|Thomas Jefferson|James Madison;Benjamin Franklin;John Jay|Jefferson
+his|4|Who am I? 1. I won the Nobel Peace Prize for ending the Russo-Japanese War. 2. I gave an 84-minute speech after being shot in the chest. 3. The teddy bear is named after me.|Theodore Roosevelt|Franklin D. Roosevelt;William Taft;Woodrow Wilson|Teddy Roosevelt;Roosevelt
+his|3|Who am I? 1. I caught polio at age 39. 2. I promised Americans a "New Deal". 3. I was elected President four times.|Franklin D. Roosevelt|Theodore Roosevelt;Harry S. Truman;Herbert Hoover|FDR;Franklin Roosevelt;Roosevelt
+his|3|Who am I? 1. I visited China in 1972, opening relations. 2. I told reporters "I am not a crook." 3. I resigned over Watergate.|Richard Nixon|Gerald Ford;Spiro Agnew;Lyndon B. Johnson|Nixon
+his|3|Who am I? 1. I was a Hollywood actor and union president. 2. I survived being shot in 1981. 3. I said "Mr. Gorbachev, tear down this wall!"|Ronald Reagan|George H. W. Bush;Jimmy Carter;Gerald Ford|Reagan
+his|4|Who am I? 1. Pirates once kidnapped me for ransom. 2. I crossed the Rubicon with my army. 3. I was stabbed on the Ides of March.|Julius Caesar|Augustus;Mark Antony;Pompey|Caesar
+his|5|Who am I? 1. I fought against Caesar, but he pardoned me. 2. Shakespeare called me "the noblest Roman of them all". 3. "Et tu, ___?"|Brutus|Cassius;Mark Antony;Cicero|Marcus Brutus;Marcus Junius Brutus
+his|4|Who am I? 1. My birth name was Temüjin. 2. I founded the largest connected land empire in history. 3. I was the Great Khan of the Mongols.|Genghis Khan|Kublai Khan;Attila the Hun;Tamerlane|Chinggis Khan
+his|4|Who am I? 1. I trained to be a priest at a seminary in Tiflis. 2. My chosen name means "man of steel". 3. I led the Soviet Union through World War II.|Joseph Stalin|Vladimir Lenin;Leon Trotsky;Nikita Khrushchev|Stalin
+his|4|Who am I? 1. I travelled back to Russia in a sealed train in 1917. 2. My embalmed body lies in a mausoleum on Red Square. 3. I led the Bolshevik Revolution.|Vladimir Lenin|Joseph Stalin;Leon Trotsky;Karl Marx|Lenin
+his|4|Who am I? 1. I worked as a library assistant at Peking University. 2. I led the Long March. 3. My quotations fill the "Little Red Book".|Mao Zedong|Deng Xiaoping;Zhou Enlai;Chiang Kai-shek|Mao;Chairman Mao;Mao Tse-tung
+his|3|Who am I? 1. I was born Michael King Jr. 2. I won the Nobel Peace Prize in 1964. 3. I said "I have a dream".|Martin Luther King Jr.|Malcolm X;John Lewis;Jesse Jackson|Martin Luther King;MLK;Dr. King
+his|3|Who am I? 1. I was secretary of the Montgomery NAACP. 2. I was arrested on 1 December 1955. 3. I refused to give up my bus seat.|Rosa Parks|Harriet Tubman;Coretta Scott King;Ruby Bridges|Parks
+# --- Explorers, adventurers and thinkers ---
+his|3|Who am I? 1. I was born in Genoa. 2. My ships were the Niña, the Pinta and the Santa María. 3. I reached the Americas in 1492.|Christopher Columbus|Amerigo Vespucci;Ferdinand Magellan;Vasco da Gama|Columbus
+his|4|Who am I? 1. I dictated my travels while held in a Genoese prison. 2. I served the Mongol ruler Kublai Khan. 3. I was a merchant from Venice.|Marco Polo|Ibn Battuta;Vasco da Gama;Zheng He|Polo
+his|4|Who am I? 1. I worked as a nurse's aide in Toronto during World War I. 2. I was the first woman to fly solo across the Atlantic. 3. I vanished over the Pacific in 1937.|Amelia Earhart|Bessie Coleman;Amy Johnson;Jacqueline Cochran|Earhart
+his|4|Who am I? 1. My baby son was kidnapped in 1932. 2. My plane was the Spirit of St. Louis. 3. I made the first solo non-stop flight across the Atlantic.|Charles Lindbergh|Howard Hughes;Wiley Post;Chuck Yeager|Lindbergh
+his|4|Who am I? 1. I flew the X-15 rocket plane. 2. I commanded Gemini 8. 3. I was the first person to walk on the Moon.|Neil Armstrong|Buzz Aldrin;John Glenn;Michael Collins|Armstrong
+his|4|Who am I? 1. My mother's maiden name was Moon. 2. I took Communion on the lunar surface. 3. I was the second man to walk on the Moon.|Buzz Aldrin|Neil Armstrong;Michael Collins;Pete Conrad|Aldrin;Edwin Aldrin
+his|3|Who am I? 1. I was born Erik Weisz in Budapest. 2. I exposed fake spiritualists and mediums. 3. I was the world's most famous escape artist.|Harry Houdini|David Copperfield;Harry Blackstone;Howard Thurston|Houdini
+his|4|Who am I? 1. I hid in Wartburg Castle and translated the New Testament into German. 2. I was excommunicated in 1521. 3. I posted the Ninety-five Theses.|Martin Luther|John Calvin;Jan Hus;Erasmus|Luther
+sci|4|Who am I? 1. I was a canon of the Catholic Church in Poland. 2. My great book was printed as I lay dying in 1543. 3. I put the Sun, not the Earth, at the centre.|Nicolaus Copernicus|Galileo Galilei;Johannes Kepler;Tycho Brahe|Copernicus
+sci|3|Who am I? 1. I was partly deaf. 2. I set up a laboratory at Menlo Park. 3. I invented the phonograph and a practical light bulb.|Thomas Edison|Nikola Tesla;Alexander Graham Bell;George Westinghouse|Edison
+sci|3|Who am I? 1. I was born in a village in present-day Croatia. 2. I worked briefly for Thomas Edison. 3. An electric car company is named after me.|Nikola Tesla|Guglielmo Marconi;George Westinghouse;Michael Faraday|Tesla
+art|4|Who am I? 1. A rival sculptor broke my nose in a fight when I was young. 2. I painted the Sistine Chapel ceiling. 3. I carved the statue of David.|Michelangelo|Donatello;Raphael;Bernini|Michelangelo Buonarroti
+art|3|Who am I? 1. I toured Europe as a child prodigy. 2. My father Leopold was a violinist and composer too. 3. I wrote "The Magic Flute".|Wolfgang Amadeus Mozart|Ludwig van Beethoven;Joseph Haydn;Antonio Salieri|Mozart
