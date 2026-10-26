@@ -1,0 +1,71 @@
+# English expressions and idioms: what do they mean?
+art|1|What does the expression "break a leg" mean?|Good luck|Get hurt;Run away;Hurry up
+art|1|What does it mean to "spill the beans"?|Reveal a secret|Make a mess;Cook dinner;Waste money|Tell a secret
+art|1|What does "it's raining cats and dogs" mean?|It's raining very heavily|Pets are running loose;It's a light drizzle;A storm is over|Raining heavily;Heavy rain
+art|1|What does it mean to be "under the weather"?|Feeling ill|Feeling happy;Being outdoors;Being in trouble|Sick;Unwell;Feeling sick
+art|1|What does "a piece of cake" mean?|Something very easy|A small reward;A birthday treat;A tiny amount|Very easy;Easy
+art|1|What does it mean to "hit the sack"?|Go to bed|Start a fight;Get fired;Go shopping|Go to sleep
+art|2|What does it mean to "cost an arm and a leg"?|Be very expensive|Be very painful;Be cheap;Be dangerous|Very expensive;Expensive
+art|2|What does it mean to "let the cat out of the bag"?|Reveal a secret|Free a prisoner;Cause chaos;Go shopping|Tell a secret
+art|2|What does it mean to "bite the bullet"?|Face something unpleasant bravely|Eat too fast;Get shot;Lose an argument|Face it bravely;Do something difficult
+art|2|What does it mean to "hit the nail on the head"?|Be exactly right|Make a mistake;Work very hard;Hurt yourself|Be exactly correct;Exactly right
+art|2|What does it mean to be "on cloud nine"?|Extremely happy|Very confused;Daydreaming;Very tired|Very happy;Happy;Overjoyed
+art|2|What does it mean to "kick the bucket"?|Die|Get angry;Clean up;Start a business|To die
+art|2|What does it mean to "pull someone's leg"?|Joke with them|Trip them up;Help them;Ask a favour|Tease them;Tease;Joke
+art|2|What does "once in a blue moon" mean?|Very rarely|Every month;At night;Never|Rarely;Hardly ever
+art|2|What does it mean to "beat around the bush"?|Avoid getting to the point|Search everywhere;Work in a garden;Win easily|Avoid the point;Avoid the subject
+art|2|What does it mean to "get cold feet"?|Become nervous and back out|Catch a cold;Feel lonely;Go for a swim|Get nervous;Lose your nerve
+art|2|What does "the ball is in your court" mean?|It's your decision now|You've won the game;You're in trouble;It's time to play|It's your turn;Your move
+art|2|What does it mean to "cry over spilt milk"?|Be upset about something that can't be changed|Waste food;Be clumsy;Feel hungry|Regret the past
+art|2|What does it mean to "jump on the bandwagon"?|Join something because it's popular|Join a band;Go on a trip;Start a protest|Follow the crowd
+art|2|What does it mean to "burn the midnight oil"?|Work late into the night|Waste money;Start a fire;Have a party|Stay up late working
+art|2|What does it mean to have "a chip on your shoulder"?|Hold a grudge or resentment|Have a sore shoulder;Be very confident;Be hungry|Hold a grudge;Be resentful
+art|2|What does it mean to "throw in the towel"?|Give up|Start cleaning;Go swimming;Win easily|Quit;Surrender
+art|2|What does it mean when something is "the last straw"?|The final problem that makes you lose patience|The cheapest option;The last chance to win;A lucky break|The final straw
+art|2|What does "barking up the wrong tree" mean?|Looking in the wrong place or blaming the wrong person|Being too noisy;Climbing too high;Getting lost|Wrong idea;Mistaken
+art|2|What does it mean to "add insult to injury"?|Make a bad situation worse|Help someone heal;Apologise;Tell a joke|Make things worse
+art|3|What does it mean to "steal someone's thunder"?|Take credit or attention meant for them|Start a storm;Win an argument;Borrow their idea|Take their credit;Take the attention
+art|3|What does "a blessing in disguise" mean?|Something that seems bad but turns out good|A secret gift;A hidden danger;A lucky charm
+art|3|What does it mean to "bite off more than you can chew"?|Take on more than you can handle|Eat too much;Be greedy;Talk too much|Take on too much
+art|3|What does "Bob's your uncle" mean?|And there you have it|Ask a relative;That's a lie;It's a family secret|That's it;There you go
+art|3|What does it mean to "be in the same boat"?|Be in the same difficult situation|Go on holiday together;Work on a ship;Agree with someone|In the same situation
+art|3|What does it mean to "let sleeping dogs lie"?|Leave a situation alone to avoid trouble|Be lazy;Look after pets;Tell lies|Leave it alone;Don't stir up trouble
+art|3|What does it mean to "go the extra mile"?|Make more effort than expected|Travel too far;Get lost;Run a marathon|Make extra effort;Do more than expected
+art|3|What does "in hot water" mean?|In trouble|Taking a bath;Feeling relaxed;Cooking dinner|In trouble
+art|3|What does "the elephant in the room" mean?|An obvious problem nobody wants to talk about|A very large person;A secret plan;A surprise guest|Obvious problem;An obvious issue
+art|3|What does it mean to "sit on the fence"?|Avoid taking sides|Relax outdoors;Spy on neighbours;Wait patiently|Stay neutral;Not take sides
+art|3|What does it mean to "pass the buck"?|Shift the blame to someone else|Lend money;Win a bet;Hunt deer|Shift blame;Blame someone else
+art|3|What does "a penny for your thoughts" mean?|What are you thinking about?|You're very cheap;Pay me for advice;Your idea is worthless|What are you thinking
+art|3|What does it mean to be "long in the tooth"?|Old|Hungry;Tall;Rude|Getting old;Elderly
+art|3|What does it mean to "turn a blind eye"?|Deliberately ignore something|Fall asleep;Lose your sight;Look away in fear|Ignore it;Pretend not to see
+art|3|What does it mean to "spill the tea"?|Share gossip|Make a mess;Tell a lie;Host a party|Gossip
+art|3|What does "the whole nine yards" mean?|Everything; all of it|A long distance;A football play;A small amount|Everything;All of it
+art|4|What does it mean to "cut the mustard"?|Be good enough|Cook a meal;Save money;Make a fuss|Meet the standard;Good enough
+art|4|What does it mean to "mind your Ps and Qs"?|Mind your manners|Check your spelling;Count your money;Watch your step|Be polite;Behave
+art|4|What does "a red herring" mean?|A false clue meant to mislead|A rare fish;A warning sign;An embarrassing moment|False clue;A distraction
+art|4|What does it mean to "kill two birds with one stone"?|Solve two problems with one action|Be very lucky;Be cruel;Win twice|Do two things at once
+art|4|What does it mean to "eat humble pie"?|Admit you were wrong|Eat a cheap meal;Be modest about success;Go on a diet|Apologise;Admit a mistake
+art|4|What does it mean to "show your true colours"?|Reveal your real character|Wave a flag;Paint a picture;Change your mind|Reveal who you really are
+art|4|What does "close but no cigar" mean?|Nearly right, but not quite|Smoking isn't allowed;You won;Very far off|Almost;Nearly
+art|4|What does "flying off the handle" mean?|Losing your temper suddenly|Falling over;Leaving quickly;Breaking a tool|Losing your temper;Getting angry
+art|4|What does it mean to "jump the shark"?|Start declining by doing something absurd to keep attention|Take a big risk;Win easily;Go on holiday|Decline;Go downhill
+art|2|Which expression means "to reveal a secret"?|Let the cat out of the bag|Bite the bullet;Break the ice;Hit the sack
+art|2|Which expression means "to start a conversation in an awkward situation"?|Break the ice|Spill the beans;Cut corners;Bite the bullet
+art|2|Which expression means "to do something badly to save time or money"?|Cut corners|Cut the mustard;Break the ice;Go the extra mile
+art|2|Which expression means "it's your decision now"?|The ball is in your court|Back to square one;Call it a day;On the ball
+art|2|Which expression means "to stop working for the day"?|Call it a day|Hit the hay;Burn the midnight oil;Throw in the towel
+art|2|Which expression means "to start again from the beginning"?|Back to square one|Full steam ahead;Full circle;On the ball
+art|3|Which expression means "very alert and quick to understand"?|On the ball|On thin ice;On cloud nine;Off the hook
+art|3|Which expression means "free from blame or obligation"?|Off the hook|On the hook;In hot water;Out on a limb
+art|3|Which expression means "in a risky or dangerous situation"?|On thin ice|On the ball;In the bag;Over the moon
+art|3|Which expression means "very happy and delighted"?|Over the moon|Under the weather;Out of the blue;On thin ice|On cloud nine
+art|3|Which expression means "unexpectedly, without warning"?|Out of the blue|Once in a blue moon;Feeling blue;Blue-sky thinking
+art|3|Which expression means "an exact copy of a parent in looks or behaviour"?|A chip off the old block|The apple of my eye;A dark horse;A fish out of water|The apple doesn't fall far from the tree
+art|3|Which expression means "someone who feels uncomfortable in their surroundings"?|A fish out of water|A dark horse;A lone wolf;A sitting duck
+art|3|Which expression means "a little-known competitor who unexpectedly wins"?|A dark horse|A white elephant;A black sheep;A lame duck
+art|3|Which expression means "a family member seen as a disgrace"?|The black sheep|The dark horse;The white elephant;The odd duck|Black sheep
+art|4|Which expression means "a costly possession that is more trouble than it's worth"?|A white elephant|A red herring;A dark horse;A golden goose
+art|4|Which expression means "to give away something that brings steady profit"?|Kill the goose that lays the golden eggs|Count your chickens before they hatch;Cry wolf;Let sleeping dogs lie
+art|3|Which expression means "don't plan on something before it happens"?|Don't count your chickens before they hatch|Don't put all your eggs in one basket;Don't cry over spilt milk;Don't look a gift horse in the mouth
+art|3|Which expression means "don't risk everything on a single thing"?|Don't put all your eggs in one basket|Don't count your chickens before they hatch;Don't rock the boat;Don't burn your bridges
+art|4|Which expression means "don't be ungrateful for a present"?|Don't look a gift horse in the mouth|Don't bite the hand that feeds you;Beggars can't be choosers;Don't burn your bridges

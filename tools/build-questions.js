@@ -33,6 +33,8 @@ function fibEligible(q, a, hasChoices) {
   if (!hasChoices) return true;
   if (/which of (the|these)|which one of|of the following|following|\bnot\b|n't\b|except|\bnone\b|\ball of\b/i.test(q)) return false;
   if (/^(true|false|yes|no)$/i.test(a)) return false;
+  if (/^What does it mean to|^What does .* mean\?$|^Which expression means/i.test(q)) return false;   // idiom meanings: too wordy to type
+
   const words = a.trim().split(/\s+/).length;
   if (a.length > 32 || words > 5) return false;
   if (/[,;:]/.test(a) && !/^\d[\d,]*$/.test(a)) return false;
