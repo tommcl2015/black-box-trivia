@@ -1,0 +1,68 @@
+# Movie titles in other words: name the film from a synonym version of its title
+ent|2|Which film is "The Shadowy Cavalier" in other words?|The Dark Knight|The Dark Tower;Knight and Day;Dark Shadows|Dark Knight
+ent|1|Which film is "Chilled Solid" in other words?|Frozen|Ice Age;Cool Runnings;The Day After Tomorrow
+ent|2|Which film is "Ancient Era Amusement Grounds" in other words?|Jurassic Park|Ice Age;Night at the Museum;The Land Before Time
+ent|1|Which film is "The Monarch of the Lions" in other words?|The Lion King|The Jungle Book;Madagascar;Brother Bear|Lion King
+ent|2|Which film is "The Master of the Jewellery" in other words?|The Lord of the Rings|The Hobbit;The Lord of War;The Ring|Lord of the Rings
+ent|2|Which film is "Mandibles" in other words?|Jaws|Teeth;Alien;The Meg
+ent|2|Which film is "Returning to What's Ahead" in other words?|Back to the Future|Looper;Tenet;Interstellar
+ent|1|Which film is "Gigantic" in other words?|Titanic|Big;King Kong;Godzilla
+ent|1|Which film is "Skyward" in other words?|Up|Gravity;Top Gun;Airplane!
+ent|2|Which film is "Ebony Puma" in other words?|Black Panther|Black Widow;The Lion King;Catwoman
+ent|1|Which film is "Dwelling by Oneself" in other words?|Home Alone|Cast Away;The Shining;Panic Room
+ent|2|Which film is "Seeking a Missing Clownfish" in other words?|Finding Nemo|Shark Tale;The Little Mermaid;Finding Dory
+ent|1|Which film is "Plaything Tale" in other words?|Toy Story|Toy Soldiers;Small Soldiers;The Lego Movie
+ent|1|Which film is "Galactic Conflicts" in other words?|Star Wars|Star Trek;Space Jam;Independence Day
+ent|2|Which film is "Stellar Hike" in other words?|Star Trek|Star Wars;Interstellar;Galaxy Quest
+ent|2|Which film is "Poultry Getaway" in other words?|Chicken Run|The Great Escape;Chicken Little;Prison Break
+ent|3|Which film is "World of the Primates" in other words?|Planet of the Apes|King Kong;Gorillas in the Mist;The Jungle Book
+ent|3|Which film is "The Baptismal Patriarch" in other words?|The Godfather|The Patriot;Father of the Bride;The Departed|Godfather
+ent|3|Which film is "Mashed-Up Make-Believe" in other words?|Pulp Fiction|Fight Club;Inception;Big Fish
+ent|2|Which film is "Departed with the Breeze" in other words?|Gone with the Wind|Twister;Gone Girl;The Departed
+ent|2|Which film is "Crooning in the Downpour" in other words?|Singin' in the Rain|Purple Rain;Rain Man;Stormy Weather|Singing in the Rain
+ent|1|Which film is "Cruel Young Women" in other words?|Mean Girls|Bad Moms;Heathers;Little Women
+ent|2|Which film is "Perish with Difficulty" in other words?|Die Hard|Hard Target;Live Free;The Hard Way
+ent|2|Which film is "Speedy and Enraged" in other words?|The Fast and the Furious|Speed;Mad Max;Gone in 60 Seconds|Fast and Furious;Fast & Furious
+ent|1|Which film is "Attractive Lady" in other words?|Pretty Woman|Beautiful Girls;Miss Congeniality;My Fair Lady
+ent|2|Which film is "Rescuing Enlisted Man Ryan" in other words?|Saving Private Ryan|Saving Grace;Jack Ryan;Private Benjamin
+ent|3|Which film is "The Quietness of the Young Sheep" in other words?|The Silence of the Lambs|Babe;The Quiet Man;Silent Hill|Silence of the Lambs
+ent|1|Which film is "Phantom Smashers" in other words?|Ghostbusters|Ghost;Casper;The Haunting
+ent|2|Which film is "Dusk" in other words?|Twilight|Dawn;Nightfall;Sunset Boulevard
+ent|2|Which film is "The Famine Contests" in other words?|The Hunger Games|Squid Game;The Running Man;Battle Royale|Hunger Games
+ent|1|Which film is "Metal Guy" in other words?|Iron Man|Man of Steel;The Iron Giant;RoboCop
+ent|1|Which film is "Arachnid Guy" in other words?|Spider-Man|Ant-Man;Batman;The Fly|Spiderman
+ent|2|Which film is "Loveliness and the Monster" in other words?|Beauty and the Beast|King Kong;Shrek;The Shape of Water
+ent|2|Which film is "The Tiny Fish-Girl" in other words?|The Little Mermaid|Splash;Finding Nemo;Thumbelina|Little Mermaid
+ent|2|Which film is "Slumbering Stunner" in other words?|Sleeping Beauty|Snow White;Cinderella;Sleepless in Seattle
+ent|2|Which film is "Arena Combatant" in other words?|Gladiator|Spartacus;Ben-Hur;Troy
+ent|3|Which film is "Interior Exterior" in other words?|Inside Out|Inception;Upside Down;Turning Red
+ent|3|Which film is "Looters of the Misplaced Chest" in other words?|Raiders of the Lost Ark|Pirates of the Caribbean;Treasure Island;National Treasure
+ent|2|Which film is "Evening at the Gallery" in other words?|Night at the Museum|A Night at the Opera;Night School;Museum Hours
+ent|3|Which film is "Deceased Bards Club" in other words?|Dead Poets Society|The Breakfast Club;Dead Man Walking;Fight Club
+ent|3|Which film is "End of the World Immediately" in other words?|Apocalypse Now|Armageddon;2012;This Is the End
+ent|1|Which film is "Beasts, Incorporated" in other words?|Monsters, Inc.|Monster House;Monsters vs. Aliens;Zootopia|Monsters Inc
+ent|2|Which film is "The Unbelievables" in other words?|The Incredibles|The Avengers;Fantastic Four;Megamind|Incredibles
+ent|2|Which film is "Loathsome Myself" in other words?|Despicable Me|Megamind;Minions;Hotel Transylvania
+ent|3|Which film is "Release William" in other words?|Free Willy|Saving Grace;Liberty;Finding Dory
+ent|2|Which film is "Lubricant" in other words?|Grease|Oil;Footloose;Fame
+ent|2|Which film is "Velocity" in other words?|Speed|Rush;Drive;Cars
+ent|3|Which film is "Stony" in other words?|Rocky|Creed;Raging Bull;The Rock
+ent|1|Which film is "Automobiles" in other words?|Cars|Planes;Wheels;Speed
+ent|2|Which film is "Courageous" in other words?|Brave|Valiant;Fearless;Braveheart
+ent|2|Which film is "Knotted" in other words?|Tangled|Twisted;Tied;Braided
+ent|2|Which film is "Task: Unachievable" in other words?|Mission: Impossible|Impossible Mission;Tenet;The A-Team|Mission Impossible
+ent|2|Which film is "Buccaneers of the West Indies" in other words?|Pirates of the Caribbean|Captain Phillips;Hook;The Pirates! Band of Misfits
+ent|2|Which film is "Harold Pot-Maker and the Thinker's Pebble" in other words?|Harry Potter and the Philosopher's Stone|Harry Potter and the Chamber of Secrets;The Sorcerer's Apprentice;The Hobbit|Harry Potter and the Sorcerer's Stone;Harry Potter
+ent|2|Which film is "Slay William" in other words?|Kill Bill|Bill & Ted;Killing Eve;Kill the Messenger
+ent|3|Which film is "Water Tank Hounds" in other words?|Reservoir Dogs|Isle of Dogs;Water for Elephants;Hounds of Love
+ent|2|Which film is "The Noise of Melody" in other words?|The Sound of Music|Sound of Metal;School of Rock;Music and Lyrics
+ent|2|Which film is "A Bad Dream on Tree Road" in other words?|A Nightmare on Elm Street|Friday the 13th;The Birch;Sleepy Hollow
+ent|1|Which film is "Woodchuck Day" in other words?|Groundhog Day|Independence Day;Training Day;Ferris Bueller's Day Off
+ent|2|Which film is "The Ender" in other words?|The Terminator|The Finisher;Predator;The Exterminator|Terminator
+ent|2|Which film is "Ed Shears-Fingers" in other words?|Edward Scissorhands|Freddy Krueger;Wolverine;Beetlejuice
+ent|2|Which film is "Brawl Society" in other words?|Fight Club|Raging Bull;Warrior;The Fighter
+ent|3|Which film is "Gratitude for Tobacco Use" in other words?|Thank You for Smoking|Smoke;Up in Smoke;Thank You for Your Service
+ent|3|Which film is "Liberated Django" in other words?|Django Unchained|Django;The Hateful Eight;Inglourious Basterds
+ent|3|Which film is "A Timepiece Made of Citrus Fruit" in other words?|A Clockwork Orange|Orange County;The Time Machine;Clockwise
+ent|3|Which film is "Exasperated Elderly Gentlemen" in other words?|Grumpy Old Men|Up;The Bucket List;Gran Torino
+ent|3|Which film is "Insomniac in Seattle" in other words?|Sleepless in Seattle|Seattle Calling;You've Got Mail;While You Were Sleeping
