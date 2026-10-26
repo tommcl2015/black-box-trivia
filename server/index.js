@@ -52,7 +52,13 @@ app.get('/api/stats', (req, res) => {
   res.json({ total: textCount, pictures: pictureCount, byCat, rooms: rooms.size });
 });
 // leaderboard: top 10 per game length
-const clientIp = req => String(req.headers['x-forwarded-for'] || '').split(',')[0].trim() || req.ip || req.socket.remoteAddress || '';
+// The visitor's real address: Render's proxy appends it as the LAST X-Forwarded-For entry (earlier entries can be faked
+// by the browser). With 'trust proxy' = 1, req.ip is exactly that entry.
+const clientIp = req => req.ip || req.socket.remoteAddress || '';
+const socketIp = socket => {
+  const xff = String(socket.handshake.headers['x-forwarded-for'] || '').split(',').map(s => s.trim()).filter(Boolean);
+  return xff.length ? xff[xff.length - 1] : socket.handshake.address;
+};
 app.get('/api/leaderboard', (req, res) => res.set('Cache-Control', 'no-cache').json({ boards: LB.BOARDS, leaders: LB.list(), founder: LB.FOUNDER }));
 const lbHits = new Map();   // ip -> recent submission times (flood control)
 app.post('/api/leaderboard', express.json({ limit: '4kb' }), (req, res) => {
@@ -62,6 +68,16 @@ app.post('/api/leaderboard', express.json({ limit: '4kb' }), (req, res) => {
   hits.push(now); lbHits.set(ip, hits);
   const b = req.body || {};
   res.json({ placed: LB.submit(b.players, b.questions, ip, b.kind === 'pass' ? 'pass' : 'solo') });
+});
+// Remove a leaderboard entry (for rude or fake names). Only works when the LB_ADMIN_TOKEN setting is set on the server:
+//   curl -X POST https://blackboxtrivia.com/api/leaderboard/remove -H "x-admin-token: <token>" -H "content-type: application/json" -d '{"board":10,"rank":3}'
+const ADMIN_TOKEN = String(process.env.LB_ADMIN_TOKEN || '');
+app.post('/api/leaderboard/remove', express.json({ limit: '1kb' }), (req, res) => {
+  const given = Buffer.from(String(req.get('x-admin-token') || '')), want = Buffer.from(ADMIN_TOKEN);
+  if (ADMIN_TOKEN.length < 16 || given.length !== want.length || !crypto.timingSafeEqual(given, want)) return res.status(403).json({ ok: false });
+  const b = req.body || {};
+  const removed = LB.remove(Number(b.board), Number(b.rank));
+  res.json({ ok: !!removed, removed: removed || null, leaders: LB.list() });
 });
 setInterval(() => { const now = Date.now(); for (const [ip, h] of lbHits) if (!h.some(t => now - t < 3600e3)) lbHits.delete(ip); }, 600e3).unref();
 // solo play: client fetches the bank once and runs the engine locally (no server load)
@@ -92,6 +108,7 @@ function makeRoom() {
   if (!code) return null;
   const room = new Room(code, {
     picker,
+    cleanText: t => LB.cleanText(t),
     emit: (target, event, payload) => {
       if (target === null) io.to('room:' + code).emit(event, payload);
       else io.to('p:' + target).emit(event, payload);
@@ -153,7 +170,7 @@ io.on('connection', socket => {
     if (!res.ok) return ack && ack(res);
     session = { pid, code: r.code };
     tokens.set(token, session);
-    playerIps.set(pid, String(socket.handshake.headers['x-forwarded-for'] || '').split(',')[0].trim() || socket.handshake.address);
+    playerIps.set(pid, socketIp(socket));
     socket.join('room:' + r.code); socket.join('p:' + pid);
     r.lastActive = Date.now();
     ack && ack({ ok: true, code: r.code, you: pid });

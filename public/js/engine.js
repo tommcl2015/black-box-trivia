@@ -180,6 +180,7 @@
       this.clearTimeout = opts.clearTimeout || (t => clearTimeout(t));
       this.now = opts.now || (() => Date.now());
       this.rnd = opts.random || Math.random;
+      this.cleanText = opts.cleanText || (s => s);   // server passes a rude-word filter for typed answers shown to the room
       this.players = new Map();       // id -> player
       this.order = [];                // join order of ids
       this.hostId = null;
@@ -381,7 +382,7 @@
       } else {
         text = String((data && data.text) || '').slice(0, 80);
         correct = Match.isCorrect(text, c.q.a, c.q.alt, this.picker.known);
-        p.answer = { text, correct, ms };
+        p.answer = { text: this.cleanText(text), correct, ms };
       }
       this.emit(id, 'answerAck', { received: true });
       this.broadcastRoom();

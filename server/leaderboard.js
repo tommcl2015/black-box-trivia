@@ -23,6 +23,14 @@ const COUNTRIES = (() => { try { return require('../data/countries.json'); } cat
 const matcher = new RegExpMatcher({ ...englishDataset.build(), ...englishRecommendedTransformers });
 const censor = new TextCensor();          // replaces rude words with symbols, e.g. "#@$%"
 
+// Any player-typed text shown to other people (e.g. fill-in answers at the reveal): rude words become symbols.
+function cleanText(text, max = 80) {
+  let t = String(text || '').replace(/[\u0000-\u001f]/g, '').slice(0, max);
+  const hits = matcher.getAllMatches(t);
+  if (hits.length) t = censor.applyTo(t, hits);
+  return t;
+}
+
 function cleanName(name) {
   let n = String(name || '').replace(/[\u0000-\u001f<>]/g, '').replace(/\s+/g, ' ').trim().slice(0, 16) || 'Player';
   const hits = matcher.getAllMatches(n);
@@ -92,12 +100,17 @@ function storage() {
   let writable = false;
   try { fs.mkdirSync(path.dirname(FILE), { recursive: true }); fs.accessSync(path.dirname(FILE), fs.constants.W_OK); writable = true; } catch (e) {}
   let disk = false; try { fs.accessSync('/var/data', fs.constants.W_OK); disk = true; } catch (e) {}
-  return { file: FILE, configured: !!process.env.LEADERBOARD_FILE, writable, saved: fs.existsSync(FILE), diskAtVarData: disk };
+  return { persistent: disk || !!process.env.LEADERBOARD_FILE, writable, saved: fs.existsSync(FILE) };
 }
 
 // Pinned above every board; not a score, so it never pushes anyone out of the top 10.
 const FOUNDER = { name: 'Tom M', title: 'Founder', country: { code: 'CA', name: 'Canada', flag: (COUNTRIES.CA && COUNTRIES.CA.flag) || null } };
 
+function remove(board, rank) {
+  if (!BOARDS.includes(board) || !(rank >= 1 && rank <= data[board].length)) return null;
+  const [row] = data[board].splice(rank - 1, 1); save(); return row;
+}
+
 function list() { const o = {}; for (const b of BOARDS) o[b] = data[b]; return o; }
 
-module.exports = { FOUNDER, BOARDS, KEEP, cleanName, submit, list, qualifies, storage, _reset() { data = load(); BOARDS.forEach(b => data[b] = []); } };
+module.exports = { FOUNDER, BOARDS, KEEP, cleanName, cleanText, submit, remove, list, qualifies, storage, _reset() { data = load(); BOARDS.forEach(b => data[b] = []); } };
