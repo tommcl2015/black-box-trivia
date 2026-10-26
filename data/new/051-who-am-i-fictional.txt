@@ -1,0 +1,55 @@
+# Who am I? Fictional characters, three clues, hardest first
+ent|2|Who am I? 1. I grew up on a moisture farm with my aunt and uncle. 2. I lost my right hand in a lightsaber duel. 3. I destroyed the first Death Star.|Luke Skywalker|Han Solo;Anakin Skywalker;Obi-Wan Kenobi|Luke
+ent|2|Who am I? 1. I was a slave boy on Tatooine. 2. I breathe through a black mask. 3. I told Luke I'm his father.|Darth Vader|Emperor Palpatine;Kylo Ren;Boba Fett|Vader;Anakin Skywalker
+ent|2|Who am I? 1. I'm a New York cop visiting my wife in Los Angeles. 2. I fought terrorists in Nakatomi Plaza in bare feet. 3. My catchphrase starts "Yippee-ki-yay".|John McClane|Martin Riggs;John Rambo;Axel Foley|McClane
+ent|2|Who am I? 1. I talk to my psychiatrist, Dr. Melfi. 2. I got upset when the ducks left my pool. 3. I'm a New Jersey mob boss.|Tony Soprano|Michael Corleone;Nucky Thompson;Henry Hill|Tony
+art|1|Who am I? 1. I play the violin and keep bees when I retire. 2. My arch-enemy is Professor Moriarty. 3. I live at 221B Baker Street.|Sherlock Holmes|Hercule Poirot;Dr. Watson;Inspector Lestrade|Sherlock;Holmes
+ent|1|Who am I? 1. I hold the rank of Commander in the Royal Navy. 2. My boss is called M. 3. I like my martini shaken, not stirred.|James Bond|Jason Bourne;Ethan Hunt;Jack Ryan|Bond;007
+ent|1|Who am I? 1. I teach archaeology at a college. 2. I hate snakes. 3. I carry a bullwhip and wear a fedora.|Indiana Jones|Allan Quatermain;Lara Croft;Rick O'Connell|Indy
+ent|3|Who am I? 1. I'm a brilliant psychiatrist. 2. I help FBI trainee Clarice Starling. 3. I enjoy fava beans and a nice Chianti.|Hannibal Lecter|Norman Bates;Buffalo Bill;Jack Torrance|Hannibal;Dr. Lecter
+ent|1|Who am I? 1. I played ping-pong in China. 2. I ran back and forth across America. 3. My mama said life is like a box of chocolates.|Forrest Gump|Benjamin Button;Rain Man;Jerry Maguire|Forrest
+ent|2|Who am I? 1. I was a debt collector before I boxed. 2. I run up the museum steps in Philadelphia. 3. I shouted "Yo, Adrian!"|Rocky Balboa|Apollo Creed;Jake LaMotta;Ivan Drago|Rocky
+ent|1|Who am I? 1. I play guitar in a high-school band. 2. My best friend is a scientist called Doc. 3. I travelled back to 1955 in a DeLorean.|Marty McFly|Doc Brown;Biff Tannen;Ferris Bueller|Marty
+ent|2|Who am I? 1. I faked being sick to skip school. 2. I sang "Twist and Shout" on a parade float in Chicago. 3. My day off is famous.|Ferris Bueller|Marty McFly;Cameron Frye;John Bender|Ferris
+ent|3|Who am I? 1. I was a warrant officer on the Nostromo. 2. I fought a monster with a power loader. 3. I battled the Xenomorph in "Alien".|Ellen Ripley|Sarah Connor;Clarice Starling;Laurie Strode|Ripley
+ent|1|Who am I? 1. I'm a captain, though not everyone believes it. 2. My ship is the Black Pearl. 3. I was played by Johnny Depp.|Jack Sparrow|Hector Barbossa;Davy Jones;Will Turner|Captain Jack Sparrow
+art|3|Who am I? 1. I throw lavish parties on Long Island. 2. I stare across the water at a green light. 3. I'm "The Great" one in F. Scott Fitzgerald's novel.|Jay Gatsby|Nick Carraway;Tom Buchanan;Holden Caulfield|Gatsby
+art|3|Who am I? 1. I'm a lawyer in Maycomb, Alabama. 2. My children are Scout and Jem. 3. I defend Tom Robinson in court.|Atticus Finch|Boo Radley;Bob Ewell;Tom Robinson|Atticus
+art|4|Who am I? 1. I was kicked out of Pencey Prep. 2. I wonder where the Central Park ducks go in winter. 3. I narrate "The Catcher in the Rye".|Holden Caulfield|Jay Gatsby;Dean Moriarty;Huckleberry Finn|Holden
+art|3|Who am I? 1. I have a leg made from whalebone. 2. I command the Pequod. 3. I hunt the white whale Moby Dick.|Captain Ahab|Captain Nemo;Captain Hook;Ishmael|Ahab
+art|2|Who am I? 1. My late business partner was Jacob Marley. 2. Three ghosts visit me on Christmas Eve. 3. I say "Bah! Humbug!"|Ebenezer Scrooge|Bob Cratchit;The Grinch;Tiny Tim|Scrooge
+art|2|Who am I? 1. I live in a castle in Transylvania. 2. I sail to England on the ship Demeter. 3. I'm Bram Stoker's famous vampire.|Count Dracula|Nosferatu;Lestat;Van Helsing|Dracula
+art|4|Who am I? 1. I'm a young Swiss student of science. 2. I build a living creature from body parts. 3. People often give my name to my monster.|Victor Frankenstein|Henry Jekyll;Dr. Moreau;Igor|Frankenstein;Dr. Frankenstein
+ent|2|Who am I? 1. I'm a high school chemistry teacher. 2. I wear a pork-pie hat. 3. I call myself Heisenberg.|Walter White|Jesse Pinkman;Saul Goodman;Gus Fring|Walt
+ent|2|Who am I? 1. I'm a regional manager in Scranton. 2. I host the Dundies. 3. I say "That's what she said!"|Michael Scott|Dwight Schrute;David Brent;Jim Halpert|Michael
+ent|3|Who am I? 1. I hang out at Arnold's diner. 2. I once jumped a shark on water skis. 3. I say "Ayyy!" in a leather jacket.|The Fonz|Danny Zuko;Potsie;Richie Cunningham|Fonzie;Arthur Fonzarelli;Fonz
+ent|1|Who am I? 1. I arrive on the east wind. 2. My carpet bag is bottomless. 3. A spoonful of sugar helps the medicine go down.|Mary Poppins|Nanny McPhee;Maria von Trapp;Glinda|Poppins
+ent|1|Who am I? 1. My workers are called Oompa-Loompas. 2. I hid five Golden Tickets. 3. I own a chocolate factory.|Willy Wonka|Charlie Bucket;Augustus Gloop;Grandpa Joe|Wonka
+ent|1|Who am I? 1. My parents were killed outside a theatre. 2. My butler is Alfred. 3. I protect Gotham City.|Batman|Superman;Robin;The Joker|Bruce Wayne
+ent|1|Who am I? 1. I was sent to Earth from a dying planet. 2. Kryptonite makes me weak. 3. I disguise myself with glasses as Clark Kent.|Superman|Batman;Captain America;Thor|Clark Kent;Kal-El
+ent|2|Who am I? 1. I'm an Amazon princess from Themyscira. 2. I carry the Lasso of Truth. 3. My name is Diana.|Wonder Woman|Supergirl;Black Widow;Catwoman|Diana Prince
+ent|2|Who am I? 1. I was born in Iowa. 2. I command the starship Enterprise. 3. My first officer is Spock.|Captain Kirk|Captain Picard;Han Solo;Captain Janeway|James T. Kirk;Kirk;James Kirk
+art|1|Who am I? 1. I lived in a cupboard under the stairs. 2. I can talk to snakes. 3. I have a lightning-bolt scar.|Harry Potter|Ron Weasley;Neville Longbottom;Draco Malfoy|Harry
+art|2|Who am I? 1. My parents are dentists. 2. I used a Time-Turner to take extra classes. 3. I'm the cleverest witch of my age.|Hermione Granger|Ginny Weasley;Luna Lovegood;Cho Chang|Hermione
+art|2|Who am I? 1. The Elves call me Mithrandir. 2. I fought a Balrog. 3. I shouted "You shall not pass!"|Gandalf|Saruman;Elrond;Dumbledore|Gandalf the Grey
+art|2|Who am I? 1. My cousin Bilbo raised me. 2. I live at Bag End. 3. I carry the One Ring to Mordor.|Frodo Baggins|Samwise Gamgee;Bilbo Baggins;Pippin|Frodo
+art|2|Who am I? 1. I'm from District 12. 2. I volunteered in place of my sister Prim. 3. I'm known as the Mockingjay.|Katniss Everdeen|Tris Prior;Hermione Granger;Hazel Grace|Katniss
+ent|1|Who am I? 1. I'm from Kansas. 2. My house landed on a witch. 3. My little dog is called Toto.|Dorothy Gale|Alice;Wendy Darling;Glinda|Dorothy
+art|1|Who am I? 1. My shadow came loose and Wendy sewed it back on. 2. My enemy is Captain Hook. 3. I never grow up.|Peter Pan|Tinker Bell;Pinocchio;Christopher Robin|Peter
+art|2|Who am I? 1. I'm Belgian. 2. I rely on my "little grey cells". 3. I solved the murder on the Orient Express.|Hercule Poirot|Sherlock Holmes;Inspector Clouseau;Miss Marple|Poirot
+art|3|Who am I? 1. I live in the village of St Mary Mead. 2. I'm an elderly spinster who knits. 3. I'm Agatha Christie's lady detective.|Miss Marple|Jessica Fletcher;Nancy Drew;Mrs Hudson|Jane Marple;Marple
+art|2|Who am I? 1. My father was Lord Greystoke. 2. I was raised by apes. 3. I swing through the jungle with Jane.|Tarzan|Mowgli;King Kong;George of the Jungle|John Clayton
+art|1|Who am I? 1. My love is Maid Marian. 2. My enemy is the Sheriff of Nottingham. 3. I rob from the rich to give to the poor.|Robin Hood|Little John;King Arthur;Zorro|Robin of Locksley
+ent|3|Who am I? 1. I came to America from Corleone in Sicily. 2. I was shot while buying oranges. 3. I make offers people can't refuse.|Vito Corleone|Michael Corleone;Tony Soprano;Tony Montana|Don Corleone;The Godfather;Don Vito Corleone
+ent|4|Who am I? 1. I run a nightclub in Morocco. 2. I once loved Ilsa in Paris. 3. I say "Here's looking at you, kid".|Rick Blaine|Sam;Victor Laszlo;Sam Spade|Rick
+ent|3|Who am I? 1. I run a quiet motel off the main road. 2. I'm very attached to my mother. 3. I'm the killer in Hitchcock's "Psycho".|Norman Bates|Hannibal Lecter;Jack Torrance;Michael Myers|Norman
+ent|3|Who am I? 1. I'm a writer who takes a winter caretaker job. 2. I stay at the Overlook Hotel. 3. I smash through a door shouting "Here's Johnny!"|Jack Torrance|Norman Bates;Annie Wilkes;Freddy Krueger|Jack
+ent|3|Who am I? 1. I'm a sorority girl from California. 2. I get into Harvard Law School. 3. My chihuahua is called Bruiser.|Elle Woods|Cher Horowitz;Regina George;Andy Sachs|Elle
+ent|2|Who am I? 1. I wake up in the sea with no memory. 2. I'm a CIA-trained assassin. 3. Matt Damon plays me.|Jason Bourne|Ethan Hunt;Jack Reacher;James Bond|Bourne
+spo|2|Who am I? 1. I'm an English aristocrat. 2. I explore ancient ruins with two pistols. 3. I'm the "Tomb Raider".|Lara Croft|Nathan Drake;Indiana Jones;Samus Aran|Lara
+spo|1|Who am I? 1. I'm a plumber. 2. My brother is Luigi. 3. I keep rescuing Princess Peach.|Mario|Wario;Toad;Link|Super Mario
+spo|1|Who am I? 1. My best friend is a two-tailed fox. 2. I collect gold rings. 3. I'm a very fast blue hedgehog.|Sonic|Knuckles;Shadow;Crash Bandicoot|Sonic the Hedgehog
+ent|2|Who am I? 1. I graduated from MIT at 17. 2. I built my first suit in a cave. 3. I announced "I am Iron Man".|Tony Stark|Bruce Banner;Steve Rogers;Bruce Wayne|Iron Man
+ent|2|Who am I? 1. I ran out on my wedding in a wet dress. 2. I worked at Central Perk, then Ralph Lauren. 3. Ross and I were "on a break".|Rachel Green|Monica Geller;Phoebe Buffay;Emily Waltham|Rachel
+ent|3|Who am I? 1. I'm a radio psychiatrist in Seattle. 2. My brother Niles is also a psychiatrist. 3. I answer callers with "I'm listening".|Frasier Crane|Niles Crane;Sam Malone;Dr. Melfi|Frasier
+art|3|Who am I? 1. I grew up on the Tara plantation. 2. I married Rhett Butler. 3. I say "Tomorrow is another day".|Scarlett O'Hara|Melanie Wilkes;Blanche DuBois;Elizabeth Bennet|Scarlett
