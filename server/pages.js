@@ -6,7 +6,7 @@ const path = require('path');
 const CATS = { geo: 'Geography', ent: 'Entertainment', his: 'History', art: 'Arts & Literature', sci: 'Science & Nature', spo: 'Sports & Leisure' };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank, pictureCount, leaderboard, version }) {
+module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseClient, gaId, bank, allBank, pictureCount, leaderboard, version }) {
   const gaHead = gaId
     ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(gaId)}"></script>\n  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(gaId)}');</script>\n  `
     : '';
@@ -27,12 +27,14 @@ module.exports = function pages(app, { siteName, siteUrl, contactEmail, adsenseC
     return cache.get(file);
   };
   const send = file => (req, res) => res.type('html').set('Cache-Control', 'no-cache').send(withHead(file));
-  app.get(['/', '/index.html'], send('index.html'));
+  let library = null;   // set below, once the page template exists
+  const home = () => withHead('index.html').replace('<div class="foot" id="foot"></div>', `${library ? library.homeLinks : ''}\n    <div class="foot" id="foot">${foot.replace(/^<div class="foot">|<\/div>$/g, '')}</div>`);
+  app.get(['/', '/index.html'], (req, res) => res.type('html').set('Cache-Control', 'no-cache').send(home()));
   app.get(['/privacy', '/privacy.html'], send('privacy.html'));
 
   const nav = `<nav class="menubar"><div class="menu"><a class="mb-link" href="/">◀ Play ${esc(siteName)}</a></div></nav>`;
   const COPY_YEARS = '2026' + (new Date().getFullYear() > 2026 ? '–' + new Date().getFullYear() : '');
-  const foot = `<div class="foot"><a href="/">Play</a> <span>·</span> <a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a><div class="copy"><span>© ${COPY_YEARS} Black Box Trivia. All rights reserved.</span></div></div>`;
+  const foot = `<div class="foot"><a href="/">Play</a> <span>·</span> <a href="/daily-quiz">Daily quiz</a> <span>·</span> <a href="/trivia">Trivia library</a> <span>·</span> <a href="/picture-quiz">Picture quizzes</a> <span>·</span> <a href="/guides">Guides</a> <span>·</span> <a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a><div class="copy"><span>© ${COPY_YEARS} Black Box Trivia. All rights reserved.</span></div></div>`;
   const page = (slug, title, desc, body) => `<!doctype html>
 <html lang="en">
 <head>
@@ -144,9 +146,11 @@ ${body}
   };
   for (const [slug, body] of Object.entries(html)) app.get([`/${slug}`, `/${slug}.html`], (req, res) => res.type('html').set('Cache-Control', 'no-cache').send(slug === 'about' ? body.replace('<!--LEADERBOARD-->', lbHtml()) : body));
 
+  library = require('./content.js')(app, { page, esc, bank: allBank || bank, siteName });
+
   app.get('/robots.txt', (req, res) => res.type('text/plain').send(`User-agent: *\nAllow: /\nDisallow: /api/\nSitemap: ${siteUrl}/sitemap.xml\n`));
   app.get('/sitemap.xml', (req, res) => {
-    const urls = ['', '/how-to-play', '/sample-questions', '/about', '/contact', '/privacy'];
+    const urls = ['', '/how-to-play', '/sample-questions', '/about', '/contact', '/privacy', ...library.urls, ...library.dailyUrls()];
     res.type('application/xml').send(`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `  <url><loc>${siteUrl}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
   });
 };

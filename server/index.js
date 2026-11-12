@@ -84,7 +84,7 @@ setInterval(() => { const now = Date.now(); for (const [ip, h] of lbHits) if (!h
 app.get('/api/questions', (req, res) => {
   res.set('Cache-Control', 'public, max-age=3600').json(bank);
 });
-require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank: bank.filter(q => !q.img), pictureCount, leaderboard: LB, version: VERSION });
+require('./pages.js')(app, { siteName: SITE_NAME, siteUrl: SITE_URL, contactEmail: CONTACT_EMAIL, adsenseClient: ADSENSE_CLIENT, gaId: GA_ID, bank: bank.filter(q => !q.img), allBank: bank, pictureCount, leaderboard: LB, version: VERSION });
 app.use(express.static(path.join(__dirname, '..', 'public'), { maxAge: '1h', extensions: ['html'] }));
 
 const server = http.createServer(app);

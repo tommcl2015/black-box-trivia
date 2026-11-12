@@ -650,7 +650,7 @@
   function setStatus(txt) { const el = $('#mbStatus'); if (el && txt) el.textContent = txt; else if (el) renderMenubar(); }
 
   function renderFoot() {
-    $('#foot').innerHTML = `<a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a><div class="copy"><span>© 2026${new Date().getFullYear() > 2026 ? '–' + new Date().getFullYear() : ''} Black Box Trivia. All rights reserved.</span></div>`;
+    $('#foot').innerHTML = `<a href="/daily-quiz">Daily quiz</a> <span>·</span> <a href="/trivia">Trivia library</a> <span>·</span> <a href="/picture-quiz">Picture quizzes</a> <span>·</span> <a href="/guides">Guides</a> <span>·</span> <a href="/how-to-play">How to play</a> <span>·</span> <a href="/sample-questions">Sample questions</a> <span>·</span> <a href="/about">About</a> <span>·</span> <a href="/contact">Contact</a> <span>·</span> <a href="/privacy">Privacy</a><div class="copy"><span>© 2026${new Date().getFullYear() > 2026 ? '–' + new Date().getFullYear() : ''} Black Box Trivia. All rights reserved.</span></div>`;
     $('#deskIcons').innerHTML = `<button class="desk-icon" data-act="help">${Art.icon('doc')}<span>Read Me</span></button>
       <button class="desk-icon" data-act="trash">${Art.icon('trash')}<span>Trash</span></button>`;
   }

@@ -371,3 +371,21 @@ table.lb.founder .muted { font-weight: normal; font-size: 12px; }
 @media (max-width: 480px) { table.lb.founder .ctry span { display: inline; } }
 
 .foot .copy { display: block; flex-basis: 100%; width: 100%; margin-top: 4px; text-align: center; }
+
+/* ---- trivia library pages ---- */
+.crumbs { font-size: 12px; margin: 0 0 8px; }
+.dyk { border: 2px solid #000; box-shadow: 3px 3px 0 #000; padding: 4px 12px 8px; margin: 12px 0 16px; background: #fff; }
+.dyk h3 { margin: 6px 0 4px; }
+.tq-list, .pq-list { padding-left: 24px; }
+.tq-item, .pq-item { margin: 0 0 14px; }
+.tq { margin: 0 0 4px; }
+.tq-opts { margin: 0 0 2px; font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.pq-item img { display: block; width: 192px; height: 128px; image-rendering: pixelated; image-rendering: crisp-edges; border: 2px solid #000; box-shadow: 3px 3px 0 #000; margin: 4px 0 8px; background: #fff; }
+.pq-hub { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.pq-hub a { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; text-decoration: none; color: #000; }
+.pq-hub img { width: 144px; height: 96px; image-rendering: pixelated; image-rendering: crisp-edges; border: 2px solid #000; background: #fff; }
+.pq-hub span { text-decoration: underline; font-size: 13px; }
+.library-links { max-width: 600px; margin: 16px auto 0; padding: 6px 14px 8px; text-align: center; font-size: 13px; background: #fff; border: 2px solid #000; box-shadow: 3px 3px 0 #000; }
+@media (max-width: 640px) { .library-links { margin: 16px 12px 0; } }
+.library-links h2 { font-size: 15px; margin: 8px 0 4px; }
+.library-links p { margin: 4px 0; }
